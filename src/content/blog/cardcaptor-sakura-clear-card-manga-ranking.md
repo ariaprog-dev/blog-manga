@@ -68,12 +68,12 @@ sidebarProducts:
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%25B0%258F%25E8%25AA%25AC%2520%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%2520%25E3%2582%25AB%25E3%2583%25BC%25E3%2583%2589%25E3%2582%25AD%25E3%2583%25A3%25E3%2583%2597%25E3%2582%25BF%25E3%2583%25BC%25E3%2581%2595%25E3%2581%258F%25E3%2582%2589" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値をチェック（Kindle即時配信・紙版）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%25B0%258F%25E8%25AA%25AC%2520%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%2520%25E3%2582%25AB%25E3%2583%25BC%25E3%2583%2589%25E3%2582%25AD%25E3%2583%25A3%25E3%2583%2597%25E3%2582%25BF%25E3%2583%25BC%25E3%2581%2595%25E3%2581%258F%25E3%2582%2589" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（Kindle・紙版）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
-<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F794387%2Fb900skds02906%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E5%25B0%258F%25E8%25AA%25AC%2520%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%2520%25E3%2582%25AB%25E3%2583%25BC%25E3%2583%2589%25E3%2582%25AD%25E3%2583%25A3%25E3%2583%2597%25E3%2582%25BF%25E3%2583%25BC%25E3%2581%2595%25E3%2581%258F%25E3%2582%2589" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
-<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F794387%2Fb900skds02906%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMMで見る（限定特典・配信）</a>
-<a href="https://px.a8.net/svt/ejp?a8mat=4B8BWQ+57JKC2+1892+6QEUP" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #059669, #047857); color: #ffffff !important;">📚 全巻セット（漫画全巻ドットコム）</a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E5%B0%8F%E8%AA%AC%20%E3%82%A2%E3%83%8B%E3%83%A1%20%E3%82%AB%E3%83%BC%E3%83%89%E3%82%AD%E3%83%A3%E3%83%97%E3%82%BF%E3%83%BC%E3%81%95%E3%81%8F%E3%82%89%2F" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E5%25B0%258F%25E8%25AA%25AC%2520%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%2520%25E3%2582%25AB%25E3%2583%25BC%25E3%2583%2589%25E3%2582%25AD%25E3%2583%25A3%25E3%2583%2597%25E3%2582%25BF%25E3%2583%25BC%25E3%2581%2595%25E3%2581%258F%25E3%2582%2589" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F794387%2Fb900skds02906%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMMで見る（限定特典・配信）</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4B8BWQ+57JKC2+1892+6QEUP" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #059669, #047857); color: #ffffff !important;">📚 全巻セット（漫画全巻ドットコム）</a>
 </div>
 </div>
 </div>
@@ -142,7 +142,7 @@ sidebarProducts:
 * <strong>プレート付きトランプ＆オリジナルジュエリーポーチ</strong>
 など、ファンなら喉から手が出るほど欲しい至高のコレクターズアイテムが勢揃いしている。
 
-価格は1冊あたり約2,000円〜3,500円前後と通常版よりも高価であり、発売から時間が経つと書店店頭から姿を消してプレミア化するケースが多い。しかし、ファンブックとしての価値やグッズの質感は妥協のない超一級品。「完結した今だからこそ、特別な形でさくらを手元に迎い入れたい」という熱心なファンには、間違いなく満足感の高い選択肢だ。
+価格は1冊あたり約2,000円〜3,500円前後と通常版よりも高価であり、発売から時間が経つと書店店頭から姿を消してプレミア化するケースが多い。しかし、ファンブックとしての価値やグッズの質感は妥協のない超一級品である。「完結した今だからこそ、特別な形でさくらを手元に迎い入れたい」という熱心なファンには、満足度の高い選択肢となる。
 
 【商品基本スペック】
 | 項目 | 詳細スペック |
@@ -164,7 +164,7 @@ sidebarProducts:
 
 漫画を読んだ後であっても、「あの時、彼女はこんな切ない思いを胸に秘めて微笑んでいたのか」という新たな発見があり、物語の世界観を何倍にも深く掘り下げることができる。
 
-美麗な漫画のイラストを追いたい人にはテキストのみの構成が少し硬く感じられるかもしれないが、朝の読書時間や移動中の活字本として、CLAMPの優しい魔法の言葉に包まれたい読者には隠れた名作として強くおすすめできる。
+美麗な漫画のイラストを追いたい人にはテキストのみの構成が少し硬く感じられるかもしれないが、朝の読書時間や移動中の活字本として、CLAMPの優しい魔法の言葉に包まれたい読者には隠れた名作として強く適している。
 
 【商品基本スペック】
 | 項目 | 詳細スペック |
@@ -212,7 +212,7 @@ sidebarProducts:
 
 ## 初めて揃える人が直面するリアルな注意点と工夫
 
-筆者が実際に『クリアカード編』を収集する中で痛感した、後悔しないためのちょっとした注意点を共有したい。
+『クリアカード編』を収集する上で、後悔しないための注意点がある。
 
 1. <strong>特装版と通常版の買い分け</strong>: すべてを特装版で揃えようとすると、過去の巻（特に初期の特装版）はプレミア価格がついており、全巻揃えるハードルが跳ね上がる。賢い買い方は、「物語を一気に読みたい全16巻はDMMブックス等の電子書籍で安く揃え、最も思い入れのある最終第16巻や推しのアクスタが付いた特定の巻だけを紙の特装版で手元に残す」というハイブリッド戦略だ。
 2. <strong>前作との絵柄の深化</strong>: 1990年代の前作と比べると、CLAMP先生のデジタル技術の導入により、線の繊細さと光のグラデーションが格段に進化している。最初は前作のセル画風のくっきりしたタッチとの違いに少し驚くかもしれないが、3巻あたりまで読み進めると、その美麗なファンタジー世界から抜け出せなくなるはずだ。
@@ -222,7 +222,7 @@ sidebarProducts:
 ### よくある質問（Q&A 3問）
 
 <strong>Q1: 前作「クロウカード編・さくらカード編」を読んでいなくてもクリアカード編から楽しめますか？</strong>  
-A1: 物語単体でも魔法サスペンスとして成立していますが、小狼との関係性やエリオルの存在意義など、前作を知っていることを前提とした伏線が多く登場します。最高の感動を味わうためには、前作（全12巻・愛蔵版全9巻）または旧作アニメを一読しておくことを強く推奨します。
+A1: 物語単体でも魔法サスペンスとして成立していますが、小狼との関係性やエリオルの存在意義など、前作を知っていることを前提とした伏線が多く登場します。作品をより深く楽しむためには、前作（全12巻・愛蔵版全9巻）または旧作アニメを一読しておくことが有効である。
 
 <strong>Q2: 紙の単行本を買う場合、特装版と通常版のどちらを選ぶべき？</strong>  
 A2: 本編の漫画内容は全く同じです。特装版には描き下ろしさくらカードやBIGアクスタ、トランプなどの限定特典が付きます。純粋に物語を読みたい方は通常版（または電子書籍）、記念品としてグッズを手元に残したいコレクターは完売前に特装版を選ぶのが最適です。
@@ -235,3 +235,4 @@ A3: 定価は約10,500円（税込）です。DMMブックスなどの電子書�
 『カードキャプターさくら クリアカード編』は、少女時代の憧れをそのままに、誰かを心から愛することの切なさと強さを描いた、完結した今だからこそ一気読みすべき大傑作だ。
 
 手軽でお得な電子書籍でスマートに飛び込むか、装丁の美しい単行本で本棚に魔法を宿すか。自分にぴったりのスタイルで、友枝町で紡がれる奇跡の物語をぜひ最後まで見届けてほしい。
+

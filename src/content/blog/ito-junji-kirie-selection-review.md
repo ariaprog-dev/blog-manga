@@ -9,10 +9,10 @@ tags:
   - 'angle:review'
 faq:
   - question: '切り絵初心者ですが、本当に作れるか不安です。'
-    answer: '本書には基本の切り方から色のつけ方、パーツの貼り方まで、写真付きで丁寧に解説されています。最初の数枚はうまくいかないかもしれませんが、簡単な図案から挑戦し、カッターの扱いに慣れることで確実に上達できます。僕も最初は苦戦しましたが、諦めずに続けるうちにコツを掴めました。'
+    answer: '本書には基本の切り方から色のつけ方、パーツの貼り方まで、写真付きで丁寧に解説されている。最初の数枚はうまくいかないかもしれないが、簡単な図案から挑戦し、カッターの扱いに慣れることで確実に上達できる。継続することでコツを掴むことが可能である。'
   - question: 'どのような道具が必要ですか？また、どこで揃えられますか？'
     answer: '最低限必要なのは、デザインカッター（またはアートナイフ）、カッターマット、ピンセット、のりです。これらの道具は、文具店や画材店、100円ショップでも手軽に揃えられます。 特にデザインカッターは、切れ味の良いものを選ぶと作業が格段に快適になります。'
-  - question: '完成した切り絵はどのように楽しむのがおすすめですか？'
+  - question: '完成した切り絵はどのように楽しむのが適している。か？'
     answer: '完成した切り絵は、額縁に入れて壁に飾るのが最もポピュラーで、作品の見栄えも格段に上がります。他にも、ブックマークとして使ったり、色紙や厚紙に貼り付けてオリジナルカードを作成したり、手帳のデコレーションに使うなど、工夫次第で様々な楽しみ方が可能です。'
 sidebarProducts:
   - title: '伊藤潤二×garden切り絵セレクション'
@@ -38,7 +38,7 @@ sidebarProducts:
 
 ただ読む、見るだけではない。カッターの刃を通して、作品が持つ独特の「線」を辿り、<strong>美と恐怖が共存する世界を文字通り「切り出す」喜び</strong>がある。
 
-僕自身、漫画コレクターとして年間数百冊の漫画を読み漁るが、この切り絵セレクションは、作品への理解と愛情をさらに深めてくれる、唯一無二のホビーアイテムだと断言する。伊藤潤二のファンであれば、間違いなく知的好奇心を刺激される一冊だ。
+漫画コレクターにとって、この切り絵セレクションは、作品への理解と愛情をさらに深める、唯一無二のホビーアイテムとなる。伊藤潤二のファンであれば、作品への理解を深める上で有効な一冊である。
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -57,12 +57,12 @@ sidebarProducts:
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E4%25BC%258A%25E8%2597%25A4%25E6%25BD%25A4%25E4%25BA%258C%25C3%2597garden%25E5%2588%2587%25E3%2582%258A%25E7%25B5%25B5%25E3%2582%25BB%25E3%2583%25AC%25E3%2582%25AF%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値をチェック（Kindle即時配信・紙版）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E4%25BC%258A%25E8%2597%25A4%25E6%25BD%25A4%25E4%25BA%258C%25C3%2597garden%25E5%2588%2587%25E3%2582%258A%25E7%25B5%25B5%25E3%2582%25BB%25E3%2583%25AC%25E3%2582%25AF%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（Kindle・紙版）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
-<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E4%BC%8A%E8%97%A4%E6%BD%A4%E4%BA%8C%20garden%20%E5%88%87%E3%82%8A%E7%B5%B5%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E4%25BC%258A%25E8%2597%25A4%25E6%25BD%25A4%25E4%25BA%258C%25C3%2597garden%25E5%2588%2587%25E3%2582%258A%25E7%25B5%25B5%25E3%2582%25BB%25E3%2583%25AC%25E3%2582%25AF%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
-<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbkt34850319%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMMで見る（限定特典・配信）</a>
-<a href="https://px.a8.net/svt/ejp?a8mat=4B8BWQ+57JKC2+1892+6QEUP" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #059669, #047857); color: #ffffff !important;">📚 全巻セット（漫画全巻ドットコム）</a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E4%BC%8A%E8%97%A4%E6%BD%A4%E4%BA%8C%20garden%20%E5%88%87%E3%82%8A%E7%B5%B5%2F" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E4%25BC%258A%25E8%2597%25A4%25E6%25BD%25A4%25E4%25BA%258C%25C3%2597garden%25E5%2588%2587%25E3%2582%258A%25E7%25B5%25B5%25E3%2582%25BB%25E3%2583%25AC%25E3%2582%25AF%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbkt34850319%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMMで見る（限定特典・配信）</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4B8BWQ+57JKC2+1892+6QEUP" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #059669, #047857); color: #ffffff !important;">📚 全巻セット（漫画全巻ドットコム）</a>
 </div>
 </div>
 </div>
@@ -88,9 +88,9 @@ sidebarProducts:
 
 例えば、<strong>「富江」の図案に込められた螺旋の美学</strong>は圧巻だ。切り絵として再現するために、原作の無数の髪の毛の描写を、どう「切れる線」としてデザインし直すか。
 
-これは、線の太さ、カーブの角度、交差の仕方、そして抜きと残す部分のバランスを計算し尽くす<strong>高度な設計思想</strong>がなければ不可能だろう。切り進めるたびに、カッターが紙を切り裂く<strong>シャリッとした音</strong>が、まるで作品世界に深く没入していくような感覚を僕に与えてくれた。
+これは、線の太さ、カーブの角度、交差の仕方、そして抜きと残す部分のバランスを計算し尽くす<strong>高度な設計思想</strong>がなければ不可能だろう。切り進めるたびに、カッターが紙を切り裂く<strong>シャリッとした音</strong>は、まるで作品世界に深く没入していくような感覚をもたらす。
 
-僕が最初に挑戦したのは「富江」の顔の輪郭だった。初めての切り絵で手が震え、カッターの刃がうまく進まず、滑らかな曲線がガタついてしまったんだ。
+「富江」の顔の輪郭は、最初に挑戦する図案の一つである。初めての切り絵で手が震え、カッターの刃がうまく進まず、滑らかな曲線がガタついてしまったんだ。
 
 細い線を綺麗に切り出すには、<strong>カッターの刃の角度を常に意識し、力を均一にかける</strong>練習が必要だと痛感した。数回失敗し、新しい図案に切り替える中で、徐々にカッターワークのコツを掴んでいったんだ。
 
@@ -115,7 +115,7 @@ sidebarProducts:
 ## あなたの腕前はどこから？図案の難易度別早見表
 
 【表の見方のポイント】
-この表は、本書に収録されている図案を僕の経験に基づいて難易度別に分類したものだ。特に「必要なスキル」に着目し、自分の切り絵経験と照らし合わせてほしい。
+この表は、本書に収録されている図案を難易度別に分類したものである。特に「必要なスキル」に着目し、自身の切り絵経験と照らし合わせる際の参考となる。
 
 | 難易度カテゴリ | 図案の特徴 | 主なキャラクター・エピソード例 | 必要なスキル目安 |
 | :--- | :--- | :--- | :--- |
@@ -142,25 +142,25 @@ sidebarProducts:
 | 価格 | 1,870円 |
 | サービス | 通販 |
 | フロア | 本・コミック |
-| is_hobby | True |
 | メーカー/出版社 | 朝日新聞出版 |
 
 ## 手を動かし、心を震わせる：伊藤潤二の世界を深く知るための切り絵
 
 『伊藤潤二×garden切り絵セレクション』は、単なる手芸本ではない。それは、伊藤潤二の作品世界を<strong>五感で体験し、深く理解するための新たな扉</strong>を開く。
 
-カッターを握り、紙を切り出す時間は、僕にとって作品と対話し、キャラクターたちの狂気や悲哀、美しさを追体験する貴重な機会となった。完成した切り絵を部屋に飾れば、それは僕だけの、<strong>手触りのあるアート作品</strong>となる。
+カッターを握り、紙を切り出す時間は、作品と向き合い、キャラクターたちの狂気や悲哀、美しさを深く理解する貴重な機会となる。完成した切り絵を部屋に飾れば、それは<strong>手触りのあるアート作品</strong>となる。
 
-この本は、伊藤潤二作品の熱烈なファンはもちろん、何か新しい集中できる趣味を探している人にもおすすめだ。自分の手で作品を創り上げる喜びは、きっと日々の生活に静かな刺激と達成感をもたらしてくれるだろう。
+この本は、伊藤潤二作品の熱烈なファンはもちろん、何か新しい集中できる趣味を探している人にも適している。自分の手で作品を創り上げる喜びは、きっと日々の生活に静かな刺激と達成感をもたらしてくれるだろう。
 
 ### よくある質問
 <strong>Q1: 切り絵初心者ですが、本当に作れるか不安です。</strong>
-A1: 本書には基本の切り方から色のつけ方、パーツの貼り方まで、写真付きで丁寧に解説されています。最初の数枚はうまくいかないかもしれませんが、簡単な図案から挑戦し、カッターの扱いに慣れることで確実に上達できます。僕も最初は苦戦しましたが、諦めずに続けるうちにコツを掴めました。
+A1: 本書には基本の切り方から色のつけ方、パーツの貼り方まで、写真付きで丁寧に解説されている。最初の数枚はうまくいかないかもしれないが、簡単な図案から挑戦し、カッターの扱いに慣れることで確実に上達できる。継続することでコツを掴むことが可能である。
 
 <strong>Q2: どのような道具が必要ですか？また、どこで揃えられますか？</strong>
 A2: 最低限必要なのは、デザインカッター（またはアートナイフ）、カッターマット、ピンセット、のりです。これらの道具は、文具店や画材店、100円ショップでも手軽に揃えられます。
 
 特にデザインカッターは、切れ味の良いものを選ぶと作業が格段に快適になります。
 
-<strong>Q3: 完成した切り絵はどのように楽しむのがおすすめですか？</strong>
+<strong>Q3: 完成した切り絵はどのように楽しむのが適している。か？</strong>
 A3: 完成した切り絵は、額縁に入れて壁に飾るのが最もポピュラーで、作品の見栄えも格段に上がります。他にも、ブックマークとして使ったり、色紙や厚紙に貼り付けてオリジナルカードを作成したり、手帳のデコレーションに使うなど、工夫次第で様々な楽しみ方が可能です。
+

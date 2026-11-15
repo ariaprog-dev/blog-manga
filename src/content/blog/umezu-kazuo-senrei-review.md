@@ -8,12 +8,12 @@ mediaType: comic
 tags:
 - angle:review
 faq:
-- question: グロテスクな描写は多いですか？
-  answer: 直接的なスプラッター描写よりも、心理的・精神的な「歪み」や「不気味さ」で読者を追い詰める表現が多い。苦手な人は注意が必要だが、耐えられないほどの過度な描写はないだろう。
-- question: 楳図かずお作品は初めてですが、楽しめますか？
-  answer: 全1巻で完結しているため、楳図かずお入門としては非常に読みやすい。彼の独特な世界観が凝縮されており、代表作の一つとしてその魅力を堪能できるはずだ。
-- question: 紙の書籍と電子書籍、どちらで読むのがおすすめですか？
-  answer: 紙の質感も魅力だが、電子書籍ならDMMブックスでスマホやタブレットから手軽に読めるため、場所を選ばない。価格も手頃で、すぐに購読できる利便性から、電子書籍版をおすすめする。
+  - question: 'グロテスクな描写は多いですか？'
+    answer: '直接的なスプラッター描写よりも、心理的・精神的な「歪み」や「不気味さ」で読者を追い詰める表現が多い。苦手な人は注意が必要だが、耐えられないほどの過度な描写はないだろう。'
+  - question: '楳図かずお作品は初めてですが、楽しめますか？'
+    answer: '全1巻で完結しているため、楳図かずお入門としては非常に読みやすい。彼の独特な世界観が凝縮されており、代表作の一つとしてその魅力を堪能できるはずだ。'
+  - question: '紙の書籍と電子書籍、どちらで読むのが適している。か？'
+    answer: '紙の質感も魅力だが、電子書籍ならDMMブックスでスマホやタブレットから手軽に読めるため、場所を選ばない。価格も手頃で、すぐに購読できる利便性から、電子書籍版が選択肢となる。'
 sidebarProducts:
 - title: 洗礼
   url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F772432%2Fb600tsgk00167%2F&af_id=DMMaria-999&ch=api
@@ -23,7 +23,6 @@ sidebarProducts:
 heroImages:
 - https://ebook-assets.dmm.com/digital/e-book/b600tsgk00167/b600tsgk00167pl.jpg
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 楳図かずおの漫画『洗礼』は、単なるホラー作品とは一線を画す。美貌への異常な執着が引き起こす狂気と、母と娘のねじれた愛憎を描き出した、深遠な人間ドラマの金字塔だ。
@@ -47,12 +46,12 @@ heroImages:
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%25B4%2597%25E7%25A4%25BC%2520%25E6%25A5%25B3%25E5%259B%25B3%25E3%2581%258B%25E3%2581%259A%25E3%2581%258A" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値をチェック（Kindle即時配信・紙版）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%25B4%2597%25E7%25A4%25BC%2520%25E6%25A5%25B3%25E5%259B%25B3%25E3%2581%258B%25E3%2581%259A%25E3%2581%258A" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（Kindle・紙版）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
-<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F772432%2Fb600tsgk00167%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E6%25B4%2597%25E7%25A4%25BC%2520%25E6%25A5%25B3%25E5%259B%25B3%25E3%2581%258B%25E3%2581%259A%25E3%2581%258A" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
-<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F772432%2Fb600tsgk00167%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMMで見る（限定特典・配信）</a>
-<a href="https://px.a8.net/svt/ejp?a8mat=4B8BWQ+57JKC2+1892+6QEUP" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #059669, #047857); color: #ffffff !important;">📚 全巻セット（漫画全巻ドットコム）</a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E6%B4%97%E7%A4%BC%20%E6%A5%B3%E5%9B%B3%E3%81%8B%E3%81%9A%E3%81%8A%2F" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E6%25B4%2597%25E7%25A4%25BC%2520%25E6%25A5%25B3%25E5%259B%25B3%25E3%2581%258B%25E3%2581%259A%25E3%2581%258A" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F772432%2Fb600tsgk00167%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMMで見る（限定特典・配信）</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4B8BWQ+57JKC2+1892+6QEUP" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #059669, #047857); color: #ffffff !important;">📚 全巻セット（漫画全巻ドットコム）</a>
 </div>
 </div>
 </div>
@@ -98,7 +97,7 @@ heroImages:
 
 人間の深淵に触れたい人、心理的な恐怖を味わいたい人には、この上なくおすすめの作品だ。また、全1巻で完結しているため、楳図かずお作品の入門としても非常に良い選択肢となる。
 
-彼の独特な世界観が凝縮されており、電子書籍なら手軽にその魅力を体験できる。一度読めば、その強烈な印象は忘れられないはずだ。
+彼の独特な世界観が凝縮されており、電子書籍なら手軽にその魅力を試すことができる。一度読めば、その強烈な印象は忘れられないはずだ。
 
 ## 電子書籍で手軽に、深く味わうための読書ガイド
 
@@ -108,8 +107,15 @@ heroImages:
 
 DMMブックスでは、新規登録時にクーポンが配布されたり、ポイント還元キャンペーンが実施されたりする場合も多い。そういった機会を活用すれば、さらに割引価格で購読できる可能性もある。
 
-もし「いきなり購入するのは不安」と感じるなら、他の電子ストアでも冒頭の数ページを無料で試し読みできる場合が多いので、まずはそこから入ってみることをお勧めする。試し読みで、楳図かずお特有の絵柄や物語の雰囲気が自分の感性に合うか確認すると良いだろう。
+もし「いきなり購入するのは不安」と感じるなら、他の電子ストアでも冒頭の数ページを無料で試し読みできる場合が多いので、まずはそこから入ってみるのが効果的だ。試し読みで、楳図かずお特有の絵柄や物語の雰囲気が自分の感性に合うか確認すると良いだろう。
 
-| 項目 | 詳細 |
-| :--- | :--- |
-| :
+## 製品仕様・購入選択肢の比較整理表
+
+購入検討時の判断材料として、掲載アイテムの基本仕様・参考価格帯・確認ポイントを以下の表に整理しています。
+
+| 確認項目・ラインナップ | 仕様・価格目安 | 選定時の確認ポイント |
+| :--- | :--- | :--- |
+| 対象作品・掲載商品 | 洗礼 | 記事内の主要紹介アイテム |
+| 媒体区分・想定仕様 | コミック・電子書籍・書籍版 | 視聴・閲覧環境（端末・プレイヤー・収納棚）との適合を確認 |
+| 価格・流通目安 | 1,210円（参考価格） | 在庫状況・送料・クーポン適用有無を含めて比較 |
+| 複数ストア比較の視点 | Amazon／楽天市場／Yahoo!／DMM等 | ポイント還元率・限定特典の有無・中古流通状態を照合 |

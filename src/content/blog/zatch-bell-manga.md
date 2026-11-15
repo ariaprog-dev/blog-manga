@@ -37,11 +37,11 @@ mediaType: comic
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E9%2587%2591%25E8%2589%25B2%25E3%2581%25AE%25E3%2582%25AC%25E3%2583%2583%25E3%2582%25B7%25E3%2583%25A5%2520%25E5%25AE%258C%25E5%2585%25A8%25E7%2589%2588" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値をチェック（プライム即日便）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E9%2587%2591%25E8%2589%25B2%25E3%2581%25AE%25E3%2582%25AC%25E3%2583%2583%25E3%2582%25B7%25E3%2583%25A5%2520%25E5%25AE%258C%25E5%2585%25A8%25E7%2589%2588" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（プライム対応）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
-<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F810119%2Fk811abdbc00015%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E9%2587%2591%25E8%2589%25B2%25E3%2581%25AE%25E3%2582%25AC%25E3%2583%2583%25E3%2582%25B7%25E3%2583%25A5%2520%25E5%25AE%258C%25E5%2585%25A8%25E7%2589%2588" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
-<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F810119%2Fk811abdbc00015%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMMで見る（限定特典・配信）</a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E9%87%91%E8%89%B2%E3%81%AE%E3%82%AC%E3%83%83%E3%82%B7%E3%83%A5%20%E5%AE%8C%E5%85%A8%E7%89%88%2F" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E9%2587%2591%25E8%2589%25B2%25E3%2581%25AE%25E3%2582%25AC%25E3%2583%2583%25E3%2582%25B7%25E3%2583%25A5%2520%25E5%25AE%258C%25E5%2585%25A8%25E7%2589%2588" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F810119%2Fk811abdbc00015%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMMで見る（限定特典・配信）</a>
 
 </div>
 </div>
@@ -74,9 +74,9 @@ mediaType: comic
 
 この物語には、二人の他にも個性豊かな魔物と人間のペアが多数登場する。例えば、高飛車ながら仲間思いのティオと、彼女を献身的に支えるめぐみ。臆病ながらも、いざという時には恐ろしいほどの勇気を見せるキャンチョメと、彼の人気を盛り上げるフォルゴレ。あるいは、圧倒的な力と冷徹さを持つブラゴと、彼を信じて共に戦うシェリー。それぞれのペアには独自のドラマがあり、彼らが抱える心の闇や葛藤、そしてそれを乗り越える過程が丁寧に描かれる。これらのサブキャラクターたちの描写が物語に多層的な魅力をもたらし、読者は彼らの生き様にも深く共感できる構成となっている。
 
-特に印象深いのは、呪文を唱えるたびに魔本が燃え、魔界への送還という決定的な別れの危険が迫る中で、魔物と人間のパートナーが互いにどれほどの覚悟と信頼を抱いているかだ。呪文は単なる攻撃手段ではなく、二人の「想い」が込められた「言霊」であり、その根底には固い絆と魂の繋がりが存在する。だからこそ、一つの呪文を放つにも、そこにはそれぞれのキャラクターの人生や哲学が凝縮されているように感じられ、読者はその一言一言に感情移入せずにはいられない。
+特に印象深いのは、呪文を唱えるたびに魔本が燃え、魔界への送還という決定的な別れの危険が迫る中で、魔物と人間のパートナーが互いにどれほどの覚悟と信頼を抱いているかだ。呪文は単なる攻撃手段ではなく、二人の「想い」が込められた「言霊」であり、その根底には固い絆と魂の繋がりが存在する。だからこそ、一つの呪文を放つにも、そこにはそれぞれのキャラクターの人生や哲学が凝縮されているように感じられ、読者はその一言一言に感情移入する。
 
-作中には数々の名言が散りばめられているが、特に終盤のファウード編における仲間たちの言葉は、読者の心に深く刻まれるだろう。「私はガッシュ・ベルに清き一票を投じます！」と叫ぶあるキャラクターのセリフは、ガッシュの「優しい王様」という理想が、どれだけ多くの人々の心を動かし、共感を得てきたかを象徴している。また、「友と戦い、友と別れ、友と再び出会う。それがこの世の全ての『友』だ」という言葉も、この作品が描く友情の多面性と、その深遠な意味を端的に表している。仲間との出会い、共に戦う喜び、そして避けられない別れ。その全てをひっくるめて「友」と呼ぶことのできる、深い関係性がこの物語には詰まっている。
+作中には数々の名言が散りばめられているが、特に終盤のファウード編における仲間たちの言葉は、読者の心に深く刻まれるだろう。あるキャラクターのセリフ「ガッシュ・ベルに清き一票を投じます！」は、ガッシュの「優しい王様」という理想が、どれだけ多くの人々の心を動かし、共感を得てきたかを象徴している。また、「友と戦い、友と別れ、友と再び出会う。それがこの世の全ての『友』だ」という言葉も、この作品が描く友情の多面性と、その深遠な意味を端的に表している。仲間との出会い、共に戦う喜び、そして避けられない別れ。その全てをひっくるめて「友」と呼ぶことのできる、深い関係性がこの物語には詰まっている。
 
 ## 熱狂の評価と読む前の注意点：時代を超えて愛される理由と向き合い方
 
@@ -99,10 +99,10 @@ mediaType: comic
 
 『金色のガッシュ！！』をこれから読むなら、DMMブックスでの電子書籍購入が利便性の点で優れている。全33巻という大ボリュームの作品だが、電子書籍であれば物理的な収納スペースを気にする必要がない。通勤通学中や移動時間など、いつでもどこでも好きな時に読み進めることができるのは、電子書籍ならではの大きなメリットだ。
 
-1冊660円という価格設定だが、DMMブックスでは多くの作品で試し読みが可能だ。まずは1巻を試し読みし、ガッシュと清麿の出会い、そして彼らが初めて経験する魔物同士の戦いを体験してみることをおすすめする。序盤で物語の魅力に引き込まれたなら、その勢いのまま読み進めるのが、作品の世界観に深く没入する一番の方法となるだろう。
+1冊660円という価格設定だが、DMMブックスでは多くの作品で試し読みが可能だ。まずは1巻を試し読みし、ガッシュと清麿の出会い、そして彼らが初めて経験する魔物同士の戦いを体験してみるのが効果的だ。序盤で物語の魅力に引き込まれたなら、その勢いのまま読み進めるのが、作品の世界観に深く没入する一番の方法となるだろう。
 
 DMMブックスでは定期的にセールやキャンペーンを実施していることも多い。全巻一気に揃える場合は、そういった機会を狙うことで、よりお得に購入できる可能性もある。
-また、アニメ化や映画化もされているが、雷句誠が魂を込めて描いた原作漫画の持つ迫力と感情の機微は、やはり漫画でしか味わえない部分が非常に大きい。作者の繊細かつ力強い描線が、キャラクターたちの感情や激しいバトルシーンをダイナミックに表現している。この壮大な物語は、ぜひ漫画で体験してほしい。
+また、アニメ化や映画化もされているが、雷句誠が魂を込めて描いた原作漫画の持つ迫力と感情の機微は、やはり漫画でしか味わえない部分が非常に大きい。作者の繊細かつ力強い描線が、キャラクターたちの感情や激しいバトルシーンをダイナミックに表現している。この壮大な物語は、
 
 ## 普遍的なテーマが息づく冒険へ
 
@@ -117,5 +117,6 @@ DMMブックスでは定期的にセールやキャンペーンを実施して�
 <strong>Q1. 「魔界の王を決める苛烈な戦いと絆の始まり」の視点から見て、初見の読者でも楽しめますか？</strong>
 A1. はい。『金色のガッシュ！！ 完全版（1）』（参考価格：660円前後）は導入から世界観と人物描写が丁寧に描かれており、予備知識がなくても物語の核心に自然と引き込まれる構成になっています。
 
-<strong>Q2. 『金色のガッシュ！！ 完全版（1）』は紙の単行本・愛蔵版と電子書籍（Kindle・DMMブックス）のどちらがおすすめですか？</strong>
-A2. 見開き演出や装丁を手元に残したい方には紙の単行本・完全版が適しており、スマホやタブレットで場所を選ばず一気読みしたい方には即時配信でポイント還元も活用できる電子書籍版が便利です。
+<strong>Q2. 『金色のガッシュ！！ 完全版（1）』（参考価格660円前後）を選ぶ際、従来の単行本版・文庫版との主な確認ポイントは何ですか？</strong>
+A2. 完全版は雷句誠による表紙イラスト刷新や収録構成の整理に加え、巻末のおまけページや高解像度の配信データなど現行仕様で通読しやすい点が特徴です。全巻セットでの予算感や、タブレット・スマホでの見開き表示の快適さを確認しながら揃えると計画的に読破できます。
+

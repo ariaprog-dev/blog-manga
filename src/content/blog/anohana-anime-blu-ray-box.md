@@ -33,11 +33,11 @@ mediaType: anime
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2581%2582%25E3%2581%25AE%25E6%2597%25A5%25E8%25A6%258B%25E3%2581%259F%25E8%258A%25B1%25E3%2581%25AE%25E5%2590%258D%25E5%2589%258D%25E3%2582%2592%25E5%2583%2595%25E9%2581%2594%25E3%2581%25AF%25E3%2581%25BE%25E3%2581%25A0%25E7%259F%25A5%25E3%2582%2589%25E3%2581%25AA%25E3%2581%2584%2520Blu-ray" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値をチェック（プライム即日便）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2581%2582%25E3%2581%25AE%25E6%2597%25A5%25E8%25A6%258B%25E3%2581%259F%25E8%258A%25B1%25E3%2581%25AE%25E5%2590%258D%25E5%2589%258D%25E3%2582%2592%25E5%2583%2595%25E9%2581%2594%25E3%2581%25AF%25E3%2581%25BE%25E3%2581%25A0%25E7%259F%25A5%25E3%2582%2589%25E3%2581%25AA%25E3%2581%2584%2520Blu-ray" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（プライム対応）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
-<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_666anzx6621%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2581%2582%25E3%2581%25AE%25E6%2597%25A5%25E8%25A6%258B%25E3%2581%259F%25E8%258A%25B1%25E3%2581%25AE%25E5%2590%258D%25E5%2589%258D%25E3%2582%2592%25E5%2583%2595%25E9%2581%2594%25E3%2581%25AF%25E3%2581%25BE%25E3%2581%25A0%25E7%259F%25A5%25E3%2582%2589%25E3%2581%25AA%25E3%2581%2584%2520Blu-ray" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
-<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_666anzx6621%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMMで見る（限定特典・配信）</a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%81%82%E3%81%AE%E6%97%A5%E8%A6%8B%E3%81%9F%E8%8A%B1%E3%81%AE%E5%90%8D%E5%89%8D%E3%82%92%E5%83%95%E9%81%94%E3%81%AF%E3%81%BE%E3%81%A0%E7%9F%A5%E3%82%89%E3%81%AA%E3%81%84%20Blu-ray%2F" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2581%2582%25E3%2581%25AE%25E6%2597%25A5%25E8%25A6%258B%25E3%2581%259F%25E8%258A%25B1%25E3%2581%25AE%25E5%2590%258D%25E5%2589%258D%25E3%2582%2592%25E5%2583%2595%25E9%2581%2594%25E3%2581%25AF%25E3%2581%25BE%25E3%2581%25A0%25E7%259F%25A5%25E3%2582%2589%25E3%2581%25AA%25E3%2581%2584%2520Blu-ray" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_666anzx6621%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMMで見る（限定特典・配信）</a>
 
 </div>
 </div>
@@ -48,7 +48,7 @@ mediaType: anime
 
 ## 『あの日見た花の名前を僕達はまだ知らない。』Blu-ray BOX：色褪せぬ青春の輝きを最高の品質で
 
-あの夏の感動を、色褪せない最高の品質で再び味わいたい──。そう願うファンにとって、あの日見た花の名前を僕達はまだ知らない。 Blu-ray BOXは、まさに決定版と言えるだろう。このBOXは、単なる作品のパッケージに留まらず、HDリマスターされた映像とDTS-HD Master Audioの5.1chサラウンドで、作品が描く普遍的なテーマ「友情と後悔、そして再生」を、限りなく鮮明に追体験するためのコレクションだ。高品質な映像と音声で、あの感動と夏の記憶を再体験したい視聴者にとって、その価値は計り知れない。
+あの夏の感動を、色褪せない最高の品質で再び味わいたい──。そう願うファンにとって、あの日見た花の名前を僕達はまだ知らない。 Blu-ray BOXは、まさに決定版と言える。このBOXは、単なる作品のパッケージに留まらず、HDリマスターされた映像とDTS-HD Master Audioの5.1chサラウンドで、作品が描く普遍的なテーマ「友情と後悔、そして再生」を、限りなく鮮明に追体験するためのコレクションだ。高品質な映像と音声で、あの感動と夏の記憶を再体験したい視聴者にとって、その価値は計り知れない。
 
 ## 全ての感動を鮮明に、高画質で蘇る思い出の映像美
 
@@ -64,23 +64,23 @@ mediaType: anime
 
 『あの日見た花の名前を僕達はまだ知らない。』という作品は、幼馴染の死という重いテーマを扱いながらも、その中に希望と再生を見出す、普遍的な人間ドラマを描いている。物語の中心にいるのは、かつては仲良しグループ「超平和バスターズ」のリーダーだったじんたんと、彼らの心の傷となった少女・めんまだ。めんまの死から数年後、高校生になったじんたんの前に、成長しためんまの「幽霊」が現れるところから物語は始まる。めんまの「お願い」を叶えるため、散り散りになった幼馴染たちが再び集結し、互いの胸に秘めた後悔や葛藤、そして初恋の感情と向き合っていく。
 
-この作品の最大の魅力は、登場人物たちの繊細な心理描写にあると筆者は考える。じんたんのひきこもりという現状や、めんまの死をきっかけに歪んでしまった彼らの関係性。それぞれのキャラクターが抱える「めんまへの想い」や「自分自身の罪悪感」が、物語が進むにつれて少しずつ露わになっていく過程は、観る者の心に深く訴えかける。例えば、あなる（安城鳴子）の、めんまへの複雑な嫉妬心と友情の間で揺れ動く感情。ゆきあつ（松雪集）の、めんまを失った悲しみと、じんたんへの対抗意識が混じり合った行動。つるこ（鶴見知利子）の冷静さの裏に隠された、ゆきあつへの秘めた恋心。そしてぽっぽ（久川鉄道）の、飄々とした態度の奥にある、事件当時の深いトラウマと責任感。彼ら一人一人の感情が、あまりにも人間らしく、生々しく描かれているからこそ、観る者は彼らに共感し、物語に深く感情移入する。
+この作品の最大の魅力は、登場人物たちの繊細な心理描写にある。じんたんのひきこもりという現状や、めんまの死をきっかけに歪んでしまった彼らの関係性。それぞれのキャラクターが抱える「めんまへの想い」や「自分自身の罪悪感」が、物語が進むにつれて少しずつ露わになっていく過程は、観る者の心に深く訴えかける。例えば、あなる（安城鳴子）の、めんまへの複雑な嫉妬心と友情の間で揺れ動く感情。ゆきあつ（松雪集）の、めんまを失った悲しみと、じんたんへの対抗意識が混じり合った行動。つるこ（鶴見知利子）の冷静さの裏に隠された、ゆきあつへの秘めた恋心。そしてぽっぽ（久川鉄道）の、飄々とした態度の奥にある、事件当時の深いトラウマと責任感。彼ら一人一人の感情が、あまりにも人間らしく、生々しく描かれているからこそ、観る者は彼らに共感し、物語に深く感情移入する。
 
-特に、それぞれのキャラクターがめんまへの「執着」を乗り越え、自分自身の過去と向き合い、未来へ進もうとする姿は、何度観ても深い感動を呼び起こす。最終話のあのクライマックスシーンは、多くのアニメファンにとって忘れられない名シーンの一つと言えるだろう。めんまが最後に遺した「お願い」が叶った時、そして超平和バスターズのメンバーが、ようやく本当の意味でめんまの死を受け入れた時、観る者は彼らと共に涙し、その成長を見届ける。単なるファンタジーや青春物語ではなく、人の心の奥底にある痛みや、それを乗り越える強さ、そして友情の尊さを教えてくれる、示唆に富んだ作品だ。このBlu-ray BOXは、そんな彼らの感情の機微や、美しい背景美術を最高品質で繰り返し体験できるからこそ、ファンにとっては計り知れない価値がある。
+特に、それぞれのキャラクターがめんまへの「執着」を乗り越え、自分自身の過去と向き合い、未来へ進もうとする姿は、何度観ても深い感動を呼び起こす。最終話のあのクライマックスシーンは、多くのアニメファンにとって忘れられない名シーンの一つと言える。めんまが最後に遺した「お願い」が叶った時、そして超平和バスターズのメンバーが、ようやく本当の意味でめんまの死を受け入れた時、観る者は彼らと共に涙し、その成長を見届ける。単なるファンタジーや青春物語ではなく、人の心の奥底にある痛みや、それを乗り越える強さ、そして友情の尊さを教えてくれる、示唆に富んだ作品だ。このBlu-ray BOXは、登場人物たちの感情の機微や美しい背景美術を最高品質で鑑賞できるため、ファンにとって価値のあるものとなる。
 
 ## 部屋に置く『あの花』：所有する喜びと再会する感動
 
-このあの日見た花の名前を僕達はまだ知らない。 Blu-ray BOXを手に入れてからというもの、筆者のオーディオ・ビジュアルラックの一角は、特別な空間となった。パッケージの美しさが、他のアニメ作品のBOXとは一線を画しており、部屋に飾るだけで雰囲気を変える存在感がある。筆者の部屋はコレクションスペースとしての側面も持つが、その中でも『あの花』のBOXは、一際目を引く。
+『あの日見た花の名前を僕達はまだ知らない。』Blu-ray BOXは、そのパッケージの美しさにより、他のアニメ作品のBOXとは一線を画している。部屋に飾ることで空間の雰囲気を変える存在感があり、コレクションの中でも目を引くアイテムとなる。
 
 単にディスクを収納する箱というだけでなく、ブックレットや特典イラストなど、ファンアイテムとしての満足度が非常に高い。特にブックレットは、キャラクター設定画や美術設定、そして当時のインタビュー記事などが掲載されており、作品の世界観を深掘りするのに役立つ。休日にコーヒーを淹れて、このブックレットをゆっくりと読み返す時間は、再びあの夏の記憶の中に誘われるような、心地よい体験だ。
 
-実際にSNSなどでファンの方々の感想を見ていても、所有する喜びを感じている声は多い。「『あの花』は僕の青春だから、手元に置いておきたい」「綺麗な画質で何度も見返したい」「特典映像が豪華で買ってよかった」といったポジティブな意見が目立つ。やはり、心を揺さぶられた作品だからこそ、手元に物理的な形で残しておきたいというコレクター心理は共通しているのだろう。
+実際にSNSなどでファンの方々の感想を見ていても、所有する喜びを感じている声は多い。「『あの花』を自身の青春と捉え、手元に置いておきたい」という意見や、「綺麗な画質で何度も見返したい」「特典映像が豪華で満足した」といった肯定的な意見が目立つ。やはり、心を揺さぶられた作品だからこそ、手元に物理的な形で残しておきたいというコレクター心理は共通しているのだろう。
 
-筆者自身も、このBOXを手にしていると、時折無性に作品を再視聴したくなる。特に仕事で疲れた日や、感傷的になっている夜に、あの感動をもう一度味わいたくなるものだ。ディスクをプレイヤーに入れて、最初のオープニングテーマ「青い栞」が流れ出すと、自然と心が落ち着くような感覚になる。それはまるで、遠い故郷の友人と再会したような、温かくも切ない感情だ。物理メディアであるBlu-rayだからこそ、インターネット環境に左右されず、いつでも好きな時に最高品質で作品の世界に浸れるという安心感も大きい。これはサブスクリプションサービスでは得られない、所有者だけの特権と言えるだろう。
+このBOXを所有する者は、時折作品を再視聴したくなることがある。特に仕事で疲れた日や、感傷的になっている夜に、あの感動をもう一度味わいたくなるものだ。ディスクをプレイヤーに入れて、最初のオープニングテーマ「青い栞」が流れ出すと、自然と心が落ち着くような感覚になる。それはまるで、遠い故郷の友人と再会したような、温かくも切ない感情だ。物理メディアであるBlu-rayだからこそ、インターネット環境に左右されず、いつでも好きな時に最高品質で作品の世界に浸れるという安心感も大きい。これはサブスクリプションサービスでは得られない、所有者だけの特権と言える。
 
 ## 『あの花』を愛するあなたへ：BOX購入がもたらす価値と考慮点
 
-このBlu-ray BOXをおすすめしたいのは、やはり『あの日見た花の名前を僕達はまだ知らない。』という作品に深い思い入れがある全ての人だ。特に、あの夏の物語に心を震わせた経験があり、作品の魅力を余すところなく堪能したいと考えているなら、購入を真剣に検討する価値がある。高画質・高音質での再体験はもちろん、豊富な特典映像やブックレットは、作品世界への理解をさらに深め、より豊かな鑑賞体験を提供する。一度観た作品でも、繰り返し細部まで見返して考察するのが好きなタイプには、特に響くはずだ。
+このBlu-ray BOXは、『あの日見た花の名前を僕達はまだ知らない。』という作品に深い思い入れがある全ての人に適している。』という作品に深い思い入れがある全ての人だ。特に、あの夏の物語に心を震わせた経験があり、作品の魅力を余すところなく堪能したいと考えているなら、購入を真剣に検討する価値がある。高画質・高音質での再体験はもちろん、豊富な特典映像やブックレットは、作品世界への理解をさらに深め、より豊かな鑑賞体験を提供する。一度観た作品でも、繰り返し細部まで見返して考察するのが好きなタイプには、特に響くはずだ。
 
 また、物理メディアをコレクションすることに喜びを感じるコレクター気質の人にも最適だ。美しいパッケージデザインは部屋のインテリアとしても映えるし、手元に『あの花』があるという満足感は、デジタルデータでは得られないものがある。作品へのリスペクトを形として残したい、未来にわたってその感動をいつでも引き出せるようにしたい、と考えるファンにとって、これ以上ないアイテムの一つだ。
 
@@ -93,14 +93,13 @@ mediaType: anime
 | 価格 | 25,245円 |
 | サービス | 通販 |
 | フロア | DVD・Blu-ray |
-| is_hobby | True |
 | メーカー/出版社 | ソニーミュージック |
 
 ## 熟考すべきポイント：価格と収納、そして未来への投資
 
-このあの日見た花の名前を僕達はまだ知らない。 Blu-ray BOXを検討する上で、正直なところ、価格は決して安価ではない。25,245円という価格は、気軽に購入できる金額ではないと感じる人もいるだろう。特に、サブスクリプションサービスで手軽に視聴できる現代において、この出費は躊躇する要因になり得る。筆者も購入前には、価格と作品の価値を比較検討した。
+このあの日見た花の名前を僕達はまだ知らない。 Blu-ray BOXを検討する上で、正直なところ、価格は決して安価ではない。25,245円という価格は、気軽に購入できる金額ではないと感じる人もいるだろう。特に、サブスクリプションサービスで手軽に視聴できる現代において、この出費は躊躇する要因になり得る。購入前には、価格と作品の価値を比較検討することが考えられる。
 
-しかし、この価格は単に作品を視聴する権利ではなく、作品を最高品質で「所有」し、未来にわたって繰り返しその感動を味わうための「投資」だと捉えることもできる。例えば、一度映画館で映画を観るのにもそれなりの費用がかかる。このBlu-ray BOXは、全11話というボリュームがあり、何度も見返すことで、一回あたりの鑑賞コストはむしろ低くなると考えることも可能だ。何よりも、特典映像やブックレットといった付加価値を考慮すれば、決して高すぎる買い物ではないというのが筆者の見解である。
+しかし、この価格は単に作品を視聴する権利ではなく、作品を最高品質で「所有」し、未来にわたって繰り返しその感動を味わうための「投資」だと捉えることもできる。例えば、一度映画館で映画を観るのにもそれなりの費用がかかる。このBlu-ray BOXは、全11話というボリュームがあり、何度も見返すことで、一回あたりの鑑賞コストはむしろ低くなると考えることも可能だ。特典映像やブックレットといった付加価値を考慮すると、その価格は妥当であると評価できる。
 
 次に、収納スペースの問題だ。前述の通り、このBOXはそれなりの大きさがある。もし部屋にコレクション棚がなく、ディスク類を収納する場所が限られているなら、購入前にきちんと場所を確保する必要がある。気に入った作品のBOXを購入したものの、置き場所に困って結局クローゼットの奥にしまい込んでしまうケースも少なくない。それではせっかくの美しいパッケージが台無しだ。リビングのテレビボードの横や、書斎の棚など、作品に敬意を払いつつ、いつでも手に取れるような場所を考えてほしい。
 
@@ -110,7 +109,7 @@ mediaType: anime
 
 『あの日見た花の名前を僕達はまだ知らない。』Blu-ray BOXは、単なる視聴媒体を超え、作品が持つ普遍的な感動を最高の品質で未来へと繋ぐ存在だ。HDリマスターによる鮮明な映像と、DTS-HD Master Audioが織りなす臨場感あふれる音響は、視聴者の心を揺さぶり、物語の深層へと誘う。さらに、豊富な特典映像やブックレットは、作品への理解を深め、所有する喜びをより確かなものにする。
 
-このBlu-ray BOXは、『あの花』に深い愛着を抱くファンにとって、その価値を十分に享受できるアイテムと言えるだろう。価格や収納スペースといった検討事項は存在するものの、それらを上回る作品体験と、物理メディアとして手元に置く満足感がある。もし、あなたが超平和バスターズの物語を、高品位な環境で何度でも再鑑賞し、その感動を永遠に心に留めたいと考えるならば、このBlu-ray BOXは、その願いに応える有力な選択肢となるはずだ。
+このBlu-ray BOXは、『あの花』に深い愛着を抱くファンにとって、その価値を十分に享受できるアイテムと言える。価格や収納スペースといった検討事項は存在するものの、それらを上回る作品体験と、物理メディアとして手元に置く満足感がある。もし、あなたが超平和バスターズの物語を、高品位な環境で何度でも再鑑賞し、その感動を永遠に心に留めたいと考えるならば、このBlu-ray BOXは、その願いに応える有力な選択肢となるはずだ。
 
 あの夏の日々を、最高のクオリティで。
 
@@ -123,3 +122,4 @@ A1. 『あの日見た花の名前を僕達はまだ知らない。 Blu-ray BOX 
 
 <strong>Q2. 購入前に確認しておくべき仕様や保管上のポイントはありますか？</strong>
 A2. 初回特典やブックレット等の付属有無、および対応メディア規格（Blu-ray/DVD/CD・サイズ等）を各ショップの商品ページで確認し、直射日光や高温多湿を避けて保管することで長く美しい状態を保てます。
+

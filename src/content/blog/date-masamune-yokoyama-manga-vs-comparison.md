@@ -15,7 +15,7 @@ faq:
   - question: '横山光輝の漫画を初めて読むが、楽しめるか？'
     answer: '横山光輝作品は独特の絵柄とテンポがあるため、最初は戸惑うかもしれません。しかし、読み進めるうちにキャラクターの表情や言動から感情を読み取る面白さに気づくでしょう。特に「伊達政宗」は史実に基づいているため、物語に入り込みやすいはずです。'
   - question: '史実と漫画の描写の違いは？'
-    answer: '「伊達政宗」は山岡荘八の歴史小説を原作としているため、物語としての面白さを追求したフィクションの部分も含まれます。厳密な歴史研究とは異なる描写もあることを理解した上で、作品全体の人間ドラマとして楽しむのがおすすめです。'
+    answer: '「伊達政宗」は山岡荘八の歴史小説を原作としているため、物語としての面白さを追求したフィクションの部分も含まれます。厳密な歴史研究とは異なる描写もあることを理解した上で、作品全体の人間ドラマとして楽しむのが適している。'
   - question: '全巻揃えるなら紙と電子、どちらが良い？'
     answer: '紙媒体は書棚に並べてコレクションする満足感や、ページをめくる手触りがあります。一方、電子書籍は場所を取らず、どこでも手軽に読めるのが利点です。ご自身の読書習慣や保管スペースを考慮して選ぶと良いでしょう。'
 sidebarProducts:
@@ -59,12 +59,12 @@ sidebarProducts:
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E4%25BC%258A%25E9%2581%2594%25E6%2594%25BF%25E5%25AE%2597%25201%25E5%25B7%25BB" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値をチェック（Kindle即時配信・紙版）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E4%25BC%258A%25E9%2581%2594%25E6%2594%25BF%25E5%25AE%2597%25201%25E5%25B7%25BB" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（Kindle・紙版）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
-<a href="https://hb.afl.rakuten.co.jp/hgc/g00rc681.ve2q5dc9.g00rc681.ve2q61dc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbookoffonline%2F0011377900%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E4%25BC%258A%25E9%2581%2594%25E6%2594%25BF%25E5%25AE%2597%25201%25E5%25B7%25BB" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
-<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D%E4%BC%8A%E9%81%94%E6%94%BF%E5%AE%97%201%E5%B7%BB&af_id=DMMaria-999" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMM（無料試し読み）</a>
-<a href="https://px.a8.net/svt/ejp?a8mat=4B8BWQ+57JKC2+1892+6QEUP" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #059669, #047857); color: #ffffff !important;">📚 全巻セット（漫画全巻ドットコム）</a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00rc681.ve2q5dc9.g00rc681.ve2q61dc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbookoffonline%2F0011377900%2F" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E4%25BC%258A%25E9%2581%2594%25E6%2594%25BF%25E5%25AE%2597%25201%25E5%25B7%25BB" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D%E4%BC%8A%E9%81%94%E6%94%BF%E5%AE%97%201%E5%B7%BB&af_id=DMMaria-999" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMM（無料試し読み）</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4B8BWQ+57JKC2+1892+6QEUP" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #059669, #047857); color: #ffffff !important;">📚 全巻セット（漫画全巻ドットコム）</a>
 </div>
 </div>
 </div>
@@ -82,13 +82,13 @@ sidebarProducts:
 
 横山光輝の<strong>劇画スタイル</strong>は、戦国時代の空気感を余すことなく表現している。合戦シーンの迫力は圧巻で、武士たちの激しいぶつかり合い、そして一瞬の油断が命取りとなる緊迫感が、大胆な構図と力強い描線で伝わってくる。
 
-僕が最初にこの作品を読んだ時、正直なところ「登場人物の顔がみんな同じに見えるな…」と少し戸惑った記憶がある。しかし、数巻読み進めるうちに、<strong>わずかな表情の変化や、キャラクターごとの立ち位置、セリフ回し</strong>で彼らの個性が鮮やかに浮かび上がることに気づいた。
+作品を読み始めた当初は、登場人物の顔が類似していると感じるかもしれない。しかし、数巻読み進めるうちに、<strong>わずかな表情の変化や、キャラクターごとの立ち位置、セリフ回し</strong>によって彼らの個性が鮮やかに浮かび上がる。
 
 これは、横山作品特有の読解術であり、その深さに気づいた時の感動はひとしおだった。
 
 ## 全巻を通読するメリットと読む上での注意点
 
-「伊達政宗」を全巻通して読むことで、政宗の幼少期から晩年に至るまでの<strong>壮大な人生を一本の筋として追体験できる</strong>。彼が経験した幾多の戦、豊臣秀吉や徳川家康といった天下人たちとの駆け引き、そして領民への思いなど、断片的な情報だけでは得られない深い理解が得られるはずだ。
+「伊達政宗」を全巻通して読むことで、政宗の幼少期から晩年に至るまでの<strong>壮大な人生を一本の筋として追うことが可能である</strong>。彼が経験した幾多の戦、豊臣秀吉や徳川家康といった天下人たちとの駆け引き、そして領民への思いなど、断片的な情報だけでは得られない深い理解が期待できる。
 
 一方で、古い作品であるため、現代の漫画に慣れた目には<strong>絵柄が古く感じる</strong>かもしれない。また、史実の解釈については、研究の進展によって今日とは異なる部分もある。しかし、それは作品の価値を損なうものではなく、むしろ当時の歴史観や創作の自由さを感じさせる魅力にもなっている。
 
@@ -117,7 +117,7 @@ sidebarProducts:
 
 横山光輝の「伊達政宗」は、単に歴史上の出来事をなぞるだけの作品ではない。戦国の世を駆け抜けた<strong>一人の人間の生き様と、彼が抱いた夢や苦悩</strong>を、読者に深く訴えかける力がある。
 
-歴史上の人物に感情移入したい人、横山光輝の劇画タッチに魅力を感じる人には、ぜひ全巻を通して読んでほしい。きっと、歴史漫画の奥深さと、政宗という人物の新たな一面を発見できるだろう。
+歴史上の人物に感情移入したい読者や、横山光輝の劇画タッチに魅力を感じる読者には、全巻を通して読むことが推奨される。これにより、歴史漫画の奥深さと、政宗という人物の新たな一面を発見する機会となる。
 
 ## よくある質問
 
@@ -127,9 +127,10 @@ A1: 横山光輝作品は独特の絵柄とテンポがあるため、最初は�
 特に「伊達政宗」は史実に基づいているため、物語に入り込みやすいはずです。
 
 <strong>Q2: 史実と漫画の描写の違いは？</strong>
-A2: 「伊達政宗」は山岡荘八の歴史小説を原作としているため、<strong>物語としての面白さを追求したフィクション</strong>の部分も含まれます。厳密な歴史研究とは異なる描写もあることを理解した上で、作品全体の人間ドラマとして楽しむのがおすすめです。
+A2: 「伊達政宗」は山岡荘八の歴史小説を原作としているため、<strong>物語としての面白さを追求したフィクション</strong>の部分も含まれます。厳密な歴史研究とは異なる描写もあることを理解した上で、作品全体の人間ドラマとして楽しむのが適している。
 
 <strong>Q3: 全巻揃えるなら紙と電子、どちらが良い？</strong>
 A3: <strong>紙媒体</strong>は書棚に並べてコレクションする満足感や、ページをめくる手触りがあります。一方、<strong>電子書籍</strong>は場所を取らず、どこでも手軽に読めるのが利点です。
 
 ご自身の読書習慣や保管スペースを考慮して選ぶと良いでしょう。
+

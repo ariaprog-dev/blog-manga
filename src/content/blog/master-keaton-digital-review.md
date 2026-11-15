@@ -38,11 +38,11 @@ sidebarProducts:
 
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
-僕は年間数百冊の漫画を読むコレクターとして、時折「これは読書体験を超えた教養だ」と感じる作品に出会う。その一つが<strong>『MASTERキートン 完全版 デジタルVer』</strong>だ。
+年間数百冊の漫画を読むコレクターは、時折「読書体験を超えた教養」と感じる作品に出会う。その一つが<strong>『MASTERキートン 完全版 デジタルVer』</strong>である。
 
 これは単なる探偵物語ではなく、考古学、サバイバル術、そして人間の本質が織りなす極上のヒューマンドラマである。
 
-歴史や世界の文化、人間の心理に深く踏み込んだ物語を求めている人に、心からおすすめしたい一作だ。
+歴史や世界の文化、人間の心理に深く踏み込んだ物語を求める人に適した一作である。
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -61,12 +61,12 @@ sidebarProducts:
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DMASTER%25E3%2582%25AD%25E3%2583%25BC%25E3%2583%2588%25E3%2583%25B3%2520%25E5%25AE%258C%25E5%2585%25A8%25E7%2589%2588%2520%25E3%2583%2587%25E3%2582%25B8%25E3%2582%25BF%25E3%2583%25ABVer" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値をチェック（Kindle即時配信・紙版）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DMASTER%25E3%2582%25AD%25E3%2583%25BC%25E3%2583%2588%25E3%2583%25B3%2520%25E5%25AE%258C%25E5%2585%25A8%25E7%2589%2588%2520%25E3%2583%2587%25E3%2582%25B8%25E3%2582%25BF%25E3%2583%25ABVer" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（Kindle・紙版）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
-<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4185491%2Fb600bsgk08254%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DMASTER%25E3%2582%25AD%25E3%2583%25BC%25E3%2583%2588%25E3%2583%25B3%2520%25E5%25AE%258C%25E5%2585%25A8%25E7%2589%2588%2520%25E3%2583%2587%25E3%2582%25B8%25E3%2582%25BF%25E3%2583%25ABVer" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
-<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4185491%2Fb600bsgk08254%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMMで見る（限定特典・配信）</a>
-<a href="https://px.a8.net/svt/ejp?a8mat=4B8BWQ+57JKC2+1892+6QEUP" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #059669, #047857); color: #ffffff !important;">📚 全巻セット（漫画全巻ドットコム）</a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMASTER%E3%82%AD%E3%83%BC%E3%83%88%E3%83%B3%20%E5%AE%8C%E5%85%A8%E7%89%88%20%E3%83%87%E3%82%B8%E3%82%BF%E3%83%ABVer%2F" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DMASTER%25E3%2582%25AD%25E3%2583%25BC%25E3%2583%2588%25E3%2583%25B3%2520%25E5%25AE%258C%25E5%2585%25A8%25E7%2589%2588%2520%25E3%2583%2587%25E3%2582%25B8%25E3%2582%25BF%25E3%2583%25ABVer" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4185491%2Fb600bsgk08254%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMMで見る（限定特典・配信）</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4B8BWQ+57JKC2+1892+6QEUP" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #059669, #047857); color: #ffffff !important;">📚 全巻セット（漫画全巻ドットコム）</a>
 </div>
 </div>
 </div>
@@ -101,7 +101,7 @@ sidebarProducts:
 
 また、事件解決には<strong>緻密な分析や学術的な考察</strong>が多く、派手なアクションシーンを求めている人には物足りなく感じる可能性もある。キートンは元SAS教官ではあるものの、徒手格闘で敵をなぎ倒すような描写は少なく、あくまで「知」と「経験」による解決が主軸だ。
 
-僕も最初は、もっとアクションが多いのかと思っていたが、読み進めるうちに<strong>頭脳戦の面白さ</strong>に引き込まれた。
+当初はアクションが多いと予想されたが、読み進めるうちに<strong>頭脳戦の面白さ</strong>が際立つ。
 
 浦沢直樹の絵柄は非常に個性的で、独特の陰影や表情が物語の重厚感を高めている一方で、<strong>好みが分かれる</strong>点でもある。さらに、一話完結形式ではあるものの、ドナウ文明発掘というキートンの夢は物語全体の背景にあり、スピーディーな展開や明確な目標達成を求める読者には、物語の推進力が緩やかに感じられるかもしれない。
 
@@ -119,7 +119,7 @@ sidebarProducts:
 | <strong>価格・セール</strong> | 定価購入が基本、稀に割引 | <strong>DMMブックスでのセール時に非常にお得に購入可能</strong> |
 | <strong>初期の戸惑い</strong> | 特にない | 最初はしおりやページ検索機能の操作に慣れる必要がある |
 
-僕も最初、デジタル版で読み始めた時、紙の本のような直感的な「ここをもう一度確認したい」という時に、<strong>しおりを挟む感覚が掴みづらかった</strong>。しかし、DMMブックスの<strong>しおり機能や検索機能を使いこなす</strong>までに少し時間がかかったものの、慣れてしまえば特定のキーワードや登場人物の名前を瞬時に探せる便利さに手放せなくなったよ。
+デジタル版の利用開始時、紙媒体のような直感的な「ここをもう一度確認したい」という時に、<strong>しおりを挟む感覚が掴みづらい</strong>と感じる場合がある。しかし、DMMブックスの<strong>しおり機能や検索機能</strong>に慣れると、特定のキーワードや登場人物の名前を瞬時に探せる利便性が得られる。
 
 特に『MASTERキートン』のように情報量が多い作品では、この検索性は大きなメリットになる。
 
@@ -138,7 +138,7 @@ sidebarProducts:
 | <strong>アニメ放送カバー範囲</strong> | 全24話（原作の序盤から中盤を網羅） |
 | <strong>アニメの続きを読むなら</strong> | アニメ最終話以降も、原作は多数のエピソードが続く |
 
-アニメ『MASTERキートン』は全24話で、原作の序盤から中盤にかけてのエピソードをカバーしている。アニメで作品の雰囲気を掴んだ人も、<strong>原作はさらに多くのエピソード</strong>を深く掘り下げているため、続きが気になるならぜひ原作を読んでみてほしい。
+アニメ『MASTERキートン』は全24話で、原作の序盤から中盤にかけてのエピソードをカバーしている。アニメで作品の雰囲気を掴んだ場合でも、<strong>原作はさらに多くのエピソード</strong>を深く掘り下げているため、続きが気になる場合は原作の読書が推奨される。
 
 脚本家が途中で浦沢直樹氏に交代する点も、作風の変化を楽しめるポイントだ。
 
@@ -162,6 +162,7 @@ A3: 基本的に<strong>1話完結形式</strong>なので、各エピソード�
 | 著者/作者 | 浦沢直樹, 勝鹿北星 |
 | ジャンル | ヒューマンドラマ |
 
-『MASTERキートン 完全版 デジタルVer』は、単なる漫画の枠を超え、<strong>知的な探求と人間ドラマの奥深さ</strong>を教えてくれる作品だ。僕自身、この作品から得た知識や示唆は、日々のニュースや歴史を読み解く上での新たな視点を与えてくれた。
+『MASTERキートン 完全版 デジタルVer』は、単なる漫画の枠を超え、<strong>知的な探求と人間ドラマの奥深さ</strong>を教えてくれる作品だ。この作品から得られる知識や示唆は、日々のニュースや歴史を読み解く上での新たな視点を提供する。
 
 デジタル版であれば、<strong>全12巻をデバイス一つで持ち運べる</strong>ため、通勤中や移動中の隙間時間でも、キートンの知的な冒険に没頭できる。この作品が、読者の日常に<strong>知的な刺激と深い感動</strong>をもたらすことは間違いないだろう。一生モノの教養漫画として、じっくりと味わい尽くしてほしい。
+

@@ -8,15 +8,12 @@ mediaType: comic
 tags:
 - angle:review
 faq:
-- question: バレエの知識がなくても楽しめるか？
-  answer: はい、十分に楽しめます。バレエ用語や技術的な説明は作中で自然に解説されたり、絵で補足されたりするため、専門知識がなくても物語の本筋を追うことに支障はありません。
-    むしろ、作品を読み進めるうちにバレエの世界に興味を持つきっかけになるでしょう。
-- question: 全巻通して読む価値はあるか？
-  answer: 強くおすすめします。真生の成長とバレエ人生は長期にわたるため、一巻だけでなく全巻読むことで、彼女の努力の軌跡、ライバルや仲間との関係性の変化、そして最終的な到達点までを深く味わうことができます。
-    途中で挫折や苦難もありますが、それらを乗り越える真生の姿は、読者に大きな感動と勇気を与えてくれるでしょう。
-- question: 真生以外のキャラクターの魅力は？
-  answer: 真生を取り巻く登場人物たちも非常に魅力的です。ライバルであり友でもある踊り手たち、真生を見守り導く師たち、そして彼女の心を支える家族や恋人など、それぞれのキャラクターが複雑な背景や個性を持ち、物語に深みを与えています。
-    彼らの存在が、真生の成長をより多角的に描き出している点も、本作の大きな魅力です。
+  - question: 'バレエの知識がなくても楽しめるか？'
+    answer: 'はい、十分に楽しめます。バレエ用語や技術的な説明は作中で自然に解説されたり、絵で補足されたりするため、専門知識がなくても物語の本筋を追うことに支障はありません。 むしろ、作品を読み進めるうちにバレエの世界に興味を持つきっかけになるでしょう。'
+  - question: '全巻通して読む価値はあるか？'
+    answer: '真生の成長とバレエ人生は長期にわたるため、一巻だけでなく全巻読むことで、彼女の努力の軌跡、ライバルや仲間との関係性の変化、そして最終的な到達点までを追うことができる。途中で挫折や苦難もあるが、それらを乗り越える真生の姿は、読者にとって示唆に富む内容となるだろう。'
+  - question: '真生以外のキャラクターの魅力は？'
+    answer: '真生を取り巻く登場人物たちも非常に魅力的です。ライバルであり友でもある踊り手たち、真生を見守り導く師たち、そして彼女の心を支える家族や恋人など、それぞれのキャラクターが複雑な背景や個性を持ち、物語に深みを与えています。 彼らの存在が、真生の成長をより多角的に描き出している点も、本作の大きな魅力です。'
 sidebarProducts:
 - title: 愛のアランフェス 5
   url: https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbk245_2444741%2F&af_id=DMMaria-999&ch=api
@@ -38,12 +35,11 @@ heroImages:
 - https://ebook-assets.dmm.com/digital/e-book/b950lshes03420/b950lshes03420pl.jpg
 - https://thumbnail.image.rakuten.co.jp/@0_mall/bookoffonline/cabinet/1904/0011389930l.jpg?_ex=600x600
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
-バレエの世界が持つ光と影、そしてそこに生きる人々の熱いドラマを描き切った槙村さとる先生の『愛のアランフェス』は、僕にとって特別な作品の一つだ。特に今回取り上げる愛のアランフェス 5は、主人公・真生が国際コンクールで直面する、技術と精神の極限状態を鮮やかに描き出している。
+バレエの世界の光と影、そしてそこに生きる人々のドラマを描いた槙村さとるの『愛のアランフェス』は、特筆すべき作品である。特に今回取り上げる愛のアランフェス 5は、主人公・真生が国際コンクールで直面する、技術と精神の極限状態を鮮やかに描き出している。
 
-単なるバレエ漫画という枠を超え、若き才能が自らのアイデンティティを確立しようともがく姿は、読む者の心を強く揺さぶるだろう。この一冊は、卓越したデッサン力と繊細な心理描写が織りなす、まさに魂の舞踏の結晶だと僕は思う。
+単なるバレエ漫画という枠を超え、若き才能が自らのアイデンティティを確立しようともがく姿は、読む者の心を強く揺さぶるだろう。この一冊は、卓越したデッサン力と繊細な心理描写が特徴である。
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -62,12 +58,12 @@ heroImages:
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%2584%259B%25E3%2581%25AE%25E3%2582%25A2%25E3%2583%25A9%25E3%2583%25B3%25E3%2583%2595%25E3%2582%25A7%25E3%2582%25B9%25205" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値をチェック（Kindle即時配信・紙版）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%2584%259B%25E3%2581%25AE%25E3%2582%25A2%25E3%2583%25A9%25E3%2583%25B3%25E3%2583%2595%25E3%2582%25A7%25E3%2582%25B9%25205" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（Kindle・紙版）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
-<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbk245_2444741%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E6%2584%259B%25E3%2581%25AE%25E3%2582%25A2%25E3%2583%25A9%25E3%2583%25B3%25E3%2583%2595%25E3%2582%25A7%25E3%2582%25B9%25205" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
-<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbk245_2444741%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMMで見る（限定特典・配信）</a>
-<a href="https://px.a8.net/svt/ejp?a8mat=4B8BWQ+57JKC2+1892+6QEUP" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #059669, #047857); color: #ffffff !important;">📚 全巻セット（漫画全巻ドットコム）</a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E6%84%9B%E3%81%AE%E3%82%A2%E3%83%A9%E3%83%B3%E3%83%95%E3%82%A7%E3%82%B9%205%2F" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E6%2584%259B%25E3%2581%25AE%25E3%2582%25A2%25E3%2583%25A9%25E3%2583%25B3%25E3%2583%2595%25E3%2582%25A7%25E3%2582%25B9%25205" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbk245_2444741%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMMで見る（限定特典・配信）</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4B8BWQ+57JKC2+1892+6QEUP" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #059669, #047857); color: #ffffff !important;">📚 全巻セット（漫画全巻ドットコム）</a>
 </div>
 </div>
 </div>
@@ -83,7 +79,7 @@ heroImages:
 
 特にこの5巻、国際コンクールの舞台での真生のアラベスクは、見開きの広い空間を使い、その優雅さと力強さを余すところなく伝えてくる。約180ページのうち、コンクールシーンが占める約2割のページで、連続した動きを表現する多段コマ割りや大ゴマが多用されているのは、まさに作者の表現へのこだわりを感じる部分だ。
 
-初めて読んだ時、僕はバレエの知識が浅く、真生が技術的・精神的にどれほど追い詰められているのか理解しきれていなかった。何度も読み返し、コンクールの演目やバレエ用語の意味を調べたとき「ああ、この表現は本当にギリギリの戦いなんだ」と気づき、鳥肌が立った経験がある。
+初めて読んだ際、バレエの知識が浅い読者は、真生が技術的・精神的にどれほど追い詰められているのか理解しにくいかもしれない。しかし、読み返し、コンクールの演目やバレエ用語の意味を調べることで、その表現が極限の戦いを描いていることに気づかされるだろう。
 
 読者にここまで深く踏み込ませる描写力は、単なる絵の上手さだけでは到達できない、作者の深いバレエ愛と表現への探究心の賜物だ。
 
@@ -125,6 +121,12 @@ DMM.comから電子書籍として提供される『愛のアランフェス 5�
 
 数年ぶりに読み返すと、初読時には気づかなかったキャラクターの心情の機微や、伏線の巧みさにハッとさせられる経験は少なくない。本作品は電子書籍という形でも、その深い魅力を余すことなく伝えてくれる。
 
-| 項目 | 詳細 |
-| :--- | :--- |
-| :
+## 製品仕様・購入選択肢の比較整理表
+
+購入検討時の判断材料として、掲載アイテムの基本仕様・参考価格帯・確認ポイントを以下の表に整理しています。
+
+| 確認項目・ラインナップ | 仕様・価格目安 | 選定時の確認ポイント |
+| :--- | :--- | :--- |
+| 愛のアランフェス 5 | 513円（参考価格） | 代表・注目掲載商品 |
+| 愛のアランフェス 4 | 513円（参考価格） | 関連・別巻／周辺ラインナップ 2 |
+| 愛のアランフェス 3 | 513円（参考価格） | 関連・別巻／周辺ラインナップ 3 |

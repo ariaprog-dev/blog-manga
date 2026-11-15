@@ -21,7 +21,6 @@ sidebarProducts:
     price: 11968
     microCopy: '詳細を見る'
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 アニメ史に燦然と輝く名作『王立宇宙軍 オネアミスの翼』が、4K Ultra HD Blu-rayでその真価を問う時が来た。単なるリマスターではない。
@@ -45,12 +44,12 @@ sidebarProducts:
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E7%258E%258B%25E7%25AB%258B%25E5%25AE%2587%25E5%25AE%2599%25E8%25BB%258D%2520%25E3%2582%25AA%25E3%2583%258D%25E3%2582%25A2%25E3%2583%259F%25E3%2582%25B9%25E3%2581%25AE%25E7%25BF%25BC%25204K%2520Blu-ray" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値をチェック（Kindle即時配信・紙版）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E7%258E%258B%25E7%25AB%258B%25E5%25AE%2587%25E5%25AE%2599%25E8%25BB%258D%2520%25E3%2582%25AA%25E3%2583%258D%25E3%2582%25A2%25E3%2583%259F%25E3%2582%25B9%25E3%2581%25AE%25E7%25BF%25BC%25204K%2520Blu-ray" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（Kindle・紙版）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
-<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_609bcqa16%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E7%258E%258B%25E7%25AB%258B%25E5%25AE%2587%25E5%25AE%2599%25E8%25BB%258D%2520%25E3%2582%25AA%25E3%2583%258D%25E3%2582%25A2%25E3%2583%259F%25E3%2582%25B9%25E3%2581%25AE%25E7%25BF%25BC%25204K%2520Blu-ray" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
-<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_609bcqa16%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMMで見る（限定特典・配信）</a>
-<a href="https://px.a8.net/svt/ejp?a8mat=4B8BWQ+57JKC2+1892+6QEUP" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #059669, #047857); color: #ffffff !important;">📚 全巻セット（漫画全巻ドットコム）</a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E7%8E%8B%E7%AB%8B%E5%AE%87%E5%AE%99%E8%BB%8D%20%E3%82%AA%E3%83%8D%E3%82%A2%E3%83%9F%E3%82%B9%E3%81%AE%E7%BF%BC%204K%20Blu-ray%2F" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E7%258E%258B%25E7%25AB%258B%25E5%25AE%2587%25E5%25AE%2599%25E8%25BB%258D%2520%25E3%2582%25AA%25E3%2583%258D%25E3%2582%25A2%25E3%2583%259F%25E3%2582%25B9%25E3%2581%25AE%25E7%25BF%25BC%25204K%2520Blu-ray" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_609bcqa16%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMMで見る（限定特典・配信）</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4B8BWQ+57JKC2+1892+6QEUP" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #059669, #047857); color: #ffffff !important;">📚 全巻セット（漫画全巻ドットコム）</a>
 </div>
 </div>
 </div>
@@ -63,7 +62,7 @@ sidebarProducts:
 
 これは、フィルムが持つ本来の色情報や光の階調を余すところなく再現しようとする、制作陣のリスペクトの表れだ。例えば、ロケット発射基地の無機質なコンクリートの質感、シロツグが暮らす街の薄暗い路地裏、そして夜空に浮かぶ星々の煌めきまで、監督が意図したであろう描写がより鮮明に伝わる。
 
-僕も初めて再生した時、画面越しに「この作品はこんなにも情報が詰まっていたのか」と驚かされた。アニメーターたちの手書きによる筆致やセル画の微細な凹凸さえも感じられるような解像度は、単なる映像技術の進化を超え、作品の「設計思想」そのものに迫る体験を与えてくれる。
+初めて再生した際、画面越しに「この作品はこんなにも情報が詰まっていたのか」と驚きがもたらされた。アニメーターたちの手書きによる筆致やセル画の微細な凹凸さえも感じられるような解像度は、単なる映像技術の進化を超え、作品の「設計思想」そのものに迫る体験を与えてくれる。
 
 ## 人間の葛藤と希望を描く、不朽のストーリー
 『王立宇宙軍 オネアミスの翼』は、若き日のガイナックスが世に送り出した記念碑的作品だ。舞台は、未だロケット開発が成功していない架空の王国オネアミス。主人公シロツグは、軍の宇宙軍に所属するものの、劣等感と無気力さを抱える日々を送っている。しかし、宗教家リイクニとの出会いをきっかけに、彼は自らの存在意義、そして人類が宇宙へ向かう意味を問い直していく。
@@ -77,7 +76,7 @@ sidebarProducts:
 ## 投資に見合うか？ 4K環境と価格への割り切り
 この王立宇宙軍 オネアミスの翼の購入を検討する際、まず向き合うべきは価格と再生環境の問題だろう。価格は11,968円と、一般的なアニメBlu-rayと比較すると決して安価ではない。さらに、この4K Ultra HD Blu-rayの真価を体験するには、4K対応のテレビと4K Ultra HD Blu-rayプレーヤーが必須となる。
 
-僕も初めて再生しようとした時、自宅のテレビは4K対応だったものの、HDMIケーブルが旧規格のままだったため、HDRが正しく表示されず色合いが不自然に見えるという小さな失敗を経験した。結局、後日Ultra High Speed HDMIケーブルを買い直し、テレビのHDR設定もマニュアルで最適化する手間が必要だった。
+初めて再生しようとした際、自宅のテレビは4K対応だったものの、HDMIケーブルが旧規格のままだったため、HDRが正しく表示されず色合いが不自然に見えるという問題が発生した。結局、後日Ultra High Speed HDMIケーブルを買い直し、テレビのHDR設定もマニュアルで最適化する手間が必要だった。
 
 このように、再生環境が完璧に整っていないと、この4K版が持つ本来のポテンシャルを最大限に引き出すのは難しい。しかし、一度環境が整ってしまえば、その映像体験はこれまでのどのバージョンをも凌駕する。
 
@@ -86,8 +85,19 @@ sidebarProducts:
 ## コレクションとして部屋に飾る存在感
 王立宇宙軍 オネアミスの翼の4K Ultra HD Blu-rayは、映像ソフトとしての価値だけでなく、コレクターズアイテムとしての魅力も大きい。パッケージデザインは、作品の世界観を損なわないようシンプルかつ洗練されており、棚に並べた際に静かながらも確かな存在感を放つ。手にとった際の質感も良く、所有欲を満たしてくれる。
 
-単なる映像を収めたディスクではなく、作品への敬意が込められたプロダクトだ。僕の部屋では、当時の劇場パンフレットや設定資料集と並べて飾っている。
+単なる映像を収めたディスクではなく、作品への敬意が込められたプロダクトである。
 
 それだけで、作品が持つ独特の空気感が空間に広がる。こうした物理メディアとして作品を所有する喜びは、ストリーミングサービスでは決して得られない体験だ。
 
 このBlu-rayは、日本アニメーションの歴史における重要な一里塚を、物理的な形で未来へと語り継ぐ象徴とも言えるだろう。
+
+## 製品仕様・購入選択肢の比較整理表
+
+購入検討時の判断材料として、掲載アイテムの基本仕様・参考価格帯・確認ポイントを以下の表に整理しています。
+
+| 確認項目・ラインナップ | 仕様・価格目安 | 選定時の確認ポイント |
+| :--- | :--- | :--- |
+| 対象作品・掲載商品 | 王立宇宙軍 オネアミスの翼 4Kリマスターメモリアルボックス（4K ULTRA HD＋2ブルーレイ） | 記事内の主要紹介アイテム |
+| 媒体区分・想定仕様 | 映像ソフト・配信（Blu-ray／DVD／配信） | 視聴・閲覧環境（端末・プレイヤー・収納棚）との適合を確認 |
+| 価格・流通目安 | 11,968円（参考価格） | 在庫状況・送料・クーポン適用有無を含めて比較 |
+| 複数ストア比較の視点 | Amazon／楽天市場／Yahoo!／DMM等 | ポイント還元率・限定特典の有無・中古流通状態を照合 |

@@ -13,7 +13,7 @@ faq:
   - question: 'アニメ制作資料や設定画のようなコンテンツも多いですか？'
     answer: '主に版権イラスト、つまり雑誌の表紙やポスターなどに使用されたイラストが中心です。キャラクターデザインやメカデザインの詳細な設定画のような制作資料としての側面は限定的です。'
   - question: '他のエヴァンゲリオン関連の画集を持っている場合、重複する内容はありますか？'
-    answer: '他の画集の内容にもよりますが、版権イラストが中心のため、一部の有名なイラストは他の画集や書籍と重複する可能性があります。購入前に、収録作品の年代を確認することをおすすめします。'
+    answer: '他の画集の内容にもよりますが、版権イラストが中心のため、一部の有名なイラストは他の画集や書籍と重複する可能性があります。購入前に、収録作品の年代を確認するのが効果的だ。'
 sidebarProducts:
   - title: '新世紀エヴァンゲリオン画集DIE　STERNE Ver.2.0 / 貞本義行 【本】'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00qtaz1.ve2q5c76.g00qtaz1.ve2q6da9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhmvjapan%2F2582184%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhmvjapan%2Fi%2F29137019%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
@@ -21,14 +21,13 @@ sidebarProducts:
     price: 3630
     microCopy: '詳細を見る'
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 新世紀エヴァンゲリオン画集DIE STERNEは、単なるイラストの羅列ではない。これは、庵野秀明監督が紡ぎ出した普遍的な人間ドラマの、視覚的な資料集と呼ぶべき作品だ。
 
 アニメーションという表現媒体を通して、登場人物たちの葛藤や成長、そして作品が提示する深遠な問いを再体験するための、まさに決定版である。
 
-エヴァの世界観に深く没入したい人、アニメーション制作の裏側にある意図を知りたい人には、この画集は間違いなく知的な刺激を与えてくれる。
+エヴァの世界観に深く触れたい人、アニメーション制作の裏側にある意図を知りたい人にとって、この画集は有益な情報を提供する。
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -47,12 +46,12 @@ sidebarProducts:
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%2596%25B0%25E4%25B8%2596%25E7%25B4%2580%25E3%2582%25A8%25E3%2583%25B4%25E3%2582%25A1%25E3%2583%25B3%25E3%2582%25B2%25E3%2583%25AA%25E3%2582%25AA%25E3%2583%25B3%25E7%2594%25BB%25E9%259B%2586DIE%2520STERNE%2520Ver" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値をチェック（Kindle即時配信・紙版）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%2596%25B0%25E4%25B8%2596%25E7%25B4%2580%25E3%2582%25A8%25E3%2583%25B4%25E3%2582%25A1%25E3%2583%25B3%25E3%2582%25B2%25E3%2583%25AA%25E3%2582%25AA%25E3%2583%25B3%25E7%2594%25BB%25E9%259B%2586DIE%2520STERNE%2520Ver" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（Kindle・紙版）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
-<a href="https://hb.afl.rakuten.co.jp/hgc/g00qtaz1.ve2q5c76.g00qtaz1.ve2q6da9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhmvjapan%2F2582184%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhmvjapan%2Fi%2F29137019%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E6%2596%25B0%25E4%25B8%2596%25E7%25B4%2580%25E3%2582%25A8%25E3%2583%25B4%25E3%2582%25A1%25E3%2583%25B3%25E3%2582%25B2%25E3%2583%25AA%25E3%2582%25AA%25E3%2583%25B3%25E7%2594%25BB%25E9%259B%2586DIE%2520STERNE%2520Ver" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
-<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D%E6%96%B0%E4%B8%96%E7%B4%80%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%B3%E3%82%B2%E3%83%AA%E3%82%AA%E3%83%B3%E7%94%BB%E9%9B%86DIE%20STERNE%20Ver&af_id=DMMaria-999" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMM（無料試し読み）</a>
-<a href="https://px.a8.net/svt/ejp?a8mat=4B8BWQ+57JKC2+1892+6QEUP" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #059669, #047857); color: #ffffff !important;">📚 全巻セット（漫画全巻ドットコム）</a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00qtaz1.ve2q5c76.g00qtaz1.ve2q6da9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhmvjapan%2F2582184%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhmvjapan%2Fi%2F29137019%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E6%2596%25B0%25E4%25B8%2596%25E7%25B4%2580%25E3%2582%25A8%25E3%2583%25B4%25E3%2582%25A1%25E3%2583%25B3%25E3%2582%25B2%25E3%2583%25AA%25E3%2582%25AA%25E3%2583%25B3%25E7%2594%25BB%25E9%259B%2586DIE%2520STERNE%2520Ver" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D%E6%96%B0%E4%B8%96%E7%B4%80%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%B3%E3%82%B2%E3%83%AA%E3%82%AA%E3%83%B3%E7%94%BB%E9%9B%86DIE%20STERNE%20Ver&af_id=DMMaria-999" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMM（無料試し読み）</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4B8BWQ+57JKC2+1892+6QEUP" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #059669, #047857); color: #ffffff !important;">📚 全巻セット（漫画全巻ドットコム）</a>
 </div>
 </div>
 </div>
@@ -68,7 +67,7 @@ sidebarProducts:
 
 アニメーターたちは、一枚の絵の中に彼らの内面世界を凝縮させるため、構図や色の選択に細心の注意を払っていたことが伺える。
 
-僕自身、最初に画集を手に取った時は、単に懐かしいイラストを眺めるだけで満足していた。しかし、改めて各イラストの背景にある色彩やキャラクターのポージングに意識を向けてみると、そこには単なる美麗な絵以上のメッセージが隠されていることに気づく。
+画集を最初に手に取った際は、懐かしいイラストを眺めるだけで満足するかもしれない。しかし、改めて各イラストの背景にある色彩やキャラクターのポージングに意識を向けると、単なる美麗な絵以上のメッセージが隠されていることに気づかされる。
 
 特に、初期の雑誌掲載イラストでは、未だ見ぬ物語への期待感を煽るような、少しばかり明るめのトーンが用いられている。しかし物語が進むにつれて、キャラクターの表情は深くなり、色彩もどこか陰鬱さを帯びていく。
 
@@ -82,7 +81,7 @@ sidebarProducts:
 
 レイの存在は、人類補完計画という物語の根幹に関わるテーマを、静かで神秘的な美しさで表現している。
 
-僕は個人的に、特に印象深いのは、キャラクターたちが日常の風景の中にいるイラストだ。戦闘服ではない姿で、わずかな休息や思索にふける彼らの姿は、戦いの日々の中にも確かに「人間」としての生活があったことを思い出させてくれる。
+特に印象的なのは、キャラクターたちが日常の風景の中にいるイラストである。戦闘服ではない姿で、わずかな休息や思索にふける彼らの姿は、戦いの日々の中にも確かに「人間」としての生活があったことを思い出させてくれる。
 
 これらのイラストは、単にキャラクターの魅力を見せるだけでなく、彼らの人間性を深く掘り下げ、視聴者との間に強い共感を呼び起こすための仕掛けとして機能していた。アニメーション制作陣が、いかにキャラクターの心理描写に力を注いでいたかが、一枚一枚の絵から伝わってくる。
 
@@ -96,16 +95,23 @@ sidebarProducts:
 
 また、アニメ作品に登場するキャラクターデザインや美術設定画、メカデザインの資料集を求めている場合、本書は主に版権イラストが中心となるため、その点も留意が必要だろう。アートブックとしての性質上、制作資料としての機能は限定的だ。
 
-## 永久保存版としての価値：アニメの情感を追体験できる一枚
+## 永久保存版としての価値：アニメの情感を伝える一枚
 
-本画集は、エヴァンゲリオンという作品が持つ普遍的な魅力を、純粋なビジュアルで追体験できる点に最大の価値がある。アニメーションの映像では一瞬で過ぎ去るシーンも、画集なら時間をかけて細部まで鑑賞できる。
+本画集は、エヴァンゲリオンという作品が持つ普遍的な魅力を、純粋なビジュアルで鑑賞できる点に価値がある。アニメーションの映像では一瞬で過ぎ去るシーンも、画集なら時間をかけて細部まで鑑賞できる。
 
 アニメーション作品の構図や色彩、キャラクターの表情が持つ意味を深く読み解きたい人にとって、これは格好の素材だ。また、エヴァンゲリオンという作品が、なぜこれほどまでに多くの人々の心を掴み、社会現象を巻き起こしたのか。
 
 その答えの一端が、これらのイラストに凝縮されていると言える。HVM&BOOKS online 1号店での販売価格は3,630円。
 
-これはアートワークの収録点数や印刷品質を考慮すると、妥当な価格設定だと私は感じている。本画集は、アニメ作品の美学や表現手法に興味がある人、そしてエヴァという作品を深く考察したいと考える人にとって、非常に満足度の高い一冊となるだろう。
+アートワークの収録点数や印刷品質を考慮すると、妥当な価格設定である。本画集は、アニメ作品の美学や表現手法に興味がある人、そしてエヴァという作品を深く考察したいと考える人にとって、価値のある一冊となる。
 
-| 項目 | 詳細 |
-| :--- | :--- |
-| :
+## 製品仕様・購入選択肢の比較整理表
+
+購入検討時の判断材料として、掲載アイテムの基本仕様・参考価格帯・確認ポイントを以下の表に整理しています。
+
+| 確認項目・ラインナップ | 仕様・価格目安 | 選定時の確認ポイント |
+| :--- | :--- | :--- |
+| 対象作品・掲載商品 | 新世紀エヴァンゲリオン画集DIE STERNE Ver.2.0 / 貞本義行 【本】 | 記事内の主要紹介アイテム |
+| 媒体区分・想定仕様 | コミック・電子書籍・書籍版 | 視聴・閲覧環境（端末・プレイヤー・収納棚）との適合を確認 |
+| 価格・流通目安 | 3,630円（参考価格） | 在庫状況・送料・クーポン適用有無を含めて比較 |
+| 複数ストア比較の視点 | Amazon／楽天市場／Yahoo!／DMM等 | ポイント還元率・限定特典の有無・中古流通状態を照合 |

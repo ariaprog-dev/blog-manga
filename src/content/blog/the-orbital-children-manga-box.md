@@ -6,12 +6,12 @@ heroImage: 'https://pics.dmm.com/mono/movie/animation/n_645eyxa14027/n_645eyxa14
 genre: manga
 mediaType: comic
 faq:
-- question: コレクターズBOXの価格が高いと感じるのですが、それに見合う価値はありますか？
-  answer: 21,780円という価格は確かに高額だが、本BOXは単なる本編ディスクだけでなく、豪華な特典ディスク（メイキングやインタビューなど）、設定資料が満載のブックレット、そして美麗な特製パッケージが付属する。作品の世界観を深く理解し、最高の画質と音質で鑑賞するための要素が凝縮されており、ファンにとっては価格以上の満足感と長期的な鑑賞価値を提供するだろう。物理メディアとして作品を「所有する」喜びも大きい。
-- question: ストリーミング配信でも作品を見られるのですが、あえてBlu-ray BOXを購入するメリットは何ですか？
-  answer: ストリーミング配信は手軽だが、Blu-ray BOXには多くのメリットがある。まず、映像と音質のクオリティが段違いだ。Blu-rayは非圧縮に近い高画質・高音質で、磯監督作品の緻密な作画や音響へのこだわりを最大限に引き出す。また、特典ディスクやブックレットは配信にはない情報源で、作品の制作背景や設定を深く掘り下げることが可能だ。さらに、配信終了のリスクがなく、安定した環境でいつでも鑑賞できる永続性、そして物理的なコレクターズアイテムとして所有する喜びは、ストリーミングでは得られない大きな魅力と言える。
-- question: コレクターズBOXは場所を取ると聞きましたが、収納やディスプレイで気をつけることはありますか？
-  answer: コレクターズBOXは通常のBlu-rayケースよりも大きめなので、ある程度の収納スペースが必要となる。奥行きと高さのある本棚の一角を確保する、あるいは専用のディスプレイ棚を用意するなどの検討が必要だろう。パッケージデザインが美しいので、見栄えの良い場所にディスプレイするのもおすすめだ。直射日光や湿気はパッケージやディスクの劣化の原因になるため、避けるのが賢明である。定期的にホコリを拭き取るなど、丁寧な手入れをすることで、購入時の状態を長く保ち、コレクションとしての価値を維持できるだろう。
+  - question: 'コレクターズBOXの価格が高いと感じるのですが、それに見合う価値はありますか？'
+    answer: '21,780円という価格は確かに高額だが、本BOXは単なる本編ディスクだけでなく、豪華な特典ディスク（メイキングやインタビューなど）、設定資料が満載のブックレット、そして美麗な特製パッケージが付属する。作品の世界観を深く理解し、最高の画質と音質で鑑賞するための要素が凝縮されており、ファンにとっては価格以上の満足感と長期的な鑑賞価値を提供するだろう。物理メディアとして作品を「所有する」喜びも大きい。'
+  - question: 'ストリーミング配信でも作品を見られるのですが、あえてBlu-ray BOXを購入するメリットは何ですか？'
+    answer: 'ストリーミング配信は手軽だが、Blu-ray BOXには多くのメリットがある。まず、映像と音質のクオリティが段違いだ。Blu-rayは非圧縮に近い高画質・高音質で、磯監督作品の緻密な作画や音響へのこだわりを最大限に引き出す。また、特典ディスクやブックレットは配信にはない情報源で、作品の制作背景や設定を深く掘り下げることが可能だ。さらに、配信終了のリスクがなく、安定した環境でいつでも鑑賞できる永続性、そして物理的なコレクターズアイテムとして所有する喜びは、ストリーミングでは得られない大きな魅力と言える。'
+  - question: 'コレクターズBOXは場所を取ると聞きましたが、収納やディスプレイで気をつけることはありますか？'
+    answer: 'コレクターズBOXは通常のBlu-rayケースよりも大きめなので、ある程度の収納スペースが必要となる。奥行きと高さのある本棚の一角を確保する、あるいは専用のディスプレイ棚を用意するなどの検討が必要だろう。パッケージデザインが美しいので、見栄えの良い場所にディスプレイするのも有効だ。直射日光や湿気はパッケージやディスクの劣化の原因になるため、避けるのが賢明である。定期的にホコリを拭き取るなど、丁寧な手入れをすることで、購入時の状態を長く保ち、コレクションとしての価値を維持できるだろう。'
 sidebarProducts:
 - title: 地球外少年少女 Collectors BOX 前編・後編 特装限定版
   url: https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_645eyxa14027%2F&af_id=DMMaria-999&ch=api
@@ -27,7 +27,6 @@ heroImages:
 - https://pics.dmm.com/mono/movie/animation/n_645eyxa14027/n_645eyxa14027pl.jpg
 - 'https://pics.dmm.com/mono/movie/animation/n_645eyxa14027/n_645eyxa14027pl.jpg'
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
@@ -47,12 +46,12 @@ heroImages:
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%259C%25B0%25E7%2590%2583%25E5%25A4%2596%25E5%25B0%2591%25E5%25B9%25B4%25E5%25B0%2591%25E5%25A5%25B3%2520Collectors%2520BOX%2520%25E5%2589%258D%25E7%25B7%25A8%2520%25E5%25BE%258C%25E7%25B7%25A8" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値をチェック（Kindle即時配信・紙版）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%259C%25B0%25E7%2590%2583%25E5%25A4%2596%25E5%25B0%2591%25E5%25B9%25B4%25E5%25B0%2591%25E5%25A5%25B3%2520Collectors%2520BOX%2520%25E5%2589%258D%25E7%25B7%25A8%2520%25E5%25BE%258C%25E7%25B7%25A8" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（Kindle・紙版）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
-<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_645eyxa14027%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E5%259C%25B0%25E7%2590%2583%25E5%25A4%2596%25E5%25B0%2591%25E5%25B9%25B4%25E5%25B0%2591%25E5%25A5%25B3%2520Collectors%2520BOX%2520%25E5%2589%258D%25E7%25B7%25A8%2520%25E5%25BE%258C%25E7%25B7%25A8" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
-<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_645eyxa14027%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMMで見る（限定特典・配信）</a>
-<a href="https://px.a8.net/svt/ejp?a8mat=4B8BWQ+57JKC2+1892+6QEUP" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #059669, #047857); color: #ffffff !important;">📚 全巻セット（漫画全巻ドットコム）</a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E5%9C%B0%E7%90%83%E5%A4%96%E5%B0%91%E5%B9%B4%E5%B0%91%E5%A5%B3%20%E8%A8%AD%E5%AE%9A%E8%B3%87%E6%96%99%E9%9B%86%2F" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E5%259C%25B0%25E7%2590%2583%25E5%25A4%2596%25E5%25B0%2591%25E5%25B9%25B4%25E5%25B0%2591%25E5%25A5%25B3%2520Collectors%2520BOX%2520%25E5%2589%258D%25E7%25B7%25A8%2520%25E5%25BE%258C%25E7%25B7%25A8" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_645eyxa14027%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMMで見る（限定特典・配信）</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4B8BWQ+57JKC2+1892+6QEUP" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #059669, #047857); color: #ffffff !important;">📚 全巻セット（漫画全巻ドットコム）</a>
 </div>
 </div>
 </div>
@@ -108,7 +107,7 @@ heroImages:
 
 特に印象的なのは、登場人物たちの心理描写の丁寧さだ。子供たちが抱える未来への不安、友情、葛藤が、宇宙という広大な舞台で色鮮やかに描かれる。
 
-彼らが力を合わせ、未知の事態に立ち向かう姿は、鑑賞者に勇気と希望を与える。それは、大人になった私たちが忘れがちな、純粋な探究心や困難を乗り越える力を思い出させる。
+彼らが力を合わせ、未知の事態に立ち向かう姿は、鑑賞者に勇気と希望を与える。それは、純粋な探究心や困難を乗り越える力を想起させる。
 
 作品全体を貫くのは、人類が未来に向けてどう進化していくべきか、という根源的な問いだ。情報があふれる現代において、何が真実で、何を信じるべきなのか。
 
@@ -122,7 +121,7 @@ heroImages:
 
 それは、まるで美術品を鑑賞するような、静かで満たされた喜びを感じさせる。ふとした時に視界に入るそのパッケージは、作品が持つメッセージや感動を常に思い出させてくれるのだ。
 
-ファンにとって、こうしたコレクターズBOXは単なる商品ではなく、作品世界への愛着や思い出を凝縮した宝物である。私自身、好きな作品の限定版やコレクターズアイテムは、その作品をどれだけ愛しているかの証だと感じている。
+ファンにとって、こうしたコレクターズBOXは単なる商品ではなく、作品世界への愛着や思い出を凝縮した宝物である。好きな作品の限定版やコレクターズアイテムは、その作品への愛着を示すものと捉えられる。
 
 このBOXも、まさにそうした位置づけだ。作品を最高のクオリティで所有し、いつでも手元で鑑賞できるという安心感は、ストリーミングサービスでは得られない物理メディアならではのメリットと言える。
 
@@ -143,4 +142,14 @@ A1: 21,780円という価格は確かに高額だが、本BOXは単なる本編�
 A2: ストリーミング配信は手軽だが、Blu-ray BOXには多くのメリットがある。まず、映像と音質のクオリティが段違いだ。Blu-rayは非圧縮に近い高画質・高音質で、磯監督作品の緻密な作画や音響へのこだわりを最大限に引き出す。また、特典ディスクやブックレットは配信にはない情報源で、作品の制作背景や設定を深く掘り下げることが可能だ。さらに、配信終了のリスクがなく、安定した環境でいつでも鑑賞できる永続性、そして物理的なコレクターズアイテムとして所有する喜びは、ストリーミングでは得られない大きな魅力と言える。
 
 <strong>Q3: コレクターズBOXは場所を取ると聞きましたが、収納やディスプレイで気をつけることはありますか？</strong>
-A3: コレクターズBOXは通常のBlu-rayケースよりも大きめなので、ある程度の収納スペースが必要となる。奥行きと高さのある本棚の一角を確保する、あるいは専用のディスプレイ棚を用意するなどの検討が必要だろう。パッケージデザインが美しいので、見栄えの良い場所にディスプレイするのもおすすめだ。直射日光や湿気はパッケージやディスクの劣化の原因になるため、避けるのが賢明である。定期的にホコリを拭き取るなど、丁寧な手入れをすることで、購入時の状態を長く保ち、コレクションとしての価値を維持できるだろう。
+A3: コレクターズBOXは通常のBlu-rayケースよりも大きめなので、ある程度の収納スペースが必要となる。奥行きと高さのある本棚の一角を確保する、あるいは専用のディスプレイ棚を用意するなどの検討が必要だろう。パッケージデザインが美しいので、見栄えの良い場所にディスプレイするのも有効だ。直射日光や湿気はパッケージやディスクの劣化の原因になるため、避けるのが賢明である。定期的にホコリを拭き取るなど、丁寧な手入れをすることで、購入時の状態を長く保ち、コレクションとしての価値を維持できるだろう。
+
+## 製品仕様・購入選択肢の比較整理表
+
+購入検討時の判断材料として、掲載アイテムの基本仕様・参考価格帯・確認ポイントを以下の表に整理しています。
+
+| 確認項目・ラインナップ | 仕様・価格目安 | 選定時の確認ポイント |
+| :--- | :--- | :--- |
+| 地球外少年少女 Collectors BOX 前編・後編 特装限定版 | 21,780円（参考価格） | 本編・主要パッケージ／第1候補 |
+| 地球外少年少女 公式設定資料集 磯光雄の世界 | 3,850円（参考価格） | 比較・関連アイテム／別仕様 |
+| 購入前の共通確認事項（コミック・電子書籍・書籍版） | 各ストアの最新在庫・セール・ポイント条件を比較 | 媒体仕様（対応再生機器・判型・電子／紙）の確認が重要 |

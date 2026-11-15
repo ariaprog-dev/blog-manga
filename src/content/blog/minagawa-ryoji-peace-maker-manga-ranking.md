@@ -11,12 +11,12 @@ heroImages:
 tags:
 - angle:ranking
 faq:
-- question: 『PEACE MAKER』は完結していますか？
-  answer: はい、『PEACE MAKER』は全17巻で完結しています。物語はしっかりと最後まで描き切られているので、安心して読み進められます。
-- question: 『PEACE MAKER ―BLACK WING―』は漫画ですか？
-  answer: いいえ、『PEACE MAKER ―BLACK WING―』はノベライズ作品で、小説形式です。皆川亮二先生と岡村直宏先生による共著で、原作漫画とは異なる視点から物語が語られ、キャラクターの心理描写に深く踏み込んでいます。
-- question: 皆川亮二先生の作品は、どれから読み始めるのがおすすめですか？
-  answer: アクションとSF、骨太な人間ドラマが好きなら、やはり代表作の『PEACE MAKER』や『ARMS』から入るのが定番です。短編集『転送者』は、作者の幅広い作風を気軽に試せる良い入り口になるでしょう。読者の好みに合わせて選んでみてください。
+  - question: '『PEACE MAKER』は完結していますか？'
+    answer: 'はい、『PEACE MAKER』は全17巻で完結しています。物語はしっかりと最後まで描き切られているので、安心して読み進められます。'
+  - question: '『PEACE MAKER ―BLACK WING―』は漫画ですか？'
+    answer: 'いいえ、『PEACE MAKER ―BLACK WING―』はノベライズ作品で、小説形式です。皆川亮二先生と岡村直宏先生による共著で、原作漫画とは異なる視点から物語が語られ、キャラクターの心理描写に深く踏み込んでいます。'
+  - question: '皆川亮二先生の作品は、どれから読み始めるのが適している。か？'
+    answer: 'アクションとSF、骨太な人間ドラマが好きなら、やはり代表作の『PEACE MAKER』や『ARMS』から入るのが定番です。短編集『転送者』は、作者の幅広い作風を気軽に試せる良い入り口になるでしょう。読者の好みに合わせて選んでみてください。'
 sidebarProducts:
 - title: PEACE MAKER
   url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F106084%2Fb950nshes02447%2F&af_id=DMMaria-999&ch=api
@@ -55,12 +55,12 @@ sidebarProducts:
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E8%25BB%25A2%25E9%2580%2581%25E8%2580%2585%2520%25E7%259A%2586%25E5%25B7%259D%25E4%25BA%25AE%25E4%25BA%258C%25E7%259F%25AD%25E7%25B7%25A8%25E9%259B%2586" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値をチェック（Kindle即時配信・紙版）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E8%25BB%25A2%25E9%2580%2581%25E8%2580%2585%2520%25E7%259A%2586%25E5%25B7%259D%25E4%25BA%25AE%25E4%25BA%258C%25E7%259F%25AD%25E7%25B7%25A8%25E9%259B%2586" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（Kindle・紙版）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
-<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4071103%2Fb600zsgk02967%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E8%25BB%25A2%25E9%2580%2581%25E8%2580%2585%2520%25E7%259A%2586%25E5%25B7%259D%25E4%25BA%25AE%25E4%25BA%258C%25E7%259F%25AD%25E7%25B7%25A8%25E9%259B%2586" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
-<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4071103%2Fb600zsgk02967%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMMで見る（限定特典・配信）</a>
-<a href="https://px.a8.net/svt/ejp?a8mat=4B8BWQ+57JKC2+1892+6QEUP" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #059669, #047857); color: #ffffff !important;">📚 全巻セット（漫画全巻ドットコム）</a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPEACE%20MAKER%2F" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E8%25BB%25A2%25E9%2580%2581%25E8%2580%2585%2520%25E7%259A%2586%25E5%25B7%259D%25E4%25BA%25AE%25E4%25BA%258C%25E7%259F%25AD%25E7%25B7%25A8%25E9%259B%2586" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4071103%2Fb600zsgk02967%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMMで見る（限定特典・配信）</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4B8BWQ+57JKC2+1892+6QEUP" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #059669, #047857); color: #ffffff !important;">📚 全巻セット（漫画全巻ドットコム）</a>
 </div>
 </div>
 </div>
@@ -78,7 +78,7 @@ sidebarProducts:
 
 初見の読者なら、この独特な世界観に最初は戸惑うかもしれない。しかし、読み進めるうちにホープや敵対するキャラクターたちの心理的葛藤、彼らが背負う過去や未来への信念が深く描かれ、物語に没入していく自分に気づくだろう。
 
-全17巻で描かれる壮大なストーリーは、緻密な伏線回収と読者を飽きさせない展開が続き、最後まで目が離せない。僕自身、初めて読んだ時は、ただのガンアクションにとどまらない深いテーマ性に衝撃を受けたものだ。
+全17巻で描かれる壮大なストーリーは、緻密な伏線回収と読者を飽きさせない展開が続き、最後まで目が離せない。この作品は、ただのガンアクションにとどまらない深いテーマ性を持つ。
 
 残念ながら、DMMブックスでは現時点で『PEACE MAKER』の「全巻セット」という形式での販売はない。そのため、読者は一冊ずつカートに入れて購入する必要がある。しかし、作品の面白さを考えれば、このひと手間は決して惜しくないはずだ。1冊あたり770円で購入できる。
 
@@ -97,11 +97,11 @@ sidebarProducts:
 
 漫画では描ききれない心理描写や、物語の裏側で起こっていたであろう出来事が文字で表現されることで、より多角的に世界観を理解できるのが大きなメリットだ。特に、原作キャラクターたちの新たな一面や、彼らが抱えていたであろう苦悩が描かれている点は、ファンにとって堪らないだろう。
 
-僕も読んだ時は、知っていたはずのキャラクターの行動原理に、さらに深い意味があったことに気づき、本編を読み返したくなった。1冊733円と手頃な価格で、新たな発見があるのは嬉しい。
+キャラクターの行動原理に新たな解釈が生まれ、本編を読み返すきっかけとなる。手頃な価格で新たな発見が得られる。
 
 ただし、ノベライズであるため、皆川亮二先生の迫力ある作画を直接楽しむことはできない。また、原作漫画の知識を前提としている部分も多いため、本編を未読の状態で読むと、登場人物や世界観への理解が追いつかない可能性がある。
 
-まずは『PEACE MAKER』の漫画本編を読み終えてから、この作品に挑むことを強くおすすめする。
+『PEACE MAKER』の漫画本編を読み終えてから、この作品を読むことが推奨される。
 
 ### スペック表
 | 項目 | 詳細 |
@@ -122,7 +122,7 @@ sidebarProducts:
 
 『PEACE MAKER』とは直接の関連がないため、特定のストーリーを深く追いたい人にとっては、物足りなさを感じるかもしれない。しかし、皆川亮二先生のファンであれば、彼の引き出しの多さや、ジャンルに縛られない発想力にきっと感銘を受けるはずだ。
 
-長編作品の合間に、箸休めとして、あるいは作者のルーツを探る意味で読んでみることをおすすめする。
+長編作品の合間に、箸休めとして、あるいは作者のルーツを探る意味で読んでみるのが効果的だ。
 
 ### スペック表
 | 項目 | 詳細 |
@@ -139,13 +139,13 @@ sidebarProducts:
 
 泉福朗氏との共同原作という形で、ストーリーテリングにも奥行きがある。皆川亮二先生らしい迫力あるアクションシーンは健在で、海戦の描写や帆船のメカニックデザインは、その緻密さで読者を唸らせるだろう。
 
-僕は、初めて海戦の描写を読んだ時、荒れる波濤の中を突き進む船の迫力に圧倒された。歴史考証に基づいた世界観も相まって、読んでいるとまるでその時代にタイムスリップしたかのような没入感がある。
+海戦の描写では、荒れる波濤の中を突き進む船の迫力が表現されている。歴史考証に基づいた世界観も相まって、読んでいるとまるでその時代にタイムスリップしたかのような没入感がある。
 
 1冊715円という価格も魅力的だ。
 
 『PEACE MAKER』のようなSF要素は薄く、歴史・時代劇に興味がない読者にとっては、魅力が伝わりにくいかもしれない。しかし、皆川亮二作品に共通する「男のロマン」を追求する作風は、『海王ダンテ』にも脈々と流れている。
 
-重厚なドラマや、緻密な設定を楽しめる読者には、間違いなくおすすめできる作品だ。『PEACE MAKER』を読み終わり、皆川亮二先生の別ジャンルの長編を試したいと思った時に、ぜひ手に取ってみてほしい。
+重厚なドラマや緻密な設定を楽しめる読者には、適している作品である。『PEACE MAKER』を読み終わり、皆川亮二先生の別ジャンルの長編を試したいと思った時に、ぜひ手に取ってみてほしい。
 
 ### スペック表
 | 項目 | 詳細 |
@@ -174,7 +174,8 @@ A1: はい、『PEACE MAKER』は全17巻で完結しています。物語はし
 <strong>Q2: 『PEACE MAKER ―BLACK WING―』は漫画ですか？</strong>
 A2: いいえ、『PEACE MAKER ―BLACK WING―』はノベライズ作品で、小説形式です。皆川亮二先生と岡村直宏先生による共著で、原作漫画とは異なる視点から物語が語られ、キャラクターの心理描写に深く踏み込んでいます。
 
-<strong>Q3: 皆川亮二先生の作品は、どれから読み始めるのがおすすめですか？</strong>
+<strong>Q3: 皆川亮二先生の作品は、どれから読み始めるのが適している。か？</strong>
 A3: アクションとSF、骨太な人間ドラマが好きなら、やはり代表作の『PEACE MAKER』や『ARMS』から入るのが定番です。短編集『転送者』は、作者の幅広い作風を気軽に試せる良い入り口になるでしょう。
 
 読者の好みに合わせて選んでみてください。
+

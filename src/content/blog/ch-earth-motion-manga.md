@@ -7,20 +7,18 @@ genre: 'manga'
 mediaType: 'comic'
 faq:
   - question: 'この豪華版は通常の単行本と具体的にどう違うのですか？'
-    answer: '具体的な仕様は公開されていないが、一般的に豪華版や特装版は、通常の単行本と比べて、上質な紙質、高精細な印刷、特別な装丁（限定カバー、エンボス加工など）、そして豪華な特製ボックスなどが含まれる場合が多い。これにより、作品の世界観をより深く表現し、物理的なコレクションとしての価値を高めていると期待できる。作品のテーマ性やアートワークが、通常の単行本では味わえないような品質で提供される可能性が高いと言えるだろう。'
+    answer: '具体的な仕様は公開されていないが、一般的に豪華版や特装版は、通常の単行本と比べて、上質な紙質、高精細な印刷、特別な装丁（限定カバー、エンボス加工など）、そして豪華な特製ボックスなどが含まれる場合が多い。これにより、作品の世界観をより深く表現し、物理的なコレクションとしての価値を高めていると期待できる。作品のテーマ性やアートワークが、通常の単行本では味わえないような品質で提供される可能性が高いと言える。'
   - question: '19,800円という価格に見合う価値がありますか？'
     answer: 'この豪華版の価値は、単に作品を読むという行為を超えた部分に存在する。作品自体が持つ思想的な深み、哲学的な問いかけ、そして人類の知の歴史を描く壮大なスケールは、一度読んだら忘れられないインパクトを残すものだ。豪華版は、その作品の「重み」や「美しさ」を物理的に手元に置きたいと願う、熱心なファンやコレクターにとって、価格以上の知的満足感と所有する喜びを提供してくれるだろう。単なる消費ではなく、生涯にわたって大切にしたい「知の遺産」としての価値を求める方には、十分に見合う投資だと言える。'
   - question: '『チ。-地球の運動について-』をまだ読んだことがないのですが、この豪華版から読み始めても大丈夫ですか？'
-    answer: 'はい、全く問題ない。むしろ、初めてこの作品に触れる読者が豪華版から読み始めることで、その圧倒的な世界観と物語の深みを最高の状態で体験できるだろう。ただし、作品のテーマは深く、人間の知の探求と信仰の対立という重い内容を含む。読み応えは確かにあるが、その分、読後には得も言われぬ感動と知的な刺激が残るはずだ。この豪華版は、作品への没入感を最大限に高めてくれるため、初回体験としても非常に優れた選択肢となるだろう。'
+    answer: 'はい、全く問題ありません。むしろ、初めてこの作品に触れる読者が豪華版から読み始めることで、その圧倒的な世界観と物語の深みを十分に堪能できるでしょう。ただし、作品のテーマは深く、人間の知の探求と信仰の対立という重い内容を含みます。読み応えは確かにあるため、読後には深い感銘と考察が残るでしょう。この豪華版は、作品への没入感を高めるため、初回体験としても適した選択肢となります。'
 sidebarProducts:
   - title: 'チ。―地球の運動について―'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4040814%2Fb600csgk01581%2F&af_id=DMMaria-999&ch=api'
     imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b600csgk01581/b600csgk01581pl.jpg'
     price: 759
     microCopy: '詳細を見る'
-
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 『チ。-地球の運動について-』豪華版は、地動説という真理を追い求めた人々の命がけの戦いを描く歴史SF漫画の、特別なコレクションアイテムである。
@@ -46,12 +44,12 @@ sidebarProducts:
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2581%2520%25E2%2580%2595%25E5%259C%25B0%25E7%2590%2583%25E3%2581%25AE%25E9%2581%258B%25E5%258B%2595%25E3%2581%25AB%25E3%2581%25A4%25E3%2581%2584%25E3%2581%25A6%25E2%2580%2595" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値をチェック（Kindle即時配信・紙版）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2581%2520%25E2%2580%2595%25E5%259C%25B0%25E7%2590%2583%25E3%2581%25AE%25E9%2581%258B%25E5%258B%2595%25E3%2581%25AB%25E3%2581%25A4%25E3%2581%2584%25E3%2581%25A6%25E2%2580%2595" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（Kindle・紙版）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
-<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4040814%2Fb600csgk01581%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%2581%2520%25E2%2580%2595%25E5%259C%25B0%25E7%2590%2583%25E3%2581%25AE%25E9%2581%258B%25E5%258B%2595%25E3%2581%25AB%25E3%2581%25A4%25E3%2581%2584%25E3%2581%25A6%25E2%2580%2595" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
-<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4040814%2Fb600csgk01581%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMMで見る（限定特典・配信）</a>
-<a href="https://px.a8.net/svt/ejp?a8mat=4B8BWQ+57JKC2+1892+6QEUP" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #059669, #047857); color: #ffffff !important;">📚 全巻セット（漫画全巻ドットコム）</a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%81%20%E2%80%95%E5%9C%B0%E7%90%83%E3%81%AE%E9%81%8B%E5%8B%95%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E2%80%95%2F" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%2581%2520%25E2%2580%2595%25E5%259C%25B0%25E7%2590%2583%25E3%2581%25AE%25E9%2581%258B%25E5%258B%2595%25E3%2581%25AB%25E3%2581%25A4%25E3%2581%2584%25E3%2581%25A6%25E2%2580%2595" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4040814%2Fb600csgk01581%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMMで見る（限定特典・配信）</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4B8BWQ+57JKC2+1892+6QEUP" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #059669, #047857); color: #ffffff !important;">📚 全巻セット（漫画全巻ドットコム）</a>
 </div>
 </div>
 </div>
@@ -119,7 +117,7 @@ sidebarProducts:
 
 上質な紙質と印刷、そして作品の世界観を凝縮した特別なデザインは、部屋の雰囲気を一変させるほどのインパクトを持つはずだ。
 
-この豪華版を所有するならば、書斎やリビングの目に付く場所に大切に飾りたい逸品となるだろう。それは、訪れた友人たちに作品の重みを共有する無言のメッセージを発し、同時に、所有者自身にも、ふとした瞬間に作品が持つ深遠なテーマや、真理を追い求めた人々の情熱を呼び覚ます。
+この豪華版は、書斎やリビングの目に付く場所に飾るのに適した逸品である。それは、訪れた友人たちに作品の重要性を伝え、同時に、所有者自身にも、作品が持つテーマや、真理を追い求めた人々の情熱を想起させる。
 
 単に物語の記憶を呼び起こすだけでなく、読み手の思考を刺激し、日々の生活の中で見過ごしがちな「知」への探求心を再燃させるきっかけともなるのだ。
 
@@ -135,7 +133,7 @@ sidebarProducts:
 
 ## 知の探求者と美意識を持つコレクターへ
 
-この「チ 地球の運動について 全巻セット」をおすすめしたいのは、まず何よりも『チ。-地球の運動について-』という作品に深く感動し、そのテーマや世界観に没頭したいと考える、熱心なファンである。
+この「チ 地球の運動について 全巻セット」は、『チ。-地球の運動について-』という作品に深く感動し、そのテーマや世界観に没頭したいと考える、熱心なファンである。
 
 単行本で一度読んだ人も、豪華版という形で手元に置くことで、作品の持つ深遠なメッセージをより深く、より長く心に留めておくことができるだろう。また、単なる物語としてだけでなく、そこに込められた思想や哲学、科学的な探求の軌跡に強い関心を持つ「知の探求者」にも、この豪華版は響くはずだ。
 
@@ -153,4 +151,13 @@ sidebarProducts:
 
 特に、限定生産品である可能性も考慮すると、その価値を長く保つためにも、丁寧な取り扱いと適切な保管場所の選定は必須となるだろう。これらの点を踏まえ、自身のライフスタイルや部屋の環境に合うかどうかを検討した上で、購入を決めるのが賢明だ。
 
-### スペック情報
+### スペック・購入検討ポイント整理表
+
+購入検討時の判断材料として、掲載アイテムの基本仕様・参考価格帯・確認ポイントを以下の表に整理しています。
+
+| 確認項目・ラインナップ | 仕様・価格目安 | 選定時の確認ポイント |
+| :--- | :--- | :--- |
+| 対象作品・掲載商品 | チ。―地球の運動について― | 記事内の主要紹介アイテム |
+| 媒体区分・想定仕様 | コミック・電子書籍・書籍版 | 視聴・閲覧環境（端末・プレイヤー・収納棚）との適合を確認 |
+| 価格・流通目安 | 759円（参考価格） | 在庫状況・送料・クーポン適用有無を含めて比較 |
+| 複数ストア比較の視点 | Amazon／楽天市場／Yahoo!／DMM等 | ポイント還元率・限定特典の有無・中古流通状態を照合 |

@@ -11,9 +11,9 @@ faq:
   - question: 'この作品はロボットアニメ初心者でも楽しめますか？'
     answer: 'ロボットアクションが主軸の作品というよりは、政治サスペンスや哲学的なテーマが色濃く描かれています。レイバーの活躍ももちろんありますが、人間ドラマや会話劇が中心です。 深く考えさせられる作品を好む方には特におすすめできます。'
   - question: 'ストーリーが難解だと聞きますが、一度で理解できるでしょうか？'
-    answer: '初見では情報量の多さやテーマの深さに圧倒され、一度では全てを理解しきれないと感じるかもしれません。僕自身もそうでした。 しかし、それがこの作品の魅力でもあります。繰り返し観ることで、新たな発見や解釈が生まれ、より深く作品の真髄に触れられるでしょう。'
+    answer: '初見では情報量の多さやテーマの深さに圧倒され、一度では全てを理解しきれないと感じる可能性がある。しかし、それがこの作品の魅力でもある。繰り返し観ることで、新たな発見や解釈が生まれ、より深く作品の真髄に触れることができる。'
   - question: 'Blu-rayとDVD、どちらを選ぶべきですか？'
-    answer: '作品の緻密な映像と音響を最大限に楽しむなら、やはりBlu-rayをおすすめします。HD画質と高音質で、監督が意図した細部の描写や環境音のニュアンスまでしっかりと感じ取れるため、作品への没入感が格段に高まります。'
+    answer: '作品の緻密な映像と音響を最大限に楽しむなら、Blu-rayが適している。HD画質と高音質により、監督が意図した細部の描写や環境音のニュアンスまで再現され、作品への没入感を高める。'
 sidebarProducts:
   - title: '機動警察パトレイバー2 the Movie 4Kリマスターコレクション（4K ULTRA HD Blu-ray ＆ Blu-ray Disc） （特装限定版）'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_609bcqa24%2F&af_id=DMMaria-999&ch=api'
@@ -21,10 +21,9 @@ sidebarProducts:
     price: 12155
     microCopy: '詳細を見る'
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
-僕は年間数百冊の漫画やアニメ作品に触れているが、『機動警察パトレイバー2 the Movie』は、観るたびに新たな発見がある稀有な作品だ。これは単なるロボットアニメではない。観客に「平和とは何か」「正義とは何か」を問いかける、深く哲学的な社会派ドラマが展開される。
+『機動警察パトレイバー2 the Movie』は、観るたびに新たな発見がある稀有な作品である。これは単なるロボットアニメではない。観客に「平和とは何か」「正義とは何か」を問いかける、深く哲学的な社会派ドラマが展開される。
 
 バンダイナムコ フィルムワークスからリリースされたこのBlu-ray/DVDは、その緻密な映像と音響を存分に楽しめる。劇場公開から30年近く経った今も、そのメッセージ性は全く色褪せていない。
 
@@ -47,12 +46,12 @@ sidebarProducts:
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%25A9%259F%25E5%258B%2595%25E8%25AD%25A6%25E5%25AF%259F%25E3%2583%2591%25E3%2583%2588%25E3%2583%25AC%25E3%2582%25A4%25E3%2583%2590%25E3%2583%25BC2%2520the%2520Movie" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値をチェック（Kindle即時配信・紙版）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%25A9%259F%25E5%258B%2595%25E8%25AD%25A6%25E5%25AF%259F%25E3%2583%2591%25E3%2583%2588%25E3%2583%25AC%25E3%2582%25A4%25E3%2583%2590%25E3%2583%25BC2%2520the%2520Movie" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（Kindle・紙版）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
-<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_609bcqa24%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E6%25A9%259F%25E5%258B%2595%25E8%25AD%25A6%25E5%25AF%259F%25E3%2583%2591%25E3%2583%2588%25E3%2583%25AC%25E3%2582%25A4%25E3%2583%2590%25E3%2583%25BC2%2520the%2520Movie" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
-<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_609bcqa24%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMMで見る（限定特典・配信）</a>
-<a href="https://px.a8.net/svt/ejp?a8mat=4B8BWQ+57JKC2+1892+6QEUP" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #059669, #047857); color: #ffffff !important;">📚 全巻セット（漫画全巻ドットコム）</a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E6%A9%9F%E5%8B%95%E8%AD%A6%E5%AF%9F%E3%83%91%E3%83%88%E3%83%AC%E3%82%A4%E3%83%90%E3%83%BC2%20the%20Movie%2F" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E6%25A9%259F%25E5%258B%2595%25E8%25AD%25A6%25E5%25AF%259F%25E3%2583%2591%25E3%2583%2588%25E3%2583%25AC%25E3%2582%25A4%25E3%2583%2590%25E3%2583%25BC2%2520the%2520Movie" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_609bcqa24%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMMで見る（限定特典・配信）</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4B8BWQ+57JKC2+1892+6QEUP" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #059669, #047857); color: #ffffff !important;">📚 全巻セット（漫画全巻ドットコム）</a>
 </div>
 </div>
 </div>
@@ -68,7 +67,7 @@ sidebarProducts:
 
 情報量の多い背景美術は、細部に至るまで徹底的に描き込まれていて、鑑賞するたびに新たな発見がある。例えば、劇中に登場するレイバー「イングラム」や「ヘルハウンド」は、単なるヒーローロボットではなく、その造形が持つ兵器としてのリアリティを追求している。
 
-メカの動き一つとっても、質量感や駆動音の表現が非常に生々しい。これは単なるアニメーション技術の粋を集めたものではなく、架空の兵器が「現実の危機」を引き起こす可能性を暗示するための演出だと僕は解釈している。
+メカの動き一つとっても、質量感や駆動音の表現が非常に生々しい。これは単なるアニメーション技術の粋を集めたものではなく、架空の兵器が「現実の危機」を引き起こす可能性を暗示するための演出と解釈できる。
 
 音響設計もまた、本作の緊迫感を高める重要な要素だ。川井憲次氏の音楽は、雅楽をベースにした静かで荘厳な旋律が特徴で、不穏な空気を一層際立たせる。
 
@@ -84,7 +83,7 @@ sidebarProducts:
 
 南雲しのぶ隊長もまた、柘植との過去と自身の正義の間で苦悩する。彼らの複雑な人間関係と心理描写が、作品に多層的な深みを与えている。
 
-初めて観た時、僕は後藤隊長の台詞の多さや、政治的な会話劇の連続に戸惑ったことを覚えている。しかし、二度、三度と観るうちに、その一言一句が持つ重みに気づき、物語の核を理解できた。
+初めて観た際、後藤隊長の台詞の多さや政治的な会話劇の連続に戸惑うことがあるかもしれない。しかし、繰り返し観ることで、その一言一句が持つ重みに気づき、物語の核を理解できる。
 
 この作品は、一度で全てを理解しようとするよりも、繰り返し鑑賞することで真価を発揮するスルメのような魅力がある。
 
@@ -102,4 +101,15 @@ sidebarProducts:
 
 押井守監督が提示した「戦争という名の錯覚と、欺瞞に満ちた平和」は、30年以上が経過した現代においてなお、恐ろしいほどの予言性を放っている。川井憲次氏の重厚な音楽、緻密なレイアウトと背景美術、そして息を呑む緊迫感はアニメーションの極致だ。
 
-ロボットアニメの枠を遥かに超えた、日本映画史上に残るポリティカル・サスペンスの最高峰。腰を据えて本物の映画体験を味わいたいすべての映像ファンに、心から鑑賞をおすすめしたい。
+ロボットアニメの枠を遥かに超えた、日本映画史上に残るポリティカル・サスペンスの最高峰。腰を据えて映画鑑賞を楽しみたいすべての映像ファンに適している。
+
+## 製品仕様・購入選択肢の比較整理表
+
+購入検討時の判断材料として、掲載アイテムの基本仕様・参考価格帯・確認ポイントを以下の表に整理しています。
+
+| 確認項目・ラインナップ | 仕様・価格目安 | 選定時の確認ポイント |
+| :--- | :--- | :--- |
+| 対象作品・掲載商品 | 機動警察パトレイバー2 the Movie 4Kリマスターコレクション（4K ULTRA HD Blu-ray ＆ Blu-ray Disc） （特装限定版） | 記事内の主要紹介アイテム |
+| 媒体区分・想定仕様 | 映像ソフト・配信（Blu-ray／DVD／配信） | 視聴・閲覧環境（端末・プレイヤー・収納棚）との適合を確認 |
+| 価格・流通目安 | 12,155円（参考価格） | 在庫状況・送料・クーポン適用有無を含めて比較 |
+| 複数ストア比較の視点 | Amazon／楽天市場／Yahoo!／DMM等 | ポイント還元率・限定特典の有無・中古流通状態を照合 |

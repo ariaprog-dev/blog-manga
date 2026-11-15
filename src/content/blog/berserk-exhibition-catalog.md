@@ -13,7 +13,7 @@ tags:
   - 'exhibition'
 faq:
   - question: '『ベルセルク』をまだ読んだことがないのですが、この図録から楽しめますか？'
-    answer: '本書はストーリーを追う漫画本ではなく、展覧会で展示された生原画を鑑賞するためのアートブックです。セリフやコマ割りは原画そのまま掲載されていますがあらすじ解説はないため、未読の方はまず原作コミックス全巻を一読してから手に取ることを強くおすすめします。物語を知っているからこそ、1コマに込められた執念に心が震えます。'
+    answer: '本書はストーリーを追う漫画本ではなく、展覧会で展示された生原画を鑑賞するためのアートブックである。セリフやコマ割りは原画そのまま掲載されているがあらすじ解説はないため、未読の方はまず原作コミックス全巻を一読してから手に取ることが推奨される。物語を知ることで、1コマに込められた表現の深さをより理解できる。'
   - question: '過去に出たベルセルクのイラスト集や画集と何が違いますか？'
     answer: '従来の画集が完成したカラーイラストの掲載を中心としていたのに対し、本書は三浦建太郎先生の「生原稿」をそのまま高精細スキャンしている点が決定的に異なります。ペンの入り抜き、インクの濃淡、ホワイトによる修正跡、ベタの筆跡まで肉眼で確認できる、まさに創作現場の空気を真空パックした超一級の美術資料です。'
   - question: '本のサイズや重量はどれくらいですか？一般的な本棚に入りますか？'
@@ -53,12 +53,12 @@ sidebarProducts:
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DBerserk" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値をチェック（Kindle即時配信・紙版）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DBerserk" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（Kindle・紙版）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
-<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D%E5%A4%A7%E3%83%99%E3%83%AB%E3%82%BB%E3%83%AB%E3%82%AF%E5%B1%95%20%E5%85%AC%E5%BC%8F%E5%9B%B3%E9%8C%B2&af_id=DMMaria-999" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DBerserk" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
-<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D%E5%A4%A7%E3%83%99%E3%83%AB%E3%82%BB%E3%83%AB%E3%82%AF%E5%B1%95%20%E5%85%AC%E5%BC%8F%E5%9B%B3%E9%8C%B2&af_id=DMMaria-999" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMMで見る（限定特典・配信）</a>
-<a href="https://px.a8.net/svt/ejp?a8mat=4B8BWQ+57JKC2+1892+6QEUP" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #059669, #047857); color: #ffffff !important;">📚 全巻セット（漫画全巻ドットコム）</a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBerserk%2F" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DBerserk" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D%E5%A4%A7%E3%83%99%E3%83%AB%E3%82%BB%E3%83%AB%E3%82%AF%E5%B1%95%20%E5%85%AC%E5%BC%8F%E5%9B%B3%E9%8C%B2&af_id=DMMaria-999" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMMで見る（限定特典・配信）</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4B8BWQ+57JKC2+1892+6QEUP" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #059669, #047857); color: #ffffff !important;">📚 全巻セット（漫画全巻ドットコム）</a>
 </div>
 </div>
 </div>
@@ -92,7 +92,7 @@ sidebarProducts:
 
 ## 収録章立て＆年代別アートワーク早見表
 
-本書は『ベルセルク』の物語の変遷とともに、三浦建太郎先生の画風の進化をクロニクル形式で追体験できる構成になっています。
+本書は『ベルセルク』の物語の変遷とともに、三浦建太郎氏の画風の進化をクロニクル形式で辿れる構成になっている。
 
 **【表の見方のポイント】** 2行目の「黄金時代篇〜断罪篇」と3行目の「千年帝国の鷹篇」の掲載原画を照らし合わせてほしい。手描きアナログの極致からデジタル作画への移行期にかけて、神がかり的な描き込みへと深化していった三浦先生の芸術的軌跡を迷わず追跡できる。
 
@@ -123,7 +123,7 @@ sidebarProducts:
 2. <strong>重量約2kg・A4大判による保管のハードル</strong>:
    総ページ数400P超の超重量本のため、寝転がって片手で読むことは不可能です。机の上に大きく広げて鑑賞するスタイルが基本となり、本棚の高さ（30cm以上）も必要となります。
 3. <strong>流通相場の確認（定価は約4,000円）</strong>:
-   展覧会公式アイテムであるため、タイミングによってフリマやネット通販で定価以上のプレミア価格がついている場合があります。定価（約3,960円前後）を念頭に置き、適正価格で購入することをおすすめします。
+   展覧会公式アイテムであるため、タイミングによってフリマやネット通販で定価以上のプレミア価格がついている場合があります。定価（約3,960円前後）を念頭に置き、適正価格で購入するのが効果的だ。
 
 ## まとめ：三浦建太郎の命が刻まれた唯一無二の遺産
 
@@ -135,11 +135,12 @@ sidebarProducts:
 
 ## よくある質問（FAQ）
 
-### Q1. 電子書籍版（Kindle等）と紙の書籍版、どちらがおすすめですか？
-断然「紙の書籍版」をおすすめします。本書の真価は、大判アート紙に印刷されたインクの質感や見開き2ページの圧倒的な迫力にあります。タブレット等の画面では味わえない、物理的な本の重みと質感を体感してください。
+### Q1. 電子書籍版（Kindle等）と紙の書籍版、どちらが適していますか？
+「紙の書籍版」が適している。本書の真価は、大判アート紙に印刷されたインクの質感や見開き2ページの圧倒的な迫力にあります。タブレット等の画面では味わえない、物理的な本の重みと質感を体感してください。
 
 ### Q2. 展覧会に行っていない人でも内容は理解できますか？
 全く問題ありません。展覧会の展示ルートに沿った年代順の構成になっているため、自宅にいながら展覧会のメイン展示をすべて鑑賞するようなバーチャル体験が可能です。
 
 ### Q3. カバーや装丁の耐久性はどうですか？
 並製本ですが、厚手で丈夫な表紙用紙と丁寧な糸綴じ製本が採用されており、机の上に180度フラットに開いても背表紙が割れにくい頑丈な仕上がりになっています。
+

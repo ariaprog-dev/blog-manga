@@ -61,11 +61,11 @@ sidebarProducts:
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%2587%2584%25E3%2583%258E%25E7%258E%258B%2520%25E5%25AE%258C%25E5%2585%25A8%25E5%2588%259D%25E5%2587%25BA%25204%2520%25E9%2580%25B1%25E5%2588%258A%25E5%25B0%2591%25E5%25B9%25B4%25E3%2583%259E%25E3%2582%25AC%25E3%2582%25B8%25E3%2583%25B3%25E7%2589%2588" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値をチェック（Kindle即時配信・紙版）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%2587%2584%25E3%2583%258E%25E7%258E%258B%2520%25E5%25AE%258C%25E5%2585%25A8%25E5%2588%259D%25E5%2587%25BA%25204%2520%25E9%2580%25B1%25E5%2588%258A%25E5%25B0%2591%25E5%25B9%25B4%25E3%2583%259E%25E3%2582%25AC%25E3%2582%25B8%25E3%2583%25B3%25E7%2589%2588" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（Kindle・紙版）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
-<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbkt34318264%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E5%2587%2584%25E3%2583%258E%25E7%258E%258B%2520%25E5%25AE%258C%25E5%2585%25A8%25E5%2588%259D%25E5%2587%25BA%25204%2520%25E9%2580%25B1%25E5%2588%258A%25E5%25B0%2591%25E5%25B9%25B4%25E3%2583%259E%25E3%2582%25AC%25E3%2582%25B8%25E3%2583%25B3%25E7%2589%2588" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
-<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbkt34318264%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMMで見る（限定特典・配信）</a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E5%87%84%E3%83%8E%E7%8E%8B%20%E5%AE%8C%E5%85%A8%E5%88%9D%E5%87%BA%204%20%E9%80%B1%E5%88%8A%E5%B0%91%E5%B9%B4%E3%83%9E%E3%82%AC%E3%82%B8%E3%83%B3%E7%89%88%2F" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E5%2587%2584%25E3%2583%258E%25E7%258E%258B%2520%25E5%25AE%258C%25E5%2585%25A8%25E5%2588%259D%25E5%2587%25BA%25204%2520%25E9%2580%25B1%25E5%2588%258A%25E5%25B0%2591%25E5%25B9%25B4%25E3%2583%259E%25E3%2582%25AC%25E3%2582%25B8%25E3%2583%25B3%25E7%2589%2588" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbkt34318264%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMMで見る（限定特典・配信）</a>
 
 </div>
 </div>
@@ -82,9 +82,9 @@ sidebarProducts:
 
 当時の連載カラー扉絵はもちろん、作品の構想段階で描かれた貴重なラフスケッチや設定資料が多数収録されている可能性が高い。例えば、主人公・凄ノ王のデザインがどのように変遷していったのか、彼の内面に潜む「王」としての覚醒が、どのような線の動きや構図で表現されていったのか。
 
-そうした創作の裏側を覗き見ることで、本編の読解は一層深まるだろう。僕自身、こういった画集から、漫画家の描き込みへの執念や、キャラクターの表情一つに込められた人間心理を読み取るのが好きなんだ。
+そうした創作の裏側を覗き見ることで、本編の読解は一層深まるだろう。画集からは、漫画家の描き込みへの執念や、キャラクターの表情一つに込められた人間心理を読み取ることができる。
 
-何より、作品全体を俯瞰できるのが大きな魅力だ。物語の断片だけでは感じ取れない、永井豪が『凄ノ王』に込めた普遍的なテーマや、神話的な世界観の広がりを視覚的に体験できる。
+作品全体を俯瞰できる点が大きな利点である。物語の断片だけでは把握しにくい、永井豪が『凄ノ王』に込めた普遍的なテーマや、神話的な世界観の広がりを視覚的に捉えることが可能となる。
 
 *   <strong>メリット:</strong>
     *   作品全体のビジュアルと世界観を深く理解できる。
@@ -104,24 +104,23 @@ sidebarProducts:
 | 価格 | 6,050円 |
 | サービス | 通販 |
 | フロア | 本・コミック |
-| is_hobby | True |
 | 著者/作者 | 永井豪 |
 | メーカー/出版社 | 復刊ドットコム |
 
 ## 第2位：連載当時の熱狂を体感『凄ノ王 完全初出 4 週刊少年マガジン版』
 
-この「完全初出 週刊少年マガジン版」は、『凄ノ王』をリアルタイムで追いかけた読者の記憶を呼び覚ます、あるいは当時の熱狂を追体験できる貴重なシリーズだ。第4巻は、物語が佳境に入り、クライマックスへと向かう重要な局面が描かれているはずだ。
+この「完全初出 週刊少年マガジン版」は、『凄ノ王』をリアルタイムで読んだ読者の記憶を喚起し、当時の連載の雰囲気を伝えるシリーズである。第4巻では、物語が佳境に入り、クライマックスへと向かう重要な局面が描かれている。
 
 主人公・凄ノ王が直面する最後の試練や、彼を巡る人間関係の決着が迫る、最もドラマティックな部分を収録している可能性が高い。
 
 通常の単行本とは異なり、週刊誌掲載時のレイアウトや、時に修正される前の生々しい描線がそのまま収録されている点に価値がある。永井豪の描く、狂気じみた暴力と、その中に潜む悲哀、そしてキャラクターたちが発する純粋なエネルギーが、当時の紙面からダイレクトに伝わってくる感覚は、まさに「一次情報」の醍醐味だ。
 
-僕も初めてこの手の完全初出版を読んだ時は、単行本とのコマ割りの違いや、加筆修正の痕跡を見つける度に「ここ、こう変わったのか！」と、作者の試行錯誤に触れるようで興奮したものだ。
+読者は、完全初出版を読むことで、単行本とのコマ割りの違いや加筆修正の痕跡を発見し、作者の試行錯誤に触れることができる。
 
 *   <strong>メリット:</strong>
     *   週刊少年マガジン掲載時のオリジナル版で、永井豪の当時の描線を忠実に再現。
     *   物語の核心に迫るクライマックス部分が収録されている可能性が高い。
-    *   単行本にはない、当時の誌面の空気感や熱量を追体験できる。
+    *   単行本にはない、当時の誌面の空気感や熱量を伝える。
 
 *   <strong>デメリット:</strong>
     *   この巻だけでは物語の全体像を把握できない。
@@ -137,7 +136,6 @@ sidebarProducts:
 | 価格 | 4,950円 |
 | サービス | 通販 |
 | フロア | 本・コミック |
-| is_hobby | True |
 | 著者/作者 | 永井豪, ダイナミックプロ |
 | メーカー/出版社 | 復刊ドットコム |
 
@@ -168,7 +166,6 @@ sidebarProducts:
 | 価格 | 4,950円 |
 | サービス | 通販 |
 | フロア | 本・コミック |
-| is_hobby | True |
 | 著者/作者 | 永井豪, ダイナミックプロ |
 | メーカー/出版社 | 復刊ドットコム |
 
@@ -199,7 +196,6 @@ sidebarProducts:
 | 価格 | 4,950円 |
 | サービス | 通販 |
 | フロア | 本・コミック |
-| is_hobby | True |
 | 著者/作者 | 永井豪, ダイナミックプロ |
 | メーカー/出版社 | 復刊ドットコム |
 
@@ -211,9 +207,9 @@ sidebarProducts:
 
 今回紹介したDMMのラインナップでは、「全巻」を一度に揃えることは難しい。しかし、それぞれが『凄ノ王』という作品の異なる側面を深く掘り下げてくれるアイテムだ。
 
-『凄ノ王画集 伝説の行方』は、作品全体のビジュアルや永井豪の創作の源泉に触れたい人、より多角的に作品を理解したい人に最も適しているだろう。永井豪の描線の力、構図の妙、そして色使いが織りなす世界観に没頭したいなら、まずこれを手にするのがおすすめだ。
+『凄ノ王画集 伝説の行方』は、作品全体のビジュアルや永井豪の創作の源泉に触れたい人、より多角的に作品を理解したい人に最も適しているだろう。永井豪の描線の力、構図の妙、そして色使いが織りなす世界観に没頭したいなら、まずこれを手にするのが適している。
 
-一方、『凄ノ王 完全初出 週刊少年マガジン版』の各巻は、永井豪が連載当時に表現したかった生の筆致や、週刊誌というフォーマットならではの演出を肌で感じたい、コアなファンや研究熱心な読者におすすめできる。単行本化の過程で修正された部分なども含め、作者の意図を最も純粋な形で追体験できる貴重な資料となるだろう。
+一方、『凄ノ王 完全初出 週刊少年マガジン版』の各巻は、永井豪が連載当時に表現したかった生の筆致や、週刊誌というフォーマットならではの演出を肌で感じたい、コアなファンや研究熱心な読者に適している。単行本化の過程で修正された部分なども含め、作者の意図を純粋な形で確認できる資料となる。
 
 いずれのアイテムも、単なる物語の消費に留まらない、より深い『凄ノ王』の世界への扉を開く鍵となるはずだ。あなたの興味と探求心に合わせて、この深淵な世界に触れてほしい。
 
@@ -227,3 +223,4 @@ A2: 「完全初出 週刊少年マガジン版」は、作品が初めて掲載
 
 <strong>Q3: 『凄ノ王画集 伝説の行方』はどんな内容ですか？</strong>
 A3: 『凄ノ王画集 伝説の行方』は、作品のカラーイラスト、口絵、扉絵、挿絵などを網羅的に収録した画集です。さらに、永井豪氏による貴重なラフスケッチや設定資料、あるいは作品に関するインタビューなどが掲載されている可能性が高く、『凄ノ王』の世界観やキャラクターデザインの背景、作者の創作秘話に深く迫れる内容が期待できます。
+

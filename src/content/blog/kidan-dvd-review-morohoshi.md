@@ -12,7 +12,7 @@ tags:
   - 'angle:review'
 faq:
   - question: '原作を読んでいなくても楽しめるか？'
-    answer: 'はい、楽しめます。映画「奇談」は原作の持つ核心的なテーマを踏襲しつつ、映像作品として独立した物語を構築しています。 諸星大二郎作品の雰囲気を知る導入としても最適でしょう。ただし、原作を読むことでより深く作品の背景や設定を理解できるため、映画鑑賞後に原作に触れるのもおすすめです。'
+    answer: 'はい、楽しめます。映画「奇談」は原作の持つ核心的なテーマを踏襲しつつ、映像作品として独立した物語を構築しています。 諸星大二郎作品の雰囲気を知る導入としても最適でしょう。ただし、原作を読むことでより深く作品の背景や設定を理解できるため、映画鑑賞後に原作に触れるのも有効だ。'
   - question: 'ホラー要素は強いのか？'
     answer: '飛び跳ねるような直接的なホラー描写は少ないですが、静かで心理的な不気味さが全編を覆っています。得体の知れない存在への畏れや、じわじわと精神を蝕むような恐怖が特徴です。 心臓に悪いタイプのホラーが苦手な方でも、独特の雰囲気を味わえるかもしれません。'
   - question: 'Blu-ray版と比べて画質や音質はどう違うのか？'
@@ -60,12 +60,12 @@ sidebarProducts:
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%25A5%2587%25E8%25AB%2587%2520DVD" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値をチェック（Kindle即時配信・紙版）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%25A5%2587%25E8%25AB%2587%2520DVD" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（Kindle・紙版）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
-<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_605gnbd5017%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E5%25A5%2587%25E8%25AB%2587%2520DVD" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
-<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_605gnbd5017%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMMで見る（限定特典・配信）</a>
-<a href="https://px.a8.net/svt/ejp?a8mat=4B8BWQ+57JKC2+1892+6QEUP" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #059669, #047857); color: #ffffff !important;">📚 全巻セット（漫画全巻ドットコム）</a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E5%A5%87%E8%AB%87%20%E8%AB%B8%E6%98%9F%E5%A4%A7%E4%BA%8C%E9%83%8E%20DVD%2F" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E5%25A5%2587%25E8%25AB%2587%2520DVD" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_605gnbd5017%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMMで見る（限定特典・配信）</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4B8BWQ+57JKC2+1892+6QEUP" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #059669, #047857); color: #ffffff !important;">📚 全巻セット（漫画全巻ドットコム）</a>
 </div>
 </div>
 </div>
@@ -75,7 +75,7 @@ sidebarProducts:
 
 ## 深淵を覗く覚悟はあるか？ 映画「奇談」が提示する異界への扉
 
-諸星大二郎の作品は、その深遠な世界観と独特の筆致で多くの読者を魅了してきた。そんな彼の<strong>「奇談」が映画化される</strong>と聞いた時、私は映像でどこまでその「諸星ワールド」を表現できるのか、半信半疑だったことを覚えている。しかし、このDVDを初めて再生し、その不安は杞憂に終わった。
+諸星大二郎の作品は、その深遠な世界観と独特の筆致で多くの読者を魅了してきた。彼の<strong>「奇談」が映画化される</strong>と聞いた際、映像で「諸星ワールド」をどこまで表現できるか、懸念があった。しかし、このDVDを初めて再生し、その不安は杞憂に終わった。
 
 小松隆志監督は、原作の持つ静謐ながらも不気味な空気感を、徹底した<strong>美術とロケーション、そして音響設計</strong>で再現している。特に印象的なのは、主人公・牧村茜を演じる藤澤恵麻の表情だ。彼女が記憶の断片と向き合うたびに揺れ動く感情が、観る者に強い共感を呼ぶ。
 
@@ -91,7 +91,7 @@ sidebarProducts:
 
 静寂が支配する場面ほど、<strong>微細な環境音が心理的な圧力</strong>となり、まさに「音で空間を造形している」と感じさせる。
 
-特に、茜が幼少期の記憶を辿るフラッシュバックのシーンでは、映像と音響が一体となって、<strong>時間の歪みや精神の混乱</strong>を見事に表現している。私が初めてこのDVDを鑑賞した際、あまりに深い没入感に、気づけば周りの音が全く耳に入らなくなっていた経験がある。
+特に、茜が幼少期の記憶を辿るフラッシュバックのシーンでは、映像と音響が一体となって、<strong>時間の歪みや精神の混乱</strong>を見事に表現している。鑑賞時には、深い没入感により周囲の音が耳に入らなくなるほどの感覚を覚える場合がある。
 
 映画というメディアの特性を最大限に活かし、諸星大二郎の世界観を<strong>五感に訴えかける形</strong>で再構築した、優れた映像作品だ。
 
@@ -99,7 +99,7 @@ sidebarProducts:
 
 原作「奇談」は、諸星大二郎が描く数多の作品の中でも、特に<strong>日本土着の信仰や神話</strong>に深く切り込んだ異色作として知られている。彼の作品に通底する「異界との境界線」というテーマが、この物語では「神隠し」という形でより明確に、そして恐ろしく具現化されているのだ。
 
-諸星作品の魅力は、単なる怪奇現象の描写ではない。その背後にある<strong>人間心理の深層</strong>、そして現代社会に忘れ去られつつある<strong>古代の習俗や民間信仰</strong>を掘り起こし、私たちに「畏れ」の感情を思い出させる点にある。
+諸星作品の魅力は、単なる怪奇現象の描写ではない。その背後にある<strong>人間心理の深層</strong>、そして現代社会に忘れ去られつつある<strong>古代の習俗や民間信仰</strong>を掘り起こし、「畏れ」の感情を想起させる点にある。
 
 映画「奇談」は、その核心を忠実に捉えつつ、映像ならではの解釈で再構築した。
 
@@ -115,11 +115,11 @@ sidebarProducts:
 
 これが、作品が持つ<strong>静謐な不気味さ</strong>を醸成する要素なのだ。
 
-また、諸星大二郎作品特有の<strong>哲学的・土着的な世界観</strong>に馴染みがない人には、作品の意図を汲み取るのに時間がかかる可能性がある。私自身も、初めて諸星作品に触れた際は、その<strong>独特の思考様式と比喩表現</strong>に戸惑った経験がある。
+また、諸星大二郎作品特有の<strong>哲学的・土着的な世界観</strong>に馴染みがない人には、作品の意図を汲み取るのに時間がかかる可能性がある。初めて諸星作品に触れる読者は、その<strong>独特の思考様式と比喩表現</strong>に戸惑う場合がある。
 
 しかし、少し立ち止まって作品が投げかける問いに耳を傾けることで、初めてその真価が見えてくるだろう。
 
-したがって、このDVDは<strong>「じっくりと作品世界に浸りたい」「考えさせられる映画が好きだ」「諸星大二郎作品に興味がある」</strong>という視聴者層に強く推奨したい。短時間でエンディングを求めるのではなく、<strong>夜中に一人で、静かに作品と対峙できる環境</strong>で鑑賞することが、何よりも重要だ。
+したがって、このDVDは<strong>「じっくりと作品世界に浸りたい」「考えさせられる映画が好きだ」「諸星大二郎作品に興味がある」</strong>という視聴者層に適している。短時間でエンディングを求めるのではなく、<strong>夜中に一人で、静かに作品と対峙できる環境</strong>で鑑賞することが、何よりも重要だ。
 
 ## 映像作品ジャンル別：表現の自由度と制約の早見表
 
@@ -162,7 +162,7 @@ DVD版「奇談」の画質・音質、そして特典内容について、他�
 
 諸星大二郎の「奇談」DVDは、単なる映像作品のパッケージではない。それは、<strong>奇妙な郷愁と根源的な畏れ</strong>を呼び起こす、唯一無二の世界観への入り口だ。2006/05/25に発売されてから約18年が経った今でも、その魅力は色褪せることがない。
 
-このDVDを所有する喜びは、<strong>諸星作品の世界観をいつでも再体験できる</strong>という点にある。複雑に絡み合う記憶と現実、土着信仰と異界の狭間を、繰り返し観ることで新たな発見があるだろう。
+このDVDは、<strong>諸星作品の世界観をいつでも再体験することを可能にする</strong>。複雑に絡み合う記憶と現実、土着信仰と異界の狭間を、繰り返し観ることで新たな発見があるだろう。
 
 価格も<strong>1,222円</strong>と手頃で、諸星作品を深く掘り下げたいファンにとって、まさに<strong>手の届くコレクション</strong>となる。
 
@@ -173,7 +173,7 @@ DVD版「奇談」の画質・音質、そして特典内容について、他�
 <strong>Q1: 原作を読んでいなくても楽しめるか？</strong>
 A1: はい、楽しめます。映画「奇談」は原作の持つ核心的なテーマを踏襲しつつ、映像作品として独立した物語を構築しています。
 
-諸星大二郎作品の雰囲気を知る導入としても最適でしょう。ただし、原作を読むことでより深く作品の背景や設定を理解できるため、映画鑑賞後に原作に触れるのもおすすめです。
+諸星大二郎作品の雰囲気を知る導入としても最適でしょう。ただし、原作を読むことでより深く作品の背景や設定を理解できるため、映画鑑賞後に原作に触れるのも有効だ。
 
 <strong>Q2: ホラー要素は強いのか？</strong>
 A2: 飛び跳ねるような直接的なホラー描写は少ないですが、<strong>静かで心理的な不気味さ</strong>が全編を覆っています。得体の知れない存在への畏れや、じわじわと精神を蝕むような恐怖が特徴です。
@@ -190,6 +190,6 @@ A3: 本商品はDVD版のため、画質は標準解像度（SD画質）、音�
 | 価格 | 1,222円 |
 | サービス | 通販 |
 | フロア | DVD・Blu-ray |
-| is_hobby | True |
 | 著者/作者 | 諸星大二郎 |
 | メーカー/出版社 | NBCユニバーサル・エンターテイメントジャパン |
+

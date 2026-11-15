@@ -13,7 +13,7 @@ faq:
   - question: '登場キャラクターが多くて覚えるのが苦手でも、この本は役立つ？'
     answer: '大いに役立ちます。本書には主要キャラクターから脇役まで、詳細な設定や相関図が掲載されています。 作中のどのタイミングでどのような背景を持っていたのか、改めて整理できるため、物語の理解度が格段に上がるはずです。'
   - question: 'ゴールデンカムイ本編と合わせて読むなら、どのタイミングが良い？'
-    answer: '基本的には本編を全巻読破した後に読むのがおすすめです。物語の全貌を把握した上で、本書で明かされる作者の意図や設定を照らし合わせることで、作品世界の奥行きを最大限に感じられます。 再読の際に隣に置き、気になったキャラクターやシーンの項目を参照するのも良いでしょう。'
+    answer: '基本的には本編を全巻読破した後に読むのが適している。物語の全貌を把握した上で、本書で明かされる作者の意図や設定を照らし合わせることで、作品世界の奥行きを最大限に感じられます。 再読の際に隣に置き、気になったキャラクターやシーンの項目を参照するのも良いでしょう。'
 sidebarProducts:
   - title: 'ゴールデンカムイ 探究者たちの記録'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4034838%2Fb950ushes00261%2F&af_id=DMMaria-999&ch=api'
@@ -33,7 +33,7 @@ sidebarProducts:
 
 この一冊は、単なるキャラクターやストーリーの紹介にとどまらない。作者・野田サトル先生の<strong>深い思考と作劇の裏側</strong>を知るための、まさに「探究者」のための記録と言える。
 
-本編を読み終え、作品世界をさらに深く味わいたい知的好奇心旺盛なファンにこそ、手にとってほしいと僕は思う。読めば、本編の読解が劇的に深まり、新たな発見に満ちた再読体験が待っているはずだ。
+本編を読み終え、作品世界をさらに深く味わいたいファンにとって、本書は有用な資料となる。読めば、本編の読解が劇的に深まり、新たな発見に満ちた再読体験が待っているはずだ。
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -52,12 +52,12 @@ sidebarProducts:
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B4%25E3%2583%25BC%25E3%2583%25AB%25E3%2583%2587%25E3%2583%25B3%25E3%2582%25AB%25E3%2583%25A0%25E3%2582%25A4%2520%25E6%258E%25A2%25E7%25A9%25B6%25E8%2580%2585%25E3%2581%259F%25E3%2581%25A1%25E3%2581%25AE%25E8%25A8%2598%25E9%258C%25B2" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値をチェック（Kindle即時配信・紙版）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B4%25E3%2583%25BC%25E3%2583%25AB%25E3%2583%2587%25E3%2583%25B3%25E3%2582%25AB%25E3%2583%25A0%25E3%2582%25A4%2520%25E6%258E%25A2%25E7%25A9%25B6%25E8%2580%2585%25E3%2581%259F%25E3%2581%25A1%25E3%2581%25AE%25E8%25A8%2598%25E9%258C%25B2" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（Kindle・紙版）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
-<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4034838%2Fb950ushes00261%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25B4%25E3%2583%25BC%25E3%2583%25AB%25E3%2583%2587%25E3%2583%25B3%25E3%2582%25AB%25E3%2583%25A0%25E3%2582%25A4%2520%25E6%258E%25A2%25E7%25A9%25B6%25E8%2580%2585%25E3%2581%259F%25E3%2581%25A1%25E3%2581%25AE%25E8%25A8%2598%25E9%258C%25B2" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
-<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4034838%2Fb950ushes00261%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMMで見る（限定特典・配信）</a>
-<a href="https://px.a8.net/svt/ejp?a8mat=4B8BWQ+57JKC2+1892+6QEUP" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #059669, #047857); color: #ffffff !important;">📚 全巻セット（漫画全巻ドットコム）</a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%87%E3%83%B3%E3%82%AB%E3%83%A0%E3%82%A4%20%E6%8E%A2%E7%A9%B6%E8%80%85%E3%81%9F%E3%81%A1%E3%81%AE%E8%A8%98%E9%8C%B2%2F" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25B4%25E3%2583%25BC%25E3%2583%25AB%25E3%2583%2587%25E3%2583%25B3%25E3%2582%25AB%25E3%2583%25A0%25E3%2582%25A4%2520%25E6%258E%25A2%25E7%25A9%25B6%25E8%2580%2585%25E3%2581%259F%25E3%2581%25A1%25E3%2581%25AE%25E8%25A8%2598%25E9%258C%25B2" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4034838%2Fb950ushes00261%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMMで見る（限定特典・配信）</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4B8BWQ+57JKC2+1892+6QEUP" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #059669, #047857); color: #ffffff !important;">📚 全巻セット（漫画全巻ドットコム）</a>
 </div>
 </div>
 </div>
@@ -105,7 +105,7 @@ sidebarProducts:
 
 また、作品が持つ<strong>重いテーマ性</strong>も、好みが分かれる一因だ。明治末期の差別、戦争の傷痕、文化の継承といった<strong>歴史的・社会的な問題</strong>に深く切り込んでいるため、純粋な娯楽性を求める読者には、時に深刻な展開が息苦しく感じられるかもしれない。
 
-僕自身、物語序盤は登場人物の多さに加えて、<strong>「どこが最終的なゴールなんだろう」と少し戸惑った</strong>記憶がある。物語が本格的に動き出すまでに、ある程度の読書体力が必要だと感じたのは、僕だけではないはずだ。
+物語序盤は登場人物の多さに加えて、<strong>「どこが最終的なゴールなのか」と戸惑う</strong>読者もいる。物語が本格的に動き出すまでに、ある程度の読書体力が必要だと感じられる。
 
 <strong>個性的な絵柄</strong>も賛否が分かれる点だ。デフォルメされたキャラクターや、いわゆる「顔芸」と呼ばれる独特な表情は、作品のコメディ要素を際立たせる。
 
@@ -123,7 +123,7 @@ sidebarProducts:
 
 個人的には、<strong>持ち運びの便利さや、定期的に開催されるセール</strong>を考慮すると<strong>電子書籍がおすすめ</strong>だ。特にDMMブックスのようなサービスは、<strong>初回購入でポイント還元率が高い</strong>場合が多く、全31巻という長編をかなりお得に揃えられるチャンスがある。
 
-僕も実際にDMMブックスのキャンペーンを活用し、かなりのポイントを手に入れた経験がある。
+DMMブックスのキャンペーンを活用することで、かなりのポイントを獲得できる場合がある。
 
 ## 今から始める「ゴールデンカムイ」読破ロードマップ
 
@@ -139,7 +139,7 @@ sidebarProducts:
 
 アニメを観て「続きが気になる！」と思ったなら、漫画の<strong>29巻から読み進めるのが最も効率的なルート</strong>だ。しかし、アニメではカットされたり、順序が入れ替わったりした場面も少なからずある。
 
-そのため、もし時間に余裕があるなら<strong>最初から読み直すことで、より深い物語の理解と新たな発見</strong>がある。僕自身、アニメから漫画に入ったクチで、1巻から読み直した時の「ああ、このシーンはこういう伏線だったのか」という発見の連続は、まさに<strong>知的な喜び</strong>だった。
+そのため、もし時間に余裕があるなら<strong>最初から読み直すことで、より深い物語の理解と新たな発見</strong>がある。アニメから漫画に入った読者が1巻から読み直すと、「このシーンはこういう伏線だったのか」という発見が連続し、深い理解につながる。
 
 ## 「探究者たちの記録」が日常にもたらす、知的興奮と作品への愛着
 
@@ -169,6 +169,7 @@ A2: 大いに役立ちます。本書には主要キャラクターから脇役�
 作中のどのタイミングでどのような背景を持っていたのか、改めて整理できるため、物語の理解度が格段に上がるはずです。
 
 <strong>Q3: ゴールデンカムイ本編と合わせて読むなら、どのタイミングが良い？</strong>
-A3: 基本的には<strong>本編を全巻読破した後</strong>に読むのがおすすめです。物語の全貌を把握した上で、本書で明かされる作者の意図や設定を照らし合わせることで、作品世界の奥行きを最大限に感じられます。
+A3: 基本的には<strong>本編を全巻読破した後</strong>に読むのが適している。物語の全貌を把握した上で、本書で明かされる作者の意図や設定を照らし合わせることで、作品世界の奥行きを最大限に感じられます。
 
 再読の際に隣に置き、気になったキャラクターやシーンの項目を参照するのも良いでしょう。
+

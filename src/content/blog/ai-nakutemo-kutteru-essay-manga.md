@@ -39,12 +39,12 @@ sidebarProducts:
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%2584%259B%25E3%2581%258C%25E3%2581%25AA%25E3%2581%258F%25E3%2581%25A6%25E3%2582%2582%25E5%2596%25B0%25E3%2581%25A3%25E3%2581%25A6%25E3%2582%2586%25E3%2581%2591%25E3%2581%25BE%25E3%2581%2599" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値をチェック（Kindle即時配信・紙版）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%2584%259B%25E3%2581%258C%25E3%2581%25AA%25E3%2581%258F%25E3%2581%25A6%25E3%2582%2582%25E5%2596%25B0%25E3%2581%25A3%25E3%2581%25A6%25E3%2582%2586%25E3%2581%2591%25E3%2581%25BE%25E3%2581%2599" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（Kindle・紙版）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
-<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbk254_2537399%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E6%2584%259B%25E3%2581%258C%25E3%2581%25AA%25E3%2581%258F%25E3%2581%25A6%25E3%2582%2582%25E5%2596%25B0%25E3%2581%25A3%25E3%2581%25A6%25E3%2582%2586%25E3%2581%2591%25E3%2581%25BE%25E3%2581%2599" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
-<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbk254_2537399%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMMで見る（限定特典・配信）</a>
-<a href="https://px.a8.net/svt/ejp?a8mat=4B8BWQ+57JKC2+1892+6QEUP" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #059669, #047857); color: #ffffff !important;">📚 全巻セット（漫画全巻ドットコム）</a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E6%84%9B%E3%81%8C%E3%81%AA%E3%81%8F%E3%81%A6%E3%82%82%E5%96%B0%E3%81%A3%E3%81%A6%E3%82%86%E3%81%91%E3%81%BE%E3%81%99%2F" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E6%2584%259B%25E3%2581%258C%25E3%2581%25AA%25E3%2581%258F%25E3%2581%25A6%25E3%2582%2582%25E5%2596%25B0%25E3%2581%25A3%25E3%2581%25A6%25E3%2582%2586%25E3%2581%2591%25E3%2581%25BE%25E3%2581%2599" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbk254_2537399%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMMで見る（限定特典・配信）</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4B8BWQ+57JKC2+1892+6QEUP" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #059669, #047857); color: #ffffff !important;">📚 全巻セット（漫画全巻ドットコム）</a>
 </div>
 </div>
 </div>
@@ -54,7 +54,7 @@ sidebarProducts:
 
 ## 毎日の食卓が楽しくなる、よしながふみ流エッセイの魅力
 
-毎日の食事、特に一人で食べる「独り飯」にマンネリを感じていないだろうか。僕は、よしながふみ先生の『愛がなくても喰ってゆけます』を読んで、食に対する固定観念が大きく変わった。
+毎日の食事、特に一人で食べる「独り飯」にマンネリを感じていないだろうか。よしながふみ氏の『愛がなくても喰ってゆけます』を読むことで、食に対する固定観念が見直される。
 
 本作は単なるレシピ紹介にとどまらず、日々の食卓から思わずクスッと笑えるリアルな知恵と発見が詰まった、珠玉のエッセイ漫画です。
 
@@ -66,7 +66,7 @@ sidebarProducts:
 
 冷蔵庫の残り物で作る質素な一品から、旬の食材を存分に楽しむ贅沢な食卓まで、その内容は多岐にわたる。料理の工程が丁寧に描かれ、先生自身の思考や食への愛情がひしひしと伝わってくるのが魅力だ。
 
-レシピというよりは、食に対する向き合い方や哲学を学べる一冊だと僕は感じている。日常のふとした瞬間に、どんな風に食を楽しんでいるのか。
+本書はレシピ集ではなく、食への向き合い方や哲学が語られている。日常のささやかな瞬間における食の楽しみ方が描かれている。
 
 それがユーモラスな筆致で描かれているから、肩肘張らずに読み進められる。
 
@@ -78,7 +78,7 @@ sidebarProducts:
 
 食料を無駄にしない精神は、現代のサステナブルな暮らしにも通じるものがある。高価な食材を使わずとも、身近なもので最大限の満足を得る知恵は、読者の日常にもすぐに活かせるだろう。
 
-作中では、食材の旬を意識したシンプルな調理法が多く、素材本来の味を楽しむ先生の姿勢が伝わってくる。これは、外食や加工食品に頼りがちな僕らの食生活を見直す、良いきっかけを与えてくれる。
+作中では、食材の旬を意識したシンプルな調理法が多く、素材本来の味を楽しむ先生の姿勢が伝わってくる。これは、外食や加工食品に頼りがちな食生活を見直す機会となる。
 
 特別な「愛」がなくても、日々の「食」に真摯に向き合うことで、心豊かな生活は築ける。そんな温かいメッセージが、この一冊には詰まっているのだ。
 
@@ -92,4 +92,16 @@ sidebarProducts:
 
 具体的な調理工程よりも、食に対する哲学や日常の食事風景がメインだからだ。また、よしながふみ先生特有の視点やユーモアは、慣れない人には少々独特だと感じる可能性もある。
 
-あくまでルポ・エッセイなので、起伏に富んだストーリー展開を求める人には向かない。自分のペースでゆっくりと、食と向き合いたい人にこそ、この作品は深く刺さるはずだ。
+あくまでルポ・エッセイ形式のため、ドラマチックな競技性や精密なレシピ分量を求める読者には方向性が異なる場合があるものの、自分のペースで日々の食生活を見つめ直したい読者層に安定した読み応えをもたらす構成となっている。
+
+## 作品仕様・購入形態の比較整理表
+
+以下の表に、『愛がなくても喰ってゆけます。』の電子書籍版・紙媒体それぞれを検討する際の確認ポイントを整理した。
+
+| 検討項目 | 仕様・目安 | 選定時の着眼点 |
+| :--- | :--- | :--- |
+| 対象タイトル | 愛がなくても喰ってゆけます。（よしながふみ） | 食にまつわる体験談・日常描写をまとめたエッセイ漫画 |
+| 掲載参考価格 | 968円前後（DMMブックス等参考価格） | ポイント還元キャンペーンやクーポンの適用条件を確認 |
+| 電子書籍版の特性 | スマホ・タブレットですぐに閲覧可能 | 通勤時間やキッチンの近くでも場所を取らずに参照できる |
+| 紙の単行本版の特性 | 書棚に並べて手元に保管できる物理版 | 装丁や紙の手触りを残しつつ手元で読み返したい場合に適合 |
+

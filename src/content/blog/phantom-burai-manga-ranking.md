@@ -10,12 +10,12 @@ heroImages:
 tags:
 - angle:ranking
 faq:
-- question: 「ファントム無頼」の文庫版全巻はDMMで購入できますか？
-  answer: DMMブックスでは、現在「ファントム無頼」の文庫版全巻の取り扱いはありません。電子書籍の合本版や単巻、および通販で紙媒体の完全版Vol.1が購入可能です。文庫版全巻を探している場合は、中古書籍市場での入手を検討する必要があるでしょう。
-- question: 初めて「ファントム無頼」を読むのですが、どれから手をつければ良いでしょうか？
-  answer: まずは電子書籍の『ファントム無頼【合本版】』が最もおすすめです。手頃な価格で全巻まとめて読めるため、作品の世界観やキャラクターの関係性を効率的に理解できます。気に入ったら、より詳細な描写が楽しめる完全版（紙）や、F-4の背景知識を深める関連書籍に進むのが良いでしょう。
-- question: F-4ファントムIIや航空機の知識がなくても楽しめますか？
-  answer: はい、全く問題なく楽しめます。「ファントム無頼」はF-4ファントムIIを題材にした作品ですが、その核心は神田と栗原という二人のパイロットの人間ドラマとプロフェッショナリズムにあります。航空機の専門知識がなくても、彼らの葛藤や友情、そして命をかけた任務に引き込まれることは間違いありません。作中の描写を通して、自然とF-4の魅力も伝わってくるはずです。
+  - question: '「ファントム無頼」の文庫版全巻はDMMで購入できますか？'
+    answer: 'DMMブックスでは、現在「ファントム無頼」の文庫版全巻の取り扱いはありません。電子書籍の合本版や単巻、および通販で紙媒体の完全版Vol.1が購入可能です。文庫版全巻を探している場合は、中古書籍市場での入手を検討する必要があるでしょう。'
+  - question: '初めて「ファントム無頼」を読むのですが、どれから手をつければ良いでしょうか？'
+    answer: 'まずは電子書籍の『ファントム無頼【合本版】』が適している。手頃な価格で全巻まとめて読めるため、作品の世界観やキャラクターの関係性を効率的に理解できる。作品を気に入った場合、より詳細な描写が楽しめる完全版（紙）や、F-4の背景知識を深める関連書籍に進むことが推奨される。'
+  - question: 'F-4ファントムIIや航空機の知識がなくても楽しめますか？'
+    answer: 'はい、全く問題なく楽しめます。「ファントム無頼」はF-4ファントムIIを題材にした作品ですが、その核心は神田と栗原という二人のパイロットの人間ドラマとプロフェッショナリズムにあります。航空機の専門知識がなくても、彼らの葛藤や友情、そして命をかけた任務に引き込まれることは間違いありません。作中の描写を通して、自然とF-4の魅力も伝わってくるはずです。'
 sidebarProducts:
 - title: ファントム無頼
   url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4106908%2Fb750egrzr06158%2F&af_id=DMMaria-999&ch=api
@@ -56,12 +56,12 @@ F-4ファントムIIという伝説の機体と、その乗り手たちの生き
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2595%25E3%2582%25A1%25E3%2583%25B3%25E3%2583%2588%25E3%2583%25A0%25E7%2584%25A1%25E9%25A0%25BC" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値をチェック（Kindle即時配信・紙版）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2595%25E3%2582%25A1%25E3%2583%25B3%25E3%2583%2588%25E3%2583%25A0%25E7%2584%25A1%25E9%25A0%25BC" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（Kindle・紙版）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
-<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4106908%2Fb750egrzr06158%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%2595%25E3%2582%25A1%25E3%2583%25B3%25E3%2583%2588%25E3%2583%25A0%25E7%2584%25A1%25E9%25A0%25BC" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
-<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4106908%2Fb750egrzr06158%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMMで見る（限定特典・配信）</a>
-<a href="https://px.a8.net/svt/ejp?a8mat=4B8BWQ+57JKC2+1892+6QEUP" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #059669, #047857); color: #ffffff !important;">📚 全巻セット（漫画全巻ドットコム）</a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%95%E3%82%A1%E3%83%B3%E3%83%88%E3%83%A0%E7%84%A1%E9%A0%BC%2F" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%2595%25E3%2582%25A1%25E3%2583%25B3%25E3%2583%2588%25E3%2583%25A0%25E7%2584%25A1%25E9%25A0%25BC" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4106908%2Fb750egrzr06158%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMMで見る（限定特典・配信）</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4B8BWQ+57JKC2+1892+6QEUP" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #059669, #047857); color: #ffffff !important;">📚 全巻セット（漫画全巻ドットコム）</a>
 </div>
 </div>
 </div>
@@ -73,7 +73,7 @@ F-4ファントムIIという伝説の機体と、その乗り手たちの生き
 
 「ファントム無頼」を今から読みたい、あるいは改めて全巻読破したいなら、この<strong>電子書籍の合本版が圧倒的に手軽でおすすめ</strong>だ。単巻で購入するよりも大幅に価格が抑えられ、場所を取らない点も大きなメリットだ。
 
-僕自身も最初に読んだのは文庫版だったが、スマホやタブレットで気軽に読み返せる電子書籍の便利さに魅力を感じ、後追いで合本版を購入した。F-4ファントムIIの緻密な描写は、大きな画面で見るほど迫力がある。
+最初に文庫版を読んだ読者も、スマホやタブレットで気軽に読み返せる電子書籍の便利さに魅力を感じ、合本版を購入するケースがある。F-4ファントムIIの緻密な描写は、大きな画面で見るほど迫力が増す。
 
 しかし、電子書籍の合本版なら、<strong>自宅だけでなく通勤中や外出先でも好きな時に作品の世界に没頭できる</strong>のは嬉しい誤算だった。
 
@@ -87,7 +87,7 @@ F-4ファントムIIという伝説の機体と、その乗り手たちの生き
 
 神田の冷静沈着さと、栗原の型破りな操縦スタイルは対照的だが、互いを理解し、信頼し合っている。特に、栗原が神田に対し「神田を落とせば俺の勝ち」と挑戦的な態度を取りながらも、<strong>最終的には命を預け合う「最強のバディ」としての描写</strong>は、何度読んでも熱くなる。
 
-二人の関係性を通して、男たちの友情、そして空にかける情熱と覚悟が深く掘り下げられている点が、本作が今なお愛される理由だと僕は思う。
+二人の関係性を通して、男たちの友情、そして空にかける情熱と覚悟が深く掘り下げられている点が、本作の魅力である。
 
 #### こんな人におすすめ
 
@@ -117,7 +117,7 @@ F-4ファントムIIという伝説の機体と、その乗り手たちの生き
 
 残念ながらDMMではVol.1のみの取り扱いだが、完全版という名にふさわしい<strong>豪華な装丁や、連載時のカラーページ再現</strong>が期待できる。コレクターズアイテムとしても価値が高く、書棚に並べた時の満足感はひとしおだ。
 
-僕も一度、完全版を手に取ったことがあるが、その<strong>ずっしりとした重みと、紙質から伝わる作品への敬意</strong>に感動したのを覚えている。
+完全版は、<strong>ずっしりとした重みと、紙質から伝わる作品への敬意</strong>を感じさせる仕様である。
 
 #### こんな人におすすめ
 
@@ -132,7 +132,6 @@ F-4ファントムIIという伝説の機体と、その乗り手たちの生き
 | 価格 | 4,950円 |
 | サービス | 通販 |
 | フロア | 本・コミック |
-| is_hobby | True |
 | メーカー/出版社 | 小学館 |
 
 ---
@@ -171,7 +170,7 @@ F-4ファントムIIという伝説の機体と、その乗り手たちの生き
 
 「ファントム無頼」を読んでいると、F-4が持つ独特のシルエット、双発エンジンの迫力、そして<strong>「空飛ぶ鉄塊」と呼ばれた無骨な魅力</strong>に惹かれる人も多いはずだ。この本では、F-4の<strong>設計思想、開発経緯、そして40年以上にわたって第一線で活躍し続けた理由</strong>が、専門家の視点から詳しく解説されている。
 
-僕は、漫画でF-4のカッコよさに惹かれ、この機体が実際にどんな性能を持ち、どのような役割を果たしてきたのか知りたくなり、関連書籍を探した経験がある。この手の解説書は、作品内で描写される空中戦の<strong>「なぜあの動きができるのか」「なぜあの時、あの計器を見るのか」</strong>といった疑問に対する、<strong>科学的・技術的な裏付け</strong>を与えてくれる。
+この手の解説書は、作品内で描写される空中戦の<strong>「なぜあの動きができるのか」「なぜあの時、あの計器を見るのか」</strong>といった疑問に対し、<strong>科学的・技術的な裏付け</strong>を提供する。
 
 作品の世界観を広げ、F-4への愛着をさらに深めたいなら、ぜひ手に取ってほしい。
 
@@ -219,3 +218,4 @@ A2: まずは<strong>電子書籍の『ファントム無頼【合本版】』�
 A3: はい、<strong>全く問題なく楽しめます</strong>。「ファントム無頼」はF-4ファントムIIを題材にした作品ですが、その核心は神田と栗原という二人のパイロットの<strong>人間ドラマとプロフェッショナリズム</strong>にあります。
 
 航空機の専門知識がなくても、彼らの葛藤や友情、そして命をかけた任務に引き込まれることは間違いありません。作中の描写を通して、自然とF-4の魅力も伝わってくるはずです。
+

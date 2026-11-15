@@ -6,15 +6,12 @@ heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/mangazenkan/cabinet/sy
 genre: manga
 mediaType: comic
 faq:
-- question: これらの作品が掲載されていた当時のジャンプは、どれくらいの人気があったのですか？
-  answer: 『DRAGON BALL』が完結したにもかかわらず、掲載順トップ5を独占するほどの人気を誇っていました。これは、ジャンプの読者層が特定の作品だけに依存せず、多種多様な作品を支持していた証拠だと言えます。
-- question: 今からこれらの作品を読みたいのですが、どれから手をつけたら良いでしょうか？
-  answer: もし熱いスポーツドラマが好きなら『SLAM DUNK』から。単純明快な痛快アクションと友情を楽しみたいなら『BØY -ボーイ-』。 ギャグと感動のギャップを味わいたいなら『みどりのマキバオー』。硬派な剣劇と心理戦に惹かれるなら『るろうに剣心
-    -明治剣客浪漫譚-』。 予測不能なギャグと裏の熱い展開を求めるなら『とっても!ラッキーマン』がおすすめです。
-- question: これらの作品が掲載されていた当時の週刊少年ジャンプは、現在でも入手可能ですか？
-  answer: 当時の週刊少年ジャンプ誌面そのものを入手するのは、古書店やフリマサイトなどで探す必要があります。ただし、ここに挙げた作品はすべて単行本化されており、電子書籍版も広く流通しています。
-    手軽に当時の熱量を追体験するなら、電子書籍での購読が最も現実的な方法だと言えます。 1995年9月、週刊少年ジャンプは新たな時代へ踏み出した。そして、その道筋を切り開いたのが、今回紹介した5つの作品たちだ。それぞれの作品が持つ唯一無二の魅力が、当時のジャンプを支え、僕らの心を熱くした。
-    これらの作品は、単なる過去のヒット作ではない。今読んでも色褪せることのない、少年漫画の普遍的な面白さがそこにはある。当時の熱狂を再体験するのも良し、まだ触れたことのない人はこの機会にぜひ、その奥深い世界に飛び込んでみてほしい。
+  - question: 'これらの作品が掲載されていた当時のジャンプは、どれくらいの人気があったのですか？'
+    answer: '『DRAGON BALL』が完結したにもかかわらず、掲載順トップ5を独占するほどの人気を誇っていました。これは、ジャンプの読者層が特定の作品だけに依存せず、多種多様な作品を支持していた証拠だと言えます。'
+  - question: '今からこれらの作品を読みたいのですが、どれから手をつけたら良いでしょうか？'
+    answer: '熱いスポーツドラマを好む場合は『SLAM DUNK』から。単純明快な痛快アクションと友情を楽しみたい場合は『BØY -ボーイ-』。ギャグと感動のギャップを味わいたい場合は『みどりのマキバオー』。硬派な剣劇と心理戦に惹かれる場合は『るろうに剣心 -明治剣客浪漫譚-』。予測不能なギャグと裏の熱い展開を求める読者には『とっても!ラッキーマン』が適している。'
+  - question: 'これらの作品が掲載されていた当時の週刊少年ジャンプは、現在でも入手可能ですか？'
+    answer: '当時の週刊少年ジャンプ誌面そのものを入手するには、古書店やフリマサイトなどで探す必要があります。ただし、ここに挙げた作品はすべて単行本化されており、電子書籍版も広く流通しています。当時の雰囲気を手軽に感じるには、電子書籍での購読が現実的な方法です。1995年9月、週刊少年ジャンプは新たな時代へ踏み出しました。その道筋を切り開いたのが、今回紹介した5つの作品です。それぞれの作品が持つ独自の魅力が、当時のジャンプを支えました。これらの作品は、単なる過去のヒット作ではありません。現在読んでも色褪せることのない、少年漫画の普遍的な面白さがあります。当時の熱狂を再確認することも、未読の人がその世界に触れることも可能です。'
 sidebarProducts:
 - title: SLAM DUNK 新装再編版 (全20巻セット)
   url: https://hb.afl.rakuten.co.jp/hgc/g00qci01.ve2q5c2d.g00qci01.ve2q6d84/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmangazenkan%2Fm9780491352%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmangazenkan%2Fi%2F10241277%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b
@@ -47,10 +44,9 @@ heroImages:
 - https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2089/9784086182089_1_2.jpg?_ex=600x600
 - https://thumbnail.image.rakuten.co.jp/@0_mall/mangazenkan/cabinet/comic3/01845475/img58785781.jpg?_ex=600x600
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
-1995年5月、週刊少年ジャンプはひとつの大きな節目を迎えた。絶対的な支柱だった『DRAGON BALL』が完結したのだ。多くの読者が「これからのジャンプはどうなる？」と不安を覚えたに違いない。
+1995年5月、週刊少年ジャンプはひとつの大きな節目を迎えた。絶対的な支柱だった『DRAGON BALL』が完結したのだ。多くの読者が「これからのジャンプはどうなる？」と不安を覚えたと言える。
 
 しかし、その不安を吹き飛ばすかのように、同年9月初頭のジャンプ誌面は驚くべき光景を見せてくれた。アンケート掲載順トップ5を、今も語り継がれる5つの名作が独占したんだ。
 
@@ -73,12 +69,12 @@ heroImages:
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DSLAM%2520DUNK%2520%25E6%2596%25B0%25E8%25A3%2585%25E5%2586%258D%25E7%25B7%25A8%25E7%2589%2588" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値をチェック（Kindle即時配信・紙版）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DSLAM%2520DUNK%2520%25E6%2596%25B0%25E8%25A3%2585%25E5%2586%258D%25E7%25B7%25A8%25E7%2589%2588" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（Kindle・紙版）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
-<a href="https://hb.afl.rakuten.co.jp/hgc/g00qci01.ve2q5c2d.g00qci01.ve2q6d84/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmangazenkan%2Fm9780491352%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmangazenkan%2Fi%2F10241277%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DSLAM%2520DUNK%2520%25E6%2596%25B0%25E8%25A3%2585%25E5%2586%258D%25E7%25B7%25A8%25E7%2589%2588" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
-<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3DSLAM%20DUNK%20%E6%96%B0%E8%A3%85%E5%86%8D%E7%B7%A8%E7%89%88&af_id=DMMaria-999" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMM（無料試し読み）</a>
-<a href="https://px.a8.net/svt/ejp?a8mat=4B8BWQ+57JKC2+1892+6QEUP" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #059669, #047857); color: #ffffff !important;">📚 全巻セット（漫画全巻ドットコム）</a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00qci01.ve2q5c2d.g00qci01.ve2q6d84/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmangazenkan%2Fm9780491352%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmangazenkan%2Fi%2F10241277%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DSLAM%2520DUNK%2520%25E6%2596%25B0%25E8%25A3%2585%25E5%2586%258D%25E7%25B7%25A8%25E7%2589%2588" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3DSLAM%20DUNK%20%E6%96%B0%E8%A3%85%E5%86%8D%E7%B7%A8%E7%89%88&af_id=DMMaria-999" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMM（無料試し読み）</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4B8BWQ+57JKC2+1892+6QEUP" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #059669, #047857); color: #ffffff !important;">📚 全巻セット（漫画全巻ドットコム）</a>
 </div>
 </div>
 </div>
@@ -88,7 +84,7 @@ heroImages:
 
 ## ドラゴンボール完結後、ジャンプを支えた5つの魂
 
-1995年は、まさしく少年ジャンプの歴史における大転換期だった。長年不動のエースだった作品が卒業し、編集部も読者も先行きを案じていた時期だ。しかし、僕の記憶ではその不安はすぐに熱狂へと変わった。
+1995年は、まさしく少年ジャンプの歴史における大転換期だった。長年不動のエースだった作品が卒業し、編集部も読者も先行きを案じていた時期だ。しかし、その不安はすぐに熱狂へと変化した。
 
 それは、盤石の布陣を誇る中堅・若手作家たちの作品が、読者の心をしっかり掴んでいたからに他ならない。掲載順トップ5を独占したのは、その証拠だ。
 
@@ -108,15 +104,15 @@ heroImages:
 
 梅澤春人先生が描く、フライパンやバットを背中から取り出すという奇想天外なバトルスタイルが最高にクールだったね。その一方で、ロックを愛し、仲間への仁義を重んじる熱い漢のドラマも魅力だった。
 
-晴矢たちの破天荒な行動と、その裏にあるピュアな友情が、僕らの心を鷲掴みにした。バカだけどカッコいい、そんな漢のロマンがぎゅっと詰まった作品だ。
+晴矢たちの破天荒な行動と、その裏にあるピュアな友情は、読者の心を惹きつけた。バカだけどカッコいい、そんな漢のロマンがぎゅっと詰まった作品だ。
 
 ## 奇跡の競馬ロマンに号泣必至！『みどりのマキバオー』（3位）
 
 見た目は白い珍獣、だけどその走りは超一流。つの丸先生が描く『みどりのマキバオー』は、ダービーから菊花賞へと物語が進む、まさに名勝負の連続だった。宿敵カスケードとの因縁の対決は、何度読み返しても胸が熱くなる。
 
-下ネタ混じりのギャグで読者を笑わせたかと思えば、次の瞬間にはマキバオーやその仲間たちの魂の叫びに号泣させられる。このギャップがたまらないんだ。
+下ネタ混じりのギャグで読者を笑わせたかと思えば、次の瞬間にはマキバオーやその仲間たちの熱い叫びに感動させられる。このギャップが作品の魅力となっている。
 
-競馬を全く知らない僕のような読者でも、マキバオーのひたむきな努力と成長、そしてライバルたちとのドラマに引き込まれた。予想を裏切る展開と、王道のスポ根要素が奇跡的に融合した作品だ。
+競馬を全く知らない読者でも、マキバオーのひたむきな努力と成長、そしてライバルたちとのドラマに引き込まれる。予想を裏切る展開と、王道のスポ根要素が奇跡的に融合した作品だ。
 
 ### よくある質問
 
@@ -128,13 +124,25 @@ A2: もし熱いスポーツドラマが好きなら『SLAM DUNK』から。単�
 
 ギャグと感動のギャップを味わいたいなら『みどりのマキバオー』。硬派な剣劇と心理戦に惹かれるなら『るろうに剣心 -明治剣客浪漫譚-』。
 
-予測不能なギャグと裏の熱い展開を求めるなら『とっても!ラッキーマン』がおすすめです。
+予測不能なギャグと裏の熱い展開を求める読者には『とっても!ラッキーマン』が適している。
 
 <strong>Q3: これらの作品が掲載されていた当時の週刊少年ジャンプは、現在でも入手可能ですか？</strong>
 A3: 当時の週刊少年ジャンプ誌面そのものを入手するのは、古書店やフリマサイトなどで探す必要があります。ただし、ここに挙げた作品はすべて単行本化されており、電子書籍版も広く流通しています。
 
 手軽に当時の熱量を追体験するなら、電子書籍での購読が最も現実的な方法だと言えます。
 
-1995年9月、週刊少年ジャンプは新たな時代へ踏み出した。そして、その道筋を切り開いたのが、今回紹介した5つの作品たちだ。それぞれの作品が持つ唯一無二の魅力が、当時のジャンプを支え、僕らの心を熱くした。
+1995年9月、週刊少年ジャンプは新たな時代へ踏み出した。その道筋を切り開いたのが、今回紹介した5つの作品である。それぞれの作品が持つ唯一無二の魅力が、当時のジャンプを支え、読者の心を熱くした。
 
 これらの作品は、単なる過去のヒット作ではない。今読んでも色褪せることのない、少年漫画の普遍的な面白さがそこにはある。当時の熱狂を再体験するのも良し、まだ触れたことのない人はこの機会にぜひ、その奥深い世界に飛び込んでみてほしい。
+
+## 製品仕様・購入選択肢の比較整理表
+
+購入検討時の判断材料として、掲載アイテムの基本仕様・参考価格帯・確認ポイントを以下の表に整理しています。
+
+| 確認項目・ラインナップ | 仕様・価格目安 | 選定時の確認ポイント |
+| :--- | :--- | :--- |
+| SLAM DUNK 新装再編版 (全20巻セット) | 13,255円（参考価格） | 代表・注目掲載商品 |
+| BØY (文庫版 全巻セット) | 484円（参考価格） | 関連・別巻／周辺ラインナップ 2 |
+| みどりのマキバオー (文庫版 全巻セット) | 935円（参考価格） | 関連・別巻／周辺ラインナップ 3 |
+| るろうに剣心 (文庫版 全14巻セット) | 10,564円（参考価格） | 関連・別巻／周辺ラインナップ 4 |
+| とっても!ラッキーマン (文庫版 全8巻セット) | 1,421円（参考価格） | 関連・別巻／周辺ラインナップ 5 |

@@ -11,8 +11,8 @@ tags:
   - 'urasawa-naoki'
   - 'suspense-manga'
 faq:
-  - question: '『MONSTER』を読むなら「完全版（全9巻）」と「通常版（全18巻）」のどちらがおすすめですか？'
-    answer: '現在新刊で購入、または電子書籍で揃えるなら「完全版 デジタルVer.（全9巻）」または紙の「完全版」が圧倒的におすすめです。通常版2冊分が1冊に収録されたA5判サイズで、カラー原稿が完全再現されているほか、巻末の資料や装丁の重厚感が作品のダークな世界観と完璧にマッチしています。中古で安く集めたい場合は通常版（全18巻）も選択肢になりますが、読みやすさと保存性では完全版が一歩リードしています。'
+  - question: '『MONSTER』を読むなら「完全版（全9巻）」と「通常版（全18巻）」のどちらが適していますか？'
+    answer: '現在新刊で購入、または電子書籍で揃えるなら「完全版 デジタルVer.（全9巻）」または紙の「完全版」が推奨される。通常版2冊分が1冊に収録されたA5判サイズで、カラー原稿が完全再現されているほか、巻末の資料や装丁の重厚感が作品のダークな世界観と調和している。中古で安価に集めたい場合は通常版（全18巻）も選択肢となるが、読みやすさと保存性では完全版が優位である。'
   - question: 'グロテスクな描写や残酷なシーンはどの程度ありますか？'
     answer: '東西冷戦下の児童施設（511キンダーハイム）や連続殺人、銃撃戦を扱う本格サイコサスペンスであるため、死体や流血シーンは登場します。しかし、いたずらに残虐性を煽るスプラッター描写ではなく、映画『羊たちの沈黙』のような心理的緊張感や人間の心の闇を描くための演出として抑制されており、大人の鑑賞に堪えうる極上のミステリーに仕上がっています。'
   - question: '物語の伏線は最終巻まできちんと回収されてスッキリ完結しますか？'
@@ -68,12 +68,12 @@ heroImages:
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DMonster" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値をチェック（Kindle即時配信・紙版）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DMonster" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（Kindle・紙版）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
-<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4157739%2Fb600bsgk02714%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DMonster" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
-<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4157739%2Fb600bsgk02714%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMMで見る（限定特典・配信）</a>
-<a href="https://px.a8.net/svt/ejp?a8mat=4B8BWQ+57JKC2+1892+6QEUP" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #059669, #047857); color: #ffffff !important;">📚 全巻セット（漫画全巻ドットコム）</a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMonster%2F" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DMonster" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4157739%2Fb600bsgk02714%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMMで見る（限定特典・配信）</a>
+<a href="https://px.a8.net/svt/ejp?a8mat=4B8BWQ+57JKC2+1892+6QEUP" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #059669, #047857); color: #ffffff !important;">📚 全巻セット（漫画全巻ドットコム）</a>
 </div>
 </div>
 </div>
@@ -146,15 +146,15 @@ heroImages:
 
 本作を心から楽しむために、知っておくべき「ちょっとしたハードル」を共有しておきたい。
 
-1. <strong>序盤（第1〜2巻）の丁寧な積み上げ</strong>: 本作はスピーディなバトル漫画と異なり、最初の数巻はヨーロッパ各地の地理や人間関係、伏線の種まきがじっくりと行われる。3〜4巻あたりで点と点が繋がり始めると一気にページをめくる手が止まらなくなるため、序盤は腰を据えて読むことをおすすめする。
+1. <strong>序盤（第1〜2巻）の丁寧な積み上げ</strong>: 本作はスピーディなバトル漫画と異なり、最初の数巻はヨーロッパ各地の地理や人間関係、伏線の種まきがじっくりと行われる。3〜4巻あたりで点と点が繋がり始めると一気にページをめくる手が止まらなくなるため、序盤は腰を据えて読むのが効果的だ。
 2. <strong>登場人物の多さと顔の描き分け</strong>: 医師、刑事、弁護士、元軍人など、非常に多くの大人たちが登場する。浦沢作品特有のリアルな骨格描写によりキャラクターの個性は際立っているが、一気読みしないと「この人は前の町の誰だっけ？」となりやすい。数日間のまとまった時間で全巻通読するのが最も没入できる楽しみ方だ。
 
 ---
 
 ### よくある質問（Q&A 3問）
 
-<strong>Q1: 『MONSTER』を読むなら「完全版（全9巻）」と「通常版（全18巻）」のどちらがおすすめですか？</strong>  
-A1: 保存性・作画の鮮明さを重視するなら、雑誌掲載時のカラー原稿が収録された「完全版（全9巻）」が最もおすすめです。電子書籍で読みたい場合も「完全版 デジタルVer.」が配信されており、大画面タブレットで快適に楽しめます。
+<strong>Q1: 『MONSTER』を読むなら「完全版（全9巻）」と「通常版（全18巻）」のどちらが適していますか？</strong>  
+A1: 保存性・作画の鮮明さを重視するなら、雑誌掲載時のカラー原稿が収録された「完全版（全9巻）」が最も適している。電子書籍で読みたい場合も「完全版 デジタルVer.」が配信されており、大画面タブレットで快適に楽しめます。
 
 <strong>Q2: グロテスクな描写や残酷なシーンはどの程度ありますか？</strong>  
 A2: 連続殺人や銃撃戦を扱っているため死体や流血は登場しますが、悪趣味なスプラッター描写ではなく、上質な海外サスペンス映画のような抑制された心理的演出として機能しています。大人の読者であれば問題なく鑑賞できます。
@@ -167,3 +167,4 @@ A3: はい、散りばめられた無数の謎やヨハンの出生の秘密は�
 『MONSTER』は、エンターテインメントとしての圧倒的な面白さと、純文学のような重厚な人間探求が奇跡的なバランスで融合した、世界に誇る日本の遺産だ。
 
 天才外科医テンマが旅の果てに見出した「命の答え」とは何だったのか。ぜひ全巻を一気に駆け抜け、その戦慄と感動の結末を自らの目で確かめてほしい。
+
