@@ -48,8 +48,11 @@ const defaultProducts = [
 	}
 ];
 
-const rawProducts = sidebarProducts && sidebarProducts.length > 0
-	? sidebarProducts.slice(0, 3)
+const validSidebarProducts = (sidebarProducts || []).filter(
+	(p) => p && typeof p.url === 'string' && p.url.trim().length > 0
+);
+const rawProducts = validSidebarProducts.length > 0
+	? validSidebarProducts.slice(0, 3)
 	: defaultProducts;
 
 // 各商品に imageUrl が未指定の場合は heroImage または defaultProducts でフォールバック
@@ -1587,11 +1590,11 @@ const relatedPosts = Array.from(new Set([...genreMatched, ...mediaMatched, ...ca
 							<div class="author-info">
 								<div class="author-header">
 									<span class="author-label">WRITTEN BY</span>
-									<h4 class="author-name">漫画ソムリエ｜夜更かしの名作棚 編集部</h4>
-									<span class="author-role">ストーリー考察・出版/関連アイテム情報整理</span>
+									<h4 class="author-name">漫画ソムリエ（「夜更かしの名作棚」管理人）</h4>
+									<span class="author-role">漫画読書歴30年以上・作品考察＆出版仕様整理</span>
 								</div>
 								<p class="author-bio">
-									SF、サスペンス、ファンタジーから名作コミックまで、作画・世界観・物語構成を鑑賞に基づき考察。関連グッズ・映像化アイテムは公式仕様や販売形態を客観的に整理して紹介しています。
+									幼少期から30年以上にわたり名作漫画やSF・サスペンス作品を愛読。物語構成・作画の深掘り考察に加え、紙書籍・電子書籍・映像ソフトの公式仕様や販売形態を客観的に整理して紹介しています。
 								</p>
 								<a href="/about/" class="author-link">
 									詳しいプロフィール・選定方針を見る ➔
