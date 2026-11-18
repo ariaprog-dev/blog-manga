@@ -26,7 +26,6 @@ sidebarProducts:
     price: 990
     microCopy: '詳細を見る'
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 「ゴールデンカムイ」は、ただの冒険漫画ではない。明治末期の北海道を舞台に、金塊を巡るサバイバル、アイヌ文化の探求、そして様々な思惑が交錯する人間ドラマが描かれている。その魅力の核心に迫るのが、公式ファンブック<strong>「ゴールデンカムイ 探究者たちの記録」</strong>だ。
@@ -159,6 +158,11 @@ DMMブックスのキャンペーンを活用することで、かなりのポ�
 
 それは、まるで<strong>もう一度作品世界を冒険するような、知的な旅</strong>に他ならない。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>ゴールデンカムイ 探究者たちの記録</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B4%25E3%2583%25BC%25E3%2583%25AB%25E3%2583%2587%25E3%2583%25B3%25E3%2582%25AB%25E3%2583%25A0%25E3%2582%25A4%2520%25E6%258E%25A2%25E7%25A9%25B6%25E8%2580%2585%25E3%2581%259F%25E3%2581%25A1%25E3%2581%25AE%25E8%25A8%2598%25E9%258C%25B2" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%87%E3%83%B3%E3%82%AB%E3%83%A0%E3%82%A4%20%E6%8E%A2%E7%A9%B6%E8%80%85%E3%81%9F%E3%81%A1%E3%81%AE%E8%A8%98%E9%8C%B2%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25B4%25E3%2583%25BC%25E3%2583%25AB%25E3%2583%2587%25E3%2583%25B3%25E3%2582%25AB%25E3%2583%25A0%25E3%2582%25A4%2520%25E6%258E%25A2%25E7%25A9%25B6%25E8%2580%2585%25E3%2581%259F%25E3%2581%25A1%25E3%2581%25AE%25E8%25A8%2598%25E9%258C%25B2" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a><a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4034838%2Fb950ushes00261%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #1d4ed8; border: 1px solid #93c5fd;">DMMで見る</a></div>
+</div>
+
 ### よくある質問
 <strong>Q1: 「ゴールデンカムイ 探究者たちの記録」は、原作を読み終えていなくても楽しめる？</strong>
 A1: 原作を読み終えてからのほうが、<strong>より深く楽しめる内容</strong>です。物語の核心やキャラクターの背景に深く触れるため、ネタバレが多く含まれます。読了後に読むことで、作品の新たな魅力や伏線に気づくことができるでしょう。
@@ -172,4 +176,3 @@ A2: 大いに役立ちます。本書には主要キャラクターから脇役�
 A3: 基本的には<strong>本編を全巻読破した後</strong>に読むのが適しています。物語の全貌を把握した上で、本書で明かされる作者の意図や設定を照らし合わせることで、作品世界の奥行きを最大限に感じられます。
 
 再読の際に隣に置き、気になったキャラクターやシーンの項目を参照するのも良いでしょう。
-

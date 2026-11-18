@@ -13,7 +13,6 @@ sidebarProducts:
 
 mediaType: comic
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
@@ -113,6 +112,11 @@ mediaType: comic
 
 壮麗な歴史描写、緻密な心理描写、そしてキャラクターたちの織りなす人間ドラマは、単なるエンターテイメントを超え、読者に「人間とは何か」「強さとは何か」を問いかける。作品を読み終えた後、古の女王が抱いた情熱と覚悟が深く心に残るだろう。歴史ロマンと深い人間ドラマを求める読者にとって、『傾国のカルマ』は読む価値のある作品である。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>傾国のカルマ</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%2582%25BE%25E5%259B%25BD%25E3%2581%25AE%25E3%2582%25AB%25E3%2583%25AB%25E3%2583%259E" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E5%82%BE%E5%9B%BD%E3%81%AE%E3%82%AB%E3%83%AB%E3%83%9E%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E5%2582%25BE%25E5%259B%25BD%25E3%2581%25AE%25E3%2582%25AB%25E3%2583%25AB%25E3%2583%259E" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a><a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4190445%2Fs174apups00612%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #1d4ed8; border: 1px solid #93c5fd;">DMMで見る</a></div>
+</div>
+
 ## 『傾国のカルマ（単話）』の購入前チェックポイント
 
 ### よくある質問（FAQ）：『傾国のカルマ（単話）』
@@ -122,4 +126,3 @@ A1. はい。『傾国のカルマ（単話）』（参考価格：100円前後�
 
 <strong>Q2. 『傾国のカルマ』を「単話版」（参考価格100円前後）で読み始めるメリットと注意点はありますか？</strong>
 A2. 12世紀イングランドを舞台にした重厚な歴史愛憎劇の空気感や作画が自分の好みに合うかを少額（100円前後）から確かめられるのが単話版の強みです。続けて読み進めたい場合は、話数ごとの個別購入と単行本まとめ買いの合計額を各ストアで比較しておくと予算管理しやすくなります。
-

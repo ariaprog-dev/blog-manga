@@ -23,7 +23,6 @@ sidebarProducts:
   price: 792
   microCopy: 詳細を見る
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 五十嵐大介作品集『ウムヴェルト』は、五感と知性を強く刺激する作品である。この作品集は、単なるSFやファンタジーの枠に収まらない。異形と美しさ、人間の根源的な問いを視覚的に提示し、読者の価値観に影響を与える。
@@ -143,6 +142,11 @@ DMMブックスでは、しばしば漫画のセールが開催されること�
 
 現実世界を歩く中で、ふと彼の描いた異形の風景や生命の営みを思い出し、<strong>日常の見え方が変わるような読後感</strong>は、他の作品ではなかなか味わえないものだ。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>ウムヴェルト 五十嵐大介作品集</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25A6%25E3%2583%25A0%25E3%2583%25B4%25E3%2582%25A7%25E3%2583%25AB%25E3%2583%2588%2520%25E4%25BA%2594%25E5%258D%2581%25E5%25B5%2590%25E5%25A4%25A7%25E4%25BB%258B%25E4%25BD%259C%25E5%2593%2581%25E9%259B%2586" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A6%E3%83%A0%E3%83%B4%E3%82%A7%E3%83%AB%E3%83%88%20%E4%BA%94%E5%8D%81%E5%B5%90%E5%A4%A7%E4%BB%8B%E4%BD%9C%E5%93%81%E9%9B%86%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25A6%25E3%2583%25A0%25E3%2583%25B4%25E3%2582%25A7%25E3%2583%25AB%25E3%2583%2588%2520%25E4%25BA%2594%25E5%258D%2581%25E5%25B5%2590%25E5%25A4%25A7%25E4%25BB%258B%25E4%25BD%259C%25E5%2593%2581%25E9%259B%2586" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a><a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F717839%2Fb900qkds02196%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #1d4ed8; border: 1px solid #93c5fd;">DMMで見る</a></div>
+</div>
+
 ### よくある質問
 
 <strong>Q1: 五十嵐大介の作品は初めてだが、ついていけるか？</strong>
@@ -153,4 +157,3 @@ A2: 各短編は独立した物語だが、<strong>人間と自然、異質な�
 
 <strong>Q3: 読み終わった後、どんな感情になることが多い？</strong>
 A3: 明確なハッピーエンドや答えが示されることは少ないです。むしろ、世界の奥深さや生命の不可思議さについて深く考えさせられ、<strong>静かな興奮と、世界に対する新たな視点</strong>を得られるような読後感が残ることが多いです。
-

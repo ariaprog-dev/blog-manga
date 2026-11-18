@@ -13,7 +13,6 @@ sidebarProducts:
 
 mediaType: anime
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 多くの人の心に深く刻まれ、今なお語り継がれる作品がある。『新世紀エヴァンゲリオン』だ。1995年、テレビ放送開始とともに社会現象を巻き起こし、視聴者を日常から異世界へと誘ったこのアニメは、単なるSFロボットアニメの枠を超え、多くの若者の精神に深い問いを投げかけた。
@@ -123,6 +122,11 @@ mediaType: anime
 
 物理メディアとしてのDVDBOXは、デジタル配信が主流の現代において、作品を所有し鑑賞する選択肢を提供する。当時の空気感を再現するTV放映版を所有することは、作品体験の一形態となる。このDVDBOXは、過去の視聴体験を再現したい、あるいは作品の原点に触れたいと考える層にとって、選択肢の一つとなる。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>Neon Genesis Evangelion DVD BOX</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DNeon%2520Genesis%2520Evangelion%2520DVD%2520BOX" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/g00qo031.ve2q517d.g00qo031.ve2q67ac/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsurprise-web%2Faznkiba-92191%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsurprise-web%2Fi%2F12888204%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DNeon%2520Genesis%2520Evangelion%2520DVD%2520BOX" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ## 『DVD / TVアニメ / 新世紀エヴァンゲリオンTV放映版DVDBOX ARCHIVES OF EVANGELION (期間限定生産版) / KIBA-92191』の購入前チェックポイント
 
 ### よくある質問（FAQ）：『DVD / TVアニメ / 新世紀エヴァンゲリオンTV放映版DVDBOX ARCHIVES OF EVANGELION (期間限定生産版) / KIBA-92191』
@@ -132,4 +136,3 @@ A1. 『DVD / TVアニメ / 新世紀エヴァンゲリオンTV放映版DVDBOX AR
 
 <strong>Q2. TV放映版と後に発売されたリニューアル版・新劇場版では何が違いますか？</strong>
 A2. TV放映版は1995〜1996年当時の本放送時の映像・テロップ・音楽演出そのままを体感できる歴史的価値があります。一方、リニューアル版は画質や一部カットの修正、新劇場版は物語後半が別展開となっており、原点表現を確かめるにはTV放映版が基準になります。
-

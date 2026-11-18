@@ -12,7 +12,6 @@ sidebarProducts:
   microCopy: 詳細を見る
 mediaType: anime
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 歴史の授業で習う「春秋戦国時代」という言葉は、単なる記号として認識されがちである。しかし、『キングダム』を読めば、その歴史観は大きく変化する可能性がある。血湧き肉躍る戦乱の時代、一介の身分から天下統一を目指す若者たちの熱きドラマは、読者に臨場感を与え、深く引き込む。
@@ -123,6 +122,11 @@ TVアニメ「キングダム」第4シリーズのDVDBOXも素晴らしいが�
 
 眠れない夜、あるいは週末の午後に、このDVDBOXを手に取ってほしい。きっと、そこに広がる壮大な歴史ドラマが、あなたの心を深く満たし、忘れかけていた情熱を呼び覚ましてくれるだろう。そして、あなたはきっと、続きが観たくてたまらなくなるはずだ。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>キングダム</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25AD%25E3%2583%25B3%25E3%2582%25B0%25E3%2583%2580%25E3%2583%25A0" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25AD%25E3%2583%25B3%25E3%2582%25B0%25E3%2583%2580%25E3%2583%25A0" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a><a href="https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_645avba62528%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #1d4ed8; border: 1px solid #93c5fd;">DMMで見る</a></div>
+</div>
+
 ## 『キングダム』の購入前チェックポイント
 
 ### よくある質問（FAQ）：『キングダム』
@@ -132,5 +136,3 @@ A1. 『キングダム』（参考価格：770円前後）は、作品世界へ�
 
 <strong>Q2. 成蟜の変・著雍攻略戦・艾国編はどの順番で観ると物語を追いやすいですか？</strong>
 A2. アニメ第4シリーズのストーリー順として成蟜の決意、魏との著雍攻略戦、そして秦国内部の権力決着である嫪毐（エイ国）の反乱へと繋がる構成です。本BOXセットは第4シリーズの政治・内政ドラマの決着までを一気に追えます。
-
-

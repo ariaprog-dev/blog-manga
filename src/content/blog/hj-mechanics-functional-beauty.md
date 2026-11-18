@@ -35,7 +35,6 @@ sidebarProducts:
     price: 5280
     microCopy: '詳細を見る'
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 <strong>「HJメカニクス」は、何度も読み返す価値がある作品である。</strong>単なるSFメカの図鑑ではなく、宇宙・天体のメカニックデザインに込められた<strong>「なぜこの形状なのか」「なぜこの機能なのか」という設計思想</strong>を、徹底的に解き明かす。
@@ -160,6 +159,11 @@ sidebarProducts:
 
 この書籍は、SF作品のファンはもちろん、<strong>デザイン思考や工学、あるいは宇宙開発に少しでも興味がある人</strong>にとって、価格2,530円以上の価値がある。知的好奇心を刺激し、世界の見え方を変える一冊になるはずだ。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>HJメカニクス</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DHJ%25E3%2583%25A1%25E3%2582%25AB%25E3%2583%258B%25E3%2582%25AF%25E3%2582%25B9" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHJ%E3%83%A1%E3%82%AB%E3%83%8B%E3%82%AF%E3%82%B9%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DHJ%25E3%2583%25A1%25E3%2582%25AB%25E3%2583%258B%25E3%2582%25AF%25E3%2582%25B9" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a><a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F826563%2Fb471abyjp03569%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #1d4ed8; border: 1px solid #93c5fd;">DMMで見る</a></div>
+</div>
+
 ### よくある質問
 
 <strong>Q1: 「HJメカニクス」は特定のSF作品のファンでなくても楽しめますか？</strong>
@@ -178,4 +182,3 @@ A2: 確かに専門用語は多く登場します。
 A3: 電子書籍版（DMMブックス）の最大のメリットは、<strong>拡大機能によるディテールの確認</strong>です。精密なメカニックの図版が多いため、細部まで鮮明に拡大して見られるのは非常に有用です。
 
 また、テキスト検索機能で特定のメカニックや用語を瞬時に見つけられるため、リファレンスブックとしての使い勝手も抜群です。
-

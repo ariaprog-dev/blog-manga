@@ -35,7 +35,6 @@ sidebarProducts:
     price: 814
     microCopy: '詳細を見る'
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 歴史上の英雄、伊達政宗の生涯を描いた漫画は数多くあるが、横山光輝版の「伊達政宗」は、その中でも独特の存在感を放つ。山岡荘八の原作小説を元に、横山光輝が独自の劇画タッチで再構築したこの作品は、<strong>単なる歴史の追体験ではない、一人の人間ドラマとして心に深く刻まれる</strong>。
@@ -78,6 +77,11 @@ sidebarProducts:
 
 特に印象的なのは、政宗が家臣や母との関係で葛藤する場面だ。単に「天下取り」に邁進するだけではない、<strong>血肉の通った感情を持つ一人の若者</strong>として政宗が息づいている。この描写が、読者を強く引き込むのだ。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>横山光輝が描く 独眼竜</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%25A8%25AA%25E5%25B1%25B1%25E5%2585%2589%25E8%25BC%259D%25E3%2581%258C%25E6%258F%258F%25E3%2581%258F%2520%25E7%258B%25AC%25E7%259C%25BC%25E7%25AB%259C" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E6%A8%AA%E5%B1%B1%E5%85%89%E8%BC%9D%E3%81%8C%E6%8F%8F%E3%81%8F%20%E7%8B%AC%E7%9C%BC%E7%AB%9C%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E6%25A8%25AA%25E5%25B1%25B1%25E5%2585%2589%25E8%25BC%259D%25E3%2581%258C%25E6%258F%258F%25E3%2581%258F%2520%25E7%258B%25AC%25E7%259C%25BC%25E7%25AB%259C" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ## 「伊達政宗」の画力と演出：時代を超えた表現力
 
 横山光輝の<strong>劇画スタイル</strong>は、戦国時代の空気感を余すことなく表現している。合戦シーンの迫力は圧巻で、武士たちの激しいぶつかり合い、そして一瞬の油断が命取りとなる緊迫感が、大胆な構図と力強い描線で伝わってくる。
@@ -85,6 +89,11 @@ sidebarProducts:
 作品を読み始めた当初は、登場人物の顔が類似していると感じるかもしれない。しかし、数巻読み進めるうちに、<strong>わずかな表情の変化や、キャラクターごとの立ち位置、セリフ回し</strong>によって彼らの個性が鮮やかに浮かび上がる。
 
 これは、横山作品特有の読解術であり、その深さに気づいた時の感動はひとしおだった。
+
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>伊達政宗 の画力と演出</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E4%25BC%258A%25E9%2581%2594%25E6%2594%25BF%25E5%25AE%2597%2520%25E3%2581%25AE%25E7%2594%25BB%25E5%258A%259B%25E3%2581%25A8%25E6%25BC%2594%25E5%2587%25BA" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E4%BC%8A%E9%81%94%E6%94%BF%E5%AE%97%20%E3%81%AE%E7%94%BB%E5%8A%9B%E3%81%A8%E6%BC%94%E5%87%BA%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E4%25BC%258A%25E9%2581%2594%25E6%2594%25BF%25E5%25AE%2597%2520%25E3%2581%25AE%25E7%2594%25BB%25E5%258A%259B%25E3%2581%25A8%25E6%25BC%2594%25E5%2587%25BA" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>
 
 ## 全巻を通読するメリットと読む上での注意点
 
@@ -113,6 +122,11 @@ sidebarProducts:
 
 現在は電子書籍での入手も容易になっている。手軽に読みたいなら電子版、書棚に並べてコレクションしたいなら紙版と、自分の読書スタイルに合わせて選択するといい。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>横山光輝 伊達政宗</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%25A8%25AA%25E5%25B1%25B1%25E5%2585%2589%25E8%25BC%259D%2520%25E4%25BC%258A%25E9%2581%2594%25E6%2594%25BF%25E5%25AE%2597" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/g00rc681.ve2q5dc9.g00rc681.ve2q61dc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbookoffonline%2F0011377900%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E6%25A8%25AA%25E5%25B1%25B1%25E5%2585%2589%25E8%25BC%259D%2520%25E4%25BC%258A%25E9%2581%2594%25E6%2594%25BF%25E5%25AE%2597" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ## まとめ：歴史漫画の金字塔を味わう
 
 横山光輝の「伊達政宗」は、単に歴史上の出来事をなぞるだけの作品ではない。戦国の世を駆け抜けた<strong>一人の人間の生き様と、彼が抱いた夢や苦悩</strong>を、読者に深く訴えかける力がある。
@@ -133,4 +147,3 @@ A2: 「伊達政宗」は山岡荘八の歴史小説を原作としているた�
 A3: <strong>紙媒体</strong>は書棚に並べてコレクションする満足感や、ページをめくる手触りがあります。一方、<strong>電子書籍</strong>は場所を取らず、どこでも手軽に読めるのが利点です。
 
 ご自身の読書習慣や保管スペースを考慮して選ぶと良いでしょう。
-

@@ -13,7 +13,6 @@ sidebarProducts:
 
 mediaType: comic
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 少年時代の冒険への憧憬を、大人になった今も忘れていないだろうか。ファミコンやブラウン管テレビの向こうで繰り広げられた壮大な物語に心を揺さぶられた記憶は、きっと多くの人々の胸に刻まれているはずだ。純粋な心で世界と向き合い、困難を乗り越え、成長していく――。そのような普遍的な物語は、いつの時代も人々を引きつける。今回は、現代に蘇った不朽のファンタジー漫画、『ポポロクロイス物語』を紹介する。あの頃の熱狂と感動を、今こそ改めて味わってみてほしい。
@@ -111,6 +110,11 @@ mediaType: comic
 
 ポポロクロイス物語は、時を超えて愛され続ける普遍的な価値を持つ。多忙な日常の中で失われがちな純粋な心を取り戻し、新たな視点や感動を与えてくれる一冊だ。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>ポポロクロイス物語 《</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259D%25E3%2583%259D%25E3%2583%25AD%25E3%2582%25AF%25E3%2583%25AD%25E3%2582%25A4%25E3%2582%25B9%25E7%2589%25A9%25E8%25AA%259E%2520%25E3%2580%258A" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%9D%E3%83%9D%E3%83%AD%E3%82%AF%E3%83%AD%E3%82%A4%E3%82%B9%E7%89%A9%E8%AA%9E%20%E3%80%8A%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%259D%25E3%2583%259D%25E3%2583%25AD%25E3%2582%25AF%25E3%2583%25AD%25E3%2582%25A4%25E3%2582%25B9%25E7%2589%25A9%25E8%25AA%259E%2520%25E3%2580%258A" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a><a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4480248%2Fb889ahkdd00242%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #1d4ed8; border: 1px solid #93c5fd;">DMMで見る</a></div>
+</div>
+
 ## 『ポポロクロイス物語 《決定版》』の購入前チェックポイント
 
 ### よくある質問（FAQ）：『ポポロクロイス物語 《決定版》』
@@ -120,4 +124,3 @@ A1. はい。『ポポロクロイス物語 《決定版》』（参考価格：
 
 <strong>Q2. 『ポポロクロイス物語 《決定版》』は過去刊行版と比べてどのような特徴に着目して選ぶとよいですか？</strong>
 A2. 《決定版》（参考価格1,100円）では当時のカラーページの再現や未収録エピソードへの対応など保存・網羅性に配慮された構成が魅力です。かつてゲーム版や連載に触れた読者の再読用としても、ピエトロ王子の物語を初めて通読する入門書としても見比べやすい版型です。
-

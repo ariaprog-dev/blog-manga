@@ -17,7 +17,6 @@ sidebarProducts:
     microCopy: '詳細を見る'
 mediaType: figure
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 『魔法少女ノ魔女裁判』の登場キャラクター・二階堂ヒロを立体化した「POP UP PARADE 二階堂ヒロ L size」（発売元：グッドスマイルカンパニー、掲載時参考価格：8,329円）は、手に取りやすい価格帯を維持しながら存在感のあるサイズ感を実現した塗装済み完成品フィギュアである。デスク周りやコレクションシェルフに設置した際、通常ラインのフィギュアよりも一回り大きい全高約220mmのボリュームが、作品の持つ緊迫感とキャラクターの造形美を際立たせる設計となっている。
@@ -92,3 +91,8 @@ POP UP PARADE L size シリーズには価格とボリュームの絶妙なバ�
 3. **配送・保管ボックスのスペース確保**: 全高約220mmのL sizeは外箱（ブリスター含む）も相応の体積となるため、外箱を保管する予定がある場合は押し入れや収納棚の余白もあらかじめ見込んでおくと整理しやすい。
 
 作品『魔法少女ノ魔女裁判』のビジュアル表現を手元で立体的に鑑賞したいファンにとって、本製品はサイズ感と導入コストの折り合いをつけやすい堅実な選択肢のひとつといえる。最終的な購入可否は各ショップの最新在庫・発送予定時期および自身のディスプレイ棚のサイズを確認したうえで検討されたい。
+
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>POP UP PARADE</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DPOP%2520UP%2520PARADE" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPOP%20UP%20PARADE%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DPOP%2520UP%2520PARADE" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a><a href="https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fhobby%2F-%2Fdetail%2F%3D%2Fcid%3Dc260705287%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #1d4ed8; border: 1px solid #93c5fd;">DMMで見る</a></div>
+</div>

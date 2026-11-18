@@ -21,7 +21,6 @@ sidebarProducts:
   price: 9270
   microCopy: 詳細を見る
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 弐瓶勉作品の退廃的で硬質な世界観を好むファンにとって、劇場アニメ「BLAME!」の映像化は待望された。特にこの初回限定版Blu-ray（KIXA-90769）は、単なる本編ディスクに留まらない。
@@ -123,6 +122,11 @@ BLAME!劇場版初回限定版Blu-rayのパッケージは、そのデザイン�
 
 これは、作品の世界観をあらゆる角度から堪能し、自分のコレクションとして大切にしたいと願う人に向けて作られたパッケージだ。弐瓶勉作品特有の無機質で圧倒的なスケール、そして哲学的な問いかけに魅力を感じるなら、このBlu-rayはあなたのSFコレクションの中心を飾る一品になるだろう。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>新装版 BLAME 弐瓶勉</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%2596%25B0%25E8%25A3%2585%25E7%2589%2588%2520BLAME%2520%25E5%25BC%2590%25E7%2593%25B6%25E5%258B%2589" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E6%96%B0%E8%A3%85%E7%89%88%20BLAME%20%E5%BC%90%E7%93%B6%E5%8B%89%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E6%2596%25B0%25E8%25A3%2585%25E7%2589%2588%2520BLAME%2520%25E5%25BC%2590%25E7%2593%25B6%25E5%258B%2589" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a><a href="https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_653kixa90762%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #1d4ed8; border: 1px solid #93c5fd;">DMMで見る</a></div>
+</div>
+
 ### よくある質問
 
 <strong>Q1: 原作漫画を読んでいなくても楽しめますか？</strong>
@@ -135,5 +139,3 @@ A2: 描き下ろし漫画は、劇場版とは異なる視点やエピソード�
 A3: 高精細なBlu-ray画質で、弐瓶勉作品特有の緻密な構造物や退廃的な都市のディテールが鮮明に描かれています。音質も高品質で、重力子放射線射出装置の発射音や戦闘音などの迫力を存分に楽しめます。
 
 臨場感を高めるためには、良質なヘッドホンや音響機器での視聴が有効です。
-
-

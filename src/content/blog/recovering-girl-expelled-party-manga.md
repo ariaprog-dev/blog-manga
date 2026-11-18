@@ -13,7 +13,6 @@ sidebarProducts:
 
 mediaType: comic
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 「異世界転生」「追放系」といった言葉は、特定の世代に懐かしさや冒険心を想起させることがある。かつてゲームセンターでRPGをプレイしたり、ファンタジー小説を読んだりした熱狂が蘇る感覚を覚える読者もいるだろう。現実の日常から解放され、剣と魔法の世界に没頭したいという願望に応えるのが、近年の異世界ファンタジー作品である。特に、不遇な立場から逆転していく主人公の姿は、読者の関心を集める。これらの物語は、秘めたる才能の開花を願う普遍的な願望を表現している。
@@ -123,6 +122,11 @@ DMMブックスで読める冒険者パーティーを追放された回復士�
 
 冒険者パーティーを追放された回復士の少女を拾って育成したら まさかの最強職業に転職 おまけに彼女の様子が何やらおかしくて…を読んで、最高の夜更かしを楽しんでほしい。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>冒険者パーティーを追放された回復士の少女を拾って育成した</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%2586%2592%25E9%2599%25BA%25E8%2580%2585%25E3%2583%2591%25E3%2583%25BC%25E3%2583%2586%25E3%2582%25A3%25E3%2583%25BC%25E3%2582%2592%25E8%25BF%25BD%25E6%2594%25BE%25E3%2581%2595%25E3%2582%258C%25E3%2581%259F%25E5%259B%259E%25E5%25BE%25A9%25E5%25A3%25AB%25E3%2581%25AE%25E5%25B0%2591%25E5%25A5%25B3%25E3%2582%2592%25E6%258B%25BE%25E3%2581%25A3%25E3%2581%25A6%25E8%2582%25B2%25E6%2588%2590%25E3%2581%2597%25E3%2581%259F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/g00qs411.ve2q582c.g00qs411.ve2q6adc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcomicset%2F4758093539%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcomicset%2Fi%2F13789246%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E5%2586%2592%25E9%2599%25BA%25E8%2580%2585%25E3%2583%2591%25E3%2583%25BC%25E3%2583%2586%25E3%2582%25A3%25E3%2583%25BC%25E3%2582%2592%25E8%25BF%25BD%25E6%2594%25BE%25E3%2581%2595%25E3%2582%258C%25E3%2581%259F%25E5%259B%259E%25E5%25BE%25A9%25E5%25A3%25AB%25E3%2581%25AE%25E5%25B0%2591%25E5%25A5%25B3%25E3%2582%2592%25E6%258B%25BE%25E3%2581%25A3%25E3%2581%25A6%25E8%2582%25B2%25E6%2588%2590%25E3%2581%2597%25E3%2581%259F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ## 『【中古】 冒険者パーティーを追放された回復士の少女を拾って育成したら、まさかの最強職業に転職!?　おまけに / / [単行本（ソフトカバー）]【メール便送料無料】【最短翌日配達対応】』の購入前チェックポイント
 
 ### よくある質問（FAQ）：『【中古】 冒険者パーティーを追放された回復士の少女を拾って育成したら、まさかの最強職業に転職!?　おまけに / / [単行本（ソフトカバー）]【メール便送料無料】【最短翌日配達対応】』
@@ -132,4 +136,3 @@ A1. はい。『【中古】 冒険者パーティーを追放された回復士
 
 <strong>Q2. 『冒険者パーティーを追放された回復士の少女を拾って育成したら』は電子の単話配信と単行本版のどちらが見やすいですか？</strong>
 A2. 続きの展開をいち早く追いたい場合は165円前後から手頃に買える電子の単話版が機動力に優れ、数話分をまとめて振り返りながら保管・所有したい場合は単行本版（中古流通や新品在庫を含め1,000円前後の選択肢あり）が整理しやすい形式です。
-

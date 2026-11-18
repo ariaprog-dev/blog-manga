@@ -13,7 +13,6 @@ sidebarProducts:
 
 mediaType: figure
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 色褪せない名作として今も語り継がれる『カウボーイビバップ』。ジャズを基調としたBGM、ハードボイルドな世界観、そして魅力的なキャラクターたちは、多くの観る者を惹きつけてやまない。中でも、主人公スパイク・スピーゲルの飄々とした佇まいと、その瞳の奥に宿る深い哀愁は、「自由」や「生きる意味」について考察を促す。
@@ -127,6 +126,11 @@ POP UP PARADEシリーズは、手頃な価格帯ながらもクオリティの�
 
 このフィギュアは、あなたのスパイクへの愛を形にし、日常を彩る大切な存在となるはずだ。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>POP UP PARADE</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DPOP%2520UP%2520PARADE" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPOP%20UP%20PARADE%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DPOP%2520UP%2520PARADE" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a><a href="https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fhobby%2F-%2Fdetail%2F%3D%2Fcid%3Dc260103533%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #1d4ed8; border: 1px solid #93c5fd;">DMMで見る</a></div>
+</div>
+
 ## 『【再販】POP UP PARADE スパイク・スピーゲル カウボーイビバップ』の購入前チェックポイント
 
 ### よくある質問（FAQ）：『【再販】POP UP PARADE スパイク・スピーゲル カウボーイビバップ』
@@ -136,4 +140,3 @@ A1. 『【再販】POP UP PARADE スパイク・スピーゲル カウボーイ�
 
 <strong>Q2. POP UP PARADE スパイクの飾りやすさやサイズ感はどうですか？</strong>
 A2. 全高約17〜18cmの手頃なスケールで設計されているため、本棚の一角やデスク周りの省スペースにも無理なく飾れます。専用台座が付属しており自立の安定感もありますが、長期間の飾り置きではホコリ除去や直射日光対策を行うと色褪せを防げます。
-

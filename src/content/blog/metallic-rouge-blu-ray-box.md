@@ -12,7 +12,6 @@ sidebarProducts:
   microCopy: 詳細を見る
 mediaType: anime
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
@@ -125,6 +124,11 @@ mediaType: anime
 
 本BOXは、『メタリックルージュ』という作品が持つメッセージと感動を、最も上質な形で享受するための選択肢の一つである。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>メタリックルージュ</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%25A1%25E3%2582%25BF%25E3%2583%25AA%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25AB%25E3%2583%25BC%25E3%2582%25B8%25E3%2583%25A5" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%A1%E3%82%BF%E3%83%AA%E3%83%83%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%B8%E3%83%A5%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%25A1%25E3%2582%25BF%25E3%2583%25AA%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25AB%25E3%2583%25BC%25E3%2582%25B8%25E3%2583%25A5" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a><a href="https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_820gabs2744%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #1d4ed8; border: 1px solid #93c5fd;">DMMで見る</a></div>
+</div>
+
 ## 『メタリックルージュ【タテヨミ】』の購入前チェックポイント
 
 ### よくある質問（FAQ）：『メタリックルージュ【タテヨミ】』
@@ -134,5 +138,3 @@ A1. 『メタリックルージュ【タテヨミ】』（参考価格：67円�
 
 <strong>Q2. ボンズ25周年記念作『メタリックルージュ』のパッケージ版ならではの特徴は何ですか？</strong>
 A2. 放送時には暗いシーンや高速バトルで圧縮されがちな映像・音響情報が、Blu-rayの高ビットレート映像とオリジナル音声仕様で細部まで再現されます。特製ブックレットや描き下ろしジャケットを含め、オリジナルSFの世界観を資料ごと手元に残せます。
-
-

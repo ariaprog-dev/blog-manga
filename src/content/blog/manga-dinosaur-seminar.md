@@ -13,7 +13,6 @@ sidebarProducts:
 
 mediaType: comic
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 過去には、牧歌的な未来が想像されていた。夏休みの図書館で、あるいは近所の書店で、図鑑のページをめくるたびに、太古のロマンが感じられた。分厚い図鑑に描かれたティラノサウルスやトリケラトプスは、想像力を広げ、未知の世界への好奇心を喚起した。そのような時代に、藤子・F・不二雄が生み出した作品は、単なるSFという枠には収まらない、深い問いを提示していた。特に、『別巻 まんがゼミナール 恐竜ゼミナール』は、子供向けの体裁を取りながらも、その奥底には科学の光と影、生命の尊厳、そして倫理的なジレンマが隠されている。
@@ -108,6 +107,11 @@ DMMブックスなら、別巻 まんがゼミナール 恐竜ゼミナールを
 
 この作品は、一度読んだら終わりではない。読み返すたびに、新たな発見があり、深まる考察がある。まるでワインのように、時間を経て熟成されることで、その真価がより一層輝きを増すのだ。今夜、温かい飲み物でも淹れて、この名作をもう一度紐解いてみてはどうだろうか。きっと、あなたの心に、遠い太古のロマンと、科学が持つ無限の可能性、そして生命への深い敬意が静かに、そして力強く響き渡るはずだ。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>別巻 まんがゼミナール／恐竜ゼミナール</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%2588%25A5%25E5%25B7%25BB%2520%25E3%2581%25BE%25E3%2582%2593%25E3%2581%258C%25E3%2582%25BC%25E3%2583%259F%25E3%2583%258A%25E3%2583%25BC%25E3%2583%25AB%25EF%25BC%258F%25E6%2581%2590%25E7%25AB%259C%25E3%2582%25BC%25E3%2583%259F%25E3%2583%258A%25E3%2583%25BC%25E3%2583%25AB" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/g00reb41.ve2q58c2.g00reb41.ve2q61ce/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutenkobo-ebooks%2Ffda5eaaab7103761b629a7022a951d88%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutenkobo-ebooks%2Fi%2F20617386%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E5%2588%25A5%25E5%25B7%25BB%2520%25E3%2581%25BE%25E3%2582%2593%25E3%2581%258C%25E3%2582%25BC%25E3%2583%259F%25E3%2583%258A%25E3%2583%25BC%25E3%2583%25AB%25EF%25BC%258F%25E6%2581%2590%25E7%25AB%259C%25E3%2582%25BC%25E3%2583%259F%25E3%2583%258A%25E3%2583%25BC%25E3%2583%25AB" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ## 『別巻 まんがゼミナール／恐竜ゼミナール』の購入前チェックポイント
 
 ### よくある質問（FAQ）：『別巻 まんがゼミナール／恐竜ゼミナール』
@@ -117,4 +121,3 @@ A1. はい。『別巻 まんがゼミナール／恐竜ゼミナール』（参
 
 <strong>Q2. 藤子・F・不二雄『別巻 まんがゼミナール 恐竜ゼミナール』を子ども向け・大人向けの学習書として購入する前の確認点は？</strong>
 A2. 恐竜の生態解説を入り口にしつつ科学的な探究心や生命倫理のテーマを漫画形式で描いた構成（参考価格2,310円）のため、対象年齢別の漢字ルビや収録ボリューム、また手元の読書環境（紙の本として共有するか端末で読むか）を事前に確認しておくと期待値と合いやすくなります。
-

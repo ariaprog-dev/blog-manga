@@ -23,7 +23,6 @@ sidebarProducts:
   price: 110
   microCopy: 詳細を見る
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 日常に潜む底知れない恐怖。その感覚をこれほどまでに鮮烈に、そして独創的に描き出す漫画家は伊藤潤二氏以外にいないだろう。彼の作品は、単なる怪談やグロテスクな表現に留まらず、人間の心理の深淵や社会の歪みを映し出す。
@@ -132,6 +131,11 @@ DMMブックスでは、新規登録者向けのキャンペーンや、定期�
 
 彼の作品は、見慣れた世界がいかに脆く、奇妙な均衡の上に成り立っているかを静かに問いかける。このコレクションは、一冊の漫画としてだけでなく、一つの芸術作品として、読者の思考に新たな刺激をもたらす。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>伊藤潤二コレクション</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E4%25BC%258A%25E8%2597%25A4%25E6%25BD%25A4%25E4%25BA%258C%25E3%2582%25B3%25E3%2583%25AC%25E3%2582%25AF%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E4%BC%8A%E8%97%A4%E6%BD%A4%E4%BA%8C%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E4%25BC%258A%25E8%2597%25A4%25E6%25BD%25A4%25E4%25BA%258C%25E3%2582%25B3%25E3%2583%25AC%25E3%2582%25AF%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a><a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F781408%2Fb478amosn02808%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #1d4ed8; border: 1px solid #93c5fd;">DMMで見る</a></div>
+</div>
+
 ### よくある質問
 
 <strong>Q1: 伊藤潤二作品はどこから読み始めるのが適していますか？</strong>
@@ -148,4 +152,3 @@ A2: 彼の作品には、視覚的に刺激の強いグロテスクな描写や�
 A3: DMMブックスの電子書籍は、物理的な収納スペースを必要とせず、スマートフォンやタブレットがあればいつでもどこでも手軽に読めるのが大きなメリットだ。特に、キャンペーンやセールを利用すれば、1冊110円というお手頃価格で、紙媒体よりもお得に購入できる場合が多い。
 
 試し読みができる作品も多数あるため、購入前に内容を確認することも可能だ。
-

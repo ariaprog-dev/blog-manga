@@ -20,7 +20,6 @@ sidebarProducts:
   imageUrl: https://thumbnail.image.rakuten.co.jp/@0_mall/mangazenkan/cabinet/syncip_0057/shogaku00260_01.jpg?_ex=600x600
   microCopy: 詳細を見る
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 KADOKAWAから刊行された『あずまんが大王』の連載10周年を記念した初の公式イラスト集は、単なるキャラクターイラストの羅列ではない。あずまきよひこ氏の<strong>色彩感覚の変遷と、漫画では見えなかったキャラの深層</strong>を垣間見せてくれる一冊だ。
@@ -126,6 +125,11 @@ KADOKAWA あずまんが大王は、連載当時のカラーイラストや単�
 
 まさに<strong>作品世界への入り口であり、深い愛着へと誘う鍵</strong>となるだろう。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>あずまんが大王イラスト集 10周年記念版の色彩</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2581%2582%25E3%2581%259A%25E3%2581%25BE%25E3%2582%2593%25E3%2581%258C%25E5%25A4%25A7%25E7%258E%258B%25E3%2582%25A4%25E3%2583%25A9%25E3%2582%25B9%25E3%2583%2588%25E9%259B%2586%252010%25E5%2591%25A8%25E5%25B9%25B4%25E8%25A8%2598%25E5%25BF%25B5%25E7%2589%2588%25E3%2581%25AE%25E8%2589%25B2%25E5%25BD%25A9" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/g00qtaz1.ve2q5c76.g00qtaz1.ve2q6da9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhmvjapan%2F3636989%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhmvjapan%2Fi%2F20528838%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2581%2582%25E3%2581%259A%25E3%2581%25BE%25E3%2582%2593%25E3%2581%258C%25E5%25A4%25A7%25E7%258E%258B%25E3%2582%25A4%25E3%2583%25A9%25E3%2582%25B9%25E3%2583%2588%25E9%259B%2586%252010%25E5%2591%25A8%25E5%25B9%25B4%25E8%25A8%2598%25E5%25BF%25B5%25E7%2589%2588%25E3%2581%25AE%25E8%2589%25B2%25E5%25BD%25A9" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ### よくある質問
 
 <strong>Q1: あずまんが大王を読んだことがなくても楽しめる？</strong>
@@ -149,5 +153,3 @@ A3: 本書は『あずまんが大王』の<strong>連載10周年を記念して
 | 主な特徴 | 『あずまんが大王』連載10周年記念。カラーイラスト、未収録イラスト、企画イラストを多数収録。あずまきよひこ氏の代表的な画業をまとめた貴重なイラスト集。 |
 
 KADOKAWA あずまんが大王は、作品への深い愛情と、作者あずまきよひこ氏の<strong>色彩表現に対する情熱</strong>を再認識させてくれるだろう。この一冊が、あなたの日常に、あずまんが大王がもたらしたあの<strong>ささやかながらも確かな幸福感</strong>を再び届けてくれるはずだ。
-
-

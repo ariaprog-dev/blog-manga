@@ -13,7 +13,6 @@ sidebarProducts:
 
 mediaType: comic
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 『金色のガッシュ！！』は、王道バトル漫画の熱さと心揺さぶる人間ドラマが融合した傑作だ。異世界から来た魔物の子供と人間のパートナーが織りなす壮大な戦いは、真の強さとは何か、優しさとは何かを深く問いかけ、多くの読者の心に普遍的な感動を刻みつけてきた。少年漫画に求められる冒険の興奮と、感情豊かな物語を同時に求める読者にとって、本作は読み応えのある一作となるだろう。
@@ -110,6 +109,11 @@ DMMブックスでは定期的にセールやキャンペーンを実施して�
 
 どんな困難にも立ち向かい、自らの理想を貫こうとするガッシュの姿は、読者自身の生き方や価値観に深く影響を与える可能性を秘めている。読者は、自分にとっての「王」とは何か、本当に大切なものは何かを考えるきっかけを得るだろう。まだ本作を未読であれば、DMMブックスで金色のガッシュ！！を手に取り、ガッシュと清麿の冒険に触れてみてほしい。彼らの旅路は、きっとあなたの心に何かを残すだろう。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>金色のガッシュ 完全版</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E9%2587%2591%25E8%2589%25B2%25E3%2581%25AE%25E3%2582%25AC%25E3%2583%2583%25E3%2582%25B7%25E3%2583%25A5%2520%25E5%25AE%258C%25E5%2585%25A8%25E7%2589%2588" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E9%87%91%E8%89%B2%E3%81%AE%E3%82%AC%E3%83%83%E3%82%B7%E3%83%A5%20%E5%AE%8C%E5%85%A8%E7%89%88%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E9%2587%2591%25E8%2589%25B2%25E3%2581%25AE%25E3%2582%25AC%25E3%2583%2583%25E3%2582%25B7%25E3%2583%25A5%2520%25E5%25AE%258C%25E5%2585%25A8%25E7%2589%2588" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a><a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F810119%2Fk811abdbc00015%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #1d4ed8; border: 1px solid #93c5fd;">DMMで見る</a></div>
+</div>
+
 ## 『金色のガッシュ！！ 完全版（1）』の購入前チェックポイント
 
 ### よくある質問（FAQ）：『金色のガッシュ！！ 完全版（1）』
@@ -119,4 +123,3 @@ A1. はい。『金色のガッシュ！！ 完全版（1）』（参考価格�
 
 <strong>Q2. 『金色のガッシュ！！ 完全版（1）』（参考価格660円前後）を選ぶ際、従来の単行本版・文庫版との主な確認ポイントは何ですか？</strong>
 A2. 完全版は雷句誠による表紙イラスト刷新や収録構成の整理に加え、巻末のおまけページや高解像度の配信データなど現行仕様で通読しやすい点が特徴です。全巻セットでの予算感や、タブレット・スマホでの見開き表示の快適さを確認しながら揃えると計画的に読破できます。
-

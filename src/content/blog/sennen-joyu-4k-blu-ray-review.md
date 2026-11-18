@@ -21,7 +21,6 @@ sidebarProducts:
   price: 5665
   microCopy: 詳細を見る
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 今敏監督の傑作『千年女優』が4Kリマスター版Blu-rayとして蘇った。このTCエンタテインメントから発売された一枚は、単なる高画質化ではない。
@@ -143,6 +142,11 @@ sidebarProducts:
 
 高精細な映像により、圧倒的な映像美と、何度観ても色褪せない感動的な物語を再び鑑賞できる。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>千年女優 今敏監督作品 Blu-ray</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%258D%2583%25E5%25B9%25B4%25E5%25A5%25B3%25E5%2584%25AA%2520%25E4%25BB%258A%25E6%2595%258F%25E7%259B%25A3%25E7%259D%25A3%25E4%25BD%259C%25E5%2593%2581%2520Blu-ray" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/g00qos61.ve2q5e88.g00qos61.ve2q6a65/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-rgbdvdstore%2F10049061%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-rgbdvdstore%2Fi%2F10049061%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E5%258D%2583%25E5%25B9%25B4%25E5%25A5%25B3%25E5%2584%25AA%2520%25E4%25BB%258A%25E6%2595%258F%25E7%259B%25A3%25E7%259D%25A3%25E4%25BD%259C%25E5%2593%2581%2520Blu-ray" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ### よくある質問
 
 <strong>Q1: 初めて今敏監督の作品を観るのですが、『千年女優』は難解すぎませんか？</strong>
@@ -159,5 +163,3 @@ A2: いいえ、決してそんなことはありません。4Kリマスター�
 A3: 『千年女優 4Kリマスター版』のBlu-rayには、本編87分に加えて特典映像が収録されています。具体的な内容はパッケージ裏面や公式情報で確認できますが、一般的には監督のインタビュー、メイキング、絵コンテなどが含まれることが多いです。
 
 これらの特典映像は、<strong>作品の制作背景や監督の意図を深く知る貴重な資料</strong>となります。
-
-

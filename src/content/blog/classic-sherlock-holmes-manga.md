@@ -13,7 +13,6 @@ sidebarProducts:
 
 mediaType: comic
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
@@ -118,6 +117,11 @@ mediaType: comic
 
 読了後も、ホームズの鋭い眼差しやワトソンの誠実な表情が印象に残る。霧深いロンドンの街角、ガス灯の揺らめき、そしてその陰に潜む深い謎。この漫画は、古き良き時代の空気を鮮やかに再現し、ミステリーの世界へと読者を誘う。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>マンガで世界名作 名探偵シャーロック ホームズ</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25AC%25E3%2581%25A7%25E4%25B8%2596%25E7%2595%258C%25E5%2590%258D%25E4%25BD%259C%2520%25E5%2590%258D%25E6%258E%25A2%25E5%2581%25B5%25E3%2582%25B7%25E3%2583%25A3%25E3%2583%25BC%25E3%2583%25AD%25E3%2583%2583%25E3%2582%25AF%2520%25E3%2583%259B%25E3%2583%25BC%25E3%2583%25A0%25E3%2582%25BA" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%9E%E3%83%B3%E3%82%AC%E3%81%A7%E4%B8%96%E7%95%8C%E5%90%8D%E4%BD%9C%20%E5%90%8D%E6%8E%A2%E5%81%B5%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%AD%E3%83%83%E3%82%AF%20%E3%83%9B%E3%83%BC%E3%83%A0%E3%82%BA%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25AC%25E3%2581%25A7%25E4%25B8%2596%25E7%2595%258C%25E5%2590%258D%25E4%25BD%259C%2520%25E5%2590%258D%25E6%258E%25A2%25E5%2581%25B5%25E3%2582%25B7%25E3%2583%25A3%25E3%2583%25BC%25E3%2583%25AD%25E3%2583%2583%25E3%2582%25AF%2520%25E3%2583%259B%25E3%2583%25BC%25E3%2583%25A0%25E3%2582%25BA" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a><a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F6133026%2Fs573awujz00021%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #1d4ed8; border: 1px solid #93c5fd;">DMMで見る</a></div>
+</div>
+
 ## 『マンガで世界名作 名探偵シャーロック・ホームズ』の購入前チェックポイント
 
 ### よくある質問（FAQ）：『マンガで世界名作 名探偵シャーロック・ホームズ』
@@ -127,4 +131,3 @@ A1. はい。『マンガで世界名作 名探偵シャーロック・ホーム
 
 <strong>Q2. 『マンガで世界名作 名探偵シャーロック・ホームズ』は活字の古典小説版と比べてどのような読者に向いていますか？</strong>
 A2. ヴィクトリア朝ロンドンの街並みや登場人物の表情・推理の手がかりを絵とセリフで視覚的に追えるため、長文の翻訳小説にハードルを感じている方や、コナン・ドイルの原典へ入る前の導入用として馴染みやすい構成（参考価格1,320円）になっています。
-

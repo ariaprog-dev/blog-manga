@@ -13,7 +13,6 @@ sidebarProducts:
 
 mediaType: comic
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 『大長編ドラえもん』は、子供向けという枠をはるかに超えた、普遍的な物語の宝庫だ。藤子・F・不二雄が遺したこの冒険活劇は、単なるSFファンタジーではない。友情、勇気、そして地球規模の壮大なテーマが、人生経験を重ねた大人の心にも深く刺さる。
@@ -114,6 +113,11 @@ DMMブックスでは、これらの作品群を電子書籍で手軽に読む�
 
 もしあなたが、人生のどこかで立ち止まり、一歩踏み出す勇気が欲しい時、あるいは、心から熱くなれる冒険を求めているなら、『大長編ドラえもん』の世界に足を踏み入れてみるのも良いだろう。きっと、新たな発見と、忘れかけていた大切な感情に出会えるはずだ。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>大長編ドラえもん</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%25A4%25A7%25E9%2595%25B7%25E7%25B7%25A8%25E3%2583%2589%25E3%2583%25A9%25E3%2581%2588%25E3%2582%2582%25E3%2582%2593" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E5%A4%A7%E9%95%B7%E7%B7%A8%E3%83%89%E3%83%A9%E3%81%88%E3%82%82%E3%82%93%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E5%25A4%25A7%25E9%2595%25B7%25E7%25B7%25A8%25E3%2583%2589%25E3%2583%25A9%25E3%2581%2588%25E3%2582%2582%25E3%2582%2593" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a><a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F590245%2Fb600qsgk02980%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #1d4ed8; border: 1px solid #93c5fd;">DMMで見る</a></div>
+</div>
+
 ## 『大長編ドラえもん』の購入前チェックポイント
 
 ### よくある質問（FAQ）：『大長編ドラえもん』
@@ -123,4 +127,3 @@ A1. はい。『大長編ドラえもん』（参考価格：528円前後）は�
 
 <strong>Q2. 『大長編ドラえもん』を読む場合、通常の短編『ドラえもん』と読み方や収納面で違いはありますか？</strong>
 A2. 通常の1話完結型の『ドラえもん』とは異なり、1冊で1つの長編冒険ストーリーが展開される構成のため、まとまった読書時間を確保しやすい電子書籍（参考価格528円前後〜）と、大判・紙書籍でじっくりページをめくるスタイルの双方にそれぞれの読みやすさがあります。
-

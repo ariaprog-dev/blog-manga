@@ -35,7 +35,6 @@ heroImages:
 - https://ebook-assets.dmm.com/digital/e-book/b900rkds03411/b900rkds03411pl.jpg
 - https://ebook-assets.dmm.com/digital/e-book/b900vkds05226/b900vkds05226pl.jpg
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 真島ヒロ先生の原点であり、多くのファンに愛され続ける不朽の冒険譚『RAVE』。その世界に飛び込むなら、DMMブックスで読める電子コミック版と、DMMTVで視聴できるアニメ版、どちらを選ぶべきか悩む人は少なくないだろう。
@@ -88,11 +87,21 @@ DMMブックスの電子コミック版は、場所を取らず、いつでも�
 
 1巻あたりの価格は594円で、全35巻を揃えるとなると約20,790円かかる計算になるが、一度購入すれば永続的に自分のコレクションになる。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>RAVEコミック版</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DRAVE%25E3%2582%25B3%25E3%2583%259F%25E3%2583%2583%25E3%2582%25AF%25E7%2589%2588" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRAVE%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E7%89%88%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DRAVE%25E3%2582%25B3%25E3%2583%259F%25E3%2583%2583%25E3%2582%25AF%25E7%2589%2588" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a><a href="https://al.dmm.com/?lurl=https%3A%2F%2Ftv.dmm.com%2Fvod%2Fdetail%2F%3Ftitle%3Dkp3r2bhezvna2jpwqjxtj8zgz%26season%3Dm45jtromzh1za34gmo1mm72q7&af_id=DMMaria-999&ch=api" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #1d4ed8; border: 1px solid #93c5fd;">DMMで見る</a></div>
+</div>
+
 ## アニメ版『RAVE』の魅力と見どころ
 
 アニメ版『RAVE』の魅力は、アニメならではのカラーリングと音響演出によって世界観が生き生きと躍動する点にある。ハルの持つ「十戒の剣（テン・コマンドメンツ）」の形態変化や、仲間たちとのコミカルな掛け合いがリズミカルにテンポよく展開される。
 
 オープニング曲・エンディング曲も作品の冒険心を掻き立てる名曲揃いで、当時の王道ファンタジーアニメの王道たる熱気を存分に味わうことができる。
+
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>アニメ版 RAVE</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%25E7%2589%2588%2520RAVE" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A2%E3%83%8B%E3%83%A1%E7%89%88%20RAVE%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%25E7%2589%2588%2520RAVE" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a><a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F783305%2Fb900rkds03411%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #1d4ed8; border: 1px solid #93c5fd;">DMMで見る</a></div>
+</div>
 
 ## 原作コミック版とアニメ版の徹底比較
 
@@ -123,4 +132,3 @@ DMMブックス・DMMTV等で確認できる関連ラインナップの比較ポ
 | 関連作『Mashima HERO’S』 | 594円前後 | 真島ヒロ作品のクロスオーバー作品として併読に適合 |
 
 購入前には、まず第1巻の試し読みや超合本版の収録範囲、各ストアのセール・ポイント還元条件を確認しておくと計画的に揃えやすい。
-

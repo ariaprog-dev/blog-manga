@@ -13,7 +13,6 @@ sidebarProducts:
 
 mediaType: comic
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 日常で抱く「もしも」という願望や、現実からの逃避を求める瞬間は、多くの人々に共通する。そのような心情に寄り添い、読者を物語へと誘う作品として、今なお多くの人々に愛され続けている。
@@ -110,6 +109,11 @@ DMMブックスでは1冊583円前後から手軽に購入でき、通勤時間�
 
 『ドラえもん』は単なるSFギャグ漫画ではなく、子ども時代の「もしも」の想像と大人の「現実」との向き合い方をあわせて描く作品である。のび太の不器用さに共感し、ひみつ道具の風刺に唸りながら、読み手の年代ごとに異なる発見を得られる一作となっている。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>ドラえもん</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2589%25E3%2583%25A9%25E3%2581%2588%25E3%2582%2582%25E3%2582%2593" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%89%E3%83%A9%E3%81%88%E3%82%82%E3%82%93%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%2589%25E3%2583%25A9%25E3%2581%2588%25E3%2582%2582%25E3%2582%2593" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a><a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F562478%2Fb600qsgk00146%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #1d4ed8; border: 1px solid #93c5fd;">DMMで見る</a></div>
+</div>
+
 ## 『ドラえもん』の購入前チェックポイント
 
 ### よくある質問（FAQ）：『ドラえもん』
@@ -119,4 +123,3 @@ A1. はい。『ドラえもん』（参考価格：528円前後）は導入か�
 
 <strong>Q2. 全45巻にわたる『ドラえもん』シリーズを今から揃え始める場合、単行本・電子版のどちらから入るのが合理的ですか？</strong>
 A2. ひみつ道具を中心とした短編エピソードが多く巻をまたいだ順不同でも読みやすいため、まず気になる巻を電子書籍（参考価格528円前後〜）で1冊試読してからまとめ買いや紙のてんとう虫コミックス版コレクションへ広げる進め方が無駄を抑えられます。
-

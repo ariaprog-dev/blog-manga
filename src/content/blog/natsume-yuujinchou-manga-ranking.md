@@ -31,7 +31,6 @@ sidebarProducts:
     price: 550
     microCopy: '詳細を見る'
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 「夏目友人帳」の物語は、人と妖の間に存在する曖昧な境界線、そして孤独と優しさが織りなす繊細な感情が魅力だ。DMMでこの作品の世界に触れたいと考えるなら、原作コミックとアニメ版、それぞれのメディアが持つ特性を理解して選ぶのが賢明だろう。
@@ -103,6 +102,11 @@ DMMで「夏目友人帳」の世界に足を踏み入れるなら、まずは<s
 
 ---
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>夏目友人帳 コミック1巻</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%25A4%258F%25E7%259B%25AE%25E5%258F%258B%25E4%25BA%25BA%25E5%25B8%25B3%2520%25E3%2582%25B3%25E3%2583%259F%25E3%2583%2583%25E3%2582%25AF1%25E5%25B7%25BB" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E5%A4%8F%E7%9B%AE%E5%8F%8B%E4%BA%BA%E5%B8%B3%20%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF1%E5%B7%BB%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E5%25A4%258F%25E7%259B%25AE%25E5%258F%258B%25E4%25BA%25BA%25E5%25B8%25B3%2520%25E3%2582%25B3%25E3%2583%259F%25E3%2583%2583%25E3%2582%25AF1%25E5%25B7%25BB" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a><a href="https://al.dmm.com/?lurl=https%3A%2F%2Ftv.dmm.com%2Fvod%2Fdetail%2F%3Ftitle%3Djnmwvusf1r7rjkfe60wa2uegd%26season%3Dszy4xzc1sx8s9art7wwh7wax0&af_id=DMMaria-999&ch=api" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #1d4ed8; border: 1px solid #93c5fd;">DMMで見る</a></div>
+</div>
+
 ## 第2位: 動き出す感動と癒やし！ DMMTV『夏目友人帳』アニメ シーズン1（仮称）
 
 緑川ゆき先生の美しい世界観を映像で体験したいなら、アニメ版の視聴は外せない。DMMTVで提供されているアニメ版「夏目友人帳」の最初のシーズン（便宜上、シーズン1と表記する）は、<strong>原作の持つ叙情的な雰囲気を、見事に映像と音で表現している</strong>。
@@ -123,6 +127,11 @@ DMMで「夏目友人帳」の世界に足を踏み入れるなら、まずは<s
 
 ---
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>夏目友人帳 アニメ シーズン1（仮称）</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%25A4%258F%25E7%259B%25AE%25E5%258F%258B%25E4%25BA%25BA%25E5%25B8%25B3%2520%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%2520%25E3%2582%25B7%25E3%2583%25BC%25E3%2582%25BA%25E3%2583%25B31" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E5%A4%8F%E7%9B%AE%E5%8F%8B%E4%BA%BA%E5%B8%B3%20%E3%82%A2%E3%83%8B%E3%83%A1%20%E3%82%B7%E3%83%BC%E3%82%BA%E3%83%B31%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E5%25A4%258F%25E7%259B%25AE%25E5%258F%258B%25E4%25BA%25BA%25E5%25B8%25B3%2520%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%2520%25E3%2582%25B7%25E3%2583%25BC%25E3%2582%25BA%25E3%2583%25B31" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ## 第3位: 物語が深まる感動 DMMTV『夏目友人帳』アニメ シーズン2（仮称）
 
 アニメ版「夏目友人帳」のシーズン2（便宜上、シーズン2と表記する）は、物語がさらに深く展開していく。夏目と妖たち、そして人間たちの関係性が、より複雑に、そして多層的に描かれ始める時期だ。
@@ -142,6 +151,11 @@ DMMで「夏目友人帳」の世界に足を踏み入れるなら、まずは<s
 | フロア | DMMTV |
 
 ---
+
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>物語が深まる感動 DMMTV 夏目友人帳</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E7%2589%25A9%25E8%25AA%259E%25E3%2581%258C%25E6%25B7%25B1%25E3%2581%25BE%25E3%2582%258B%25E6%2584%259F%25E5%258B%2595%2520DMMTV%2520%25E5%25A4%258F%25E7%259B%25AE%25E5%258F%258B%25E4%25BA%25BA%25E5%25B8%25B3" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E7%89%A9%E8%AA%9E%E3%81%8C%E6%B7%B1%E3%81%BE%E3%82%8B%E6%84%9F%E5%8B%95%20DMMTV%20%E5%A4%8F%E7%9B%AE%E5%8F%8B%E4%BA%BA%E5%B8%B3%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E7%2589%25A9%25E8%25AA%259E%25E3%2581%258C%25E6%25B7%25B1%25E3%2581%25BE%25E3%2582%258B%25E6%2584%259F%25E5%258B%2595%2520DMMTV%2520%25E5%25A4%258F%25E7%259B%25AE%25E5%258F%258B%25E4%25BA%25BA%25E5%25B8%25B3" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>
 
 ## 第4位: さらなる展開へ！ DMMTV『夏目友人帳』アニメ シーズン3（仮称）
 
@@ -164,6 +178,11 @@ DMMで「夏目友人帳」の世界に足を踏み入れるなら、まずは<s
 | フロア | DMMTV |
 
 ---
+
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>さらなる展開へ！ DMMTV 夏目友人帳</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2581%2595%25E3%2582%2589%25E3%2581%25AA%25E3%2582%258B%25E5%25B1%2595%25E9%2596%258B%25E3%2581%25B8%2520DMMTV%2520%25E5%25A4%258F%25E7%259B%25AE%25E5%258F%258B%25E4%25BA%25BA%25E5%25B8%25B3" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%81%95%E3%82%89%E3%81%AA%E3%82%8B%E5%B1%95%E9%96%8B%E3%81%B8%20DMMTV%20%E5%A4%8F%E7%9B%AE%E5%8F%8B%E4%BA%BA%E5%B8%B3%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2581%2595%25E3%2582%2589%25E3%2581%25AA%25E3%2582%258B%25E5%25B1%2595%25E9%2596%258B%25E3%2581%25B8%2520DMMTV%2520%25E5%25A4%258F%25E7%259B%25AE%25E5%258F%258B%25E4%25BA%25BA%25E5%25B8%25B3" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>
 
 ## まとめ: あなたにベストな『夏目友人帳』の楽しみ方
 
@@ -189,4 +208,3 @@ A2: アニメ版『夏目友人帳』は物語が連続しているため、<str
 A3: 『夏目友人帳』の世界観をじっくりと堪能し、緑川ゆき先生の<strong>繊細な筆致や心の機微を深く読み取りたいなら、コミックから</strong>始めるのが適しています。一方、<strong>映像と音で作品の美しい世界観を手軽に体験したい、あるいは動くニャンコ先生に癒やされたいなら、アニメから</strong>入るのも良い選択肢です。
 
 それぞれのメディアで異なる魅力があるので、ご自身の好みに合わせて選んでみてください。
-

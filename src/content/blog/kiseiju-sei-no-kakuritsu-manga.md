@@ -13,7 +13,6 @@ sidebarProducts:
 
 mediaType: comic
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 当時の人々は、地球の裏側で何が起こっているのかも知らずに、目の前の日常を漠然と生きていた。ファミコンの新作に心を躍らせ、近所の公園で日が暮れるまで遊んだ日々。そんな牧歌的な風景の裏側で、静かに、そして確実に、異形の存在が人間社会に侵食し始めていたとしたら？得体の知れない恐怖が、じわりと、日常を侵食していく。作品は、そうした薄気味悪さを読者に提示する。それは単なるSFホラーという枠には収まらない、生命や人間存在について深く問いかける内容である。
@@ -106,6 +105,11 @@ mediaType: comic
 
 寄生獣 セイの格率は、単なる漫画やアニメではない。それは、鑑賞者の心に問いかけ、世界のあり方について考察を促す作品である。物語は鑑賞後も長く記憶に残り、日常の視点に変化をもたらす可能性がある。関連作品として、『MONSTER 完全版』デジタル版も選択肢となる。同作も人間の本質に迫る作品である。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>寄生獣</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%25AF%2584%25E7%2594%259F%25E7%258D%25A3" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E5%AF%84%E7%94%9F%E7%8D%A3%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E5%25AF%2584%25E7%2594%259F%25E7%258D%25A3" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a><a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F102811%2Fb900dkds01941%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #1d4ed8; border: 1px solid #93c5fd;">DMMで見る</a></div>
+</div>
+
 ## 『寄生獣』の購入前チェックポイント
 
 ### よくある質問（FAQ）：『寄生獣』
@@ -115,4 +119,3 @@ A1. はい。『寄生獣』（参考価格：792円前後）は導入から世�
 
 <strong>Q2. アニメ『寄生獣 セイの格率』と原作漫画『寄生獣』のどちらから触れるか迷う場合、選定の目安はありますか？</strong>
 A2. 現代的な演出・劇伴・声優の演技でテンポよく全話を視聴したい場合はアニメ版（DMM等で550円前後の視聴プランあり）、岩明均の原作ならではの緻密な心理描写や間合いを自分のペースで読み込みたい場合は原作コミック『寄生獣』（参考価格792円）と表現媒体の好みに合わせて選べます。
-

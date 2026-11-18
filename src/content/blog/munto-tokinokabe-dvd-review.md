@@ -29,7 +29,6 @@ sidebarProducts:
     price: 4012
     microCopy: '詳細を見る'
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 年間数百冊の漫画とアニメ作品の深い考察が、本レビューの基盤となっている。今回は、京都アニメーションが手掛けた劇場版アニメ「MUNTO 時の壁をこえて」のDVDについて語りたい。
@@ -146,6 +145,11 @@ sidebarProducts:
 
 一時的な配信とは異なり、手元に実物を置くことで得られる<strong>安心感と所有欲</strong>は、コレクターにとっては何物にも代えがたいものがある。もしあなたが「MUNTO」シリーズのファンで、物語の真の結末を最高の形で手元に置いておきたいと考えるなら、このDVDは極めて<strong>コストパフォーマンスの高い選択肢</strong>となるだろう。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>MUNTO 時の壁をこえて</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DMUNTO%2520%25E6%2599%2582%25E3%2581%25AE%25E5%25A3%2581%25E3%2582%2592%25E3%2581%2593%25E3%2581%2588%25E3%2581%25A6" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMUNTO%20%E6%99%82%E3%81%AE%E5%A3%81%E3%82%92%E3%81%93%E3%81%88%E3%81%A6%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DMUNTO%2520%25E6%2599%2582%25E3%2581%25AE%25E5%25A3%2581%25E3%2582%2592%25E3%2581%2593%25E3%2581%2588%25E3%2581%25A6" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a><a href="https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_627bbba5480%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #1d4ed8; border: 1px solid #93c5fd;">DMMで見る</a></div>
+</div>
+
 ### よくある質問
 <strong>Q1: TVシリーズを見ていなくても楽しめますか？</strong>
 A1: 物語の導入部で簡単な解説はありますが、主要キャラクターの関係性や魔導世界の背景を深く理解するには、TVシリーズ「MUNTO」およびOVA「MUNTO〜空を見上げる少女の瞳に映る世界〜」を先に鑑賞するのが効果的です。そうすることで、より深く感情移入し、作品の感動を味わえるでしょう。
@@ -157,4 +161,3 @@ A2: はい、大きな違いがあります。Blu-ray版はフルHD画質（1920
 
 <strong>Q3: 特典映像には何が収録されていますか？</strong>
 A3: 本DVDには、劇場予告編、TVCM集、そして貴重なパイロットフィルムなどが収録されています。本編だけでなく、作品が生まれるまでの背景やプロモーション映像も楽しめるため、より深く「MUNTO」の世界に触れたいファンにとっては見逃せない内容となっています。
-

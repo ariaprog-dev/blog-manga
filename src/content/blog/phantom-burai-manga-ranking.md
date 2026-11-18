@@ -23,7 +23,6 @@ sidebarProducts:
   price: 440
   microCopy: 詳細を見る
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 「ファントム無頼」と聞いて、航空自衛隊のF-4ファントムII、そして神田と栗原の“無頼”コンビを思い浮かべる人は多いだろう。新谷かおる先生の卓越した作画と、史村翔先生（武論尊先生）による骨太な人間ドラマが融合したこの作品は、今なお多くのファンに愛され続けている。
@@ -107,6 +106,11 @@ F-4ファントムIIという伝説の機体と、その乗り手たちの生き
 
 ---
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>ファントム無頼【合本版】</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2595%25E3%2582%25A1%25E3%2583%25B3%25E3%2583%2588%25E3%2583%25A0%25E7%2584%25A1%25E9%25A0%25BC" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%95%E3%82%A1%E3%83%B3%E3%83%88%E3%83%A0%E7%84%A1%E9%A0%BC%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%2595%25E3%2582%25A1%25E3%2583%25B3%25E3%2583%2588%25E3%2583%25A0%25E7%2584%25A1%25E9%25A0%25BC" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a><a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4106908%2Fb750egrzr06158%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #1d4ed8; border: 1px solid #93c5fd;">DMMで見る</a></div>
+</div>
+
 ## 第2位：最高の読書体験を！『ファントム無頼 完全版 Vol.1』
 
 もしあなたが「ファントム無頼」を<strong>最高のクオリティで手元に置いておきたい</strong>と考えるなら、この『ファントム無頼 完全版 Vol.1』は非常に魅力的な選択肢となるだろう。これは紙媒体の書籍であり、単なる文庫版やコミックスとは一線を画す。
@@ -136,6 +140,11 @@ F-4ファントムIIという伝説の機体と、その乗り手たちの生き
 
 ---
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>最高の読書体験を！ ファントム無頼 完全版 Vol.1</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%259C%2580%25E9%25AB%2598%25E3%2581%25AE%25E8%25AA%25AD%25E6%259B%25B8%25E4%25BD%2593%25E9%25A8%2593%25E3%2582%2592%2520%25E3%2583%2595%25E3%2582%25A1%25E3%2583%25B3%25E3%2583%2588%25E3%2583%25A0%25E7%2584%25A1%25E9%25A0%25BC%2520%25E5%25AE%258C%25E5%2585%25A8%25E7%2589%2588%2520Vol%25201" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E6%9C%80%E9%AB%98%E3%81%AE%E8%AA%AD%E6%9B%B8%E4%BD%93%E9%A8%93%E3%82%92%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%88%E3%83%A0%E7%84%A1%E9%A0%BC%20%E5%AE%8C%E5%85%A8%E7%89%88%20Vol%201%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E6%259C%2580%25E9%25AB%2598%25E3%2581%25AE%25E8%25AA%25AD%25E6%259B%25B8%25E4%25BD%2593%25E9%25A8%2593%25E3%2582%2592%2520%25E3%2583%2595%25E3%2582%25A1%25E3%2583%25B3%25E3%2583%2588%25E3%2583%25A0%25E7%2584%25A1%25E9%25A0%25BC%2520%25E5%25AE%258C%25E5%2585%25A8%25E7%2589%2588%2520Vol%25201" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ## 第3位：気軽に1冊から！『ファントム無頼』（単巻）
 
 「ファントム無頼」は読んでみたいけれど、いきなり全巻購入するのはちょっと…と躊躇する人もいるだろう。そんな時に便利なのが、この<strong>電子書籍の単巻版</strong>だ。1冊440円という手頃な価格で、試し読み感覚で作品の世界に触れることができる。
@@ -163,6 +172,11 @@ F-4ファントムIIという伝説の機体と、その乗り手たちの生き
 | ジャンル | ヒューマンドラマ, ギャグ・コメディ |
 
 ---
+
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>気軽に1冊から！ ファントム無頼</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%25B0%2597%25E8%25BB%25BD%25E3%2581%25AB1%25E5%2586%258A%25E3%2581%258B%25E3%2582%2589%2520%25E3%2583%2595%25E3%2582%25A1%25E3%2583%25B3%25E3%2583%2588%25E3%2583%25A0%25E7%2584%25A1%25E9%25A0%25BC" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E6%B0%97%E8%BB%BD%E3%81%AB1%E5%86%8A%E3%81%8B%E3%82%89%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%88%E3%83%A0%E7%84%A1%E9%A0%BC%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E6%25B0%2597%25E8%25BB%25BD%25E3%2581%25AB1%25E5%2586%258A%25E3%2581%258B%25E3%2582%2589%2520%25E3%2583%2595%25E3%2582%25A1%25E3%2583%25B3%25E3%2583%2588%25E3%2583%25A0%25E7%2584%25A1%25E9%25A0%25BC" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>
 
 ## 第4位：作品の世界を深掘り！『F-4 ファントムIIの科学 40年を超えて最前線で活躍する名機の秘密』
 
@@ -192,6 +206,11 @@ F-4ファントムIIという伝説の機体と、その乗り手たちの生き
 
 ---
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>作品の世界を深掘り F-4 ファントムIIの科学</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E4%25BD%259C%25E5%2593%2581%25E3%2581%25AE%25E4%25B8%2596%25E7%2595%258C%25E3%2582%2592%25E6%25B7%25B1%25E6%258E%2598%25E3%2582%258A%2520F-4%2520%25E3%2583%2595%25E3%2582%25A1%25E3%2583%25B3%25E3%2583%2588%25E3%2583%25A0II%25E3%2581%25AE%25E7%25A7%2591%25E5%25AD%25A6" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E4%BD%9C%E5%93%81%E3%81%AE%E4%B8%96%E7%95%8C%E3%82%92%E6%B7%B1%E6%8E%98%E3%82%8A%20F-4%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%88%E3%83%A0II%E3%81%AE%E7%A7%91%E5%AD%A6%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E4%25BD%259C%25E5%2593%2581%25E3%2581%25AE%25E4%25B8%2596%25E7%2595%258C%25E3%2582%2592%25E6%25B7%25B1%25E6%258E%2598%25E3%2582%258A%2520F-4%2520%25E3%2583%2595%25E3%2582%25A1%25E3%2583%25B3%25E3%2583%2588%25E3%2583%25A0II%25E3%2581%25AE%25E7%25A7%2591%25E5%25AD%25A6" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ## まとめ：あなたの「ファントム無頼」体験はどれを選ぶ？
 
 新谷かおる先生と史村翔先生が紡ぎ出した『ファントム無頼』は、航空機の迫力と人間ドラマが見事に融合した不朽の名作だ。今回紹介した4つの商品は、それぞれ異なる形でこの名作に触れる機会を提供している。
@@ -218,4 +237,3 @@ A2: まずは<strong>電子書籍の『ファントム無頼【合本版】』�
 A3: はい、<strong>全く問題なく楽しめます</strong>。「ファントム無頼」はF-4ファントムIIを題材にした作品ですが、その核心は神田と栗原という二人のパイロットの<strong>人間ドラマとプロフェッショナリズム</strong>にあります。
 
 航空機の専門知識がなくても、彼らの葛藤や友情、そして命をかけた任務に引き込まれることは間違いありません。作中の描写を通して、自然とF-4の魅力も伝わってくるはずです。
-

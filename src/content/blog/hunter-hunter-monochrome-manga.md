@@ -13,7 +13,6 @@ sidebarProducts:
 
 mediaType: comic
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
@@ -101,6 +100,11 @@ mediaType: comic
 
 モノクロの画面に広がる彼らの世界は、想像力を掻き立て、色鮮やかな心の風景を描き出す。予測不能な展開と深淵なテーマは、読むたびに新たな発見を与え、読者の価値観を揺さぶり、思考を深めるきっかけとなる。世代を超えて愛され続ける『HUNTER×HUNTER モノクロ版』は、一度手に取れば、その奥深さに魅了されること間違いなしだ。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>HUNTER×HUNTER モノクロ版</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DHUNTER%25C3%2597HUNTER%2520%25E3%2583%25A2%25E3%2583%258E%25E3%2582%25AF%25E3%2583%25AD%25E7%2589%2588" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHUNTER%C3%97HUNTER%20%E3%83%A2%E3%83%8E%E3%82%AF%E3%83%AD%E7%89%88%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DHUNTER%25C3%2597HUNTER%2520%25E3%2583%25A2%25E3%2583%258E%25E3%2582%25AF%25E3%2583%25AD%25E7%2589%2588" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a><a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F56854%2Fb950yshes32626%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #1d4ed8; border: 1px solid #93c5fd;">DMMで見る</a></div>
+</div>
+
 ## 『HUNTER×HUNTER モノクロ版』の購入前チェックポイント
 
 ### よくある質問（FAQ）：『HUNTER×HUNTER モノクロ版』
@@ -110,4 +114,3 @@ A1. はい。『HUNTER×HUNTER モノクロ版』（参考価格：572円前後�
 
 <strong>Q2. 『HUNTER×HUNTER モノクロ版』は、フルカラー版やアニメ版と比べた際にどのような読み味の特性がありますか？</strong>
 A2. 冨樫義博の原稿本来のペンタッチや強弱のついた描線、セリフの情報量・余白の緊張感をそのまま味わいたい場合はモノクロ版（参考価格572円前後）が原作に最も忠実な仕様です。念能力の駆け引きや細かな文字設定を拡大しながら追いやすい点も電子配信の特徴といえます。
-

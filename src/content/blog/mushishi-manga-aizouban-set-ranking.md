@@ -23,7 +23,6 @@ sidebarProducts:
 heroImages:
 - https://ebook-assets.dmm.com/digital/e-book/b900alds20444/b900alds20444pl.jpg
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 「漆原友紀 蟲師 愛蔵版 全巻セット」と検索してこの記事にたどり着いた君は、きっと蟲師の奥深い世界に触れたいと思っているはずだ。残念ながら、DMMで直接「愛蔵版 全巻セット」という形では見つけられなかった。
@@ -78,17 +77,32 @@ DMMで楽しめる『蟲師』関連コンテンツは複数存在する。本�
 
 一話完結形式でありながら、物語を積み重ねることで世界の広がりと深まりを感じさせる構成は、まさに至芸だ。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>読者が想像力を掻き立てる原作の原点『蟲師』（DMMブックス コミック）</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E8%259F%25B2%25E5%25B8%25AB%2520%25E6%2584%259B%25E8%2594%25B5%25E7%2589%2588" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E8%9F%B2%E5%B8%AB%20%E6%84%9B%E8%94%B5%E7%89%88%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E8%259F%25B2%25E5%25B8%25AB%2520%25E6%2584%259B%25E8%2594%25B5%25E7%2589%2588" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a><a href="https://al.dmm.com/?lurl=https%3A%2F%2Ftv.dmm.com%2Fvod%2Fdetail%2F%3Ftitle%3Dp30arsiym9tq8kjcbdbnhfh4u%26season%3Dhv1fdj4w8ffacqxk68to12pbj&af_id=DMMaria-999&ch=api" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #1d4ed8; border: 1px solid #93c5fd;">DMMで見る</a></div>
+</div>
+
 ## 第2位：音と色彩が織りなす極上の映像詩『蟲師』アニメシリーズ
 
 長濱博史監督によるアニメ版は、原作の持つ静謐な空気を完璧に映像化した奇跡的な作品だ。水墨画や日本画を思わせる美しい背景美術、蟲たちの幻想的な発光、そして増田俊郎氏によるアコースティックな劇伴音楽が五感を優しく包み込む。
 
 静かな夜に部屋を暗くして鑑賞することで、日々の疲れや雑念が和らぎ、没入感のある体験が得られる。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>音と色彩が織りなす極上の映像詩『蟲師』アニメシリーズ</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E8%259F%25B2%25E5%25B8%25AB%2520%25E6%2584%259B%25E8%2594%25B5%25E7%2589%2588" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E8%9F%B2%E5%B8%AB%20%E6%84%9B%E8%94%B5%E7%89%88%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E8%259F%25B2%25E5%25B8%25AB%2520%25E6%2584%259B%25E8%2594%25B5%25E7%2589%2588" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ## 第3位：手元に置いて愛でたい永久保存版『蟲師 愛蔵版』紙書籍セット
 
 本棚に並べていつでも手に取れる喜びを追求するなら、装丁にこだわった愛蔵版セットが最適だ。大判サイズで収録された原画の迫力、上質な用紙の質感、そして美麗なカバーイラストは、まさにファン垂涎のコレクターズアイテム。
 
 大切な人への贈り物としても自信を持って適している、一生モノの書架の宝となるだろう。
+
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>蟲師 愛蔵版 紙書籍セット</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E8%259F%25B2%25E5%25B8%25AB%2520%25E6%2584%259B%25E8%2594%25B5%25E7%2589%2588" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E8%9F%B2%E5%B8%AB%20%E6%84%9B%E8%94%B5%E7%89%88%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E8%259F%25B2%25E5%25B8%25AB%2520%25E6%2584%259B%25E8%2594%25B5%25E7%2589%2588" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>
 
 ## まとめ：自分に合ったスタイルで静寂なる生命の旅へ
 
@@ -105,4 +119,3 @@ DMMで楽しめる『蟲師』関連コンテンツは複数存在する。本�
 | 第3位：『蟲師 愛蔵版』紙書籍セット | 巻数×大判単行本価格（新品・中古流通で変動） | 上質な紙質・カラー再現・大判サイズを手元の本棚にコレクションとして保管したい読者向け |
 
 全10巻というコンパクトな構成のため、紙の愛蔵版を揃える場合は書棚の奥行き・高さ、電子版で集める場合はセール時期やまとめ買いクーポンを確認しておくと計画的に揃えやすい。
-

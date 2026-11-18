@@ -30,7 +30,6 @@ heroImages:
   - 'https://ebook-assets.dmm.com/digital/e-book/b478amosn00690/b478amosn00690pl.jpg'
   - 'https://ebook-assets.dmm.com/digital/e-book/b478amosn00689/b478amosn00689pl.jpg'
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 諸星大二郎先生の代表作の一つ『栞と紙魚子』シリーズは、日常に潜む不可思議な怪異と、それを飄々と受け流す女子高生ふたりの姿を描いた不条理ホラーコメディの金字塔です。
@@ -71,9 +70,19 @@ heroImages:
 
 公園で拾った生首を飼い始めるという強烈なプロローグから幕を開ける記念すべき第1巻。日常と狂気が紙一重で混ざり合う独特のユーモアと、クトゥルフ神話のエッセンスが絶妙に融合した傑作エピソードが満載です。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>栞と紙魚子の生首事件 完全版（シリーズの原点）</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%25A0%259E%25E3%2581%25A8%25E7%25B4%2599%25E9%25AD%259A%25E5%25AD%2590%25E3%2581%25AE%25E7%2594%259F%25E9%25A6%2596%25E4%25BA%258B%25E4%25BB%25B6%2520%25E5%25AE%258C%25E5%2585%25A8%25E7%2589%2588" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E6%A0%9E%E3%81%A8%E7%B4%99%E9%AD%9A%E5%AD%90%E3%81%AE%E7%94%9F%E9%A6%96%E4%BA%8B%E4%BB%B6%20%E5%AE%8C%E5%85%A8%E7%89%88%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E6%25A0%259E%25E3%2581%25A8%25E7%25B4%2599%25E9%25AD%259A%25E5%25AD%2590%25E3%2581%25AE%25E7%2594%259F%25E9%25A6%2596%25E4%25BA%258B%25E4%25BB%25B6%2520%25E5%25AE%258C%25E5%2585%25A8%25E7%2589%2588" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a><a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F689876%2Fb478amosn00691%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #1d4ed8; border: 1px solid #93c5fd;">DMMで見る</a></div>
+</div>
+
 ## 第2位：栞と紙魚子と夜の魚 完全版（深まる幻想怪奇世界）
 
 街に現れる奇妙な魚や、異界へと続く路地裏など、諸星大二郎先生の真骨頂である民俗学的・幻想的なモチーフがさらに深化した第2巻。シュールな展開の中にどこか哀愁と文学的な香りが漂う必読の一冊です。
+
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>栞と紙魚子と夜の魚 完全版（深まる幻想怪奇世界）</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%25A0%259E%25E3%2581%25A8%25E7%25B4%2599%25E9%25AD%259A%25E5%25AD%2590%25E3%2581%25A8%25E5%25A4%259C%25E3%2581%25AE%25E9%25AD%259A%2520%25E5%25AE%258C%25E5%2585%25A8%25E7%2589%2588" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E6%A0%9E%E3%81%A8%E7%B4%99%E9%AD%9A%E5%AD%90%E3%81%A8%E5%A4%9C%E3%81%AE%E9%AD%9A%20%E5%AE%8C%E5%85%A8%E7%89%88%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E6%25A0%259E%25E3%2581%25A8%25E7%25B4%2599%25E9%25AD%259A%25E5%25AD%2590%25E3%2581%25A8%25E5%25A4%259C%25E3%2581%25AE%25E9%25AD%259A%2520%25E5%25AE%258C%25E5%2585%25A8%25E7%2589%2588" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a><a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F689875%2Fb478amosn00690%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #1d4ed8; border: 1px solid #93c5fd;">DMMで見る</a></div>
+</div>
 
 ## 『栞と紙魚子』完全版の魅力と電子書籍のメリット
 
@@ -101,4 +110,3 @@ heroImages:
 ## まとめ：日常と隣り合う幻想怪奇の世界を手元に
 
 諸星大二郎作品ならではの民俗学的アプローチと、どこか愛嬌のある登場人物たちの掛け合いが織りなす『栞と紙魚子』完全版シリーズは、一気読みする長編というよりも、折に触れて一編ずつ読み返したくなる趣を備えた連作短編集です。電子版ならではの緻密なスキャン品質と携帯性を活かしつつ、各巻の特徴を比較して自身の読書スタイルに適した一冊を選んでみてください。
-

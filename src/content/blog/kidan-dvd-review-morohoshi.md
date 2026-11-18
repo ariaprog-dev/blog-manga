@@ -34,7 +34,6 @@ sidebarProducts:
     price: 1222
     microCopy: '詳細を見る'
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 諸星大二郎作品の映像化は、原作ファンにとって常に期待と不安が入り混じるものだ。しかし、この<strong>映画「奇談」</strong>のDVDは、その独特の世界観を見事にフィルムに焼き付けた傑作だと断言したい。
@@ -168,6 +167,11 @@ DVD版「奇談」の画質・音質、そして特典内容について、他�
 
 映画「奇談」は、鑑賞後に静かに思考を促すタイプの作品だ。映像美と音響、そして俳優陣の演技が一体となって、原作の奥深いテーマを再構築している。<strong>現代の喧騒から離れ、異界の扉を叩く覚悟がある</strong>ならば、このDVDはあなたのコレクションに加えるべき一本だ。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>奇談 DVD</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%25A5%2587%25E8%25AB%2587%2520DVD" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E5%A5%87%E8%AB%87%20DVD%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E5%25A5%2587%25E8%25AB%2587%2520DVD" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a><a href="https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_605gnbd5017%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #1d4ed8; border: 1px solid #93c5fd;">DMMで見る</a></div>
+</div>
+
 ### よくある質問
 
 <strong>Q1: 原作を読んでいなくても楽しめるか？</strong>
@@ -192,4 +196,3 @@ A3: 本商品はDVD版のため、画質は標準解像度（SD画質）、音�
 | フロア | DVD・Blu-ray |
 | 著者/作者 | 諸星大二郎 |
 | メーカー/出版社 | NBCユニバーサル・エンターテイメントジャパン |
-

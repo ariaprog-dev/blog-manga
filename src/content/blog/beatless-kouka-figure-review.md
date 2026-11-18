@@ -25,7 +25,6 @@ sidebarProducts:
     price: 21429
     microCopy: '詳細を見る'
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 長谷敏司氏のSF小説およびアニメ化でカルト的人気を博した『<strong>BEATLESS（ビートレス）</strong>』。
@@ -128,6 +127,11 @@ sidebarProducts:
 
 『BEATLESS』を愛するファン、そしてハイエンドなメカ少女フィギュアを愛好するすべての方にとって、手に入れて絶対に後悔しない一生モノのコレクションとなるはずです。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>BEATLESS 紅霞 1 8スケール 完成品フィギュア</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DBEATLESS%2520%25E7%25B4%2585%25E9%259C%259E%25201%25208%25E3%2582%25B9%25E3%2582%25B1%25E3%2583%25BC%25E3%2583%25AB%2520%25E5%25AE%258C%25E6%2588%2590%25E5%2593%2581%25E3%2583%2595%25E3%2582%25A3%25E3%2582%25AE%25E3%2583%25A5%25E3%2582%25A2" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/g00u2do1.ve2q5027.g00u2do1.ve2q618b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcross-one%2Fcs131b8e888d%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcross-one%2Fi%2F10035859%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DBEATLESS%2520%25E7%25B4%2585%25E9%259C%259E%25201%25208%25E3%2582%25B9%25E3%2582%25B1%25E3%2583%25BC%25E3%2583%25AB%2520%25E5%25AE%258C%25E6%2588%2590%25E5%2593%2581%25E3%2583%2595%25E3%2582%25A3%25E3%2582%25AE%25E3%2583%25A5%25E3%2582%25A2" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ## よくある質問（FAQ）
 
 ### Q1. 組み立ては複雑ですか？破損しやすい箇所はありますか？
@@ -138,4 +142,3 @@ sidebarProducts:
 
 ### Q3. redjuice氏監修の他キャラクター（レイシア等）と並べた時の相性は？
 同スケールでリリースされた「レイシア 2018（BLACK MONOLITH展開）」と並べて飾ることで、作中の緊迫した対決シーンが完全再現され、コレクションの迫力が格段に跳ね上がります。
-

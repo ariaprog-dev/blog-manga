@@ -13,7 +13,6 @@ sidebarProducts:
 
 mediaType: comic
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 不遇職として追放された主人公が、前世のゲーム知識を駆使して成り上がる――。そんな逆転劇に胸を躍らせた経験があるだろうか。『追放された転生重騎士はゲーム知識で無双する』は、まさにゲーマーの夢を現実にしたような作品だ。この物語は、単なる異世界転生モノではない。かつてゲームに没頭し、隠された最強のビルドを追い求めたすべての人間に、あの頃の熱狂と、攻略の喜びを思い出させてくれる。固定観念を打ち破り、真の強さを見出す知的エンターテインメントとして、今、この作品が注目を集めている。
@@ -95,6 +94,11 @@ DMMブックスなら、追放された転生重騎士はゲーム知識で無�
 
 この物語は、単なる「俺TUEEE」ではない。固定観念に縛られず、真の価値を見極めることの大切さ、そして、どんな逆境にあっても諦めない心の強さを教えてくれる。DMMブックスで、追放された転生重騎士はゲーム知識で無双するを手に取り、エルマと共に異世界の冒険へと旅立ってみてはいかがだろうか。時間を忘れて読み進める作品となるはずだ。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>追放された転生重騎士はゲーム知識で無双する</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E8%25BF%25BD%25E6%2594%25BE%25E3%2581%2595%25E3%2582%258C%25E3%2581%259F%25E8%25BB%25A2%25E7%2594%259F%25E9%2587%258D%25E9%25A8%258E%25E5%25A3%25AB%25E3%2581%25AF%25E3%2582%25B2%25E3%2583%25BC%25E3%2583%25A0%25E7%259F%25A5%25E8%25AD%2598%25E3%2581%25A7%25E7%2584%25A1%25E5%258F%258C%25E3%2581%2599%25E3%2582%258B" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E8%BF%BD%E6%94%BE%E3%81%95%E3%82%8C%E3%81%9F%E8%BB%A2%E7%94%9F%E9%87%8D%E9%A8%8E%E5%A3%AB%E3%81%AF%E3%82%B2%E3%83%BC%E3%83%A0%E7%9F%A5%E8%AD%98%E3%81%A7%E7%84%A1%E5%8F%8C%E3%81%99%E3%82%8B%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E8%25BF%25BD%25E6%2594%25BE%25E3%2581%2595%25E3%2582%258C%25E3%2581%259F%25E8%25BB%25A2%25E7%2594%259F%25E9%2587%258D%25E9%25A8%258E%25E5%25A3%25AB%25E3%2581%25AF%25E3%2582%25B2%25E3%2583%25BC%25E3%2583%25A0%25E7%259F%25A5%25E8%25AD%2598%25E3%2581%25A7%25E7%2584%25A1%25E5%258F%258C%25E3%2581%2599%25E3%2582%258B" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a><a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4190344%2Fb900zkds70858%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #1d4ed8; border: 1px solid #93c5fd;">DMMで見る</a></div>
+</div>
+
 ## 『追放された転生重騎士はゲーム知識で無双する』の購入前チェックポイント
 
 ### よくある質問（FAQ）：『追放された転生重騎士はゲーム知識で無双する』
@@ -104,4 +108,3 @@ A1. はい。『追放された転生重騎士はゲーム知識で無双する�
 
 <strong>Q2. 『追放された転生重騎士はゲーム知識で無双する』のようなスキル構築系ファンタジーを読むうえで電子版・紙版の違いはありますか？</strong>
 A2. ステータス画面やスキル構成の説明・バトルシーンの描き込みを拡大表示で確認しながらテンポよく続き巻を買い足したい場合は電子書籍版（参考価格792円前後）、書棚にシリーズを並べて見返したい場合は紙のコミックス版と、読み方の習慣に合わせて選択できます。
-

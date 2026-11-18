@@ -13,7 +13,6 @@ sidebarProducts:
 
 mediaType: anime
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 アニメ『BEATLESS』は、人間と高度な人工知能（hIE）が共存する近未来を舞台に、その境界線を問いかける深遠なSF作品である。緻密な設定と美麗なビジュアル、そして何よりも作品世界への深い没入感を誘う劇伴音楽が、多くのファンを魅了した。
@@ -99,6 +98,11 @@ mediaType: anime
 
 日常のデスクワークや作業中に再生すれば、そのサウンドスケープは一瞬で22世紀の未来都市へと聴く者の意識をトリップさせるだろう。集中力を高めたい時、あるいは作品世界を改めて深く思考したい時に、このサウンドトラックは最良のパートナーとなる。作品の熱量を再体験し、その感動を何度でも呼び覚ますことができる一枚だ。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>BEATLESS</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DBEATLESS" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/g00q0721.ve2q5176.g00q0721.ve2q6e77/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F15402072%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F19062464%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DBEATLESS" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ## 『TVアニメ「BEATLESS」オリジナルサウンドトラック』の購入前チェックポイント
 
 ### よくある質問（FAQ）：『TVアニメ「BEATLESS」オリジナルサウンドトラック』
@@ -108,4 +112,3 @@ A1. 『TVアニメ「BEATLESS」オリジナルサウンドトラック』（参
 
 <strong>Q2. このオリジナルサウンドトラックはアニメ本編を観ていなくても楽しめますか？</strong>
 A2. kz（livetune）やNARASAKIらによるエレクトロ・アンビエント中心のインストゥルメンタル楽曲が多く収録されているため、作業用BGMやSF世界のサウンドデザインとしても独立して鑑賞できます。アニメ視聴後に聴くと特定シーンの余韻も味わえます。
-

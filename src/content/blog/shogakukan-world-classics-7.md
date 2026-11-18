@@ -13,7 +13,6 @@ sidebarProducts:
 
 mediaType: comic
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 大人になった今、子供の頃に読んだきり、記憶の片隅に眠るあの名作を、新たな視点で深く味わい直したいと感じることはないだろうか。そんな読者の知的好奇心を満たす一冊が、小学館学習まんが世界名作館7に収録されたダニエル・デフォーの不朽の傑作『ロビンソン・クルーソー』だ。
@@ -123,6 +122,11 @@ mediaType: comic
 
 この不朽の冒険譚を、ぜひ手に取ってほしい。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>小学館学習まんが世界名作館 7 小学館</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%25B0%258F%25E5%25AD%25A6%25E9%25A4%25A8%25E5%25AD%25A6%25E7%25BF%2592%25E3%2581%25BE%25E3%2582%2593%25E3%2581%258C%25E4%25B8%2596%25E7%2595%258C%25E5%2590%258D%25E4%25BD%259C%25E9%25A4%25A8%25207%2520%25E5%25B0%258F%25E5%25AD%25A6%25E9%25A4%25A8" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/g00rakq1.ve2q563f.g00rakq1.ve2q6aa9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fvaboo%2Fva3074270409u30%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fvaboo%2Fi%2F17592682%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E5%25B0%258F%25E5%25AD%25A6%25E9%25A4%25A8%25E5%25AD%25A6%25E7%25BF%2592%25E3%2581%25BE%25E3%2582%2593%25E3%2581%258C%25E4%25B8%2596%25E7%2595%258C%25E5%2590%258D%25E4%25BD%259C%25E9%25A4%25A8%25207%2520%25E5%25B0%258F%25E5%25AD%25A6%25E9%25A4%25A8" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ## 『【中古】小学館学習まんが世界名作館 7/小学館（単行本）』の購入前チェックポイント
 
 ### よくある質問（FAQ）：『【中古】小学館学習まんが世界名作館 7/小学館（単行本）』
@@ -132,4 +136,3 @@ A1. はい。『【中古】小学館学習まんが世界名作館 7/小学館�
 
 <strong>Q2. 『小学館学習まんが世界名作館7 ロビンソン・クルーソー』の単行本・中古流通版と電子書籍版を検討する際の留意点は？</strong>
 A2. 紙の単行本（中古流通含め参考価格652円前後）は家庭の学習棚や家族間での回し読みに適しており、中古版を選ぶ際はカバー・帯や書き込みの有無・配送日数の記載を確認しておくと安心です。一方、電子書籍版は持ち歩きや即時の読書開始を重視する場合に便利です。
-

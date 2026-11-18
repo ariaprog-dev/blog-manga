@@ -38,7 +38,6 @@ heroImages:
   - 'https://thumbnail.image.rakuten.co.jp/@0_mall/bookoffonline/cabinet/1740/8800000017l.jpg?_ex=600x600'
   - 'https://thumbnail.image.rakuten.co.jp/@0_mall/renet3/cabinet/04/00017/0010141430.jpg?_ex=600x600'
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 1986年の西ドイツ・デュッセルドルフ。将来を嘱望された若き日本人脳外科医Dr.ケンゾー・テンマは、病院長の政治的命令に背き、頭部を銃撃された名もなき双子の少年・ヨハンの緊急手術を執刀し、その奇跡的な命を救った。
@@ -151,6 +150,11 @@ heroImages:
 
 ---
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>Monster</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DMonster" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMonster%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DMonster" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a><a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4157739%2Fb600bsgk02714%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #1d4ed8; border: 1px solid #93c5fd;">DMMで見る</a></div>
+</div>
+
 ### よくある質問（Q&A 3問）
 
 <strong>Q1: 『MONSTER』を読むなら「完全版（全9巻）」と「通常版（全18巻）」のどちらが適していますか？</strong>  
@@ -167,4 +171,3 @@ A3: はい、散りばめられた無数の謎やヨハンの出生の秘密は�
 『MONSTER』は、エンターテインメントとしての圧倒的な面白さと、純文学のような重厚な人間探求が奇跡的なバランスで融合した、世界に誇る日本の遺産だ。
 
 天才外科医テンマが旅の果てに見出した「命の答え」とは何だったのか。ぜひ全巻を一気に駆け抜け、その戦慄と感動の結末を自らの目で確かめてほしい。
-

@@ -12,7 +12,6 @@ sidebarProducts:
   microCopy: 詳細を見る
 mediaType: anime
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 熱い戦乱の世を駆け抜ける少年たちの物語に、再び心を奪われたい。あの興奮と感動を、今こそもう一度味わい尽くす時だ。
@@ -122,6 +121,11 @@ DVDBOXは一度購入すれば、いつでも好きな時に信たちの激闘�
 
 このDVDBOXは、かつての熱狂を再び味わいたいファンはもちろん、まだ『キングダム』の世界に触れたことのない方にも、その壮大な物語への入り口として強く適している。アニメーション作品としての完成度、そして時代を超えて多くの人々に勇気を与える物語。その全てが凝縮されたこのコレクションを、あなたの手に取って、歴史に名を刻む戦士たちの物語を心ゆくまで堪能してほしい。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>キングダム</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25AD%25E3%2583%25B3%25E3%2582%25B0%25E3%2583%2580%25E3%2583%25A0" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25AD%25E3%2583%25B3%25E3%2582%25B0%25E3%2583%2580%25E3%2583%25A0" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a><a href="https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_645eyba14918%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #1d4ed8; border: 1px solid #93c5fd;">DMMで見る</a></div>
+</div>
+
 ## 『キングダム』の購入前チェックポイント
 
 ### よくある質問（FAQ）：『キングダム』
@@ -131,5 +135,3 @@ A1. 『キングダム』（参考価格：770円前後）は、作品世界へ�
 
 <strong>Q2. 黒羊丘編は原作漫画『キングダム』のどのあたりのエピソードにあたりますか？</strong>
 A2. 原作コミックスでは概ね41巻〜45巻付近にあたるエピソードで、飛信隊が桓騎軍の配下として趙軍・慶舎および紀彗と対峙する局地戦が描かれます。秦国の戦略や信の成長だけでなく、桓騎の非情な用兵術が際立つ区切りです。
-
-

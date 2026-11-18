@@ -38,7 +38,6 @@ sidebarProducts:
     price: 605
     microCopy: '詳細を見る'
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 1996年の連載開始から四半世紀を超えて愛され続ける少女漫画の金字塔、CLAMPの『カードキャプターさくら』。その正統続編として2016年から『なかよし』で連載され、2023年末に<strong>全16巻で堂々完結を迎えたのが『クリアカード編』</strong>だ。
@@ -104,6 +103,11 @@ sidebarProducts:
 
 ---
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>カードキャプターさくら クリアカード編（電子書籍・全16巻完結）</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25AB%25E3%2583%25BC%25E3%2583%2589%25E3%2582%25AD%25E3%2583%25A3%25E3%2583%2597%25E3%2582%25BF%25E3%2583%25BC%25E3%2581%2595%25E3%2581%258F%25E3%2582%2589%2520%25E3%2582%25AF%25E3%2583%25AA%25E3%2582%25A2%25E3%2582%25AB%25E3%2583%25BC%25E3%2583%2589%25E7%25B7%25A8" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%AB%E3%83%BC%E3%83%89%E3%82%AD%E3%83%A3%E3%83%97%E3%82%BF%E3%83%BC%E3%81%95%E3%81%8F%E3%82%89%20%E3%82%AF%E3%83%AA%E3%82%A2%E3%82%AB%E3%83%BC%E3%83%89%E7%B7%A8%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25AB%25E3%2583%25BC%25E3%2583%2589%25E3%2582%25AD%25E3%2583%25A3%25E3%2583%2597%25E3%2582%25BF%25E3%2583%25BC%25E3%2581%2595%25E3%2581%258F%25E3%2582%2589%2520%25E3%2582%25AF%25E3%2583%25AA%25E3%2582%25A2%25E3%2582%25AB%25E3%2583%25BC%25E3%2583%2589%25E7%25B7%25A8" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a><a href="https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbkt07524024%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #1d4ed8; border: 1px solid #93c5fd;">DMMで見る</a></div>
+</div>
+
 ## 【ランキング第2位】カードキャプターさくら クリアカード編 紙単行本・全巻セット
 
 ### 手触り・インクの匂い・本棚に咲くパステルカラーの背表紙美
@@ -126,6 +130,11 @@ sidebarProducts:
 | <strong>おすすめ対象</strong> | 本棚に美しくコレクションしたい方、紙の手触りと装丁の美しさを愛する方 |
 
 ---
+
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>カードキャプターさくら クリアカード編 紙単行本・全巻セット</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25AB%25E3%2583%25BC%25E3%2583%2589%25E3%2582%25AD%25E3%2583%25A3%25E3%2583%2597%25E3%2582%25BF%25E3%2583%25BC%25E3%2581%2595%25E3%2581%258F%25E3%2582%2589%2520%25E3%2582%25AF%25E3%2583%25AA%25E3%2582%25A2%25E3%2582%25AB%25E3%2583%25BC%25E3%2583%2589%25E7%25B7%25A8%2520%25E7%25B4%2599%25E5%258D%2598%25E8%25A1%258C%25E6%259C%25AC" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%AB%E3%83%BC%E3%83%89%E3%82%AD%E3%83%A3%E3%83%97%E3%82%BF%E3%83%BC%E3%81%95%E3%81%8F%E3%82%89%20%E3%82%AF%E3%83%AA%E3%82%A2%E3%82%AB%E3%83%BC%E3%83%89%E7%B7%A8%20%E7%B4%99%E5%8D%98%E8%A1%8C%E6%9C%AC%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25AB%25E3%2583%25BC%25E3%2583%2589%25E3%2582%25AD%25E3%2583%25A3%25E3%2583%2597%25E3%2582%25BF%25E3%2583%25BC%25E3%2581%2595%25E3%2581%258F%25E3%2582%2589%2520%25E3%2582%25AF%25E3%2583%25AA%25E3%2582%25A2%25E3%2582%25AB%25E3%2583%25BC%25E3%2583%2589%25E7%25B7%25A8%2520%25E7%25B4%2599%25E5%258D%2598%25E8%25A1%258C%25E6%259C%25AC" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>
 
 ## 【ランキング第3位】クリアカード編 単行本特装版（限定グッズ同梱プレミアム仕様）
 
@@ -154,6 +163,11 @@ sidebarProducts:
 
 ---
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>クリアカード編 単行本特装版（限定グッズ同梱プレミアム仕様）</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25AF%25E3%2583%25AA%25E3%2582%25A2%25E3%2582%25AB%25E3%2583%25BC%25E3%2583%2589%25E7%25B7%25A8%2520%25E5%258D%2598%25E8%25A1%258C%25E6%259C%25AC%25E7%2589%25B9%25E8%25A3%2585%25E7%2589%2588" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%AF%E3%83%AA%E3%82%A2%E3%82%AB%E3%83%BC%E3%83%89%E7%B7%A8%20%E5%8D%98%E8%A1%8C%E6%9C%AC%E7%89%B9%E8%A3%85%E7%89%88%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25AF%25E3%2583%25AA%25E3%2582%25A2%25E3%2582%25AB%25E3%2583%25BC%25E3%2583%2589%25E7%25B7%25A8%2520%25E5%258D%2598%25E8%25A1%258C%25E6%259C%25AC%25E7%2589%25B9%25E8%25A3%2585%25E7%2589%2588" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ## 【ランキング第4位】小説 アニメ カードキャプターさくら（ノベライズ版）
 
 ### 行間から溢れるキャラクターたちの繊細なモノローグと心情描写
@@ -175,6 +189,11 @@ sidebarProducts:
 | <strong>おすすめ対象</strong> | アニメやコミックの情景・心理描写を活字で深く味わいたい方、小説好きな読者 |
 
 ---
+
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>小説 アニメ カードキャプターさくら（ノベライズ版）</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%25B0%258F%25E8%25AA%25AC%2520%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%2520%25E3%2582%25AB%25E3%2583%25BC%25E3%2583%2589%25E3%2582%25AD%25E3%2583%25A3%25E3%2583%2597%25E3%2582%25BF%25E3%2583%25BC%25E3%2581%2595%25E3%2581%258F%25E3%2582%2589" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E5%B0%8F%E8%AA%AC%20%E3%82%A2%E3%83%8B%E3%83%A1%20%E3%82%AB%E3%83%BC%E3%83%89%E3%82%AD%E3%83%A3%E3%83%97%E3%82%BF%E3%83%BC%E3%81%95%E3%81%8F%E3%82%89%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E5%25B0%258F%25E8%25AA%25AC%2520%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%2520%25E3%2582%25AB%25E3%2583%25BC%25E3%2583%2589%25E3%2582%25AD%25E3%2583%25A3%25E3%2583%2597%25E3%2582%25BF%25E3%2583%25BC%25E3%2581%2595%25E3%2581%258F%25E3%2582%2589" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a><a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F794387%2Fb900skds02906%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #1d4ed8; border: 1px solid #93c5fd;">DMMで見る</a></div>
+</div>
 
 ## 【媒体・フォーマット別徹底比較表】電子 vs 紙単行本 vs 特装版 vs 小説版
 
@@ -235,4 +254,3 @@ A3: 定価は約10,500円（税込）です。DMMブックスなどの電子書�
 『カードキャプターさくら クリアカード編』は、少女時代の憧れをそのままに、誰かを心から愛することの切なさと強さを描いた、完結した今だからこそ一気読みすべき大傑作だ。
 
 手軽でお得な電子書籍でスマートに飛び込むか、装丁の美しい単行本で本棚に魔法を宿すか。自分にぴったりのスタイルで、友枝町で紡がれる奇跡の物語をぜひ最後まで見届けてほしい。
-

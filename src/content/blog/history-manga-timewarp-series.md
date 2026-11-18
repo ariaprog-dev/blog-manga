@@ -13,7 +13,6 @@ sidebarProducts:
 
 mediaType: comic
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 歴史の学習は、年号や人名を暗記するだけの退屈なものだった――そう感じている人は少なくないだろう。教科書は文字ばかりで、登場人物たちの息遣いや、彼らが生きた時代の空気までを感じ取ることは困難だった。テストで点数を取るためだけに、ただ知識を詰め込む作業に終始する。そんな味気ない歴史との出会い方が、どれほどもったいなかったか、今になって痛感する。
@@ -111,6 +110,11 @@ mediaType: comic
 
 集英社 コンパクト版 学習まんが 日本の歴史 全巻セット(全20巻+別巻2)は、単なる歴史の教科書ではない。それは、過去の人々がどのように生き、何を未来に託したのかを教えてくれる、壮大な人間ドラマの集大成である。歴史というレンズを通して、現代社会を見つめ直すきっかけにもなるだろう。紙媒体で手に取り、じっくりと物語に没頭するも良し。電子書籍で手軽に、場所を選ばず読み進めるも良し。このシリーズが、あなたの知的好奇心を満たし、新たな学びの扉を開く一助となれば幸いだ。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>日本の歴史 まんが日本のすごい城</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%2597%25A5%25E6%259C%25AC%25E3%2581%25AE%25E6%25AD%25B4%25E5%258F%25B2%2520%25E3%2581%25BE%25E3%2582%2593%25E3%2581%258C%25E6%2597%25A5%25E6%259C%25AC%25E3%2581%25AE%25E3%2581%2599%25E3%2581%2594%25E3%2581%2584%25E5%259F%258E" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E6%97%A5%E6%9C%AC%E3%81%AE%E6%AD%B4%E5%8F%B2%20%E3%81%BE%E3%82%93%E3%81%8C%E6%97%A5%E6%9C%AC%E3%81%AE%E3%81%99%E3%81%94%E3%81%84%E5%9F%8E%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E6%2597%25A5%25E6%259C%25AC%25E3%2581%25AE%25E6%25AD%25B4%25E5%258F%25B2%2520%25E3%2581%25BE%25E3%2582%2593%25E3%2581%258C%25E6%2597%25A5%25E6%259C%25AC%25E3%2581%25AE%25E3%2581%2599%25E3%2581%2594%25E3%2581%2584%25E5%259F%258E" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a><a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F6296481%2Fb000fhftx16775%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #1d4ed8; border: 1px solid #93c5fd;">DMMで見る</a></div>
+</div>
+
 ## 『日本の歴史 まんが日本のすごい城』の購入前チェックポイント
 
 ### よくある質問（FAQ）：『日本の歴史 まんが日本のすごい城』
@@ -120,4 +124,3 @@ A1. はい。『日本の歴史 まんが日本のすごい城』（参考価格
 
 <strong>Q2. 『学習まんが 日本の歴史』シリーズや関連書『まんが日本のすごい城』を読む際、通史セットとテーマ別書籍をどう使い分けると効果的ですか？</strong>
 A2. 通史セットで時代全体の流れや人物の相関を押さえつつ、『まんが日本のすごい城』（参考価格1,430円）のような特定テーマ・建築に焦点を当てた一冊を副読本として併用すると、年表だけでは掴みにくい時代背景の理解が立体的に深まります。
-

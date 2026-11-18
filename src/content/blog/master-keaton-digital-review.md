@@ -35,7 +35,6 @@ sidebarProducts:
     price: 1650
     microCopy: '詳細を見る'
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 年間数百冊の漫画を読むコレクターは、時折「読書体験を超えた教養」と感じる作品に出会う。その一つが<strong>『MASTERキートン 完全版 デジタルVer』</strong>である。
@@ -140,6 +139,11 @@ sidebarProducts:
 
 脚本家が途中で浦沢直樹氏に交代する点も、作風の変化を楽しめるポイントだ。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>MASTERキートン 完全版 デジタルVer</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DMASTER%25E3%2582%25AD%25E3%2583%25BC%25E3%2583%2588%25E3%2583%25B3%2520%25E5%25AE%258C%25E5%2585%25A8%25E7%2589%2588%2520%25E3%2583%2587%25E3%2582%25B8%25E3%2582%25BF%25E3%2583%25ABVer" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMASTER%E3%82%AD%E3%83%BC%E3%83%88%E3%83%B3%20%E5%AE%8C%E5%85%A8%E7%89%88%20%E3%83%87%E3%82%B8%E3%82%BF%E3%83%ABVer%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DMASTER%25E3%2582%25AD%25E3%2583%25BC%25E3%2583%2588%25E3%2583%25B3%2520%25E5%25AE%258C%25E5%2585%25A8%25E7%2589%2588%2520%25E3%2583%2587%25E3%2582%25B8%25E3%2582%25BF%25E3%2583%25ABVer" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a><a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4185491%2Fb600bsgk08254%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #1d4ed8; border: 1px solid #93c5fd;">DMMで見る</a></div>
+</div>
+
 ### よくある質問
 <strong>Q1: 『MASTERキートン』は、難しい話が多いですか？</strong>
 A1: 専門的な知識や歴史的背景が頻繁に出てきますが、漫画のストーリー展開とキートンのわかりやすい解説によって、<strong>読者が置いてきぼりになることはありません</strong>。むしろ、知的好奇心を刺激され、読み進めるごとに新しい知識が身につく楽しさがあります。
@@ -163,4 +167,3 @@ A3: 基本的に<strong>1話完結形式</strong>なので、各エピソード�
 『MASTERキートン 完全版 デジタルVer』は、単なる漫画の枠を超え、<strong>知的な探求と人間ドラマの奥深さ</strong>を教えてくれる作品だ。この作品から得られる知識や示唆は、日々のニュースや歴史を読み解く上での新たな視点を提供する。
 
 デジタル版であれば、<strong>全12巻をデバイス一つで持ち運べる</strong>ため、通勤中や移動中の隙間時間でも、キートンの知的な冒険に没頭できる。この作品が、読者の日常に<strong>知的な刺激と深い感動</strong>をもたらすことは間違いないだろう。一生モノの教養漫画として、じっくりと味わい尽くしてほしい。
-

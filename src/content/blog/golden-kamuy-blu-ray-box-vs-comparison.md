@@ -24,7 +24,6 @@ sidebarProducts:
     price: 836
     microCopy: '詳細を見る'
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 明治時代後期の北海道。日露戦争の激戦「二〇三高地」を生き延び「不死身の杉元」と恐れられた元兵士・杉元佐一と、父の仇を討つため立ち上がったアイヌの少女・アシㇼパ。二人が莫大な埋蔵金を巡り、北の大地を駆ける和風闇鍋ウエスタンサバイバルが『ゴールデンカムイ』だ。
@@ -157,6 +156,11 @@ sidebarProducts:
 
 ---
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>ゴールデンカムイ</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B4%25E3%2583%25BC%25E3%2583%25AB%25E3%2583%2587%25E3%2583%25B3%25E3%2582%25AB%25E3%2583%25A0%25E3%2582%25A4" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%87%E3%83%B3%E3%82%AB%E3%83%A0%E3%82%A4%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25B4%25E3%2583%25BC%25E3%2583%25AB%25E3%2583%2587%25E3%2583%25B3%25E3%2582%25AB%25E3%2583%25A0%25E3%2582%25A4" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a><a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F172425%2Fb950wshes00046%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #1d4ed8; border: 1px solid #93c5fd;">DMMで見る</a></div>
+</div>
+
 ### よくある質問（Q&A 3問）
 
 <strong>Q1: アニメ第4期の続きは原作コミックの何巻から読めばいいですか？</strong>  
@@ -173,4 +177,3 @@ A3: 紙の単行本全31巻を定価で揃えると約21,296円（税込）で�
 『ゴールデンカムイ』は、激動の近現代史を駆け抜けた人間たちの熱い生き様と、失われゆく北方の豊かな文化を同時に刻み込んだ、日本の漫画史に永遠に残る記念碑的傑作だ。
 
 アニメーションの圧倒的な音響と声優陣の熱演から入るか、それとも野田サトル先生の筆先から溢れ出す狂気と考証の海へ直接飛び込むか。どちらの扉を開いたとしても、杉元やアシㇼパたちと過ごす北の大地での冒険は、読者の日常に強烈な活力と知的な興奮をもたらしてくれるはずだ。
-

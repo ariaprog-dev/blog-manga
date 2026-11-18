@@ -19,7 +19,6 @@ sidebarProducts:
     price: 1540
     microCopy: '詳細を見る'
 ---
-
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
@@ -177,6 +176,11 @@ sidebarProducts:
 
 論語の言葉がスラムダンクの文脈で呼吸し、現代の読者の心に響く。この本は、日常に新たな視点と、困難への対処法をもたらす可能性がある。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>時代を超える スラムダンク論語</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%2599%2582%25E4%25BB%25A3%25E3%2582%2592%25E8%25B6%2585%25E3%2581%2588%25E3%2582%258B%2520%25E3%2582%25B9%25E3%2583%25A9%25E3%2583%25A0%25E3%2583%2580%25E3%2583%25B3%25E3%2582%25AF%25E8%25AB%2596%25E8%25AA%259E" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/g00q0721.ve2q5176.g00q0721.ve2q6e77/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F17436230%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F20898639%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E6%2599%2582%25E4%25BB%25A3%25E3%2582%2592%25E8%25B6%2585%25E3%2581%2588%25E3%2582%258B%2520%25E3%2582%25B9%25E3%2583%25A9%25E3%2583%25A0%25E3%2583%2580%25E3%2583%25B3%25E3%2582%25AF%25E8%25AB%2596%25E8%25AA%259E" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ### よくある質問
 
 <strong>Q1: 『スラムダンク』を読んでいなくても楽しめますか？</strong>
@@ -191,4 +195,3 @@ A2: 一般的なビジネス書が抽象的な理論や成功事例を提示す�
 
 <strong>Q3: この本は、どのような悩みを持つ人に適していますか？</strong>
 A3: チームや組織のリーダーシップに課題を感じている人、人間関係の構築に悩んでいる人、目標達成へのモチベーションを維持したい人、そして、古典的な教えに興味はあるものの、堅苦しい本は苦手と感じる人に特に適しています。漫画から深い学びを得たいビジネスパーソンにも適しています。
-

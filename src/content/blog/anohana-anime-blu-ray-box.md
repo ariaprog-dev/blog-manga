@@ -13,7 +13,6 @@ sidebarProducts:
 
 mediaType: anime
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
@@ -113,6 +112,11 @@ mediaType: anime
 
 あの夏の日々を、最高のクオリティで。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>あの日見た花の名前を僕達はまだ知らない Blu-ray</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2581%2582%25E3%2581%25AE%25E6%2597%25A5%25E8%25A6%258B%25E3%2581%259F%25E8%258A%25B1%25E3%2581%25AE%25E5%2590%258D%25E5%2589%258D%25E3%2582%2592%25E5%2583%2595%25E9%2581%2594%25E3%2581%25AF%25E3%2581%25BE%25E3%2581%25A0%25E7%259F%25A5%25E3%2582%2589%25E3%2581%25AA%25E3%2581%2584%2520Blu-ray" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%81%82%E3%81%AE%E6%97%A5%E8%A6%8B%E3%81%9F%E8%8A%B1%E3%81%AE%E5%90%8D%E5%89%8D%E3%82%92%E5%83%95%E9%81%94%E3%81%AF%E3%81%BE%E3%81%A0%E7%9F%A5%E3%82%89%E3%81%AA%E3%81%84%20Blu-ray%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2581%2582%25E3%2581%25AE%25E6%2597%25A5%25E8%25A6%258B%25E3%2581%259F%25E8%258A%25B1%25E3%2581%25AE%25E5%2590%258D%25E5%2589%258D%25E3%2582%2592%25E5%2583%2595%25E9%2581%2594%25E3%2581%25AF%25E3%2581%25BE%25E3%2581%25A0%25E7%259F%25A5%25E3%2582%2589%25E3%2581%25AA%25E3%2581%2584%2520Blu-ray" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a><a href="https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_666anzx6621%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #1d4ed8; border: 1px solid #93c5fd;">DMMで見る</a></div>
+</div>
+
 ## 『あの日見た花の名前を僕達はまだ知らない。 Blu-ray BOX （完全生産限定版 ブルーレイディスク）』の購入前チェックポイント
 
 ### よくある質問（FAQ）：『あの日見た花の名前を僕達はまだ知らない。 Blu-ray BOX （完全生産限定版 ブルーレイディスク）』
@@ -122,4 +126,3 @@ A1. 『あの日見た花の名前を僕達はまだ知らない。 Blu-ray BOX 
 
 <strong>Q2. 『あの花』のTVシリーズと劇場版では収録内容にどのような違いがありますか？</strong>
 A2. TVシリーズ全11話では超平和バスターズの日常からそれぞれの葛藤までが丁寧に描かれており、劇場版はめんまの視点とTVシリーズ後の後日談を補完する構成になっています。作品を初めて観る場合はTVシリーズから順を追うのがわかりやすいです。
-

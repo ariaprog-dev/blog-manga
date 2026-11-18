@@ -13,7 +13,6 @@ sidebarProducts:
 
 mediaType: comic
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
@@ -103,6 +102,11 @@ mediaType: comic
 
 静まり返った深夜、電子書籍の画面から放たれるブラック・ジャックの鋭い眼差しは、読者を引き込む。彼のメスが切り開くのは、病んだ身体だけでなく、人間の心や社会の病巣までをも抉り出す。一つ一つのエピソードは、生きる意味や命の尊さについて深く考察させる。読後もその問いかけは心に残り、静かに示唆を与え続ける。手塚治虫が描いたこの傑作は、読者の人生に寄り添い、時に厳しく、時に優しく、重要な教訓を伝える。読者はページをめくる手を止められないだろう。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>BLACK JACK 秋田文庫 全17巻</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DBLACK%2520JACK%2520%25E7%25A7%258B%25E7%2594%25B0%25E6%2596%2587%25E5%25BA%25AB%2520%25E5%2585%25A817%25E5%25B7%25BB" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/g00q0721.ve2q5176.g00q0721.ve2q6e77/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F1628570%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DBLACK%2520JACK%2520%25E7%25A7%258B%25E7%2594%25B0%25E6%2596%2587%25E5%25BA%25AB%2520%25E5%2585%25A817%25E5%25B7%25BB" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ## 『BLACK JACK (秋田文庫版) 全17巻セット』の購入前チェックポイント
 
 ### よくある質問（FAQ）：『BLACK JACK (秋田文庫版) 全17巻セット』
@@ -112,4 +116,3 @@ A1. はい。『BLACK JACK (秋田文庫版) 全17巻セット』（参考価格
 
 <strong>Q2. 『BLACK JACK (秋田文庫版) 全17巻セット』（参考価格14,960円）をまとめて揃える際、購入形態はどう選べばよいですか？</strong>
 A2. 手塚治虫の医療ドラマ『ブラック・ジャック』を一話完結のテンポで通読するなら、全17巻セット（秋田文庫版電子書籍など）は1冊ずつ買い足す手間がなく整理しやすい選択です。紙の文庫版で書棚に全巻並べたいか、タブレット等で外出先でも読み返したいかに応じて媒体を選ぶと扱いやすくなります。
-

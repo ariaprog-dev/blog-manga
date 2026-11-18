@@ -139,6 +139,11 @@ heroImages:
 | ダブル・フェイス | 759円（参考価格） | 関連・別巻／周辺ラインナップ 2 |
 | ダブル・フェイス 24 | 712円（参考価格） | 関連・別巻／周辺ラインナップ 3 |
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>ダブル フェイス</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2580%25E3%2583%2596%25E3%2583%25AB%2520%25E3%2583%2595%25E3%2582%25A7%25E3%2582%25A4%25E3%2582%25B9" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%80%E3%83%96%E3%83%AB%20%E3%83%95%E3%82%A7%E3%82%A4%E3%82%B9%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%2580%25E3%2583%2596%25E3%2583%25AB%2520%25E3%2583%2595%25E3%2582%25A7%25E3%2582%25A4%25E3%2582%25B9" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a><a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F101527%2Fb600osgk01337%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #1d4ed8; border: 1px solid #93c5fd;">DMMで見る</a></div>
+</div>
+
 ## よくある質問
 
 <strong>Q1: 「ダブル・フェイス」と「キャット・ウォーカー」は、同じシリーズの作品ですか？</strong>
@@ -155,4 +160,3 @@ A2: 携帯性や保管場所の面では電子書籍が圧倒的に便利です�
 A3: スマートフォンでの閲覧に特化した形式なので、片手で気軽に読める点は非常に便利です。通常のコミックとは異なり、縦スクロールでコマが展開されるため、最初は少し戸惑うかもしれません。
 
 多くの電子書籍ストアで試し読みが提供されているので、一度体験してみて、自分に合うかどうか確認するのが効果的だ。
-

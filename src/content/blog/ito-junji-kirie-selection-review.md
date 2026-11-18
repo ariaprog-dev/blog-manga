@@ -31,7 +31,6 @@ sidebarProducts:
     price: 1650
     microCopy: '詳細を見る'
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 伊藤潤二作品の深淵な世界に、自らの手で触れる。それが、この<strong>『伊藤潤二×garden切り絵セレクション』</strong>が提供してくれる究極の体験だ。
@@ -152,6 +151,11 @@ sidebarProducts:
 
 この本は、伊藤潤二作品の熱烈なファンはもちろん、何か新しい集中できる趣味を探している人にも適している。自分の手で作品を創り上げる喜びは、きっと日々の生活に静かな刺激と達成感をもたらしてくれるだろう。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>伊藤潤二×garden切り絵セレクション</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E4%25BC%258A%25E8%2597%25A4%25E6%25BD%25A4%25E4%25BA%258C%25C3%2597garden%25E5%2588%2587%25E3%2582%258A%25E7%25B5%25B5%25E3%2582%25BB%25E3%2583%25AC%25E3%2582%25AF%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E4%BC%8A%E8%97%A4%E6%BD%A4%E4%BA%8C%C3%97garden%E5%88%87%E3%82%8A%E7%B5%B5%E3%82%BB%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E4%25BC%258A%25E8%2597%25A4%25E6%25BD%25A4%25E4%25BA%258C%25C3%2597garden%25E5%2588%2587%25E3%2582%258A%25E7%25B5%25B5%25E3%2582%25BB%25E3%2583%25AC%25E3%2582%25AF%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a><a href="https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbkt34850319%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #1d4ed8; border: 1px solid #93c5fd;">DMMで見る</a></div>
+</div>
+
 ### よくある質問
 <strong>Q1: 切り絵初心者ですが、本当に作れるか不安です。</strong>
 A1: 本書には基本の切り方から色のつけ方、パーツの貼り方まで、写真付きで丁寧に解説されています。最初の数枚はうまくいかないかもしれないが、簡単な図案から挑戦し、カッターの扱いに慣れることで確実に上達できる。継続することでコツを掴むことが可能です。
@@ -163,4 +167,3 @@ A2: 最低限必要なのは、デザインカッター（またはアートナ�
 
 <strong>Q3: 完成した切り絵はどのように楽しむのが適していますか？</strong>
 A3: 完成した切り絵は、額縁に入れて壁に飾るのが最もポピュラーで、作品の見栄えも格段に上がります。他にも、ブックマークとして使ったり、色紙や厚紙に貼り付けてオリジナルカードを作成したり、手帳のデコレーションに使うなど、工夫次第で様々な楽しみ方が可能です。
-

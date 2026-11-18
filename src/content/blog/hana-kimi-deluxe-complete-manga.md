@@ -13,7 +13,6 @@ sidebarProducts:
 
 mediaType: comic
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 中条比紗也が描く不朽の名作『花ざかりの君たちへ』が、豪華な愛蔵版全巻セットとして再び読者の前に現れる。これは、女子であることを隠して男子校に潜入した少女と、個性豊かな男子生徒たちが織りなす、恋と友情、そして自己発見の青春群像劇だ。
@@ -157,6 +156,11 @@ mediaType: comic
 
 そこに広がる青春の世界は、きっとあなたの心に深く刻まれるはずだ。この物語は、時を超えて、これからも多くの読者の心に響き続ける名作である。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>花ざかりの君たちへ</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E8%258A%25B1%25E3%2581%2596%25E3%2581%258B%25E3%2582%258A%25E3%2581%25AE%25E5%2590%259B%25E3%2581%259F%25E3%2581%25A1%25E3%2581%25B8" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E8%8A%B1%E3%81%96%E3%81%8B%E3%82%8A%E3%81%AE%E5%90%9B%E3%81%9F%E3%81%A1%E3%81%B8%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E8%258A%25B1%25E3%2581%2596%25E3%2581%258B%25E3%2582%258A%25E3%2581%25AE%25E5%2590%259B%25E3%2581%259F%25E3%2581%25A1%25E3%2581%25B8" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a><a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F122354%2Fb371bhkss00094%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #1d4ed8; border: 1px solid #93c5fd;">DMMで見る</a></div>
+</div>
+
 ## 『愛蔵版 花ざかりの君たちへ』の購入前チェックポイント
 
 ### よくある質問（FAQ）：『愛蔵版 花ざかりの君たちへ』
@@ -166,4 +170,3 @@ A1. はい。『愛蔵版 花ざかりの君たちへ』（参考価格：1100�
 
 <strong>Q2. 通常コミックス版ではなく『愛蔵版 花ざかりの君たちへ』を検討する際、注目すべきポイントは何ですか？</strong>
 A2. 『愛蔵版 花ざかりの君たちへ』は通常版より大きめの判型や装丁、関連イラスト・ポストカード等の特典設定（ショップや時期により条件が異なります）に配慮された構成が特徴です。手元に記念版として残す場合は紙のセット商品、場所を取らず中条比紗也の筆致を追う場合は電子版と目的別に比較できます。
-

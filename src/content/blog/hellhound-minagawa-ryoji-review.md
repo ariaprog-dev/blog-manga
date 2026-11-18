@@ -23,7 +23,6 @@ sidebarProducts:
   price: 979
   microCopy: 詳細を見る
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 皆川亮二先生の新作『ヘルハウンド』は、単なるミステリー・サスペンス漫画ではない。それは、練り上げられた構成と息をのむような心理戦が特徴の、まさに「読むドラマ」だ。
@@ -131,6 +130,11 @@ sidebarProducts:
 
 そんな知的探求心を持つあなたにとって、ヘルハウンドは、きっと忘れがたい読書体験となるはずだ。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>ヘルハウンド</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2598%25E3%2583%25AB%25E3%2583%258F%25E3%2582%25A6%25E3%2583%25B3%25E3%2583%2589" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%98%E3%83%AB%E3%83%8F%E3%82%A6%E3%83%B3%E3%83%89%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%2598%25E3%2583%25AB%25E3%2583%258F%25E3%2582%25A6%25E3%2583%25B3%25E3%2583%2589" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a><a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4253158%2Fb900zkds54317%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #1d4ed8; border: 1px solid #93c5fd;">DMMで見る</a></div>
+</div>
+
 ### よくある質問
 
 <strong>Q1: 『ヘルハウンド』は完結していますか？</strong>
@@ -143,4 +147,3 @@ A2: はい、問題なく楽しめます。過去作との直接的な繋がり�
 
 <strong>Q3: 物語はどのくらいのペースで進みますか？</strong>
 A3: ミステリー・サスペンスのジャンルであるため、序盤は謎が提示され、じわじわと伏線が張られていく展開です。キャラクターの心情描写が深く掘り下げられるため、スピーディーな展開よりも、じっくりと物語の深淵を味わう読者に適しています。
-
