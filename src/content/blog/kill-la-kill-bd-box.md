@@ -103,7 +103,7 @@ sidebarProducts:
 
 中島かずき氏の脚本は、伏線の張り方と回収の仕方が見事である。序盤に何気なく描かれていたシーンやセリフが、終盤になってすべて繋がっていくカタルシスは、一級のエンターテインメント作品としての完成度の高さを物語る。
 
-壮大なスケールの物語でありながら、家族愛、友情、そして自己肯定といった普遍的なテーマを真正面から描き切っているからこそ、この作品は多くの人々の心を掴み、熱狂的なファンを生み出したのだ。BD BOXでこの作品を再鑑賞すると、その綿密なストーリー構成や、キャラクターたちの細やかな心理描写が、より深く理解できることに気づくだろう。
+壮大なスケールの物語でありながら、家族愛、友情、そして自己肯定といった普遍的なテーマを真正面から描き切っているからこそ、この作品は多くの人々の心を掴み、熱狂的なファンを生み出したのだ。BD BOXでこの作品を再鑑賞すると、その綿密なストーリー構成や、キャラクターたちの細やかな心理描写が、より深く理解できることに気づくはずだ。
 
 一度見ただけでは気づかなかった発見や、新たな視点が得られるのも、このBOXの持つ価値である。
 
@@ -127,7 +127,7 @@ SNSで交流するファンからも、このBD BOXへの評価は非常に高�
 
 ## 熱狂を求める者へ捧ぐ！キルラキルBD-BOXが刺さる人とは
 
-このキルラキル Blu-ray Disc BOXは、『キルラキル』という作品に深い愛着と情熱を抱いている人たちに適している。具体的には、以下のようなファンに最適な選択肢となるだろう。
+このキルラキル Blu-ray Disc BOXは、『キルラキル』という作品に深い愛着と情熱を抱いている人たちに適している。具体的には、以下のようなファンに最適な選択肢となるはずだ。
 
 *   <strong>TV放送時からのリアルタイム視聴組、または配信で全話を視聴済みで、作品に深い感動を覚えた人。</strong>
     作品の魅力を知り尽くしているからこそ、BD BOXの高画質・高音質での再鑑賞は、新たな発見と深い感動をもたらす。
@@ -157,6 +157,8 @@ SNSで交流するファンからも、このBD BOXへの評価は非常に高�
 | 媒体区分・想定仕様 | 映像ソフト・配信（Blu-ray／DVD／配信） | 視聴・閲覧環境（端末・プレイヤー・収納棚）との適合を確認 |
 | 価格・流通目安 | 27,720円（参考価格） | 在庫状況・送料・クーポン適用有無を含めて比較 |
 | 複数ストア比較の視点 | Amazon／楽天市場／Yahoo!／DMM等 | ポイント還元率・限定特典の有無・中古流通状態を照合 |
+
+<p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>あわせて読みたい関連解説</strong>：<a href="/blog/gundam-kiroku-zenshu-review/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">ガンダム創造の原点へ没入！KADOKAWA記録全集の深層レビュー</a> ／ <a href="/blog/slam-dunk-bluray-collection-review/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">スラムダンクBlu-rayで蘇る熱狂！HDリマスターが脳裏に刻む青春の輝き</a></p>
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
 <div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>キルラキル Blu-ray Disc BOX</strong></div>

@@ -93,7 +93,7 @@ sidebarProducts:
 
 ## コアファン必携の一冊、その価値と覚悟
 
-この記録全集は、ガンダムのコアなファン層からの評価が非常に高い。SNSやブログでも「これぞ究極の資料集」「価格以上の価値がある」といった声が目立つ。初めてページを開いた時の高揚感は、多くの読者に共通する。本当に作品愛が深い人ほど、その価値を理解できるだろう。
+この記録全集は、ガンダムのコアなファン層からの評価が非常に高い。SNSやブログでも「これぞ究極の資料集」「価格以上の価値がある」といった声が目立つ。初めてページを開いた時の高揚感は、多くの読者に共通する。本当に作品愛が深い人ほど、その価値を理解できるはずだ。
 
 しかし、注意点もある。全5巻セットで価格は31,680円と、決して安価ではない。
 
@@ -113,6 +113,8 @@ sidebarProducts:
 | 媒体区分・想定仕様 | ホビー・大型資料・書籍 | 視聴・閲覧環境（端末・プレイヤー・収納棚）との適合を確認 |
 | 価格・流通目安 | 各ECサイトで最新価格を確認 | 在庫状況・送料・クーポン適用有無を含めて比較 |
 | 複数ストア比較の視点 | Amazon／楽天市場／Yahoo!／DMM等 | ポイント還元率・限定特典の有無・中古流通状態を照合 |
+
+<p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>あわせて読みたい関連解説</strong>：<a href="/blog/record-of-lodoss-war-ova-remaster/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">OVA版 ロードス島戦記 デジタルリマスター：蘇る剣と魔法の原点</a> ／ <a href="/blog/hj-mechanics-functional-beauty/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">HJメカニクス徹底考察：機能美に宿るSFとリアルの融合</a></p>
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
 <div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>KADOKAWA 機動戦士ガンダム 記録全集</strong></div>

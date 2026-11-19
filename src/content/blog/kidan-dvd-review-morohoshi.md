@@ -161,11 +161,13 @@ DVD版「奇談」の画質・音質、そして特典内容について、他�
 
 諸星大二郎の「奇談」DVDは、単なる映像作品のパッケージではない。それは、<strong>奇妙な郷愁と根源的な畏れ</strong>を呼び起こす、唯一無二の世界観への入り口だ。2006/05/25に発売されてから約18年が経った今でも、その魅力は色褪せることがない。
 
-このDVDは、<strong>諸星作品の世界観をいつでも再体験することを可能にする</strong>。複雑に絡み合う記憶と現実、土着信仰と異界の狭間を、繰り返し観ることで新たな発見があるだろう。
+このDVDは、<strong>諸星作品の世界観をいつでも再体験することを可能にする</strong>。複雑に絡み合う記憶と現実、土着信仰と異界の狭間を、繰り返し観ることで新たな発見があるはずだ。
 
 価格も<strong>1,222円</strong>と手頃で、諸星作品を深く掘り下げたいファンにとって、まさに<strong>手の届くコレクション</strong>となる。
 
 映画「奇談」は、鑑賞後に静かに思考を促すタイプの作品だ。映像美と音響、そして俳優陣の演技が一体となって、原作の奥深いテーマを再構築している。<strong>現代の喧騒から離れ、異界の扉を叩く覚悟がある</strong>ならば、このDVDはあなたのコレクションに加えるべき一本だ。
+
+<p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>あわせて読みたい関連解説</strong>：<a href="/blog/munto-tokinokabe-dvd-review/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">MUNTO 時の壁をこえて DVDレビュー：京アニの傑作、その集大成を深く味わう</a> ／ <a href="/blog/your-lie-in-april-blu-ray-box/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">四月は君の嘘 BD BOXは買い？音響と映像美で名作の感動は蘇るか検証</a></p>
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
 <div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>奇談 DVD</strong></div>

@@ -105,7 +105,7 @@ sidebarProducts:
 
 ウテナは、少女漫画的な要素と、難解で文学的な要素が融合した、他に類を見ない作品だ。ジェンダー、権力、依存、そして自己同一性といった普遍的なテーマを、これほどまでに挑戦的かつ美しく描いたアニメーションは、貴重な存在と言える。
 
-物語が進むにつれて明らかになる、登場人物たちの隠された関係性や、世界の構造そのものに対する考察は、観る者の知的好奇心を大いに刺激するだろう。
+物語が進むにつれて明らかになる、登場人物たちの隠された関係性や、世界の構造そのものに対する考察は、観る者の知的好奇心を大いに刺激するはずだ。
 
 このコンプリートボックスを手にすれば、そんな深く、どこまでも広がるウテナの世界に、いつでも好きな時に飛び込めるのだ。
 
@@ -160,6 +160,8 @@ A3: 事前知識は一切不要です。むしろ、まっさらな状態で作�
 ## まとめ：『少女革命ウテナ』が今なお放つ唯一無二の輝き
 
 幾原邦彦監督による前衛的な演出、J・A・シーザーの鮮烈な合唱曲、そして「世界を革命する力」をめぐるウテナとアンシーの気高くも切ない物語は、放送から四半世紀以上を経た今も色褪せない輝きを放っています。高画質・高音質で全話と豪華特典を網羅した『少女革命ウテナ Complete』は、初見の視聴者から長年のファンまで、鳳学園の深淵な世界を何度でも味わい尽くせる決定版コレクターズボックスです。
+
+<p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>あわせて読みたい関連解説</strong>：<a href="/blog/metallic-rouge-blu-ray-box/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">メタリックルージュ BD-BOXは買いか？映像と音響で作品の真髄を掘り下げレビュー</a> ／ <a href="/blog/your-lie-in-april-blu-ray-box/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">四月は君の嘘 BD BOXは買い？音響と映像美で名作の感動は蘇るか検証</a></p>
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
 <div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>少女革命ウテナ Complete Blu-ray BOX</strong></div>

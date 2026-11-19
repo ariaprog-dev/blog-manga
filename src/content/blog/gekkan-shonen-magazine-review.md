@@ -81,7 +81,7 @@ sidebarProducts:
 
 一方、『修羅の紋』は、作者が長年培ってきた<strong>格闘描写の巧みさとキャラクターの哲学</strong>が光る。最新単行本第6巻と第16巻が同時発売されるという点も、この二作がそれぞれ異なるフェーズで読者を引きつけている証拠だ。
 
-その他、城平京・片瀬茶柴による『フェルマーの料理』は、料理をテーマにしながらも<strong>知的な謎解きや人間ドラマ</strong>が展開され、その深い思考と緻密なプロットにはいつも感嘆する。これらの作品群は、月刊誌だからこそできる<strong>濃密なストーリーテリング</strong>と<strong>質の高い作画</strong>で、読者の期待を裏切らないだろう。
+その他、城平京・片瀬茶柴による『フェルマーの料理』は、料理をテーマにしながらも<strong>知的な謎解きや人間ドラマ</strong>が展開され、その深い思考と緻密なプロットにはいつも感嘆する。これらの作品群は、月刊誌だからこそできる<strong>濃密なストーリーテリング</strong>と<strong>質の高い作画</strong>で、読者の期待を裏切らないはずだ。
 
 ## 最新話の衝撃と単行本にはない出会いの楽しさ
 
@@ -130,6 +130,8 @@ sidebarProducts:
 | 年間購読コスト試算 | <strong>約8,388円</strong>（699円 × 12ヶ月） | 作品数・巻数によって大きく変動 |
 | 気になる作品の追い方 | 最新話をリアルタイムで追う、新連載を発掘 | 完結後や複数巻まとめて一気読み |
 | こんな人におすすめ | 最新展開を追いたい、新しい作品に出会いたい、作家を応援したい | 一気読みしたい、収納スペースを節約したい、完結を待ちたい |
+
+<p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>あわせて読みたい関連解説</strong>：<a href="/blog/attack-on-titan-no-regrets-manga-ranking/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">進撃の巨人 悔いなき選択 特装版おすすめ人気ランキング2選を徹底比較！</a> ／ <a href="/blog/date-masamune-yokoyama-manga-vs-comparison/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">横山光輝『伊達政宗』全4巻レビュー！独眼竜の人間ドラマと横山劇画の読みどころ</a></p>
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
 <div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>月刊少年マガジン</strong></div>

@@ -114,7 +114,7 @@ OVA版「ロードス島戦記」は、日本のファンタジー作品に計�
 
 このデジタルリマスター版は、単なる映像作品としてだけでなく、コレクションアイテムとしても高い価値を持つ。パッケージデザインはシンプルながらも、ロードス島戦記の世界観を静かに表現している。
 
-書棚に並べた時、その存在感は他のアニメとは一線を画すだろう。まるで美術品のような風格を漂わせている。
+書棚に並べた時、その存在感は他のアニメとは一線を画すはずだ。まるで美術品のような風格を漂わせている。
 
 SNSなどを見ても、「当時の感動が蘇った」「こんなに綺麗になるなんて驚き」「初めて観たが、これが日本のファンタジーの原点か」といった高評価が多数見受けられる。特に当時のファンからは、青春時代の思い出が鮮やかな映像と共に蘇ったと熱い声が上がっているようだ。
 
@@ -129,6 +129,8 @@ SNSなどを見ても、「当時の感動が蘇った」「こんなに綺麗�
 | OVA版 ロードス島戦記 デジタルリマスター Blu-ray BOX スタンダード エディション （ブルーレイディスク） | 11,220円（参考価格） | 本編・主要パッケージ／第1候補 |
 | OVA版 ロードス島戦記 デジタルリマスター Blu-ray BOX （ブルーレイディスク） | 35,530円（参考価格） | 比較・関連アイテム／別仕様 |
 | 購入前の共通確認事項（映像ソフト・配信（Blu-ray／DVD／配信）） | 各ストアの最新在庫・セール・ポイント条件を比較 | 媒体仕様（対応再生機器・判型・電子／紙）の確認が重要 |
+
+<p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>あわせて読みたい関連解説</strong>：<a href="/blog/reincarnated-heavy-knight-game-knowledge/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">「追放された転生重騎士」が示す、不遇職が最強になる痛快さとは？</a> ／ <a href="/blog/recovering-girl-expelled-party-manga/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">追放回復士の少女。なぜ彼女は最強になり、そして様子がおかしいのか？</a></p>
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
 <div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>OVA版 ロードス島戦記 デジタルリマスター</strong></div>

@@ -96,7 +96,9 @@ mediaType: anime
 
 「TVアニメ BEATLESS オリジナルサウンドトラック」は、単なるアニメの付属品にとどまらない。現代SF音楽の秀作として評価される一枚であり、作品が問いかける「人間とhIEの境界線」というテーマを、音響で鮮やかに再解釈している。
 
-日常のデスクワークや作業中に再生すれば、そのサウンドスケープは一瞬で22世紀の未来都市へと聴く者の意識をトリップさせるだろう。集中力を高めたい時、あるいは作品世界を改めて深く思考したい時に、このサウンドトラックは最良のパートナーとなる。作品の熱量を再体験し、その感動を何度でも呼び覚ますことができる一枚だ。
+日常のデスクワークや作業中に再生すれば、そのサウンドスケープは一瞬で22世紀の未来都市へと聴く者の意識をトリップさせるはずだ。集中力を高めたい時、あるいは作品世界を改めて深く思考したい時に、このサウンドトラックは最良のパートナーとなる。作品の熱量を再体験し、その感動を何度でも呼び覚ますことができる一枚だ。
+
+<p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>あわせて読みたい関連解説</strong>：<a href="/blog/akira-4k-bluray-review/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">大友克洋「AKIRA」4Kリマスター版の真価を探る！通常BDとの違い・圧倒的音響と映像体験を徹底検証</a> ／ <a href="/blog/metropolis-4k-bluray-review/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">メトロポリス4K UHD：SFアニメの金字塔を今、再体験する価値</a></p>
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
 <div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>BEATLESS</strong></div>

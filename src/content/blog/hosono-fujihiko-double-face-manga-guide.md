@@ -1,6 +1,6 @@
 ---
-title: 初心者のための「細野不二彦 ダブル・フェイス 全巻」完全選び方ガイド！失敗しないポイント
-description: 細野不二彦 ダブル・フェイス 全巻の選び方・おすすめ比較まとめ。違いやメリット・デメリットを徹底解説。
+title: '細野不二彦『ダブル・フェイス』全巻ガイド｜ストーリー構造と作品版の選び方'
+description: '『キャット・ウォーカー』との違いを含め、細野不二彦『ダブル・フェイス』全巻の人間ドラマの深みと配信形式・関連単行本の選び方を整理して解説します。'
 pubDate: '2026-09-30'
 heroImage: 'https://ebook-assets.dmm.com/digital/e-book/b600osgk01337/b600osgk01337pl.jpg'
 genre: manga
@@ -138,6 +138,8 @@ heroImages:
 | ダブル・フェイス | 550円（参考価格） | 代表・注目掲載商品 |
 | ダブル・フェイス | 759円（参考価格） | 関連・別巻／周辺ラインナップ 2 |
 | ダブル・フェイス 24 | 712円（参考価格） | 関連・別巻／周辺ラインナップ 3 |
+
+<p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>あわせて読みたい関連解説</strong>：<a href="/blog/gugu-ganmo-manga-guide/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">細野不二彦『Gu-Guガンモ』愛蔵版・全巻ガイド｜アニメ版との違いと読破の魅力</a> ／ <a href="/blog/phantom-burai-manga-ranking/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">新谷かおる ファントム無頼 文庫版 全巻おすすめ人気ランキング4選を徹底比較！</a></p>
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
 <div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>ダブル フェイス</strong></div>

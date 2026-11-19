@@ -107,7 +107,7 @@ sidebarProducts:
 
 本作の4Kリマスター版Blu-rayは、<strong>4K解像度でリマスターされた映像を、一般的なフルHD（1920x1080）で収録</strong>している。これは、映像ソースを最高の状態で現代の技術でレストアし、最も普及している高画質メディアで提供するという意味だ。
 
-真の4K解像度である3840x2160の「4K Ultra HD Blu-ray」とは異なるため、その点は理解しておくと良いだろう。
+真の4K解像度である3840x2160の「4K Ultra HD Blu-ray」とは異なるため、その点は理解しておくと良いはずだ。
 
 物理メディアとしてのBlu-rayは、ストリーミングサービスのように回線速度に左右されず、常に安定した高画質・高音質を提供してくれる。特典映像が収録されている点も、コレクターにとっては大きな魅力だ。
 
@@ -138,9 +138,11 @@ sidebarProducts:
 
 今敏監督の『千年女優』4Kリマスター版Blu-rayは、単なるアニメ映画のパッケージではない。それは、<strong>映画史に残る傑作を、最も美しい形で手元に残せる特別な一枚</strong>だ。この作品は、観るたびに新しい発見があり、千代子の生き様から力を得られると評される。
 
-初めて今敏作品に触れる人にとっては、その独創的な世界観に衝撃を受けるだろう。そして、既に作品を知っているファンにとっては、<strong>記憶の中の感動が4Kリマスターによって、さらに鮮烈に心に刻まれるはず</strong>だ。
+初めて今敏作品に触れる人にとっては、その独創的な世界観に衝撃を受けるといえる。そして、既に作品を知っているファンにとっては、<strong>記憶の中の感動が4Kリマスターによって、さらに鮮烈に心に刻まれるはず</strong>だ。
 
 高精細な映像により、圧倒的な映像美と、何度観ても色褪せない感動的な物語を再び鑑賞できる。
+
+<p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>あわせて読みたい関連解説</strong>：<a href="/blog/kill-la-kill-bd-box/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">キルラキル Blu-ray BOXは買い？高音質・高画質で作品世界に没入する人へ</a> ／ <a href="/blog/slam-dunk-bluray-collection-review/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">スラムダンクBlu-rayで蘇る熱狂！HDリマスターが脳裏に刻む青春の輝き</a></p>
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
 <div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>千年女優 今敏監督作品 Blu-ray</strong></div>

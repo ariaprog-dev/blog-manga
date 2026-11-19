@@ -19,7 +19,7 @@ mediaType: figure
 ---
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
-『魔法少女ノ魔女裁判』の登場キャラクター・二階堂ヒロを立体化した「POP UP PARADE 二階堂ヒロ L size」（発売元：グッドスマイルカンパニー、掲載時参考価格：8,329円）は、手に取りやすい価格帯を維持しながら存在感のあるサイズ感を実現した塗装済み完成品フィギュアである。デスク周りやコレクションシェルフに設置した際、通常ラインのフィギュアよりも一回り大きい全高約220mmのボリュームが、作品の持つ緊迫感とキャラクターの造形美を際立たせる設計となっている。
+『魔法少女ノ魔女裁判』の登場キャラクター・二階堂ヒロを立体化した「[POP UP PARADE](/blog/cowboy-bebop-pop-up-parade-spike/) 二階堂ヒロ L size」（発売元：グッドスマイルカンパニー、掲載時参考価格：8,329円）は、手に取りやすい価格帯を維持しながら存在感のあるサイズ感を実現した塗装済み完成品フィギュアである。デスク周りやコレクションシェルフに設置した際、通常ラインのフィギュアよりも一回り大きい全高約220mmのボリュームが、作品の持つ緊迫感とキャラクターの造形美を際立たせる設計となっている。
 
 キャラクターフィギュアをコレクションに加える際は、造形テイストや表情再現の方向性だけでなく、設置スペース・台座を含めたサイズ規格・通常ラインナップとの価格バランスの違いを事前に把握しておくことが重要である。本記事ではメーカー公表仕様および販売ページ情報をもとに、客観的な視点から本製品のチェックポイントを整理する。
 
@@ -91,6 +91,8 @@ POP UP PARADE L size シリーズには価格とボリュームの絶妙なバ�
 3. **配送・保管ボックスのスペース確保**: 全高約220mmのL sizeは外箱（ブリスター含む）も相応の体積となるため、外箱を保管する予定がある場合は押し入れや収納棚の余白もあらかじめ見込んでおくと整理しやすい。
 
 作品『魔法少女ノ魔女裁判』のビジュアル表現を手元で立体的に鑑賞したいファンにとって、本製品はサイズ感と導入コストの折り合いをつけやすい堅実な選択肢のひとつといえる。最終的な購入可否は各ショップの最新在庫・発送予定時期および自身のディスプレイ棚のサイズを確認したうえで検討されたい。
+
+<p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>あわせて読みたい関連解説</strong>：<a href="/blog/beatless-kouka-figure-review/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">【実物レビュー】BEATLESS 紅霞 1/8スケールフィギュアの造形美</a> ／ <a href="/blog/recovering-girl-expelled-party-manga/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">追放回復士の少女。なぜ彼女は最強になり、そして様子がおかしいのか？</a></p>
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
 <div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>POP UP PARADE</strong></div>

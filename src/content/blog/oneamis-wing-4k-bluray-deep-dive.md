@@ -89,7 +89,7 @@ sidebarProducts:
 
 それだけで、作品が持つ独特の空気感が空間に広がる。こうした物理メディアとして作品を所有する喜びは、ストリーミングサービスでは決して得られない体験だ。
 
-このBlu-rayは、日本アニメーションの歴史における重要な一里塚を、物理的な形で未来へと語り継ぐ象徴とも言えるだろう。
+このBlu-rayは、日本アニメーションの歴史における重要な一里塚を、物理的な形で未来へと語り継ぐ象徴とも言えるはずだ。
 
 ## 製品仕様・購入選択肢の比較整理表
 
@@ -101,6 +101,8 @@ sidebarProducts:
 | 媒体区分・想定仕様 | 映像ソフト・配信（Blu-ray／DVD／配信） | 視聴・閲覧環境（端末・プレイヤー・収納棚）との適合を確認 |
 | 価格・流通目安 | 11,968円（参考価格） | 在庫状況・送料・クーポン適用有無を含めて比較 |
 | 複数ストア比較の視点 | Amazon／楽天市場／Yahoo!／DMM等 | ポイント還元率・限定特典の有無・中古流通状態を照合 |
+
+<p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>あわせて読みたい関連解説</strong>：<a href="/blog/beatless-original-soundtrack/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">TVアニメ「BEATLESS」サントラの圧倒的没入感！近未来SFの世界を彩る名曲を徹底レビュー</a> ／ <a href="/blog/metropolis-4k-bluray-review/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">メトロポリス4K UHD：SFアニメの金字塔を今、再体験する価値</a></p>
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
 <div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>王立宇宙軍 オネアミスの翼 4K Blu-ray</strong></div>

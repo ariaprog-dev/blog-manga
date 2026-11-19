@@ -130,7 +130,7 @@ sidebarProducts:
 
 ## 「HJメカニクス」を最大限に楽しむための活用術
 
-「HJメカニクス」は、単巻の書籍として、価格2,530円でDMMブックスから提供されている。特定の作品の続編ではないため、<strong>読書ロードマップというよりも、関連知識を深めるための活用術</strong>として捉えるのが良いだろう。
+「HJメカニクス」は、単巻の書籍として、価格2,530円でDMMブックスから提供されている。特定の作品の続編ではないため、<strong>読書ロードマップというよりも、関連知識を深めるための活用術</strong>として捉えるのが適している。
 
 | 項目         | 詳細                                                                                                   |
 | :----------- | :----------------------------------------------------------------------------------------------------- |
@@ -141,7 +141,7 @@ sidebarProducts:
 
 この一冊は、SF作品を深く楽しむための<strong>「リファレンスブック」</strong>としても非常に優秀だ。例えば、最新のSFアニメや映画を観た後に、登場する宇宙船やロボットのデザインが<strong>「なぜこの形状なんだろう」</strong>と疑問に思った時、本書を開いて類似のメカニックの解説を読んでみる。
 
-すると、<strong>そのデザインの背景にある思想や技術的理由</strong>が見えてきて、作品をより多角的に楽しめるようになる。SF作品に対する見方を大きく変える一冊となるだろう。
+すると、<strong>そのデザインの背景にある思想や技術的理由</strong>が見えてきて、作品をより多角的に楽しめるようになる。SF作品に対する見方を大きく変える一冊となるはずだ。
 
 ## スペック表と「HJメカニクス」の奥深さ
 
@@ -158,6 +158,8 @@ sidebarProducts:
 単に知識が増えるだけでなく、<strong>物事を多角的に、そして深く考える視点</strong>が得られる一冊である。
 
 この書籍は、SF作品のファンはもちろん、<strong>デザイン思考や工学、あるいは宇宙開発に少しでも興味がある人</strong>にとって、価格2,530円以上の価値がある。知的好奇心を刺激し、世界の見え方を変える一冊になるはずだ。
+
+<p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>あわせて読みたい関連解説</strong>：<a href="/blog/mashima-hiro-rave-manga-vs-comparison/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">『RAVE』原作コミック vs アニメ版 徹底比較！どっちから楽しむべき？</a> ／ <a href="/blog/history-manga-timewarp-series/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">学習まんが 日本の歴史で、過ぎ去りし熱狂を夜更けに再読するロマン！</a></p>
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
 <div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>HJメカニクス</strong></div>

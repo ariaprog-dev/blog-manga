@@ -127,7 +127,7 @@ sidebarProducts:
 | <strong>特典映像</strong> | 劇場予告編、TVCM集、パイロットフィルムなど |
 | <strong>ディスク枚数</strong> | 1枚 |
 
-このDVDは、<strong>約60分</strong>という劇場版ならではの凝縮された時間で、物語の核心を描き切っている。音声はドルビーデジタル2.0chなので、ホームシアターで5.1chのサラウンド体験を求める場合は、Blu-ray版を検討する必要があるだろう。
+このDVDは、<strong>約60分</strong>という劇場版ならではの凝縮された時間で、物語の核心を描き切っている。音声はドルビーデジタル2.0chなので、ホームシアターで5.1chのサラウンド体験を求める場合は、Blu-ray版を検討する必要があるはずだ。
 
 画面サイズは16:9のビスタサイズで、<strong>当時の劇場の雰囲気を再現</strong>している。リージョンコードは日本向けの2だ。
 
@@ -143,7 +143,9 @@ sidebarProducts:
 
 このDVDを所有する最大の喜びは、<strong>いつでも、好きな時にあの壮大な物語の世界に浸れる</strong>ことだ。特に、ユメミとムントの絆が結実するクライマックスシーンは、何度見返しても胸が熱くなる。
 
-一時的な配信とは異なり、手元に実物を置くことで得られる<strong>安心感と所有欲</strong>は、コレクターにとっては何物にも代えがたいものがある。もしあなたが「MUNTO」シリーズのファンで、物語の真の結末を最高の形で手元に置いておきたいと考えるなら、このDVDは極めて<strong>コストパフォーマンスの高い選択肢</strong>となるだろう。
+一時的な配信とは異なり、手元に実物を置くことで得られる<strong>安心感と所有欲</strong>は、コレクターにとっては何物にも代えがたいものがある。もしあなたが「MUNTO」シリーズのファンで、物語の真の結末を最高の形で手元に置いておきたいと考えるなら、このDVDは極めて<strong>コストパフォーマンスの高い選択肢</strong>となるはずだ。
+
+<p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>あわせて読みたい関連解説</strong>：<a href="/blog/kidan-dvd-review-morohoshi/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">諸星大二郎の深淵に挑む「奇談」DVD：映像化された神隠しの記憶を紐解く</a> ／ <a href="/blog/blame-movie-bluray-review/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">劇場版BLAME!初回限定Blu-rayで、弐瓶勉の無機質美学に浸る</a></p>
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
 <div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>MUNTO 時の壁をこえて</strong></div>

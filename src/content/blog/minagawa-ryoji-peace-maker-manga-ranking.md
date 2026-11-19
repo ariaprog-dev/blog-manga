@@ -99,7 +99,7 @@ sidebarProducts:
 
 本編を読み終え、さらに『PEACE MAKER』の世界を深掘りしたいなら、このノベライズ作品が非常に有効だ。『PEACE MAKER ―BLACK WING―』は、原作漫画とは異なる視点から物語を補完し、キャラクターたちの内面や背景に深く踏み込むことができる。
 
-漫画では描ききれない心理描写や、物語の裏側で起こっていたであろう出来事が文字で表現されることで、より多角的に世界観を理解できるのが大きなメリットだ。特に、原作キャラクターたちの新たな一面や、彼らが抱えていたであろう苦悩が描かれている点は、ファンにとって堪らないだろう。
+漫画では描ききれない心理描写や、物語の裏側で起こっていたであろう出来事が文字で表現されることで、より多角的に世界観を理解できるのが大きなメリットだ。特に、原作キャラクターたちの新たな一面や、彼らが抱えていたであろう苦悩が描かれている点は、ファンにとって堪らないはずだ。
 
 キャラクターの行動原理に新たな解釈が生まれ、本編を読み返すきっかけとなる。手頃な価格で新たな発見が得られる。
 
@@ -125,7 +125,7 @@ sidebarProducts:
 
 『PEACE MAKER』の世界観から少し離れるが、皆川亮二先生の作家としてのルーツや幅広い才能を知る上で、『PEACE MAKER』は非常に価値のある一冊だ。彼の連載作品では見られないような、実験的で多様なテーマの短編が収録されている。
 
-この短編集を読むことで、『PEACE MAKER』や『ARMS』といった長編作品に見られる、緻密なメカニック描写やダイナミックなアクション、そして人間ドラマの原点となるような表現の萌芽を見つけられるだろう。様々な題材に挑戦した若き日の皆川亮二先生の初期衝動が凝縮されており、彼の作画スタイルや構図の変遷を感じ取れるのも面白い。
+この短編集を読むことで、『PEACE MAKER』や『ARMS』といった長編作品に見られる、緻密なメカニック描写やダイナミックなアクション、そして人間ドラマの原点となるような表現の萌芽を見つけられるはずだ。様々な題材に挑戦した若き日の皆川亮二先生の初期衝動が凝縮されており、彼の作画スタイルや構図の変遷を感じ取れるのも面白い。
 
 短編という形式のため、一つ一つの物語が完結しており、通勤電車の中やちょっとした休憩時間にも気軽に読めるのもメリットだ。1冊770円で、複数の異なる世界観を楽しめるのはコスパも良い。
 
@@ -151,7 +151,7 @@ sidebarProducts:
 
 皆川亮二先生の連載作品の一つである『海王ダンテ』は、『PEACE MAKER』とはジャンルが大きく異なる海洋冒険活劇だ。18世紀を舞台に、海洋大国イタリアが舞台となる壮大なスケールの物語が展開される。
 
-泉福朗氏との共同原作という形で、ストーリーテリングにも奥行きがある。皆川亮二先生らしい迫力あるアクションシーンは健在で、海戦の描写や帆船のメカニックデザインは、その緻密さで読者を唸らせるだろう。
+泉福朗氏との共同原作という形で、ストーリーテリングにも奥行きがある。皆川亮二先生らしい迫力あるアクションシーンは健在で、海戦の描写や帆船のメカニックデザインは、その緻密さで読者を唸らせるといえる。
 
 海戦の描写では、荒れる波濤の中を突き進む船の迫力が表現されている。歴史考証に基づいた世界観も相まって、読んでいるとまるでその時代にタイムスリップしたかのような没入感がある。
 
@@ -170,6 +170,8 @@ sidebarProducts:
 | 著者/作者 | 皆川亮二, 泉福朗 |
 | ジャンル | 歴史・時代劇・戦記 |
 
+<p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>あわせて読みたい関連解説</strong>：<a href="/blog/mushishi-manga-aizouban-set-ranking/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">漆原友紀 蟲師 愛蔵版 全巻セットおすすめ人気ランキング3選を徹底比較！</a> ／ <a href="/blog/natsume-yuujinchou-manga-ranking/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">緑川ゆき 夏目友人帳 コミック 全巻おすすめ人気ランキング4選を徹底比較！</a></p>
+
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
 <div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>海王ダンテ</strong></div>
 <div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%25B5%25B7%25E7%258E%258B%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2586" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E6%B5%B7%E7%8E%8B%E3%83%80%E3%83%B3%E3%83%86%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E6%25B5%25B7%25E7%258E%258B%25E3%2583%2580%25E3%2583%25B3%25E3%2583%2586" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
@@ -181,7 +183,7 @@ sidebarProducts:
 
 物語をさらに深く掘り下げたいなら、ノベライズの『PEACE MAKER ―BLACK WING―』でキャラクターたちの内面に迫るのが良い。
 
-皆川亮二先生という作家のルーツや幅広い作風に触れたいなら、短編集『転送者』は最適な入り口になるだろう。そして、『PEACE MAKER』とは異なるジャンルながら、皆川亮二先生らしい骨太なドラマと緻密な描写を求めるなら、『海王ダンテ』が新たな読書の扉を開いてくれるはずだ。
+皆川亮二先生という作家のルーツや幅広い作風に触れたいなら、短編集『転送者』は最適な入り口になるはずだ。そして、『PEACE MAKER』とは異なるジャンルながら、皆川亮二先生らしい骨太なドラマと緻密な描写を求めるなら、『海王ダンテ』が新たな読書の扉を開いてくれるはずだ。
 
 どの作品も、皆川亮二先生特有の【緻密な作画、引き込まれるストーリーテリング、そして骨太な人間ドラマ】という共通項を持っている。自分の興味や読書のスタイルに合わせて、これらの作品を選んでみてほしい。
 

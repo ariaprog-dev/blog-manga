@@ -112,7 +112,7 @@ DVDは映像を伴うため、単に音楽を聴くだけでなく、映像機�
 
 付属するブックレットには、歌詞はもちろんのこと、作品紹介や当時の貴重な制作秘話などが掲載されている場合があり、これもコレクターにはたまらない魅力だろう。本棚に並べた時の存在感は、デジタルデータでは決して味わえない、確かな喜びがある。
 
-友人や家族が集まった際、このDVDを再生すれば、世代を超えた共通の話題が生まれるだろう。子供の頃の思い出を語り合うきっかけにもなる、貴重なコミュニケーションツールとしても機能する。
+友人や家族が集まった際、このDVDを再生すれば、世代を超えた共通の話題が生まれるはずだ。子供の頃の思い出を語り合うきっかけにもなる、貴重なコミュニケーションツールとしても機能する。
 
 ## 製品仕様・購入選択肢の比較整理表
 
@@ -123,6 +123,8 @@ DVDは映像を伴うため、単に音楽を聴くだけでなく、映像機�
 | 燃えろ！東映スーパーロボット主題歌大全集 | 4,910円（参考価格） | 代表・注目掲載商品 |
 | TVサイズ！東映アニメーション主題歌集（2） | 3,300円（参考価格） | 関連・別巻／周辺ラインナップ 2 |
 | TVサイズ！東映アニメーション主題歌集（1） | 3,300円（参考価格） | 関連・別巻／周辺ラインナップ 3 |
+
+<p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>あわせて読みたい関連解説</strong>：<a href="/blog/kingdom-anime-dvdbox-kokuyoukyou/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">TVアニメ「キングダム」黒羊丘の戦い DVDBOX！乱世を駆け抜ける戦士たちの叙事詩</a> ／ <a href="/blog/kingdom-anime-dvdbox-seikyou-jouyou-aigoku/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">TVアニメ「キングダム」DVDBOXは買うべき？成キョウたちの運命に涙した理由</a></p>
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
 <div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>燃えろ 東映スーパーロボット主題歌大全集</strong></div>

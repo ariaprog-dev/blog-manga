@@ -93,7 +93,7 @@ panpanya作品は、その唯一無二の魅力がある一方で、万人受け
 
 また、読者によっては「難解だ」「意味がわからない」と感じることもある。それは作者が意図的に読者の解釈に委ねる余地を残しているからだ。この点が、panpanya作品の醍醐味であると同時に、読み手を選ぶ最大の理由でもある。
 
-価格については、単巻で1,430円と一般的なコミックよりやや高めだが、そのクオリティを考慮すれば妥当である。緻密な作画、独特な世界観、そして読後に長く残る余韻は、価格以上の価値を提供するだろう。これは読み捨てにするのではなく、何度も手元で読み返す「鑑賞品」に近い。
+価格については、単巻で1,430円と一般的なコミックよりやや高めだが、そのクオリティを考慮すれば妥当である。緻密な作画、独特な世界観、そして読後に長く残る余韻は、価格以上の価値を提供するはずだ。これは読み捨てにするのではなく、何度も手元で読み返す「鑑賞品」に近い。
 
 ## 製品仕様・購入選択肢の比較整理表
 
@@ -105,6 +105,8 @@ panpanya作品は、その唯一無二の魅力がある一方で、万人受け
 | 媒体区分・想定仕様 | コミック・電子書籍・書籍版 | 視聴・閲覧環境（端末・プレイヤー・収納棚）との適合を確認 |
 | 価格・流通目安 | 各ECサイトで最新価格を確認 | 在庫状況・送料・クーポン適用有無を含めて比較 |
 | 複数ストア比較の視点 | Amazon／楽天市場／Yahoo!／DMM等 | ポイント還元率・限定特典の有無・中古流通状態を照合 |
+
+<p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>あわせて読みたい関連解説</strong>：<a href="/blog/aria-the-masterpiece-manga/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">ARIA完全版、なぜ心が浄化される？日常に疲れたあなたへ贈る決定版</a> ／ <a href="/blog/azumanga-daioh-illustration-book-review/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">あずまんが大王イラスト集 10周年記念版の色彩が語る日常の輝き</a></p>
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
 <div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>蟹に誘われて</strong></div>

@@ -123,7 +123,9 @@ KADOKAWA あずまんが大王は、連載当時のカラーイラストや単�
 
 もしあなたがまだ『あずまんが大王』を読んだことがないなら、まずは漫画本編やアニメを体験するのが効果的だ。その上でこのイラスト集を手にすれば、キャラクターたちの日常が、より色彩豊かに、より深く心に響くはずだ。
 
-まさに<strong>作品世界への入り口であり、深い愛着へと誘う鍵</strong>となるだろう。
+まさに<strong>作品世界への入り口であり、深い愛着へと誘う鍵</strong>となるはずだ。
+
+<p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>あわせて読みたい関連解説</strong>：<a href="/blog/panpanya-kani-sasowarete-review/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">panpanya『蟹に誘われて』レビュー：日常に潜む奇妙な傑作を深掘り</a> ／ <a href="/blog/yotsubato-azumakiyohiko-deep-dive/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">『よつばと』が描く日常の奇跡：あずまきよひこの描線と構図に迫る</a></p>
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
 <div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>あずまんが大王イラスト集 10周年記念版の色彩</strong></div>
@@ -152,4 +154,4 @@ A3: 本書は『あずまんが大王』の<strong>連載10周年を記念して
 | 型番/仕様 | 単行本ソフトカバー、128ページ、ISBN:978-4048679632 |
 | 主な特徴 | 『あずまんが大王』連載10周年記念。カラーイラスト、未収録イラスト、企画イラストを多数収録。あずまきよひこ氏の代表的な画業をまとめた貴重なイラスト集。 |
 
-KADOKAWA あずまんが大王は、作品への深い愛情と、作者あずまきよひこ氏の<strong>色彩表現に対する情熱</strong>を再認識させてくれるだろう。この一冊が、あなたの日常に、あずまんが大王がもたらしたあの<strong>ささやかながらも確かな幸福感</strong>を再び届けてくれるはずだ。
+KADOKAWA あずまんが大王は、作品への深い愛情と、作者あずまきよひこ氏の<strong>色彩表現に対する情熱</strong>を再認識させてくれるはずだ。この一冊が、あなたの日常に、あずまんが大王がもたらしたあの<strong>ささやかながらも確かな幸福感</strong>を再び届けてくれるはずだ。

@@ -125,7 +125,9 @@ sidebarProducts:
 
 冷たく妖艶な微笑みと、圧倒的な破壊力を想起させる重火器デバイスのコンビネーションは、部屋の照明を落としてスポットライトを当てた瞬間、息を呑むほどの存在感を放ちます。
 
-『BEATLESS』を愛するファン、そしてハイエンドなメカ少女フィギュアを愛好するすべての方にとって、手に入れて絶対に後悔しない一生モノのコレクションとなるはずです。
+『[BEATLESS](/blog/beatless-original-soundtrack/)』を愛するファン、そしてハイエンドなメカ少女フィギュアを愛好するすべての方にとって、手に入れて絶対に後悔しない一生モノのコレクションとなるはずです。
+
+<p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>あわせて読みたい関連解説</strong>：<a href="/blog/pop-up-parade-nikaido-hiro/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">『魔法少女ノ魔女裁判』POP UP PARADE 二階堂ヒロ L size：造形美と仕様を客観評価</a> ／ <a href="/blog/cowboy-bebop-pop-up-parade-spike/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">カウボーイビバップ POP UP PARADE スパイク・スピーゲル造形レビュー！ビバップの魂が宿る理由</a></p>
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
 <div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>BEATLESS 紅霞 1 8スケール 完成品フィギュア</strong></div>

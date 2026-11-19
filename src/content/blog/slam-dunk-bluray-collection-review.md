@@ -143,7 +143,7 @@ Blu-rayディスクを視聴するためには、<strong>Blu-ray対応のプレ�
 
 全101話がHDリマスターで収録されている点は、何よりも評価すべきポイントだ。特にテレビ放映当時は、現在の放送基準とは異なる表現があった部分も、<strong>可能な限り当時の雰囲気を残しつつ</strong>、高画質化されているという。
 
-各巻に付属するブックレットは、作品の世界観をさらに深掘りする資料となるだろう。
+各巻に付属するブックレットは、作品の世界観をさらに深掘りする資料となるはずだ。
 
 東映ビデオ スラムダンク Blu-ray Collection 全5巻セットは、まさに<strong>ファン垂涎の決定版</strong>と言える。三方背BOXは、所有する喜びをさらに高めてくれる。
 
@@ -161,6 +161,8 @@ Blu-rayディスクを視聴するためには、<strong>Blu-ray対応のプレ�
 | 主な特徴   | TVアニメ全101話を完全収録、HDリマスターによる高画質化、各巻ブックレット・三方背BOX付属 |
 
 このコレクションは、当時リアルタイムで作品を追いかけていた世代はもちろん、新たにスラムダンクの魅力に触れたいという若い世代にも強く勧めたい。彼らが過去の名作に触れる上で、<strong>最高の視聴環境を提供してくれる</strong>はずだ。
+
+<p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>あわせて読みたい関連解説</strong>：<a href="/blog/sennen-joyu-4k-blu-ray-review/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">今敏監督『千年女優』4Kリマスター版Blu-rayを初見で鑑賞！その魅力と注意点</a> ／ <a href="/blog/anohana-anime-blu-ray-box/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">あの花Blu-ray BOXは買いか？画質・音響クオリティの再現度を徹底検証</a></p>
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
 <div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>SLAM DUNK Blu-ray Collection VOL 1</strong></div>

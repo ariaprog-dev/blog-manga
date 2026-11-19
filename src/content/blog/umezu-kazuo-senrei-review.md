@@ -107,7 +107,7 @@ heroImages:
 
 DMMブックスでは、新規登録時にクーポンが配布されたり、ポイント還元キャンペーンが実施されたりする場合も多い。そういった機会を活用すれば、さらに割引価格で購読できる可能性もある。
 
-もし「いきなり購入するのは不安」と感じるなら、他の電子ストアでも冒頭の数ページを無料で試し読みできる場合が多いので、まずはそこから入ってみるのが効果的だ。試し読みで、楳図かずお特有の絵柄や物語の雰囲気が自分の感性に合うか確認すると良いだろう。
+もし「いきなり購入するのは不安」と感じるなら、他の電子ストアでも冒頭の数ページを無料で試し読みできる場合が多いので、まずはそこから入ってみるのが効果的だ。試し読みで、楳図かずお特有の絵柄や物語の雰囲気が自分の感性に合うか確認すると良いはずだ。
 
 ## 製品仕様・購入選択肢の比較整理表
 
@@ -119,6 +119,8 @@ DMMブックスでは、新規登録時にクーポンが配布されたり、�
 | 媒体区分・想定仕様 | コミック・電子書籍・書籍版 | 視聴・閲覧環境（端末・プレイヤー・収納棚）との適合を確認 |
 | 価格・流通目安 | 1,210円（参考価格） | 在庫状況・送料・クーポン適用有無を含めて比較 |
 | 複数ストア比較の視点 | Amazon／楽天市場／Yahoo!／DMM等 | ポイント還元率・限定特典の有無・中古流通状態を照合 |
+
+<p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>あわせて読みたい関連解説</strong>：<a href="/blog/goldenkamuy-tankyushatachi-record/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">ゴールデンカムイ「探究者たちの記録」を深掘り：読むべき理由と作品の核心</a> ／ <a href="/blog/date-masamune-yokoyama-manga-vs-comparison/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">横山光輝『伊達政宗』全4巻レビュー！独眼竜の人間ドラマと横山劇画の読みどころ</a></p>
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
 <div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>洗礼 楳図かずお</strong></div>

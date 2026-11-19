@@ -89,7 +89,7 @@ sidebarProducts:
 
 この作品は宇宙開発という壮大なテーマを通して、人類の未知への探求心や未来への希望を喚起する。宇宙の広大さ、無重力空間での活動、異星での生活の可能性といった科学的側面だけでなく、宇宙から地球を眺めた時に感じる「一つしかない生命」の尊さ、あるいは地球上の争いの矮小さといった、哲学的なメッセージも込められている。
 
-この漫画は、地球の美しさとそこに生きる人間の可能性について深く考察させる。科学的なリアリティと、普遍的な人間ドラマ、そして未来への希望が、これほどまでに高い次元で融合している作品は、『宇宙兄弟』以外にそう多くはないだろう。
+この漫画は、地球の美しさとそこに生きる人間の可能性について深く考察させる。科学的なリアリティと、普遍的な人間ドラマ、そして未来への希望が、これほどまでに高い次元で融合している作品は、『宇宙兄弟』以外にそう多くはないはずだ。
 
 ## ムッタとヒビト、それぞれの胸に刻まれた「心の名言」
 
@@ -152,6 +152,8 @@ sidebarProducts:
 | 媒体区分・想定仕様 | コミック・電子書籍・書籍版 | 視聴・閲覧環境（端末・プレイヤー・収納棚）との適合を確認 |
 | 価格・流通目安 | 1,130円（参考価格） | 在庫状況・送料・クーポン適用有無を含めて比較 |
 | 複数ストア比較の視点 | Amazon／楽天市場／Yahoo!／DMM等 | ポイント還元率・限定特典の有無・中古流通状態を照合 |
+
+<p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>あわせて読みたい関連解説</strong>：<a href="/blog/aria-the-masterpiece-manga/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">ARIA完全版、なぜ心が浄化される？日常に疲れたあなたへ贈る決定版</a> ／ <a href="/blog/minagawa-ryoji-peace-maker-manga-ranking/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">皆川亮二 PEACE MAKER 全巻セットおすすめ人気ランキング4選を徹底比較！</a></p>
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
 <div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>宇宙兄弟</strong></div>
