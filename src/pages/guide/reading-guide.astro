@@ -1,0 +1,127 @@
+---
+import Layout from '../../layouts/BlogPost.astro';
+import GuideFooterSection from '../../components/GuideFooterSection.astro';
+import '../../styles/guide.css';
+
+const faq = [
+	{
+		question: '「少年漫画・青年漫画・少女漫画」などのレーベル区分だけで面白さを判断しないほうがよいですか？',
+		answer:
+			'はい。雑誌レーベルは当初のターゲット読者層を示す目安にすぎず、実際には少年誌でも哲学的で骨太なSF・サスペンスが描かれ、少女誌や青年誌から時代を超える普遍的名作が生まれています。レーベルに縛られず「世界観の独自性」や「作家が描きたい核心テーマ」で選ぶと良作に出会いやすくなります。',
+	},
+	{
+		question: 'SFやファンタジーで「発想力・設定がすごい作品」を見分けるコツはありますか？',
+		answer:
+			'あらすじを見たときに「この世界のたった一つのルール（もし〇〇だったら）を極限まで突き詰めているか」に注目するのがおすすめです。たとえば宇宙・バイオ・歴史IF・ひみつ道具のような一点の仕掛けから、人間関係や社会構造まで緻密に連鎖している作品は、読み進めるほど世界に引き込まれます。',
+	},
+	{
+		question: '長編を読み始める時間がない夜でも、満足感の高い作品を探す方法はありますか？',
+		answer:
+			'まずは1〜5巻前後で完結する中・短編の名作や、1冊ごとに完結するオムニバス短編集から入るのがおすすめです。濃密な短編は作者の発想の純度がもっとも高く、一晩の読書でも深い余韻を残してくれます。',
+	},
+];
+---
+
+<Layout
+	title="名作漫画の探し方｜SF・ファンタジー鑑賞"
+	description="「どうやってこんな世界観や設定を思いついたんだ」と唸る発想力重視のSF・ファンタジーを中心に、雑誌区分・作家性・完結巻数から夜更かし向きの名作を選ぶ鑑賞ガイド。"
+	pubDate={new Date('2026-11-22')}
+	faq={faq}
+>
+	<div class="guide-article">
+		<div class="guide-lead">
+			<p>
+				数万タイトルが存在する日本の漫画の中から「今夜じっくり没頭したい一作」を探すとき、ランキングや話題作を追うだけでなく、<strong>自分がどんな切り口の面白さに心を動かされるか（鑑賞軸）</strong>を知っておくとハズレが減ります。当ブログの管理人が特に重視しているのは、SFやファンタジーに見られる<strong>「どうやってこんな世界観や設定を思いついたのか」と驚かされる発想力の高さ</strong>です。このページでは、名作と出会うためのジャンル横断の探し方を解説します。
+			</p>
+		</div>
+
+		<nav class="guide-toc" aria-label="目次">
+			<p class="guide-toc-title">📑 このページの目次</p>
+			<ol>
+				<li><a href="#imagination">発想力と世界観から入る — SF・ファンタジーという原点</a></li>
+				<li><a href="#genre-map">発想力タイプ・読後感別の名作鑑賞マップ</a></li>
+				<li><a href="#how-to-pick">ハズレを引かない「作品選び」4つのチェック視点</a></li>
+				<li><a href="#short-vs-long">短編集・中編・長編の楽しみ分け</a></li>
+			</ol>
+		</nav>
+
+		<h2 id="imagination">1. 発想力と世界観から入る — SF・ファンタジーという原点</h2>
+		<p>
+			漫画の面白さには画力・会話のテンポ・恋愛や成長の共感など多くの要素がありますが、ページの向こう側に見たこともない法則や景色を一瞬で立ち上げる<strong>「世界構築のイマジネーション」</strong>は、漫画という表現形式がもっとも輝く領域のひとつです。
+		</p>
+
+		<div class="guide-callout guide-callout-tip">
+			<p class="guide-callout-title">✨ 管理人の原点：『ドラえもん』や『ドラゴンボール』に見る発想の凄み</p>
+			<p>
+				私が小学生の頃に漢字を覚えたのも『ドラえもん』（<a href="/blog/doraemon-manga/">『ドラえもん』作品考察</a>）がきっかけでしたが、大人になって読み返して改めて圧倒されるのは、藤子・F・不二雄先生の<strong>「もしこんな道具があったら日常と人間心理はどう壊れ、どう面白くなるか」</strong>を1話わずか十数ページで完璧に描き切るSF短編並みの発想力です。
+			</p>
+			<p>
+				また、思春期に出会った藤崎竜先生の短編集に受けた衝撃や、国民的大作『ドラゴンボール』で「戦闘力や宇宙種族、重力室、ドラゴンボールのルールまで、どうやってこのスケール感と造形を次々と生み出せたのか」と感じる高揚感も根底は同じです。<strong>既成の枠を軽々と飛び越えるアイデア</strong>に触れる瞬間こそ、漫画を夜更かしして読みたくなる最大の理由だと考えています。
+			</p>
+		</div>
+
+		<h2 id="genre-map">2. 発想力タイプ・読後感別の名作鑑賞マップ</h2>
+		<p>
+			少年誌・青年誌・少女誌といった掲載媒体の垣根を外し、「どんな発想や知的好奇心が刺激されるか」という切り口で主なタイプを整理しました。
+		</p>
+
+		<div class="guide-table-wrap">
+			<table class="guide-table">
+				<thead>
+					<tr>
+						<th>発想力・世界観のタイプ</th>
+						<th>魅力の核（なぜ引き込まれるか）</th>
+						<th>当ブログの関連紹介作品</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td><strong>日常×異物・アイデア爆発型</strong></td>
+						<td>身近な学校や家庭にひみつ道具・超常の力を差し込み、1話ごとの着眼点や因果の広がりで驚かせる。</td>
+						<td><a href="/blog/doraemon-manga/">ドラえもん</a> ／ <a href="/blog/doraemon-long-story/">大長編ドラえもん</a> ／ <a href="/blog/mob-psycho-100-manga-set-guide/">モブサイコ100</a></td>
+					</tr>
+					<tr>
+						<td><strong>生態系・独自世界観構築型</strong></td>
+						<td>見たこともない自然・環境・架空の生態系をリアリティとともに編み上げ、作品世界の呼吸まで感じさせる。</td>
+						<td><a href="/blog/mushishi-manga-aizouban-set-ranking/">蟲師</a> ／ <a href="/blog/umwelt-igarashi-daisuke-review/">ウムヴェルト 五十嵐大介作品集</a> ／ <a href="/blog/aria-the-masterpiece-manga/">ARIA</a></td>
+					</tr>
+					<tr>
+						<td><strong>緻密ルール・頭脳戦・歴史IF型</strong></td>
+						<td>能力制約や時代の知的好奇心を土台に、ルール上の駆け引きと論理の積み上げで一気に読ませる。</td>
+						<td><a href="/blog/ch-earth-motion-manga/">チ。―地球の運動について―</a> ／ <a href="/blog/hunter-hunter-monochrome-manga/">HUNTER×HUNTER</a> ／ <a href="/blog/hellhound-minagawa-ryoji-review/">HELLHOUND</a></td>
+					</tr>
+					<tr>
+						<td><strong>重厚心理サスペンス・群像劇型</strong></td>
+						<td>時代の闇や人間の深層心理を丹念な伏線とともに組み上げ、1巻から最終巻まで緊張感が途切れない。</td>
+						<td><a href="/blog/monster-urasawa-naoki-review/">MONSTER</a></td>
+					</tr>
+					<tr>
+						<td><strong>不条理・幻想ショート世界観型</strong></td>
+						<td>一見静かな日常の中にほんの少しの「異界・違和感」を忍ばせ、短編ならではの鋭い余韻を残す。</td>
+						<td><a href="/blog/panpanya-kani-sasowarete-review/">蟹に誘われて（panpanya）</a> ／ <a href="/blog/morohoshi-shiori-shimiko-set-ranking/">栞と紙魚子（諸星大二郎）</a></td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+
+		<h2 id="how-to-pick">3. ハズレを引かない「作品選び」4つのチェック視点</h2>
+		<ul>
+			<li><strong>第1話（または第1巻）に「世界のルール」が明示されているか</strong>：優れたSF・ファンタジーやミステリーは、冒頭数十ページで「この物語では何が起きており、主人公は何に立ち向かうのか」の引力をはっきり提示してくれます。</li>
+			<li><strong>作者の「過去の短編集・初期作」を辿ってみる</strong>：長編で知られる作家ほど、初期短編集や中編に原石のような発想が凝縮されています。ひとつの作家に惚れたら過去の短編・関連作へ遡る「作家買い」は極めて打率の高い探し方です。</li>
+			<li><strong>「完結済み・中編」と「進行中の長編」を意識して混ぜる</strong>：未完の大作ばかり追うと先が気になりすぎるため、すでに美しい着地を果たしている完結作（5〜20巻前後）を合間に挟むと読書の満足度が安定します。</li>
+			<li><strong>絵柄の第一印象だけで除外しない</strong>：最初は見慣れない画風やクラシックな線でも、世界観や会話の間合いが作品のテーマと完璧に噛み合っている名作（<a href="/blog/yotsubato-azumakiyohiko-deep-dive/">日常表現の技巧</a> や <a href="/blog/black-jack-akita-bunko/">手塚治虫の古典的筆致</a> など）が数多く存在します。</li>
+		</ul>
+
+		<h2 id="short-vs-long">4. 短編集・中編・長編の楽しみ分け</h2>
+		<p>
+			読むタイミングや気分に応じてボリューム帯を使い分けると、忙しい平日でも名作との時間を確保しやすくなります。
+		</p>
+		<ul>
+			<li><strong>短編集・1〜3巻完結（平日夜のリセットに）</strong>：一晩で最初から最後まで綺麗に読了でき、鮮烈なアイデアやオチの切れ味を堪能できます。</li>
+			<li><strong>中編（5〜15巻前後／週末の一気読みに）</strong>：世界観の奥行きとキャラクターの成長、伏線回収のすべてを過不足なく味わえる黄金サイズです。単行本で本棚に揃える際にも場所を取りすぎず扱いやすいボリュームです。</li>
+			<li><strong>大長編（20巻〜／長期休暇の没入体験に）</strong>：街や星ひとつぶんの歴史を伴走する重厚な体験が得られます。まずは電子版で旅を始め、本当に心に残った場合は気に入った版型（通常版・文庫・愛蔵版）を棚に迎える進め方がおすすめです（<a href="/guide/paper-vs-digital/">紙と電子の使い分け</a>）。</li>
+		</ul>
+	</div>
+
+	<GuideFooterSection slot="after-guide" currentGuideId="reading-guide" sectionTitle="世界観・発想力で選ぶおすすめ作品レビュー" />
+</Layout>

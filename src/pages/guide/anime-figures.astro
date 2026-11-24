@@ -1,0 +1,145 @@
+---
+import Layout from '../../layouts/BlogPost.astro';
+import GuideFooterSection from '../../components/GuideFooterSection.astro';
+import '../../styles/guide.css';
+
+const faq = [
+	{
+		question: '古いアニメ作品の「Blu-ray BOX」と「4K UHD Blu-ray」は画質にどんな違いがありますか？',
+		answer:
+			'元の制作素材が35mmセルフィルムの劇場作品などでは、4KスキャンとHDR（広色域・高コントラスト）処理を施した4K UHD版によってフィルムの質感や光・影の階調が飛躍的に豊かになります。ただし再生には4K UHD対応プレーヤー（または対応ゲーム機）と4Kテレビ/モニターが必須になるため、事前に再生環境の確認が欠かせません。',
+	},
+	{
+		question: '同じBOX商品でも「通常盤」「限定版」「スタンダードエディション」で迷ったらどこを見るべきですか？',
+		answer:
+			'本編ディスクの収録話数や映像スペックが同じケースが多いため、価格差の大部分は「描き下ろし収納BOX・設定資料ブックレット・サウンドトラックCD・映像特典」の有無です。資料や解説書をじっくり読み込むのが好きなら特装・限定仕様、本編を省スペース＆低予算で手元に置きたいなら通常版・廉価BOXが合理的です。',
+	},
+	{
+		question: '「スケールフィギュア」と「POP UP PARADE」などのノンスケールフィギュアはどう選び分ければよいですか？',
+		answer:
+			'スケールフィギュア（1/7や1/8など実物比率に基づく造形）は塗装のグラデーション・台座・細部造形の情報量が圧倒的で価格も高めですが、飾り映えは格別です。一方POP UP PARADE等のノンスケール（全高17〜18cm前後が目安）は比較的手頃でサイズ感も揃いやすいため、デスクや本棚のちょっとしたスペースに複数を並べて楽しみたい場合に向いています。',
+	},
+];
+---
+
+<Layout
+	title="アニメ4K・BDとフィギュア仕様の基礎"
+	description="DVD-BOX・Blu-ray・4K Ultra HD Blu-rayのリマスター規格と視聴環境チェック、スケールフィギュアとPOP UP PARADE等ノンスケールの違いを客観的に解説します。"
+	pubDate={new Date('2026-11-22')}
+	faq={faq}
+>
+	<div class="guide-article">
+		<div class="guide-lead">
+			<p>
+				漫画をきっかけに好きになった作品のアニメ版やサウンドトラック、そして立体フィギュアを手元に迎えるとき、パッケージに記載された<strong>「4K UHD」「HDR」「アップコンバート」「1/7スケール」「全高約170mm」</strong>といった用語の意味を知っておくと、購入後のギャップを防げます。このページでは、映像ソフト（DVD/Blu-ray/4K）とフィギュアの基本仕様を客観的に整理しました。
+			</p>
+		</div>
+
+		<nav class="guide-toc" aria-label="目次">
+			<p class="guide-toc-title">📑 このページの目次</p>
+			<ol>
+				<li><a href="#video-formats">DVD・Blu-ray・4K Ultra HD Blu-ray の規格比較</a></li>
+				<li><a href="#remaster-check">名作アニメBOXを買う前に確認したい4つのチェック項目</a></li>
+				<li><a href="#figures">スケールフィギュアとノンスケール（POP UP PARADE等）の違い</a></li>
+				<li><a href="#display-care">映像・立体物を長く綺麗に楽しむための保管ポイント</a></li>
+			</ol>
+		</nav>
+
+		<h2 id="video-formats">1. DVD・Blu-ray・4K Ultra HD Blu-ray の規格比較</h2>
+		<p>
+			配信サービスで手軽に視聴できる時代だからこそ、映像ソフトを手元に置く意味は「配信終了に左右されない保存性」「圧縮の少ない高ビットレート画質・高音質」「充実した設定資料ブックレットや特典」にあります。
+		</p>
+
+		<div class="guide-table-wrap">
+			<table class="guide-table">
+				<thead>
+					<tr>
+						<th>メディア規格</th>
+						<th>最大解像度・特徴</th>
+						<th>必要な再生機器</th>
+						<th>向いているアニメ作品・ケース</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td><strong>DVD-BOX</strong></td>
+						<td>SD画質（720×480）。容量が小さくディスク枚数が増えやすい。</td>
+						<td>DVD / Blu-rayプレーヤー（PC光学ドライブ含む）</td>
+						<td>HD化されていない旧作OVAや、当時の初期BOX仕様・価格を抑えたい場合（<a href="/blog/neon-genesis-evangelion-tv-dvdbox/">TV版DVD-BOXの例</a>）。</td>
+					</tr>
+					<tr>
+						<td><strong>Blu-ray BOX（2K / Full HD）</strong></td>
+						<td>1920×1080（HD）。リマスターまたは高画質アップコンバート版が主流。</td>
+						<td>Blu-ray対応プレーヤー・ゲーム機</td>
+						<td>TVシリーズ全話を少ないディスク枚数で高画質保存したいとき（<a href="/blog/denno-coil-bluray-box/">電脳コイル Blu-ray BOX</a>）。</td>
+					</tr>
+					<tr>
+						<td><strong>4K Ultra HD Blu-ray</strong></td>
+						<td>3840×2160（4K）＋ HDR（広色域・高輝度コントラスト）。情報量が桁違い。</td>
+						<td><strong>UHD BD対応プレーヤー</strong>＋4K HDRテレビ/モニター</td>
+						<td>35mmフィルム制作の劇場アニメや作画密度が極めて高い映画作品（<a href="/blog/akira-4k-bluray-review/">AKIRA 4Kリマスター</a>）。</td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+
+		<h2 id="remaster-check">2. 名作アニメBOXを買う前に確認したい4つのチェック項目</h2>
+		<ul>
+			<li><strong>① 再生環境が「4K UHD」に対応しているか</strong>：PS5（ディスクドライブ搭載モデル）やXbox Series Xでは4K UHD BDを再生できますが、<strong>PS4・Nintendo Switch・一般的な外付けPC用BDドライブでは4K UHDディスクを再生できません</strong>。テレビやモニター側もHDMI 2.0以上・HDCP 2.2対応端子が求められるため、通常のBlu-ray同梱コンボセットかどうかも確認すると安心です（<a href="/blog/metropolis-4k-bluray-review/">メトロポリス 4K UHDレビュー</a> ／ <a href="/blog/oneamis-wing-4k-bluray-deep-dive/">王立宇宙軍 オネアミスの翼 4K</a>）。</li>
+			<li><strong>② フィルムリマスターか、2Kアップコンバートか</strong>：フィルム時代の劇場作は新スキャン（テレシネ）による解像感向上の恩恵が大きく、一方2000年代前半の初期デジタル制作アニメは元解像度の制約からアップコンバート処理の仕上がり（輪郭の破綻がないか、色味が忠実か）が見どころになります。</li>
+			<li><strong>③ 収録音声仕様（オリジナル音声 vs 新規リミックス）</strong>：Dolby Atmosや5.1chリミックスだけでなく、劇場公開当時のオリジナル2ch音声が同時収録されているかをチェックするのも通な楽しみ方です。</li>
+			<li><strong>④ 同梱ブックレット・サントラ・関連書籍の価値</strong>：BOXの価格差を生む大きな要素が、監督・スタッフインタビューや原画・設定資料ブックレット、メイキング映像特典（例：<a href="/blog/the-orbital-children-manga-box/">『地球外少年少女』Collectors BOX</a>）です。音楽面を深く味わいたい作品ではサウンドトラック（<a href="/blog/beatless-original-soundtrack/">サントラ解説</a>）との組み合わせも魅力的です。</li>
+		</ul>
+
+		<h2 id="figures">3. スケールフィギュアとノンスケール（POP UP PARADE等）の違い</h2>
+		<p>
+			近年は高精細な大型フィギュアから、手頃で棚に並べやすいシリーズまで立体物の選択肢が広がっています。購入前に把握しておきたい基本規格は次の通りです。
+		</p>
+
+		<div class="guide-table-wrap">
+			<table class="guide-table">
+				<thead>
+					<tr>
+						<th>カテゴリ</th>
+						<th>サイズ感の目安</th>
+						<th>価格帯・造形の特徴</th>
+						<th>飾り方・選び方の向き不向き</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td><strong>スケールフィギュア（1/7・1/8・1/6など）</strong></td>
+						<td>全高 約20〜30cm前後<br>（台座や武器込みで奥行きも大）</td>
+						<td>細部の塗装・衣装の質感・造形の情報量が極めて高い本格派（<a href="/blog/beatless-kouka-figure-review/">紅霞フィギュア解説</a>）。</td>
+						<td>主役としてショーケースや専用棚にじっくり飾りたい、作品愛の象徴を迎えたい方。</td>
+					</tr>
+					<tr>
+						<td><strong>ノンスケール完成品（POP UP PARADE等）</strong></td>
+						<td>全高 約17〜18cm前後（Lサイズは約22〜24cm）</td>
+						<td>統一感のあるサイズと手に取りやすい価格帯でラインナップが豊富（<a href="/blog/cowboy-bebop-pop-up-parade-spike/">スパイク</a> ／ <a href="/blog/pop-up-parade-nikaido-hiro/">二階堂ヒロ</a>）。</td>
+						<td>同じシリーズや漫画単行本の隣に省スペースで並べて世界観を演出したい方。</td>
+					</tr>
+					<tr>
+						<td><strong>プラモデル・メカニクス専門書籍</strong></td>
+						<td>キット規格（1/144・1/100等）・書籍資料</td>
+						<td>構造美・機能美を自分で組み立て、塗装や解説書で掘り下げるホビー領域（<a href="/blog/hj-mechanics-functional-beauty/">HJメカニクス解説</a>）。</td>
+						<td>メカデザインや内部構造のアイデアそのものに惹かれるSF・ロボット作品好きの方。</td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+
+		<h2 id="display-care">4. 映像・立体物を長く綺麗に楽しむための保管ポイント</h2>
+		<div class="guide-callout guide-callout-warn">
+			<p class="guide-callout-title">🛡️ コレクターが押さえておきたい劣化対策の基本</p>
+			<p>
+				漫画の単行本と同じく、Blu-rayの化粧箱（三方背BOX）やPVC/ABS素材のフィギュアも<strong>直射日光（紫外線）と高温多湿</strong>を嫌います。光沢箱やフィギュアを窓際に置くと退色や素材の劣化を早めるため、遮光された室内やアクリル・ガラス扉付きの棚に配置すると美しさを長く維持できます。
+			</p>
+			<p>
+				また、組み立て式・差し替えパーツが付属するフィギュアは、紛失を防ぐためチャック付き小袋に作品名をメモして元箱と一緒に保管しておくと後からポーズ変更や引っ越しをするときに安心です。
+			</p>
+		</div>
+	</div>
+
+	<GuideFooterSection slot="after-guide" currentGuideId="anime-figures" sectionTitle="アニメ4K・Blu-ray・フィギュアの関連レビュー記事" />
+</Layout>

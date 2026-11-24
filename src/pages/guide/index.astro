@@ -1,0 +1,110 @@
+---
+import Layout from '../../layouts/BlogPost.astro';
+import '../../styles/guide.css';
+import { GUIDE_HUB, GUIDE_PAGES } from '../../data/guides';
+---
+
+<Layout
+	title={GUIDE_HUB.title}
+	description={GUIDE_HUB.description}
+	pubDate={new Date('2026-11-22')}
+>
+	<div class="guide-article">
+		<div class="guide-lead">
+			<p>
+				一冊の漫画や一本のアニメ映像作品とじっくり向き合うとき、作品そのものの物語だけでなく、<strong>「どの版型（単行本・文庫・完全版）で読むか」「紙の本と電子書籍をどう使い分けるか」「どの視点で新しい世界観と出会うか」</strong>を知っておくと、読書と収集の体験がぐっと深まります。この基礎知識ハブでは、30年以上にわたり名作を追い続けてきた管理人の視点と、出版・映像ソフトの公式仕様をもとに4つのテーマを整理しました。
+			</p>
+		</div>
+
+		<nav class="guide-toc" aria-label="このページの内容">
+			<p class="guide-toc-title">📑 このガイドの歩き方</p>
+			<ol>
+				<li><a href="#themes">4つの漫画・アニメ基礎知識テーマ</a></li>
+				<li><a href="#roadmap">目的別・最初に読むおすすめの順番</a></li>
+				<li><a href="#philosophy">管理人の本棚哲学（単行本と発想力へのこだわり）</a></li>
+				<li><a href="#policy">情報整理スタンスと検証基準</a></li>
+			</ol>
+		</nav>
+
+		<h2 id="themes">1. 4つの漫画・アニメ基礎知識テーマ</h2>
+		<p>
+			「手元に置くなら通常単行本か完全版か」「電子で出会ったお気に入りを紙で揃えるべきか」「SFやファンタジーで外さない選び方はないか」「4Kリマスターやフィギュアの仕様はどこを見ればよいか」──記事を読む前後に迷いやすいポイントを、4つの基礎知識ページにまとめました。
+		</p>
+
+		<div class="guide-hub-grid">
+			{GUIDE_PAGES.map((guide) => (
+				<a href={guide.href} class="guide-hub-card">
+					<div class="guide-hub-card-top">
+						<span class="guide-hub-icon">{guide.icon}</span>
+						<span class="guide-hub-badge">{guide.badge}・約{guide.readingMinutes}分</span>
+					</div>
+					<h3>{guide.title}</h3>
+					<p>{guide.summary}</p>
+					<div class="guide-hub-card-footer">
+						<span>基礎知識を読む</span>
+						<span>→</span>
+					</div>
+				</a>
+			))}
+		</div>
+
+		<h2 id="roadmap">2. 目的別・最初に読むおすすめの順番</h2>
+		<div class="guide-table-wrap">
+			<table class="guide-table">
+				<thead>
+					<tr>
+						<th>いま調べたいこと・迷っていること</th>
+						<th>1ページ目</th>
+						<th>2ページ目</th>
+						<th>得られる判断基準</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td><strong>同じ名作で通常版・完全版・文庫どれを買うか迷う</strong></td>
+						<td><a href="/guide/editions/">漫画の版型比較</a></td>
+						<td><a href="/guide/paper-vs-digital/#storage">単行本の保管術</a></td>
+						<td>原画の迫力・価格・本棚の奥行きに合う最適な版型を判断できる</td>
+					</tr>
+					<tr>
+						<td><strong>紙と電子書籍をどう使い分けるか整理したい</strong></td>
+						<td><a href="/guide/paper-vs-digital/">紙と電子書籍の使い分け</a></td>
+						<td><a href="/guide/editions/#select-by-shelf">目的別の版型選び</a></td>
+						<td>新規開拓は電子、何度でも読み返したい生涯の名作は単行本という軸が作れる</td>
+					</tr>
+					<tr>
+						<td><strong>世界観に圧倒される名作SF・ファンタジーを探したい</strong></td>
+						<td><a href="/guide/reading-guide/">名作漫画の探し方</a></td>
+						<td><a href="/guide/paper-vs-digital/#sets">全巻セットの選び方</a></td>
+						<td>発想力・設定の独創性・短編の切れ味から失敗しない1作を選べる</td>
+					</tr>
+					<tr>
+						<td><strong>アニメBlu-ray・4K UHDやフィギュアの仕様を知りたい</strong></td>
+						<td><a href="/guide/anime-figures/">アニメ4K・BDとフィギュア</a></td>
+						<td><a href="/guide/editions/#artbooks">画集・設定資料集の見方</a></td>
+						<td>4Kリマスターや再生環境の注意点、立体物のサイズ感を事前に確認できる</td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+
+		<h2 id="philosophy">3. 管理人の本棚哲学（単行本と発想力へのこだわり）</h2>
+		<div class="guide-callout guide-callout-tip">
+			<p class="guide-callout-title">🌙 「夜更かしの名作棚」が大切にしている2つの基準</p>
+			<p>
+				30年以上の読書遍歴の中で守り続けているのが、<strong>「何度でも読み返したい生涯の一作は紙の単行本で揃える」</strong>という蔵書スタイルと、<strong>「どうやってこの世界観を思いついたのか」と唸るSF・ファンタジーの発想力</strong>へのこだわりです（原点である『ドラえもん』『ドラゴンボール』や藤崎竜短編集の視点を含め、具体的な実践法は各テーマ内で詳しく掘り下げています）。
+			</p>
+		</div>
+
+		<h2 id="policy">4. 情報整理スタンスと検証基準</h2>
+		<div class="guide-callout guide-callout-warn">
+			<p class="guide-callout-title">📋 公式仕様の参照とレビュー記述ルール</p>
+			<p>
+				版型サイズ・収録内容・音声トラック・映像フォーマット・フィギュア全高などの仕様情報は、出版社および映像・ホビーメーカーの公開データをもとに正確に整理しています。未所有の作品や書籍・フィギュアについて「自宅の棚に並べて実測した」といった事実と異なる体験談を創作することはありません。
+			</p>
+			<p>
+				個別作品の見どころやレビュー記事一覧とあわせて、選書・購入前の客観的な参考情報としてご活用ください（サイト全体の編集方針は <a href="/about/">運営者情報・プロフィール</a> をご覧ください）。
+			</p>
+		</div>
+	</div>
+</Layout>

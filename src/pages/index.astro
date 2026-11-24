@@ -5,6 +5,7 @@ import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import FormattedDate from '../components/FormattedDate.astro';
 import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+import { GUIDE_PAGES } from '../data/guides';
 
 const posts = (await getCollection('blog')).sort(
 	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
@@ -95,6 +96,70 @@ function getArticleTypeBadge(post: { id: string; data: { title: string } }) {
 				max-width: 600px;
 				margin: 0 auto;
 				line-height: 1.7;
+			}
+
+			/* 基礎知識ガイドショートカット帯 */
+			.guide-banner-strip {
+				background: #ffffff;
+				border: 1px solid #d8b4fe;
+				border-left: 5px solid #6d28d9;
+				border-radius: 12px;
+				padding: 1.1rem 1.35rem;
+				margin-bottom: 2.25rem;
+				box-shadow: 0 4px 12px rgba(109, 40, 217, 0.06);
+			}
+			.guide-banner-head {
+				display: flex;
+				flex-wrap: wrap;
+				align-items: center;
+				justify-content: space-between;
+				gap: 0.75rem;
+				margin-bottom: 0.85rem;
+			}
+			.guide-banner-title {
+				font-size: 1rem;
+				font-weight: 800;
+				color: #0f172a;
+				margin: 0;
+				background: none;
+				border-left: none;
+				padding: 0;
+				text-transform: none;
+			}
+			.guide-banner-all {
+				font-size: 0.85rem;
+				font-weight: 700;
+				color: #6d28d9;
+				text-decoration: none;
+				white-space: nowrap;
+			}
+			.guide-banner-all:hover {
+				text-decoration: underline;
+				color: #4c1d95;
+			}
+			.guide-banner-chips {
+				display: flex;
+				flex-wrap: wrap;
+				gap: 0.55rem;
+			}
+			.guide-chip {
+				display: inline-flex;
+				align-items: center;
+				gap: 0.35rem;
+				background: #faf5ff;
+				border: 1px solid #d8b4fe;
+				color: #4c1d95;
+				font-size: 0.84rem;
+				font-weight: 700;
+				padding: 0.38rem 0.85rem;
+				border-radius: 9999px;
+				text-decoration: none;
+				transition: background 0.15s ease, transform 0.15s ease;
+			}
+			.guide-chip:hover {
+				background: #f3e8ff;
+				transform: translateY(-1px);
+				text-decoration: none;
 			}
 
 			/* 検索 & フィルターバー */
@@ -565,6 +630,22 @@ function getArticleTypeBadge(post: { id: string; data: { title: string } }) {
 			<section class="portal-hero">
 				<h1>夜更かしの名作棚</h1>
 				<p>静かな夜に没頭したい、心揺さぶる名作マンガ・アニメ・ホビーの世界へ。珠玉のレビューとおすすめ作品をお届けします。</p>
+			</section>
+
+			<!-- 漫画・アニメの基礎知識ガイド -->
+			<section class="guide-banner-strip" aria-label="漫画・アニメの基礎知識ガイド">
+				<div class="guide-banner-head">
+					<h2 class="guide-banner-title">📚 作品・版型・ソフト選びの前に押さえたい基礎知識ガイド</h2>
+					<a href="/guide/" class="guide-banner-all">基礎知識一覧を見る →</a>
+				</div>
+				<div class="guide-banner-chips">
+					{GUIDE_PAGES.map((g) => (
+						<a href={g.href} class="guide-chip">
+							<span>{g.icon}</span>
+							<span>{g.shortTitle}</span>
+						</a>
+					))}
+				</div>
 			</section>
 
 			<!-- 検索 & ジャンルフィルター -->
