@@ -39,10 +39,10 @@ KADOKAWA あずまんが大王は、連載当時のカラーイラストや単�
 
 <div class="live-price-box" data-product-key="あずまんが大王イラスト集-10周年記念版の色彩" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
-<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">価格・在庫を確認</span>
+<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">販売価格・在庫</span>
+<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">最新価格は各ショップで確認</span>
 </div>
-<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
+<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※最新の価格・在庫・ポイント還元率は各ストアの商品ページでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
 <a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2581%2582%25E3%2581%259A%25E3%2581%25BE%25E3%2582%2593%25E3%2581%258C%25E5%25A4%25A7%25E7%258E%258B%25E3%2582%25A4%25E3%2583%25A9%25E3%2582%25B9%25E3%2583%2588%25E9%259B%2586%252010%25E5%2591%25A8%25E5%25B9%25B4%25E8%25A8%2598%25E5%25BF%25B5%25E7%2589%2588%25E3%2581%25AE%25E8%2589%25B2%25E5%25BD%25A9" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（Kindle・紙版）</a>
@@ -84,7 +84,7 @@ KADOKAWA あずまんが大王は、連載当時のカラーイラストや単�
 
 このイラスト集は、決して万人受けするものではない。まず、<strong>『あずまんが大王』本編を全く知らない人</strong>が手にとっても、キャラクターの背景や関係性が不明なため、魅力を十分に感じにくいだろう。あくまでファン、または原作を読んだことがある人向けに作られた内容だ。
 
-また、単行本ソフトカバーで全<strong>128ページ</strong>、価格<strong>2,640円</strong>という手頃な仕様のため、豪華な装丁や高精細な大型版画集を期待すると、物足りなさを感じるかもしれない。このイラスト集は、あくまで<strong>「連載10周年記念」という位置づけ</strong>であり、網羅性よりも<strong>「記念」としての価値</strong>に重きを置いている。
+また、単行本ソフトカバーで全<strong>128ページ</strong>というコンパクトな仕様のため、豪華な装丁や高精細な大型版画集を期待すると、物足りなさを感じるかもしれない。このイラスト集は、あくまで<strong>「連載10周年記念」という位置づけ</strong>であり、網羅性よりも<strong>「記念」としての価値</strong>に重きを置いている。
 
 デジタルイラスト全盛の現代において、<strong>あずまきよひこ氏の少しアナログ感のある、独特のタッチや色使い</strong>が好みではない人にとっても、手に取るメリットは薄いかもしれない。
 
@@ -114,7 +114,7 @@ KADOKAWA あずまんが大王は、連載当時のカラーイラストや単�
 特に「どのような楽しみ方ができるか」と「ファンとしてのコレクション価値」を見てほしい。
 | 項目 | KADOKAWA あずまんが大王 イラスト集 | ファンとしての楽しみ方 |
 | :--- | :--- | :--- |
-| <strong>価格</strong> | <strong>2,640円</strong> | 1ページあたり約20.6円で、作者の画業を凝縮した価値を考えると<strong>納得感が高い</strong>。 |
+| <strong>価格</strong> | 最新価格は各ショップで確認 | 最新価格は各ショップで確認 |
 | <strong>ページ数</strong> | <strong>128ページ</strong> | 物語性より、<strong>一枚絵の深さ</strong>を追求。1ページあたりの情報量は多い。 |
 | <strong>収録内容</strong> | カラーイラスト、未収録イラスト、企画イラスト | 過去の連載を懐かしむだけでなく、<strong>新たな発見</strong>がある。 |
 | <strong>コレクション価値</strong> | 連載10周年記念の<strong>初の公式イラスト集</strong>。 | 記念碑的価値が高く、ファンなら<strong>手元に置いておきたい</strong>逸品。 |
@@ -125,7 +125,7 @@ KADOKAWA あずまんが大王は、連載当時のカラーイラストや単�
 
 まさに<strong>作品世界への入り口であり、深い愛着へと誘う鍵</strong>となるはずだ。
 
-<p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>あわせて読みたい関連解説</strong>：<a href="/blog/panpanya-kani-sasowarete-review/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">panpanya『蟹に誘われて』レビュー：日常に潜む奇妙な傑作を深掘り</a> ／ <a href="/blog/yotsubato-azumakiyohiko-deep-dive/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">『よつばと』が描く日常の奇跡：あずまきよひこの描線と構図に迫る</a></p>
+<p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>あわせて読みたい関連解説</strong>：<a href="/blog/panpanya-kani-sasowarete-review/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">panpanya『蟹に誘われて』レビュー：日常に潜む奇妙な傑作を深掘り</a> ／ <a href="/blog/yotsubato-azumakiyohiko-deep-dive/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">『よつばと！』が描く日常の奇跡：あずまきよひこの描線と構図に迫る</a></p>
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
 <div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>あずまんが大王イラスト集 10周年記念版の色彩</strong></div>
@@ -149,7 +149,7 @@ A3: 本書は『あずまんが大王』の<strong>連載10周年を記念して
 
 | 項目 | 詳細 |
 | :--- | :--- |
-| 価格 | 2,640円 |
+| 価格 | 最新価格は各ショップで確認 |
 | メーカー | KADOKAWA / メディアファクトリー |
 | 型番/仕様 | 単行本ソフトカバー、128ページ、ISBN:978-4048679632 |
 | 主な特徴 | 『あずまんが大王』連載10周年記念。カラーイラスト、未収録イラスト、企画イラストを多数収録。あずまきよひこ氏の代表的な画業をまとめた貴重なイラスト集。 |

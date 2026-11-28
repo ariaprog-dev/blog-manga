@@ -13,12 +13,11 @@ faq:
   - question: '4K対応テレビがないと楽しめませんか？'
     answer: '最適な映像体験を得るには4K対応テレビと4K Ultra HD Blu-rayプレーヤーが必須です。しかし、一般的なBlu-rayプレーヤーでも再生は可能で、その場合は従来のBlu-rayと同等の画質になります。 将来的に4K環境を導入する予定があるなら、先にディスクを購入しておくのも良いでしょう。'
   - question: '特典映像や音声コメンタリーは収録されていますか？'
-    answer: 'はい、本商品には巻末の特典イラストや作者コメントや劇場予告編などの特典映像も収録されています。作品の裏側を知ることで、さらに深く『王立宇宙軍 オネアミスの翼』の世界観を楽しむことができます。 詳細は[王立宇宙軍 オネアミスの翼](https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn609bcqa16%2F&af_id=DMMaria-999&ch=api)の商品ページで確認してください。'
+    answer: 'はい、本商品には巻末の特典イラストや作者コメントや劇場予告編などの特典映像も収録されています。作品の裏側を知ることで、さらに深く『王立宇宙軍 オネアミスの翼』の世界観を楽しむことができます。 詳細は各販売ショップの商品ページで確認してください。'
 sidebarProducts:
   - title: '王立宇宙軍 オネアミスの翼 4Kリマスターメモリアルボックス（4K ULTRA HD＋2ブルーレイ）'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_609bcqa16%2F&af_id=DMMaria-999&ch=api'
     imageUrl: 'https://pics.dmm.com/mono/movie/animation/n_609bcqa16/n_609bcqa16pl.jpg'
-    price: 11968
     microCopy: '詳細を見る'
 ---
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
@@ -38,10 +37,10 @@ sidebarProducts:
 
 <div class="live-price-box" data-product-key="王立宇宙軍-オネアミスの翼-4k-blu-ray" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
-<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">参考価格: ¥11,968</span>
+<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">販売価格・在庫</span>
+<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">最新価格は各ショップで確認</span>
 </div>
-<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
+<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※最新の価格・在庫・ポイント還元率は各ストアの商品ページでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
 <a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E7%258E%258B%25E7%25AB%258B%25E5%25AE%2587%25E5%25AE%2599%25E8%25BB%258D%2520%25E3%2582%25AA%25E3%2583%258D%25E3%2582%25A2%25E3%2583%259F%25E3%2582%25B9%25E3%2581%25AE%25E7%25BF%25BC%25204K%2520Blu-ray" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（Kindle・紙版）</a>
@@ -62,7 +61,7 @@ sidebarProducts:
 
 これは、フィルムが持つ本来の色情報や光の階調を余すところなく再現しようとする、制作陣のリスペクトの表れだ。例えば、ロケット発射基地の無機質なコンクリートの質感、シロツグが暮らす街の薄暗い路地裏、そして夜空に浮かぶ星々の煌めきまで、監督が意図したであろう描写がより鮮明に伝わる。
 
-初めて再生した際、画面越しに「この作品はこんなにも情報が詰まっていたのか」と驚きがもたらされた。アニメーターたちの手書きによる筆致やセル画の微細な凹凸さえも感じられるような解像度は、単なる映像技術の進化を超え、作品の「設計思想」そのものに迫る体験を与えてくれる。
+実際に4K環境で鑑賞すれば、画面越しに「この作品にはこんなにも緻密な情報が描き込まれていたのか」と驚かされるほどの精細さが伝わってくる。アニメーターたちの手描きによる筆致やセル画の微細なニュアンスまで感じられる解像度は、単なる映像技術の進化を超え、作品の「設計思想」そのものに迫る体験を与えてくれる。
 
 ## 人間の葛藤と希望を描く、不朽のストーリー
 『王立宇宙軍 オネアミスの翼』は、若き日のガイナックスが世に送り出した記念碑的作品だ。舞台は、未だロケット開発が成功していない架空の王国オネアミス。主人公シロツグは、軍の宇宙軍に所属するものの、劣等感と無気力さを抱える日々を送っている。しかし、宗教家リイクニとの出会いをきっかけに、彼は自らの存在意義、そして人類が宇宙へ向かう意味を問い直していく。
@@ -74,9 +73,9 @@ sidebarProducts:
 この4Kリマスター版でそのシーンを観ると、まるで当時の劇場にいるかのような臨場感で、その迫力に息をのむことになる。
 
 ## 投資に見合うか？ 4K環境と価格への割り切り
-この王立宇宙軍 オネアミスの翼の購入を検討する際、まず向き合うべきは価格と再生環境の問題だろう。価格は11,968円と、一般的なアニメBlu-rayと比較すると決して安価ではない。さらに、この4K Ultra HD Blu-rayの真価を体験するには、4K対応のテレビと4K Ultra HD Blu-rayプレーヤーが必須となる。
+この王立宇宙軍 オネアミスの翼の購入を検討する際、まず向き合うべきは価格帯と再生環境の問題だろう。4K ULTRA HD＋Blu-rayの豪華メモリアルボックス仕様であるため、一般的な単品ソフトに比べると高価格帯に入るうえ、4K Ultra HD Blu-rayの真価を体験するには4K・HDR対応テレビおよび対応プレーヤーが必須となる。
 
-初めて再生しようとした際、自宅のテレビは4K対応だったものの、HDMIケーブルが旧規格のままだったため、HDRが正しく表示されず色合いが不自然に見えるという問題が発生した。結局、後日Ultra High Speed HDMIケーブルを買い直し、テレビのHDR設定もマニュアルで最適化する手間が必要だった。
+なお、4K対応ディスプレイを使用していても、HDMIケーブルが旧規格のままだったり、テレビ側のHDR設定や高速信号モード（Ultra HD Deep Color等）が有効になっていない場合は、HDR特有の階調や色域が正しく表示されないことがある。事前にUltra High Speed等の規格適合ケーブルや機器設定を点検しておくと、リマスター本来の映像性能を引き出しやすい。
 
 このように、再生環境が完璧に整っていないと、この4K版が持つ本来のポテンシャルを最大限に引き出すのは難しい。しかし、一度環境が整ってしまえば、その映像体験はこれまでのどのバージョンをも凌駕する。
 
@@ -99,10 +98,10 @@ sidebarProducts:
 | :--- | :--- | :--- |
 | 対象作品・掲載商品 | 王立宇宙軍 オネアミスの翼 4Kリマスターメモリアルボックス（4K ULTRA HD＋2ブルーレイ） | 記事内の主要紹介アイテム |
 | 媒体区分・想定仕様 | 映像ソフト・配信（Blu-ray／DVD／配信） | 視聴・閲覧環境（端末・プレイヤー・収納棚）との適合を確認 |
-| 価格・流通目安 | 11,968円（参考価格） | 在庫状況・送料・クーポン適用有無を含めて比較 |
+| 価格・流通目安 | 最新価格は各ショップで確認 | 在庫状況・送料・クーポン適用有無を含めて比較 |
 | 複数ストア比較の視点 | Amazon／楽天市場／Yahoo!／DMM等 | ポイント還元率・限定特典の有無・中古流通状態を照合 |
 
-<p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>あわせて読みたい関連解説</strong>：<a href="/blog/beatless-original-soundtrack/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">TVアニメ「BEATLESS」サントラの圧倒的没入感！近未来SFの世界を彩る名曲を徹底レビュー</a> ／ <a href="/blog/metropolis-4k-bluray-review/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">メトロポリス4K UHD：SFアニメの金字塔を今、再体験する価値</a></p>
+<p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>あわせて読みたい関連解説</strong>：<a href="/blog/beatless-original-soundtrack/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">TVアニメ「BEATLESS」サントラの圧倒的没入感！近未来SFの世界を彩る名曲を徹底レビュー</a> ／ <a href="/blog/metropolis-4k-bluray-review/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">『メトロポリス』Blu-ray（BCXA-0093）：手塚×りんたろう×大友SFアニメの金字塔を再体験する価値</a></p>
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
 <div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>王立宇宙軍 オネアミスの翼 4K Blu-ray</strong></div>

@@ -16,31 +16,28 @@ faq:
   - question: 'ホラー要素は強いのか？'
     answer: '飛び跳ねるような直接的なホラー描写は少ないですが、静かで心理的な不気味さが全編を覆っています。得体の知れない存在への畏れや、じわじわと精神を蝕むような恐怖が特徴です。 心臓に悪いタイプのホラーが苦手な方でも、独特の雰囲気を味わえるかもしれません。'
   - question: 'Blu-ray版と比べて画質や音質はどう違うのか？'
-    answer: '本商品はDVD版のため、画質は標準解像度（SD画質）、音質はステレオまたはドルビーデジタルが主です。Blu-ray版が存在する場合、一般的にフルHDの高画質と非圧縮の高音質（リニアPCMなど）で提供されます。 より高精細な映像と臨場感のある音響を求めるならBlu-rayが有利ですが、DVD版でも監督が意図した作品のトーンや世界観は十分に体感できます。 | 項目 | 詳細 | | :― | :― | | 価格 | 1,222円 | | サービス | 通販 | | フロア | DVD・Blu-ray | | ishobby | True | | 著者/作者 | 諸星大二郎 | | メーカー/出版社 | NBCユニバーサル・エンターテイメントジャパン |'
+    answer: '本商品はDVD版のため、画質は標準解像度（SD画質）、音質はステレオまたはドルビーデジタルが主です。Blu-ray版が存在する場合、一般的にフルHDの高画質と非圧縮の高音質（リニアPCMなど）で提供されます。 より高精細な映像と臨場感のある音響を求めるならBlu-rayが有利ですが、DVD版でも監督が意図した作品のトーンや世界観は十分に体感できます。'
 sidebarProducts:
   - title: '奇談'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_605gnbd5017%2F&af_id=DMMaria-999&ch=api'
     imageUrl: 'https://pics.dmm.com/mono/movie/japanese/n_605gnbd5017/n_605gnbd5017pl.jpg'
-    price: 1222
     microCopy: '詳細を見る'
   - title: '奇談 プレミアム・エディション'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_605gnbd1144%2F&af_id=DMMaria-999&ch=api'
     imageUrl: 'https://pics.dmm.com/mono/movie/japanese/n_605gnbd1144/n_605gnbd1144pl.jpg'
-    price: 4808
     microCopy: '詳細を見る'
-  - title: '奇談 DVD 通常版'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E5%A5%87%E8%AB%87%20%E8%AB%B8%E6%98%9F%E5%A4%A7%E4%BA%8C%E9%83%8E%20DVD%2F'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/bookoffonline/cabinet/823/0017148840l.jpg?_ex=600x600'
-    price: 1222
-    microCopy: '詳細を見る'
+  - title: '妖怪ハンター（原作コミックス）'
+    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F696887%2Fb950oshes00025%2F&af_id=DMMaria-999&ch=api'
+    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b950oshes00025/b950oshes00025pl.jpg'
+    microCopy: '原作を見る'
 ---
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
-諸星大二郎作品の映像化は、原作ファンにとって常に期待と不安が入り混じるものだ。しかし、この<strong>映画「奇談」</strong>のDVDは、その独特の世界観を見事にフィルムに焼き付けた傑作だと断言したい。
+諸星大二郎作品の映像化は、原作ファンにとって常に期待と不安が入り混じるものだ。しかし、この<strong>映画「奇談」</strong>のDVDは、その独特の世界観を見事にフィルムに焼き付けた秀作と言える。
 
 単なるミステリーに留まらない、土着信仰と神話的な深遠さを求める視聴者にこそ手に取ってほしい一枚だ。
 
-子供の頃に神隠しにあった女子大学院生、牧村茜が失われた記憶を追い、“隠れキリシタンの里”を訪れる物語は、<strong>人間の根源的な畏れと探求心</strong>を刺激する。約18年前に発売されたこのDVDは、今なお色褪せることなく、観る者を異界へと誘う力を持っている。
+子供の頃に神隠しにあった女子大学院生、牧村茜が失われた記憶を追い、“隠れキリシタンの里”を訪れる物語は、<strong>人間の根源的な畏れと探求心</strong>を刺激する。2006年5月にDVD化されて以降も色褪せることなく、観る者を異界へと誘う力を持っている。
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -53,10 +50,10 @@ sidebarProducts:
 
 <div class="live-price-box" data-product-key="奇談-dvd" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
-<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">参考価格: ¥1,222</span>
+<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">販売価格・在庫</span>
+<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">最新価格は各ショップで確認</span>
 </div>
-<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
+<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※最新の価格・在庫・ポイント還元率は各ストアの商品ページでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
 <a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%25A5%2587%25E8%25AB%2587%2520DVD" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（Kindle・紙版）</a>
@@ -74,15 +71,15 @@ sidebarProducts:
 
 ## 深淵を覗く覚悟はあるか？ 映画「奇談」が提示する異界への扉
 
-諸星大二郎の作品は、その深遠な世界観と独特の筆致で多くの読者を魅了してきた。彼の<strong>「奇談」が映画化される</strong>と聞いた際、映像で「諸星ワールド」をどこまで表現できるか、懸念があった。しかし、このDVDを初めて再生し、その不安は杞憂に終わった。
+諸星大二郎の作品は、その深遠な世界観と独特の筆致で多くの読者を魅了してきた。実写映画化にあたって映像で「諸星ワールド」をどこまで表現できるかという点は注目ポイントだが、小松隆志監督は原作の核となる不穏な空気感を高い完成度で実写へ落とし込んでいる。
 
-小松隆志監督は、原作の持つ静謐ながらも不気味な空気感を、徹底した<strong>美術とロケーション、そして音響設計</strong>で再現している。特に印象的なのは、主人公・牧村茜を演じる藤澤恵麻の表情だ。彼女が記憶の断片と向き合うたびに揺れ動く感情が、観る者に強い共感を呼ぶ。
+徹底した<strong>美術とロケーション、そして音響設計</strong>が印象的だ。特に印象的なのは、主人公・牧村茜を演じる藤澤恵麻の表情だ。彼女が記憶の断片と向き合うたびに揺れ動く感情が、観る者に強い共感を呼ぶ。
 
 阿部寛演じる古文書研究家・佐伯も、諸星作品に登場する<strong>知的な狂気を秘めた人物像</strong>と重なり、物語に奥行きを与えている。映画という時間芸術の中で、原作の持つ哲学的な問いかけを丁寧に、しかし大胆に描き出している点は、映像作品としての確かなクオリティを感じさせる。
 
 ## 諸星ワールドを映像で解体：美術と音響が織りなす「隠れ里」の息づかい
 
-映画「奇談」の真骨頂は、その映像表現と演出の奥深さにある。特に、物語の舞台となる<strong>「隠れキリシタンの里」の美術設定</strong>は圧巻だった。朽ちかけた木造建築、苔むした石段、深い森に囲まれた集落の風景は、まるで時間の流れから取り残されたかのような、独特のリアリティを醸し出す。
+映画「奇談」の真骨頂は、その映像表現と演出の奥深さにある。特に、物語の舞台となる<strong>「隠れキリシタンの里」の美術設定</strong>は圧巻だ。朽ちかけた木造建築、苔むした石段、深い森に囲まれた集落の風景は、まるで時間の流れから取り残されたかのような、独特のリアリティを醸し出す。
 
 監督は、単なる地方の風景を撮るだけでなく、画面の隅々にまで<strong>土着信仰や異界への入り口</strong>を示唆するような意匠を凝らしている。例えば、古い民家の壁にかけられた魔除けの飾りや、薄暗い祠の内部にぼんやりと浮かび上がる十字架の影など、細部へのこだわりが、観る者の想像力を刺激するのだ。
 
@@ -108,7 +105,7 @@ sidebarProducts:
 
 ## 夜長の予習は必須：この「奇談」が選ぶ視聴者層と心構え
 
-この映画「奇談」は、万人受けするタイプの作品ではない。そのため、購入前にいくつかの注意点と、<strong>向いていない視聴者層</strong>について説明しておきたい。まず、価格は<strong>1,222円</strong>と手の届きやすい設定だが、それが作品の深遠さを保証するものではない。
+この映画「奇談」は、万人受けするタイプの作品ではない。そのため、購入前にいくつかの注意点と、<strong>向いていない視聴者層</strong>について説明しておきたい。手に取りやすいDVDソフトではあるものの、作品の味わい方には好みが分かれる特性がある。
 
 本作は、ハリウッド映画のようなスピーディーな展開や、明確な犯人探しを期待するミステリーファンには、少々物足りなく感じるかもしれない。序盤の物語の進行は<strong>意図的にゆったりと</strong>しており、伏線が張り巡らされながらも、一見すると「何も起こらない」と感じる瞬間がある。
 
@@ -147,7 +144,7 @@ DVD版「奇談」の画質・音質、そして特典内容について、他�
 
 | メディア | 画質 | 音質 | 特典映像 | 入手性/価格 |
 | :------- | :--- | :--- | :------- | :---------- |
-| <strong>DVD (本商品)</strong> | 標準 | ステレオ/ドルビーデジタル | 比較的少なめ | 高/安価 (1,222円) |
+| <strong>DVD (本商品)</strong> | 標準 | ステレオ/ドルビーデジタル | 比較的少なめ | 最新価格は各ショップで確認 |
 | Blu-ray | 高精細（フルHD） | 高音質（リニアPCM/DTS-HD） | 充実 | 中/やや高価 |
 | 配信サービス | プラン・回線依存 | プラン・回線依存 | なしが多い | 高/月額制 |
 
@@ -157,17 +154,17 @@ DVD版「奇談」の画質・音質、そして特典内容について、他�
 
 特典映像については、現在のDVDは比較的少なめな傾向がある。しかし、過去のインタビューやメイキングが収録されていれば、作品の制作背景を知る貴重な資料となる。<strong>コレクションとしての所有価値</strong>を考慮するなら、このDVDは十分な選択肢だ。
 
-## 18年の時を超えて：諸星ファンがDVDを手にすべき理由
+## 時を超えても色褪せない：諸星ファンがDVDを手にすべき理由
 
-諸星大二郎の「奇談」DVDは、単なる映像作品のパッケージではない。それは、<strong>奇妙な郷愁と根源的な畏れ</strong>を呼び起こす、唯一無二の世界観への入り口だ。2006/05/25に発売されてから約18年が経った今でも、その魅力は色褪せることがない。
+諸星大二郎の「奇談」DVDは、単なる映像作品のパッケージではない。それは、<strong>奇妙な郷愁と根源的な畏れ</strong>を呼び起こす、唯一無二の世界観への入り口だ。2006年5月25日のリリースから歳月を経た今でも、その独特の魅力は色褪せることがない。
 
 このDVDは、<strong>諸星作品の世界観をいつでも再体験することを可能にする</strong>。複雑に絡み合う記憶と現実、土着信仰と異界の狭間を、繰り返し観ることで新たな発見があるはずだ。
 
-価格も<strong>1,222円</strong>と手頃で、諸星作品を深く掘り下げたいファンにとって、まさに<strong>手の届くコレクション</strong>となる。
+コンパクトに保管できるDVDソフトという形式もあり、諸星作品を深く掘り下げたいファンにとって、<strong>コレクションに加えやすい一本</strong>となる（最新価格は各ショップで確認）。
 
 映画「奇談」は、鑑賞後に静かに思考を促すタイプの作品だ。映像美と音響、そして俳優陣の演技が一体となって、原作の奥深いテーマを再構築している。<strong>現代の喧騒から離れ、異界の扉を叩く覚悟がある</strong>ならば、このDVDはあなたのコレクションに加えるべき一本だ。
 
-<p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>あわせて読みたい関連解説</strong>：<a href="/blog/munto-tokinokabe-dvd-review/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">MUNTO 時の壁をこえて DVDレビュー：京アニの傑作、その集大成を深く味わう</a> ／ <a href="/blog/your-lie-in-april-blu-ray-box/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">四月は君の嘘 BD BOXは買い？音響と映像美で名作の感動は蘇るか検証</a></p>
+<p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>あわせて読みたい関連解説</strong>：<a href="/blog/munto-tokinokabe-dvd-review/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">MUNTO 時の壁をこえて DVDレビュー：京アニ原点OVA続編の魅力と世界観を解説</a> ／ <a href="/blog/your-lie-in-april-blu-ray-box/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">四月は君の嘘 BD BOXは買い？音響と映像美で名作の感動は蘇るか検証</a></p>
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
 <div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>奇談 DVD</strong></div>
@@ -193,7 +190,7 @@ A3: 本商品はDVD版のため、画質は標準解像度（SD画質）、音�
 
 | 項目 | 詳細 |
 | :--- | :--- |
-| 価格 | 1,222円 |
+| 価格 | 最新価格は各ショップで確認 |
 | サービス | 通販 |
 | フロア | DVD・Blu-ray |
 | 著者/作者 | 諸星大二郎 |

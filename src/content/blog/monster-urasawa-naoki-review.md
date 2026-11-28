@@ -21,22 +21,19 @@ sidebarProducts:
   - title: 'MONSTER 完全版 デジタルVer. 別巻 なまえのないかいぶつ'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4157739%2Fb600bsgk02714%2F&af_id=DMMaria-999&ch=api'
     imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b600bsgk02714/b600bsgk02714pl.jpg'
-    price: 550
     microCopy: '詳細を見る'
-  - title: '完全版 MONSTER 9'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbkt07207164%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/bookoffonline/cabinet/1740/8800000017l.jpg?_ex=600x600'
-    price: 1571
+  - title: 'MONSTER 完全版 デジタルVer.（9）'
+    url: 'https://hb.afl.rakuten.co.jp/hgc/g00reb41.ve2q58c2.g00reb41.ve2q61ce/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutenkobo-ebooks%2Fca2eb6f649de3f4a8e33eb1978c2419b%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutenkobo-ebooks%2Fi%2F20879897%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3337/2000010853337.jpg?_ex=600x600'
     microCopy: '詳細を見る'
-  - title: '完全版 MONSTER 8'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbkt07205372%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/renet3/cabinet/04/00017/0010141430.jpg?_ex=600x600'
-    price: 1571
+  - title: 'MONSTER 完全版 デジタルVer.（8）'
+    url: 'https://hb.afl.rakuten.co.jp/hgc/g00reb41.ve2q58c2.g00reb41.ve2q61ce/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutenkobo-ebooks%2Fd02b6c84fdf23c2d968c973c6c15ccdb%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutenkobo-ebooks%2Fi%2F20879816%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3274/2000010853274.jpg?_ex=600x600'
     microCopy: '詳細を見る'
 heroImages:
   - 'https://ebook-assets.dmm.com/digital/e-book/b600bsgk02714/b600bsgk02714pl.jpg'
-  - 'https://thumbnail.image.rakuten.co.jp/@0_mall/bookoffonline/cabinet/1740/8800000017l.jpg?_ex=600x600'
-  - 'https://thumbnail.image.rakuten.co.jp/@0_mall/renet3/cabinet/04/00017/0010141430.jpg?_ex=600x600'
+  - 'https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3337/2000010853337.jpg?_ex=600x600'
+  - 'https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3274/2000010853274.jpg?_ex=600x600'
 ---
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
@@ -61,10 +58,10 @@ heroImages:
 
 <div class="live-price-box" data-product-key="monster" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
-<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">参考価格: ¥550</span>
+<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">販売価格・在庫</span>
+<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">最新価格は各ショップで確認</span>
 </div>
-<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
+<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※最新の価格・在庫・ポイント還元率は各ストアの商品ページでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
 <a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DMonster" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（Kindle・紙版）</a>
@@ -118,7 +115,7 @@ heroImages:
 | <strong>判型・サイズ</strong> | 画面サイズに依存（タブレット推奨） | <strong>A5判（大判ハードカバー調）</strong> | 新書判（B6通常サイズ） |
 | <strong>カラー原稿</strong> | <strong>当時の雑誌カラー完全再現</strong> | <strong>当時の雑誌カラー完全再現</strong> | モノクロ収録 |
 | <strong>収納スペース</strong> | <strong>0cm（端末内）</strong> | 約25cm（厚手の高級本） | 約25〜30cm |
-| <strong>全巻総額の目安</strong> | 約12,000円（セール時実質半額） | 定価: 約14,000円（1,571円/冊） | 古本相場: 約3,000〜5,000円 |
+| <strong>全巻総額の目安</strong> | 最新価格は各ショップで確認 | 最新価格は各ショップで確認 | 最新価格は各ショップで確認 |
 | <strong>別巻絵本</strong> | 『なまえのないかいぶつ』電子あり | 一部特装版に同梱 / 単体購入可 | 通常版にはなし |
 | <strong>こんな人におすすめ</strong> | 手軽に高画質で一気読みしたい人 | 本棚に重厚な名作として残したい人 | 中古でとにかく安く揃えたい人 |
 
@@ -150,7 +147,7 @@ heroImages:
 
 ---
 
-<p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>あわせて読みたい関連解説</strong>：<a href="/blog/ito-junji-collection-horror-analysis/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">伊藤潤二コレクションはホラー漫画の常識をどう覆したか？深淵なる恐怖の構造を読み解く</a> ／ <a href="/blog/kiseiju-sei-no-kakuritsu-manga/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">寄生獣 セイの格率：人間とは何か？ミギーが問いかける命の境界線</a></p>
+<p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>あわせて読みたい関連解説</strong>：<a href="/blog/ito-junji-collection-horror-analysis/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">伊藤潤二コレクションはホラー漫画の常識をどう覆したか？深淵なる恐怖の構造を読み解く</a> ／ <a href="/blog/kiseiju-sei-no-kakuritsu-manga/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">『寄生獣』原作漫画＆アニメ『セイの格率』徹底考察：ミギーが問いかける命の境界線</a></p>
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
 <div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>Monster</strong></div>

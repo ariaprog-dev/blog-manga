@@ -8,7 +8,6 @@ sidebarProducts:
   - title: '寄生獣'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F102811%2Fb900dkds01941%2F&af_id=DMMaria-999&ch=api'
     imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b900dkds01941/b900dkds01941pl.jpg'
-    price: 792
     microCopy: '詳細を見る'
 
 mediaType: comic
@@ -28,10 +27,10 @@ mediaType: comic
 
 <div class="live-price-box" data-product-key="寄生獣" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
-<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">参考価格: ¥792</span>
+<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">販売価格・在庫</span>
+<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">最新価格は各ショップで確認</span>
 </div>
-<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
+<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※最新の価格・在庫・ポイント還元率は各ストアの商品ページでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
 <a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%25AF%2584%25E7%2594%259F%25E7%258D%25A3" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（プライム対応）</a>
@@ -85,8 +84,8 @@ mediaType: comic
 
 | 媒体・鑑賞形態 | 主な特徴 | 参考価格・料金目安 |
 | :--- | :--- | :--- |
-| 原作コミック『寄生獣』（電子書籍・単行本） | 岩明均による緻密な間合い・心理描写を自分のペースで読み込める原作 | 1冊あたり参考価格 792円前後〜 |
-| アニメ『寄生獣 セイの格率』（DMMTV等の動画配信） | 現代的な演出・声優の演技・劇伴とアクションで全話をテンポよく視聴可能 | 配信サービス 参考550円前後〜 |
+| 原作コミック『寄生獣』（電子書籍・単行本） | 岩明均による緻密な間合い・心理描写を自分のペースで読み込める原作 | 最新価格は各ショップで確認 |
+| アニメ『寄生獣 セイの格率』（DMMTV等の動画配信） | 現代的な演出・声優の演技・劇伴とアクションで全話をテンポよく視聴可能 | 月額・都度課金プラン（最新料金は公式サイトで確認） |
 
 現代社会において、環境問題や異文化理解といったテーマが重要視される中で、この作品が提示する問いは、より重要性が増している。インターネットの普及により、多様な価値観に触れる機会が増加した。しかし同時に、排他的な思想や分断も深まっている。このような時代において、新一とミギーのように、異質な存在と向き合い、理解に努める姿勢の重要性を、この作品は示す。
 
@@ -116,7 +115,7 @@ mediaType: comic
 ### よくある質問（FAQ）：『寄生獣』
 
 <strong>Q1. 「寄生生物と共存する少年：日常が変容する恐怖」の視点から見て、初見の読者でも楽しめますか？</strong>
-A1. はい。『寄生獣』（参考価格：792円前後）は導入から世界観と人物描写が丁寧に描かれており、予備知識がなくても物語の核心に自然と引き込まれる構成になっています。
+A1. はい。『寄生獣』は導入から世界観と人物描写が丁寧に描かれており、予備知識がなくても物語の核心に自然と引き込まれる構成になっています。
 
 <strong>Q2. アニメ『寄生獣 セイの格率』と原作漫画『寄生獣』のどちらから触れるか迷う場合、選定の目安はありますか？</strong>
-A2. 現代的な演出・劇伴・声優の演技でテンポよく全話を視聴したい場合はアニメ版（DMM等で550円前後の視聴プランあり）、岩明均の原作ならではの緻密な心理描写や間合いを自分のペースで読み込みたい場合は原作コミック『寄生獣』（参考価格792円）と表現媒体の好みに合わせて選べます。
+A2. 現代的な演出・劇伴・声優の演技でテンポよく全話を視聴したい場合はアニメ版（各種動画配信サービスで視聴可能）、岩明均の原作ならではの緻密な心理描写や間合いを自分のペースで読み込みたい場合は原作コミック『寄生獣』と表現媒体の好みに合わせて選べます。

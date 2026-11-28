@@ -16,41 +16,36 @@ sidebarProducts:
 - title: SLAM DUNK 新装再編版 (全20巻セット)
   url: https://hb.afl.rakuten.co.jp/hgc/g00qci01.ve2q5c2d.g00qci01.ve2q6d84/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmangazenkan%2Fm9780491352%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmangazenkan%2Fi%2F10241277%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b
   imageUrl: https://thumbnail.image.rakuten.co.jp/@0_mall/mangazenkan/cabinet/syncip_0044/m9780491352_ra_s.jpg?_ex=600x600
-  price: 13255
   microCopy: 詳細を見る
-- title: BØY (文庫版 全巻セット)
-  url: https://hb.afl.rakuten.co.jp/hgc/g00rc681.ve2q5dc9.g00rc681.ve2q61dc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbookoffonline%2F0011388457%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbookoffonline%2Fi%2F11368173%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b
-  imageUrl: https://thumbnail.image.rakuten.co.jp/@0_mall/bookoffonline/cabinet/2064/0011388457l.jpg?_ex=600x600
-  price: 484
+- title: BOY 7 【電子書籍】
+  url: https://hb.afl.rakuten.co.jp/hgc/g00reb41.ve2q58c2.g00reb41.ve2q61ce/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutenkobo-ebooks%2F7de8272e6b3545bcba0d1ad57f8b7e7b%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutenkobo-ebooks%2Fi%2F11637766%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b
+  imageUrl: https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1925/2000000211925.jpg?_ex=600x600
   microCopy: 詳細を見る
 - title: みどりのマキバオー (文庫版 全巻セット)
   url: https://hb.afl.rakuten.co.jp/hgc/g00q0721.ve2q5176.g00q0721.ve2q6e77/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F1720309%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F11306954%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b
   imageUrl: https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2089/9784086182089_1_2.jpg?_ex=600x600
-  price: 935
   microCopy: 詳細を見る
 - title: るろうに剣心 (文庫版 全14巻セット)
   url: https://hb.afl.rakuten.co.jp/hgc/g00qci01.ve2q5c2d.g00qci01.ve2q6d84/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmangazenkan%2Fru-33%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmangazenkan%2Fi%2F10114773%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b
   imageUrl: https://thumbnail.image.rakuten.co.jp/@0_mall/mangazenkan/cabinet/comic3/01845475/img58785781.jpg?_ex=600x600
-  price: 10564
   microCopy: 詳細を見る
-- title: とっても!ラッキーマン (文庫版 全8巻セット)
-  url: https://hb.afl.rakuten.co.jp/hgc/g00tbz71.ve2q5935.g00tbz71.ve2q63d2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmottainaihonpo-omatome%2F4086188856%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmottainaihonpo-omatome%2Fi%2F10342732%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b
-  imageUrl: https://thumbnail.image.rakuten.co.jp/@0_mall/mottainaihonpo-omatome/cabinet/06794859/bko0fhvof1nlhlke.jpg?_ex=600x600
-  price: 1421
+- title: とっても！ラッキーマン 1 【電子書籍】
+  url: https://hb.afl.rakuten.co.jp/hgc/g00reb41.ve2q58c2.g00reb41.ve2q61ce/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutenkobo-ebooks%2Fa5c1b576c50d45efba0619694682a7f0%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutenkobo-ebooks%2Fi%2F16375568%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b
+  imageUrl: https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6724/2000000236724.jpg?_ex=600x600
   microCopy: 詳細を見る
 heroImages:
 - https://thumbnail.image.rakuten.co.jp/@0_mall/mangazenkan/cabinet/syncip_0044/m9780491352_ra_s.jpg?_ex=600x600
-- https://thumbnail.image.rakuten.co.jp/@0_mall/bookoffonline/cabinet/2064/0011388457l.jpg?_ex=600x600
+- https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1925/2000000211925.jpg?_ex=600x600
 - https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2089/9784086182089_1_2.jpg?_ex=600x600
 - https://thumbnail.image.rakuten.co.jp/@0_mall/mangazenkan/cabinet/comic3/01845475/img58785781.jpg?_ex=600x600
 ---
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
-1995年5月、週刊少年ジャンプはひとつの大きな節目を迎えた。絶対的な支柱だった『DRAGON BALL』が完結したのだ。多くの読者が「これからのジャンプはどうなる？」と不安を覚えたと言える。
+1995年5月、週刊少年ジャンプはひとつの大きな節目を迎えた。絶対的な支柱だった『DRAGON BALL』が完結したのだ。多くの読者が今後の連載陣の行方に不安を覚えた時期でもある。
 
-しかし、その不安を吹き飛ばすかのように、同年9月初頭のジャンプ誌面は驚くべき光景を見せてくれた。アンケート掲載順トップ5を、今も語り継がれる5つの名作が独占したんだ。
+しかし、その不安を吹き飛ばすかのように、同年9月初頭のジャンプ誌面は驚くべき光景を見せてくれた。アンケート掲載順トップ5を、今も語り継がれる5つの名作が独占したのだ。
 
-当時のジャンプは、その強靭なラインナップで黄金期の真髄を証明した。今回は、その伝説的な5作品を徹底的に振り返ってみる。
+当時のジャンプは、その強靭なラインナップで黄金期の真髄を証明した。今回は、その伝説的な5作品を振り返っていく。
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -63,10 +58,10 @@ heroImages:
 
 <div class="live-price-box" data-product-key="slam-dunk-新装再編版" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
-<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">参考価格: ¥13,255</span>
+<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">販売価格・在庫</span>
+<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">最新価格は各ショップで確認</span>
 </div>
-<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
+<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※最新の価格・在庫・ポイント還元率は各ストアの商品ページでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
 <a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DSLAM%2520DUNK%2520%25E6%2596%25B0%25E8%25A3%2585%25E5%2586%258D%25E7%25B7%25A8%25E7%2589%2588" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（Kindle・紙版）</a>
@@ -94,7 +89,7 @@ heroImages:
 
 当時のジャンプを語る上で、『SLAM DUNK』は外せない。1995年9月といえば、インターハイの山王工業戦直前だ。湘北高校が強豪・豊玉高校を下し、いよいよ最強の敵に挑む、物語の核心に迫る時期だった。
 
-井上雄彦先生の画力はすでに極限に達していたね。セリフが少ないコマ割りで、選手たちの息遣いや緊張感がひしひしと伝わってきた。ページをめくる手が止まらない、そんな体験を何度も味わった。
+井上雄彦先生の画力はすでに圧巻の完成度に達していた。セリフが少ないコマ割りで、選手たちの息遣いや緊張感がひしひしと伝わってくる表現力により、ページをめくる手が止まらなくなる迫力がある。
 
 キャラクターたちの心理描写も深く、まるで本当にその場にいるかのような没入感がある。単なるバスケ漫画ではなく、登場人物たちの青春そのものを描いていた。スポーツ漫画の歴史に燦然と輝く金字塔だ。
 
@@ -102,7 +97,7 @@ heroImages:
 
 『BØY -ボーイ-』も当時のジャンプを象徴する作品だ。主人公・日比野晴矢が「世界征服」を掲げ、一条誠とのコンビで痛快なケンカアクションを繰り広げる全盛期だった。
 
-梅澤春人先生が描く、フライパンやバットを背中から取り出すという奇想天外なバトルスタイルが最高にクールだったね。その一方で、ロックを愛し、仲間への仁義を重んじる熱い漢のドラマも魅力だった。
+梅澤春人先生が描く、フライパンやバットを背中から取り出すという奇想天外なバトルスタイルは痛快そのものだ。その一方で、ロックを愛し、仲間への仁義を重んじる熱い漢のドラマも魅力だった。
 
 晴矢たちの破天荒な行動と、その裏にあるピュアな友情は、読者の心を惹きつけた。バカだけどカッコいい、そんな漢のロマンがぎゅっと詰まった作品だ。
 
@@ -148,8 +143,8 @@ A3: 当時の週刊少年ジャンプ誌面そのものを入手するのは、�
 
 | 確認項目・ラインナップ | 仕様・価格目安 | 選定時の確認ポイント |
 | :--- | :--- | :--- |
-| SLAM DUNK 新装再編版 (全20巻セット) | 13,255円（参考価格） | 代表・注目掲載商品 |
-| BØY (文庫版 全巻セット) | 484円（参考価格） | 関連・別巻／周辺ラインナップ 2 |
-| みどりのマキバオー (文庫版 全巻セット) | 935円（参考価格） | 関連・別巻／周辺ラインナップ 3 |
-| るろうに剣心 (文庫版 全14巻セット) | 10,564円（参考価格） | 関連・別巻／周辺ラインナップ 4 |
-| とっても!ラッキーマン (文庫版 全8巻セット) | 1,421円（参考価格） | 関連・別巻／周辺ラインナップ 5 |
+| SLAM DUNK 新装再編版 (全20巻セット) | 最新価格は各ショップで確認 | 代表・注目掲載商品 |
+| BØY (文庫版 全巻セット) | 最新価格は各ショップで確認 | 関連・別巻／周辺ラインナップ 2 |
+| みどりのマキバオー (文庫版 全巻セット) | 最新価格は各ショップで確認 | 関連・別巻／周辺ラインナップ 3 |
+| るろうに剣心 (文庫版 全14巻セット) | 最新価格は各ショップで確認 | 関連・別巻／周辺ラインナップ 4 |
+| とっても!ラッキーマン (文庫版 全8巻セット) | 最新価格は各ショップで確認 | 関連・別巻／周辺ラインナップ 5 |

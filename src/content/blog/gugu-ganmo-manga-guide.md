@@ -18,7 +18,6 @@ sidebarProducts:
 - title: GU-GUガンモ
   url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F55135%2Fb600fsgk02808%2F&af_id=DMMaria-999&ch=api
   imageUrl: https://ebook-assets.dmm.com/digital/e-book/b600fsgk02808/b600fsgk02808pl.jpg
-  price: 440
   microCopy: 詳細を見る
 heroImages:
 - https://ebook-assets.dmm.com/digital/e-book/b600fsgk02808/b600fsgk02808pl.jpg
@@ -42,10 +41,10 @@ heroImages:
 
 <div class="live-price-box" data-product-key="gu-guガンモ" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
-<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">参考価格: ¥440</span>
+<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">販売価格・在庫</span>
+<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">最新価格は各ショップで確認</span>
 </div>
-<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
+<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※最新の価格・在庫・ポイント還元率は各ストアの商品ページでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
 <a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DGU-GU%25E3%2582%25AC%25E3%2583%25B3%25E3%2583%25A2" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（Kindle・紙版）</a>
@@ -91,13 +90,13 @@ heroImages:
 
 電子書籍は、購入後すぐに読める手軽さが最大の魅力だ。自宅に保管スペースが不要で、スマホやタブレットがあればいつでもどこでも読める。
 
-DMMブックスのようなサービスなら、定期的に開催されるセールやポイント還元を利用すれば、全巻をお得に手に入れられる可能性も高い。現在、DMMブックスでは愛蔵版1冊あたり528円で販売されており、全5巻で合計2,640円だ。
+DMMブックスなどの電子書籍ストアなら、セールやポイント還元キャンペーンのタイミングに合わせて計画的に全巻を揃えやすい点もメリットとなる。
 
 一方、紙媒体は、物理的な所有欲を満たしてくれる。ページをめくる感覚や紙の匂い、本棚に並んだ時の満足感は電子書籍では味わえない。
 
 ただし、かさばるため保管スペースが必要で、絶版になると入手が困難になる場合もある。
 
-初めて読む際は、スマホよりも大きな画面で電子書籍を読むことが推奨される。細野先生のギャグ漫画は、コマ割りやキャラクターの表情が緻密に計算されている。
+未読の方が電子書籍で読む際は、スマホよりも大きな画面で閲覧することが推奨される。細野先生のギャグ漫画は、コマ割りやキャラクターの表情が緻密に計算されている。
 
 画面が小さいと、その迫力や面白さが半減してしまうことがあるからだ。タブレットやPCの大きなディスプレイで読むのが適している。
 
@@ -125,7 +124,7 @@ DMMブックスのようなサービスなら、定期的に開催されるセ�
 | :--- | :--- | :--- |
 | 対象作品・掲載商品 | GU-GUガンモ | 記事内の主要紹介アイテム |
 | 媒体区分・想定仕様 | コミック・電子書籍・書籍版 | 視聴・閲覧環境（端末・プレイヤー・収納棚）との適合を確認 |
-| 価格・流通目安 | 440円（参考価格） | 在庫状況・送料・クーポン適用有無を含めて比較 |
+| 価格・流通目安 | 最新価格は各ショップで確認 | 在庫状況・送料・クーポン適用有無を含めて比較 |
 | 複数ストア比較の視点 | Amazon／楽天市場／Yahoo!／DMM等 | ポイント還元率・限定特典の有無・中古流通状態を照合 |
 
 ## まとめ：懐かしさと新しさが同居するギャグ漫画の金字塔

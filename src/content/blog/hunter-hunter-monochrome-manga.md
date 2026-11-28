@@ -8,7 +8,6 @@ sidebarProducts:
   - title: 'HUNTER×HUNTER モノクロ版'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F56854%2Fb950yshes32626%2F&af_id=DMMaria-999&ch=api'
     imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b950yshes32626/b950yshes32626pl.jpg'
-    price: 572
     microCopy: '詳細を見る'
 
 mediaType: comic
@@ -26,10 +25,10 @@ mediaType: comic
 
 <div class="live-price-box" data-product-key="hunter×hunter-モノクロ版" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
-<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">参考価格: ¥572</span>
+<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">販売価格・在庫</span>
+<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">最新価格は各ショップで確認</span>
 </div>
-<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
+<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※最新の価格・在庫・ポイント還元率は各ストアの商品ページでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
 <a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DHUNTER%25C3%2597HUNTER%2520%25E3%2583%25A2%25E3%2583%258E%25E3%2582%25AF%25E3%2583%25AD%25E7%2589%2588" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（プライム対応）</a>
@@ -85,14 +84,14 @@ mediaType: comic
 
 | 項目 | 詳細 |
 | :--- | :--- |
-| 価格 | 572円 |
+| 価格 | 最新価格は各ショップで確認 |
 | 商品名 | HUNTER×HUNTER モノクロ版 |
 
 ## 電子書籍で手軽に楽しむ、不朽の名作
 
 昔は単行本派で、部屋の片隅に積み重ねられた漫画の山を見ては、満足感に浸っていた読者も少なくない。しかし、社会人になってからの引越しや、増え続ける蔵書の置き場所に頭を悩ませるうちに、電子書籍の利便性に気づかされるはずだ。特に『HUNTER×HUNTER モノクロ版』のような長編作品は、電子書籍で読むメリットが非常に大きい。まず、物理的な保管場所を一切取らない点がありがたい。全巻揃えても、スマートフォンやタブレットの中に収まってしまうのだから、その利便性は計り知れない。
 
-通勤電車の隙間時間、あるいは仕事の休憩中に、サッと取り出して続きを読み進められる手軽さは、一度体験したらもう手放せない。夜、ベッドに入って電気を消した後でも、画面の明かりだけで読み進められるのは、まさしく現代の読書スタイルにフィットしている。DMMブックスなら、HUNTER×HUNTER モノクロ版を572円という手頃な価格で手に入れることができる。もし、まだこの不朽の名作に触れたことがないのなら、あるいは、もう一度あの冒険を追体験したいのなら、この機会に電子書籍で読んでみる価値は十分にある。
+通勤電車の隙間時間、あるいは仕事の休憩中に、サッと取り出して続きを読み進められる手軽さは、一度体験したらもう手放せない。夜、ベッドに入って電気を消した後でも、画面の明かりだけで読み進められるのは、まさしく現代の読書スタイルにフィットしている。DMMブックスなどの電子書籍ストアでも『HUNTER×HUNTER モノクロ版』を手軽に購入できる。もし、まだこの不朽の名作に触れたことがないのなら、あるいは、もう一度あの冒険を追体験したいのなら、この機会に電子書籍で読んでみる価値は十分にある。
 
 ## 『HUNTER×HUNTER』がもたらす普遍的な価値
 
@@ -100,7 +99,7 @@ mediaType: comic
 
 モノクロの画面に広がる彼らの世界は、想像力を掻き立て、色鮮やかな心の風景を描き出す。予測不能な展開と深淵なテーマは、読むたびに新たな発見を与え、読者の価値観を揺さぶり、思考を深めるきっかけとなる。世代を超えて愛され続ける『HUNTER×HUNTER モノクロ版』は、一度手に取れば、その奥深さに魅了されること間違いなしだ。
 
-<p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>あわせて読みたい関連解説</strong>：<a href="/blog/weekly-big-comics-spirits-review/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">週刊ビッグコミックスピリッツ徹底解剖！旬の漫画と深掘り考察</a> ／ <a href="/blog/manga-script-guide-review/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">漫画の「面白さ」を深掘りする脚本術！220円で得られる思考の羅針盤</a></p>
+<p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>あわせて読みたい関連解説</strong>：<a href="/blog/weekly-big-comics-spirits-review/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">週刊ビッグコミックスピリッツ徹底解剖！旬の漫画と深掘り考察</a> ／ <a href="/blog/manga-script-guide-review/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">漫画の「面白さ」を深掘りする脚本術！物語の本質を掴む思考の羅針盤</a></p>
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
 <div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>HUNTER×HUNTER モノクロ版</strong></div>
@@ -112,7 +111,7 @@ mediaType: comic
 ### よくある質問（FAQ）：『HUNTER×HUNTER モノクロ版』
 
 <strong>Q1. 「『HUNTER×HUNTER モノクロ版』：不朽の冒険譚が今も色褪せない理由」の視点から見て、初見の読者でも楽しめますか？</strong>
-A1. はい。『HUNTER×HUNTER モノクロ版』（参考価格：572円前後）は導入から世界観と人物描写が丁寧に描かれており、予備知識がなくても物語の核心に自然と引き込まれる構成になっています。
+A1. はい。『HUNTER×HUNTER モノクロ版』は導入から世界観と人物描写が丁寧に描かれており、予備知識がなくても物語の核心に自然と引き込まれる構成になっています。
 
 <strong>Q2. 『HUNTER×HUNTER モノクロ版』は、フルカラー版やアニメ版と比べた際にどのような読み味の特性がありますか？</strong>
-A2. 冨樫義博の原稿本来のペンタッチや強弱のついた描線、セリフの情報量・余白の緊張感をそのまま味わいたい場合はモノクロ版（参考価格572円前後）が原作に最も忠実な仕様です。念能力の駆け引きや細かな文字設定を拡大しながら追いやすい点も電子配信の特徴といえます。
+A2. 冨樫義博の原稿本来のペンタッチや強弱のついた描線、セリフの情報量・余白の緊張感をそのまま味わいたい場合はモノクロ版が原作に最も忠実な仕様です。念能力の駆け引きや細かな文字設定を拡大しながら追いやすい点も電子配信の特徴といえます。

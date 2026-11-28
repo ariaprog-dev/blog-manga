@@ -2,7 +2,7 @@
 title: 手塚治虫『ひょうたん駒子』奇妙な魅力とギャグの原点を探る
 description: 手塚治虫『ひょうたん駒子』の魅力を深掘り。奇妙なヒロインが巻き起こす騒動と、手塚流ギャグの真髄を解説。漫画初心者も楽しめる読み方ガイド。
 pubDate: '2026-09-10'
-heroImage: 'https://ebook-assets.dmm.com/digital/e-book/b900okds01812/b900okds01812pl.jpg'
+heroImage: 'https://ebook-assets.dmm.com/digital/e-book/b900okds04330/b900okds04330pl.jpg'
 genre: manga
 mediaType: comic
 tags:
@@ -15,25 +15,22 @@ faq:
   - question: 'どんなテーマが隠されている？ただのギャグ漫画？'
     answer: '単なるギャグ漫画として楽しめるのはもちろんですが、その裏には社会風刺や人間ドラマといった手塚治虫作品共通のテーマが隠されています。異形なヒロインを通じて、多様性や人間関係のあり方について考えさせる深みも持っています。手塚治虫文庫全集などの収録ラインナップは各ストアの商品詳細ページで確認できます。'
 sidebarProducts:
-- title: 鳥人大系 手塚治虫文庫全集
-  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F573618%2Fb900okds01812%2F&af_id=DMMaria-999&ch=api
-  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b900okds01812/b900okds01812pl.jpg
-  price: 880
+- title: ひょうたん駒子 手塚治虫文庫全集（電子書籍）
+  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F598544%2Fb900okds04330%2F&af_id=DMMaria-999&ch=api
+  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b900okds04330/b900okds04330pl.jpg
   microCopy: 詳細を見る
-- title: 鳥人大系
-  url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F559908%2Fb606atdkp00131%2F&af_id=DMMaria-999&ch=api
-  imageUrl: https://ebook-assets.dmm.com/digital/e-book/b606atdkp00131/b606atdkp00131pl.jpg
-  price: 330
+- title: ひょうたん駒子（手塚治虫文庫全集・紙版）
+  url: https://hb.afl.rakuten.co.jp/hgc/g00q0721.ve2q5176.g00q0721.ve2q6e77/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F11217718%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F14687881%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b
+  imageUrl: https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8360/9784063738360_1_5.jpg?_ex=600x600
   microCopy: 詳細を見る
-- title: 人類滅亡後の世界 鳥人大系
-  url: https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbkt07370549%2F&af_id=DMMaria-999&ch=api
-  imageUrl: https://thumbnail.image.rakuten.co.jp/@0_mall/lamaree/cabinet/shohin/tezuka/12463163/1.jpg?_ex=600x600
-  price: 550
+- title: ひょうたん駒子 手塚治虫文庫全集（楽天Kobo）
+  url: https://hb.afl.rakuten.co.jp/hgc/g00reb41.ve2q58c2.g00reb41.ve2q61ce/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutenkobo-ebooks%2Fda5b9ce071c0322d968be3d885fd648e%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutenkobo-ebooks%2Fi%2F15217733%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b
+  imageUrl: https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8571/2000003938571.jpg?_ex=600x600
   microCopy: 詳細を見る
 heroImages:
-- https://ebook-assets.dmm.com/digital/e-book/b900okds01812/b900okds01812pl.jpg
-- https://ebook-assets.dmm.com/digital/e-book/b606atdkp00131/b606atdkp00131pl.jpg
-- https://thumbnail.image.rakuten.co.jp/@0_mall/lamaree/cabinet/shohin/tezuka/12463163/1.jpg?_ex=600x600
+- https://ebook-assets.dmm.com/digital/e-book/b900okds04330/b900okds04330pl.jpg
+- https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8360/9784063738360_1_5.jpg?_ex=600x600
+- https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8571/2000003938571.jpg?_ex=600x600
 ---
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
@@ -44,25 +41,25 @@ heroImages:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="https://ebook-assets.dmm.com/digital/e-book/b900okds01812/b900okds01812pl.jpg" alt="鳥人大系 手塚治虫文庫全集" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://ebook-assets.dmm.com/digital/e-book/b900okds04330/b900okds04330pl.jpg" alt="ひょうたん駒子 手塚治虫文庫全集" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
-<div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #eff6ff; color: #1d4ed8; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">📘 編集部イチオシ名作</span><span style="color: #64748b; font-size: 0.75rem;">完結・全巻セット / リマスター</span></div>
-<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">鳥人大系 手塚治虫文庫全集</h4>
+<div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #eff6ff; color: #1d4ed8; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">📘 編集部イチオシ名作</span><span style="color: #64748b; font-size: 0.75rem;">手塚治虫文庫全集（全1巻）</span></div>
+<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">ひょうたん駒子 手塚治虫文庫全集</h4>
 
-<div class="live-price-box" data-product-key="鳥人大系-手塚治虫文庫全集" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
+<div class="live-price-box" data-product-key="ひょうたん駒子-手塚治虫文庫全集" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
-<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">参考価格: ¥880</span>
+<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">販売価格・在庫</span>
+<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">最新価格は各ショップで確認</span>
 </div>
-<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
+<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※最新の価格・在庫・ポイント還元率は各ストアの商品ページでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E9%25B3%25A5%25E4%25BA%25BA%25E5%25A4%25A7%25E7%25B3%25BB%2520%25E6%2589%258B%25E5%25A1%259A%25E6%25B2%25BB%25E8%2599%25AB%25E6%2596%2587%25E5%25BA%25AB%25E5%2585%25A8%25E9%259B%2586" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（Kindle・紙版）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2581%25B2%25E3%2582%2587%25E3%2581%2586%25E3%2581%259F%25E3%2582%2593%25E9%25A7%2592%25E5%25AD%2590%2520%25E6%2589%258B%25E5%25A1%259A%25E6%25B2%25BB%25E8%2599%25AB%25E6%2596%2587%25E5%25BA%25AB%25E5%2585%25A8%25E9%259B%2586" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（Kindle・紙版）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
-<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E9%B3%A5%E4%BA%BA%E5%A4%A7%E7%B3%BB%20%E6%89%8B%E5%A1%9A%E6%B2%BB%E8%99%AB%E6%96%87%E5%BA%AB%E5%85%A8%E9%9B%86%2F" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E9%25B3%25A5%25E4%25BA%25BA%25E5%25A4%25A7%25E7%25B3%25BB%2520%25E6%2589%258B%25E5%25A1%259A%25E6%25B2%25BB%25E8%2599%25AB%25E6%2596%2587%25E5%25BA%25AB%25E5%2585%25A8%25E9%259B%2586" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
-<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F573618%2Fb900okds01812%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMMで見る（限定特典・配信）</a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00q0721.ve2q5176.g00q0721.ve2q6e77/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F11217718%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F14687881%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2581%25B2%25E3%2582%2587%25E3%2581%2586%25E3%2581%259F%25E3%2582%2593%25E9%25A7%2592%25E5%25AD%2590%2520%25E6%2589%258B%25E5%25A1%259A%25E6%25B2%25BB%25E8%2599%25AB" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F598544%2Fb900okds04330%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMMで見る（限定特典・配信）</a>
 <a href="https://px.a8.net/svt/ejp?a8mat=4B8BWQ+57JKC2+1892+6QEUP" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #059669, #047857); color: #ffffff !important;">📚 全巻セット（漫画全巻ドットコム）</a>
 </div>
 </div>
@@ -108,14 +105,14 @@ heroImages:
 | 対象タイトル・関連書籍 | 参考価格目安 | 作品の方向性・読みどころの整理 |
 | :--- | :--- | :--- |
 | 『ひょうたん駒子』（手塚治虫文庫全集等） | 各ECストアで最新価格を確認 | 1950年代発表の初期ユーモア・風刺短編集。天真爛漫なヒロインを通じた昭和ギャグの原点 |
-| 鳥人大系 手塚治虫文庫全集（電子） | 880円（DMMブックス参考価格） | 1970年代発表のSF社会風刺大作。文庫全集収録の電子版としてまとめて読みやすい仕様 |
-| 鳥人大系（別版電子）／人類滅亡後の世界 鳥人大系（紙版） | 330円前後〜550円前後 | 出版レーベルや判型・中古紙書籍など、予算や手元保管の希望に応じた比較対象 |
+| 鳥人大系 手塚治虫文庫全集（電子） | 最新価格は各ショップで確認 | 1970年代発表のSF社会風刺大作。文庫全集収録の電子版としてまとめて読みやすい仕様 |
+| 鳥人大系（別版電子）／人類滅亡後の世界 鳥人大系（紙版） | 最新価格は各ショップで確認最新価格は各ショップで確認 | 出版レーベルや判型・中古紙書籍など、予算や手元保管の希望に応じた比較対象 |
 
 電子書籍版は過去の絶版・品切れを気にせず読み始めやすい一方、講談社「手塚治虫文庫全集」などレーベルによって収録短編の構成や解説ページが異なる場合があるため、購入前に各商品ページの目次・収録作品一覧を確認しておくことが重要である。
 
 <p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>あわせて読みたい関連解説</strong>：<a href="/blog/doraemon-long-story/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">大長編ドラえもんの絆。なぜあの別れと再会に涙が止まらないのか？</a> ／ <a href="/blog/doraemon-manga/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">ドラえもんの最終回はなぜ賛否両論？未来と友情が問いかけるもの</a></p>
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
-<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>鳥人大系 手塚治虫文庫全集</strong></div>
-<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E9%25B3%25A5%25E4%25BA%25BA%25E5%25A4%25A7%25E7%25B3%25BB%2520%25E6%2589%258B%25E5%25A1%259A%25E6%25B2%25BB%25E8%2599%25AB%25E6%2596%2587%25E5%25BA%25AB%25E5%2585%25A8%25E9%259B%2586" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E9%B3%A5%E4%BA%BA%E5%A4%A7%E7%B3%BB%20%E6%89%8B%E5%A1%9A%E6%B2%BB%E8%99%AB%E6%96%87%E5%BA%AB%E5%85%A8%E9%9B%86%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E9%25B3%25A5%25E4%25BA%25BA%25E5%25A4%25A7%25E7%25B3%25BB%2520%25E6%2589%258B%25E5%25A1%259A%25E6%25B2%25BB%25E8%2599%25AB%25E6%2596%2587%25E5%25BA%25AB%25E5%2585%25A8%25E9%259B%2586" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a><a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F573618%2Fb900okds01812%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #1d4ed8; border: 1px solid #93c5fd;">DMMで見る</a></div>
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>ひょうたん駒子 手塚治虫文庫全集</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2581%25B2%25E3%2582%2587%25E3%2581%2586%25E3%2581%259F%25E3%2582%2593%25E9%25A7%2592%25E5%25AD%2590%2520%25E6%2589%258B%25E5%25A1%259A%25E6%25B2%25BB%25E8%2599%25AB%25E6%2596%2587%25E5%25BA%25AB%25E5%2585%25A8%25E9%259B%2586" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%81%B2%E3%82%87%E3%81%86%E3%81%9F%E3%82%93%E9%A7%92%E5%AD%90%20%E6%89%8B%E5%A1%9A%E6%B2%BB%E8%99%AB%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2581%25B2%25E3%2582%2587%25E3%2581%2586%25E3%2581%259F%25E3%2582%2593%25E9%25A7%2592%25E5%25AD%2590%2520%25E6%2589%258B%25E5%25A1%259A%25E6%25B2%25BB%25E8%2599%25AB" target="_blank" rel="noopener noreferrer sponsored" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a><a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F598544%2Fb900okds04330%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #1d4ed8; border: 1px solid #93c5fd;">DMMで見る</a></div>
 </div>

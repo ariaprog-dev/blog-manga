@@ -4,7 +4,7 @@ description: 'ホビージャパン編集部による「HJメカニクス」は�
 pubDate: '2026-10-14'
 heroImage: 'https://ebook-assets.dmm.com/digital/e-book/b471abyjp03569/b471abyjp03569pl.jpg'
 genre: 'manga'
-mediaType: 'figure'
+mediaType: 'comic'
 heroImages:
   - 'https://ebook-assets.dmm.com/digital/e-book/b471abyjp03569/b471abyjp03569pl.jpg'
   - 'https://ebook-assets.dmm.com/digital/e-book/b471abyjp01248/b471abyjp01248pl.jpg'
@@ -22,17 +22,14 @@ sidebarProducts:
   - title: 'HJメカニクス'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F826563%2Fb471abyjp03569%2F&af_id=DMMaria-999&ch=api'
     imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b471abyjp03569/b471abyjp03569pl.jpg'
-    price: 2530
     microCopy: '詳細を見る'
   - title: 'HJ A.R.M.S. SP 聖戦士ダンバイン編'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F888646%2Fb471abyjp01248%2F&af_id=DMMaria-999&ch=api'
     imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b471abyjp01248/b471abyjp01248pl.jpg'
-    price: 3850
     microCopy: '詳細を見る'
   - title: '聖戦士ダンバイン 総音楽集/ダンバイン'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fcd%2F-%2Fdetail%2F%3D%2Fcid%3Dcd_108kica3253s%2F&af_id=DMMaria-999&ch=api'
     imageUrl: 'https://pics.dmm.com/mono/cd/anime_game/cd_108kica3253s/cd_108kica3253spl.jpg'
-    price: 5280
     microCopy: '詳細を見る'
 ---
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
@@ -52,10 +49,10 @@ sidebarProducts:
 
 <div class="live-price-box" data-product-key="hjメカニクス" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
-<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">参考価格: ¥2,530</span>
+<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">販売価格・在庫</span>
+<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">最新価格は各ショップで確認</span>
 </div>
-<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
+<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※最新の価格・在庫・ポイント還元率は各ストアの商品ページでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
 <a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DHJ%25E3%2583%25A1%25E3%2582%25AB%25E3%2583%258B%25E3%2582%25AF%25E3%2582%25B9" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（Kindle・紙版）</a>
@@ -115,14 +112,14 @@ sidebarProducts:
 
 「HJメカニクス」を読む媒体を選ぶ際、それぞれのメリット・デメリットを比較してみた。電子書籍版もDMMブックスで利用可能だが、紙媒体にもそれぞれの良さがある。
 
-| 項目         | 電子書籍（DMMブックス）               | 紙の書籍                              |
+| 項目 | 電子書籍（DMMブックス） | 紙の書籍 |
 | :----------- | :------------------------------------ | :------------------------------------ |
-| <strong>携帯性</strong>   | スマホやタブレットでいつでもどこでも | 重量があり、持ち運びにはかさばる       |
-| <strong>検索性</strong>   | テキスト検索で目的のメカを瞬時に発見 | 索引頼み、ページをめくる手間がある     |
-| <strong>視認性</strong>   | 拡大・縮小機能で細部まで精密に確認   | 物理的なサイズに依存、拡大には限界    |
-| <strong>保管場所</strong> | デバイス内に保存、場所を取らない     | 物理的なスペースが必要、経年劣化の懸念 |
-| <strong>価格</strong>     | 2,530円（DMMブックス）                  | 通常の書籍価格（販売店による）        |
-| <strong>購入方法</strong> | オンラインで即購入、即閲覧が可能     | 書店へ足を運ぶか、配送待ち              |
+| <strong>携帯性</strong> | スマホやタブレットでいつでもどこでも | 重量があり、持ち運びにはかさばる |
+| <strong>検索性</strong> | テキスト検索で目的のメカを瞬時に発見 | 索引頼み、ページをめくる手間がある |
+| <strong>視認性</strong> | 拡大・縮小機能で細部まで精密に確認 | 物理的なサイズに依存、拡大には限界 |
+| <strong>保管場所</strong> | デバイス内に保存、場所を取らない | 物理的なスペースが必要、経年劣化の懸念 |
+| <strong>価格</strong> | 最新価格は各ショップで確認 | 通常の書籍価格（販売店による） |
+| <strong>購入方法</strong> | オンラインで即購入、即閲覧が可能 | 書店へ足を運ぶか、配送待ち |
 
 <strong>通勤中にタブレットで拡大しながら、じっくりとメカのディテールを眺めたい</strong>というニーズがある場合、電子書籍が選択肢となる。特にDMMブックスは、ビジネス・実用書に特化したフロアもあり、関連書籍を探しやすいのもメリットだ。
 
@@ -130,14 +127,14 @@ sidebarProducts:
 
 ## 「HJメカニクス」を最大限に楽しむための活用術
 
-「HJメカニクス」は、単巻の書籍として、価格2,530円でDMMブックスから提供されている。特定の作品の続編ではないため、<strong>読書ロードマップというよりも、関連知識を深めるための活用術</strong>として捉えるのが適している。
+「HJメカニクス」は、単巻の書籍としてDMMブックスなどの電子書籍ストアでも提供されている。特定の作品の続編ではないため、<strong>読書ロードマップというよりも、関連知識を深めるための活用術</strong>として捉えるのが適している。
 
-| 項目         | 詳細                                                                                                   |
+| 項目 | 詳細 |
 | :----------- | :----------------------------------------------------------------------------------------------------- |
-| <strong>現行巻数</strong> | 単巻（DMMブックスにて2,530円で提供）                                                                    |
-| <strong>読み方</strong>   | 特定のメカニックのページから読み始め、興味の赴くままに知識を深める。通読はもちろん、図鑑的な活用も有効。 |
-| <strong>関連知識</strong> | 掲載メカニックが登場するSF作品の視聴・読書、現実の宇宙開発技術に関するドキュメンタリーや書籍          |
-| <strong>期待できる効果</strong> | SF作品の解像度が向上し、メカデザインへの理解が深まる。知的好奇心が満たされ、新たな視点が得られる。   |
+| <strong>現行巻数</strong> | 単巻（DMMブックスにて最新価格は各ショップで確認で提供） |
+| <strong>読み方</strong> | 特定のメカニックのページから読み始め、興味の赴くままに知識を深める。通読はもちろん、図鑑的な活用も有効。 |
+| <strong>関連知識</strong> | 掲載メカニックが登場するSF作品の視聴・読書、現実の宇宙開発技術に関するドキュメンタリーや書籍 |
+| <strong>期待できる効果</strong> | SF作品の解像度が向上し、メカデザインへの理解が深まる。知的好奇心が満たされ、新たな視点が得られる。 |
 
 この一冊は、SF作品を深く楽しむための<strong>「リファレンスブック」</strong>としても非常に優秀だ。例えば、最新のSFアニメや映画を観た後に、登場する宇宙船やロボットのデザインが<strong>「なぜこの形状なんだろう」</strong>と疑問に思った時、本書を開いて類似のメカニックの解説を読んでみる。
 
@@ -145,19 +142,19 @@ sidebarProducts:
 
 ## スペック表と「HJメカニクス」の奥深さ
 
-| 項目         | 詳細                   |
+| 項目 | 詳細 |
 | :----------- | :--------------------- |
-| 価格         | 2,530円                |
-| サービス     | DMMブックス            |
-| フロア       | ビジネス・実用         |
-| 著者/作者    | ホビージャパン編集部   |
-| ジャンル     | 宇宙・天体・天文       |
+| 価格 | 最新価格は各ショップで確認 |
+| サービス | DMMブックス |
+| フロア | ビジネス・実用 |
+| 著者/作者 | ホビージャパン編集部 |
+| ジャンル | 宇宙・天体・天文 |
 
 「HJメカニクス」は、ただメカニックを眺めるだけの本ではない。ホビージャパン編集部が、<strong>長年培ってきたホビー分野への深い洞察と、現実の技術への敬意</strong>をもって編み出した、まさに<strong>「メカニックの哲学書」</strong>のような一冊だ。
 
 単に知識が増えるだけでなく、<strong>物事を多角的に、そして深く考える視点</strong>が得られる一冊である。
 
-この書籍は、SF作品のファンはもちろん、<strong>デザイン思考や工学、あるいは宇宙開発に少しでも興味がある人</strong>にとって、価格2,530円以上の価値がある。知的好奇心を刺激し、世界の見え方を変える一冊になるはずだ。
+この書籍は、SF作品のファンはもちろん、<strong>デザイン思考や工学、あるいは宇宙開発に少しでも興味がある人</strong>にとって、知的好奇心を刺激し、世界の見え方を変える一冊になるはずだ。
 
 <p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>あわせて読みたい関連解説</strong>：<a href="/blog/mashima-hiro-rave-manga-vs-comparison/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">『RAVE』原作コミック vs アニメ版 徹底比較！どっちから楽しむべき？</a> ／ <a href="/blog/history-manga-timewarp-series/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">学習まんが 日本の歴史で、過ぎ去りし熱狂を夜更けに再読するロマン！</a></p>
 

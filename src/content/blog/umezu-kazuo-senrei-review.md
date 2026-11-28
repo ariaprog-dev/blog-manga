@@ -11,14 +11,13 @@ faq:
   - question: 'グロテスクな描写は多いですか？'
     answer: '直接的なスプラッター描写よりも、心理的・精神的な「歪み」や「不気味さ」で読者を追い詰める表現が多い。苦手な人は注意が必要だが、耐えられないほどの過度な描写はないだろう。'
   - question: '楳図かずお作品は初めてですが、楽しめますか？'
-    answer: '全1巻で完結しているため、楳図かずお入門としては非常に読みやすい。彼の独特な世界観が凝縮されており、代表作の一つとしてその魅力を堪能できるはずだ。'
+    answer: '電子書籍では合本的な1冊単位での完結配信（DMMブックス等の単冊版）をはじめ、文庫版全4巻や完全版（UMEZZ PERFECTION! 全3巻）などコンパクトな構成で流通しており、楳図かずお入門としても非常に読みやすい作品です。独特の世界観が凝縮されており、代表作の一つとしてその魅力を堪能できます。'
   - question: '紙の書籍と電子書籍、どちらで読むのが適していますか？'
     answer: '紙の質感も魅力だが、電子書籍ならDMMブックスでスマホやタブレットから手軽に読めるため、場所を選ばない。価格も手頃で、すぐに購読できる利便性から、電子書籍版が選択肢となる。'
 sidebarProducts:
 - title: 洗礼
   url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F772432%2Fb600tsgk00167%2F&af_id=DMMaria-999&ch=api
   imageUrl: https://ebook-assets.dmm.com/digital/e-book/b600tsgk00167/b600tsgk00167pl.jpg
-  price: 1210
   microCopy: 詳細を見る
 heroImages:
 - https://ebook-assets.dmm.com/digital/e-book/b600tsgk00167/b600tsgk00167pl.jpg
@@ -27,7 +26,7 @@ heroImages:
 
 楳図かずおの漫画『洗礼』は、単なるホラー作品とは一線を画す。美貌への異常な執着が引き起こす狂気と、母と娘のねじれた愛憎を描き出した、深遠な人間ドラマの金字塔だ。
 
-読者に強烈な心理的衝撃を与え、深い考察を促すこの作品は、人間の本質に迫る物語を求める人にこそ読んでもらいたい。全1巻で完結しているため非常に読みやすく、電子書籍サービスDMMブックスなら、たった1,210円でこの濃厚な読書体験が手に入る。
+読者に強烈な心理的衝撃を与え、深い考察を促すこの作品は、人間の本質に迫る物語を求める人にこそ読んでもらいたい。電子書籍ストアのDMMブックスなどでは1冊完結形式の電子版としてまとめて配信されているほか、紙書籍でも小学館文庫（全4巻）や完全版『UMEZZ PERFECTION!』（全3巻）といった形で手に取りやすく構成されている。
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -40,10 +39,10 @@ heroImages:
 
 <div class="live-price-box" data-product-key="洗礼-楳図かずお" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
-<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">参考価格: ¥1,210</span>
+<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">販売価格・在庫</span>
+<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">最新価格は各ショップで確認</span>
 </div>
-<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
+<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※最新の価格・在庫・ポイント還元率は各ストアの商品ページでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
 <a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%25B4%2597%25E7%25A4%25BC%2520%25E6%25A5%25B3%25E5%259B%25B3%25E3%2581%258B%25E3%2581%259A%25E3%2581%258A" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（Kindle・紙版）</a>
@@ -67,7 +66,7 @@ heroImages:
 
 なぜいずみはそこまで美貌にこだわるのか。その行動原理の根底には、女優であった母親の強烈な呪縛と、美しさへの社会的な評価が深く根ざしている。
 
-初めて『洗礼』を読んだ時、楳図かずお特有の「ギャー！」という擬音や、デフォルメされた絵柄に最初は少し戸惑いを感じた。しかし読み進めるうちに、それが単なるホラー表現ではなく、キャラクターが極限状態に陥った時の感情を、読者の脳内に直接叩き込むための最適解だと気づいた。
+『洗礼』に触れる読者の中には、楳図かずお特有の「ギャー！」という擬音や、デフォルメされた絵柄に最初は強烈な印象を受ける人もいるだろう。しかし読み進めるうちに、それが単なるホラー表現ではなく、キャラクターが極限状態に陥った時の感情を、読者の脳裏に直接刻み込むための洗練された視覚表現であることに気づかされる。
 
 この独特の画風こそが、言葉だけでは伝えきれない恐怖と不安を視覚的に表現するメカニズムだ。
 
@@ -85,9 +84,9 @@ heroImages:
 
 ## 読む人を選ぶ、楳図かずお独特の世界観
 
-楳図かずお作品は、その独特の世界観ゆえに読む人を選ぶ可能性がある。『洗礼』も例外ではない。ショッキングな描写や、時にグロテスクともとれる表現が苦手な人には、正直合わないかもしれない。心理的な不快感を伴う展開も多いため、明るく楽しい気分で読める作品ではないと断言できる。
+楳図かずお作品は、その独特の世界観ゆえに読む人を選ぶ可能性がある。『洗礼』も例外ではない。ショッキングな描写や、時にグロテスクともとれる表現が苦手な人には合わない場合もあり、心理的な緊張や重い葛藤を伴う展開が多いため、明るいコメディ感覚の読書を期待する読者には向きにくい作品と言える。
 
-この漫画を読む際は、ホラー・都市伝説というジャンルの特性を十分に理解しておく必要があるだろう。美しい絵柄や感動的な物語を求める人には、別の作品を勧めるべきだ。しかし、人間の心の闇や普遍的な恐怖に深く向き合いたいと考えるなら、『洗礼』はかけがえのない読書体験をもたらすだろう。
+この漫画を読む際は、ホラー・サスペンスというジャンルの特性を十分に理解しておく必要があるだろう。美しい絵柄や感動的な物語を求める人には別の作品の方が合うこともあるが、人間の心の闇や普遍的な恐怖に深く向き合いたいと考えるなら、『洗礼』は強い余韻を残す読書体験をもたらす。
 
 ## なぜ『洗礼』は読み継がれる名作なのか？
 
@@ -95,15 +94,15 @@ heroImages:
 
 本作は、外面的な美しさに潜む危険性や、それがもたらす狂気を容赦なく描き出す。
 
-人間の深淵に触れたい人、心理的な恐怖を味わいたい人には、この上なくおすすめの作品だ。また、全1巻で完結しているため、楳図かずお作品の入門としても非常に良い選択肢となる。
+人間の深淵に触れたい人、心理的な恐怖を味わいたい人に適した作品であり、電子版なら単冊仕様として通読しやすい巻構成（文庫版では全4巻、UMEZZ PERFECTION!では全3巻完結）になっているため、楳図かずお作品の入門としても手に取りやすい選択肢となる。
 
 彼の独特な世界観が凝縮されており、電子書籍なら手軽にその魅力を試すことができる。一度読めば、その強烈な印象は忘れられないはずだ。
 
 ## 電子書籍で手軽に、深く味わうための読書ガイド
 
-『洗礼』は全1巻で完結している。そのため、この物語を最初から最後まで体験するのに、何冊も購入する必要がないのが大きな魅力だ。
+『洗礼』の今回取り上げているDMMブックス電子書籍版は1冊完結仕様で通読できる構成となっており（文庫版全4巻・完全版全3巻などの紙版・他形態とあわせて選択可能）、物語を最初から最後までまとめて追いたい場合に扱いやすい点が大きな魅力だ。
 
-電子書籍版はDMMブックスで1,210円。紙のコミックスと比べても手頃な価格設定であり、この金額で楳図かずおの代表作の一つを存分に味わえるのは、非常にコストパフォーマンスが高いと言える。
+最新の販売価格や各種セール情報は各電子書籍ストアの商品ページで確認できる。楳図かずおの代表作の一つをデジタルライブラリへ迎えられるため、手頃なタイミングを見計らいやすい。
 
 DMMブックスでは、新規登録時にクーポンが配布されたり、ポイント還元キャンペーンが実施されたりする場合も多い。そういった機会を活用すれば、さらに割引価格で購読できる可能性もある。
 
@@ -117,7 +116,7 @@ DMMブックスでは、新規登録時にクーポンが配布されたり、�
 | :--- | :--- | :--- |
 | 対象作品・掲載商品 | 洗礼 | 記事内の主要紹介アイテム |
 | 媒体区分・想定仕様 | コミック・電子書籍・書籍版 | 視聴・閲覧環境（端末・プレイヤー・収納棚）との適合を確認 |
-| 価格・流通目安 | 1,210円（参考価格） | 在庫状況・送料・クーポン適用有無を含めて比較 |
+| 価格・流通目安 | 最新価格は各ショップで確認 | 在庫状況・送料・クーポン適用有無を含めて比較 |
 | 複数ストア比較の視点 | Amazon／楽天市場／Yahoo!／DMM等 | ポイント還元率・限定特典の有無・中古流通状態を照合 |
 
 <p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>あわせて読みたい関連解説</strong>：<a href="/blog/goldenkamuy-tankyushatachi-record/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">ゴールデンカムイ「探究者たちの記録」を深掘り：読むべき理由と作品の核心</a> ／ <a href="/blog/date-masamune-yokoyama-manga-vs-comparison/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">横山光輝『伊達政宗』全4巻レビュー！独眼竜の人間ドラマと横山劇画の読みどころ</a></p>

@@ -1,14 +1,13 @@
 ---
 title: 学習まんが 日本の歴史で、過ぎ去りし熱狂を夜更けに再読するロマン！
-description: 集英社 コンパクト版 学習まんが 日本の歴史 全22巻セットは、年表暗記の苦痛を解消し「生きた歴史」を体感できる傑作。大人も子供も夢中になれる、ストーリー重視の学習まんがが楽天で18,590円。その魅力を徹底解説。
+description: 集英社 コンパクト版 学習まんが 日本の歴史 全22巻セットは、年表暗記の苦痛を解消し「生きた歴史」を体感できる傑作。大人も子供も夢中になれる、ストーリー重視の学習まんがの魅力を徹底解説します。
 pubDate: '2026-07-09'
-heroImage: 'https://ebook-assets.dmm.com/digital/e-book/b000fhftx16775/b000fhftx16775pl.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9351/9784082399351_1_8.jpg?_ex=600x600'
 genre: 不朽の名作・ヒューマン
 sidebarProducts:
-  - title: '日本の歴史 まんが日本のすごい城'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F6296481%2Fb000fhftx16775%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b000fhftx16775/b000fhftx16775pl.jpg'
-    price: 1430
+  - title: '集英社 コンパクト版 学習まんが 日本の歴史 全巻セット(全20巻+別巻2)'
+    url: 'https://hb.afl.rakuten.co.jp/hgc/g00q0721.ve2q5176.g00q0721.ve2q6e77/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F17636747%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F21067001%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9351/9784082399351_1_8.jpg?_ex=600x600'
     microCopy: '詳細を見る'
 
 mediaType: comic
@@ -22,26 +21,25 @@ mediaType: comic
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="https://ebook-assets.dmm.com/digital/e-book/b000fhftx16775/b000fhftx16775pl.jpg" alt="日本の歴史 まんが日本のすごい城" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9351/9784082399351_1_8.jpg?_ex=600x600" alt="集英社 コンパクト版 学習まんが 日本の歴史 全巻セット(全20巻+別巻2)" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">📚 編集部厳選</span><span style="color: #64748b; font-size: 0.75rem;">コレクター推奨モデル</span></div>
-<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">日本の歴史 まんが日本のすごい城</h4>
+<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">集英社 コンパクト版 学習まんが 日本の歴史 全巻セット(全20巻+別巻2)</h4>
 
-<div class="live-price-box" data-product-key="日本の歴史-まんが日本のすごい城" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
+<div class="live-price-box" data-product-key="集英社-コンパクト版-学習まんが-日本の歴史" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
-<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">参考価格: ¥1,430</span>
+<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">販売価格・在庫</span>
+<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">最新価格は各ショップで確認</span>
 </div>
-<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
+<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※最新の価格・在庫・ポイント還元率は各ストアの商品ページでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%2597%25A5%25E6%259C%25AC%25E3%2581%25AE%25E6%25AD%25B4%25E5%258F%25B2%2520%25E3%2581%25BE%25E3%2582%2593%25E3%2581%258C%25E6%2597%25A5%25E6%259C%25AC%25E3%2581%25AE%25E3%2581%2599%25E3%2581%2594%25E3%2581%2584%25E5%259F%258E" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（プライム対応）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E9%259B%2586%25E8%258B%25B1%25E7%25A4%25BE%2520%25E3%2582%25B3%25E3%2583%25B3%25E3%2583%2591%25E3%2582%25AF%25E3%2583%2588%25E7%2589%2588%2520%25E5%25AD%25A6%25E7%25BF%2592%25E3%2581%25BE%25E3%2582%2593%25E3%2581%258C%2520%25E6%2597%25A5%25E6%259C%25AC%25E3%2581%25AE%25E6%25AD%25B4%25E5%258F%25B2%2520%25E5%2585%25A822%25E5%25B7%25BB" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（プライム対応）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
-<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E6%97%A5%E6%9C%AC%E3%81%AE%E6%AD%B4%E5%8F%B2%20%E3%81%BE%E3%82%93%E3%81%8C%E6%97%A5%E6%9C%AC%E3%81%AE%E3%81%99%E3%81%94%E3%81%84%E5%9F%8E%2F" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E6%2597%25A5%25E6%259C%25AC%25E3%2581%25AE%25E6%25AD%25B4%25E5%258F%25B2%2520%25E3%2581%25BE%25E3%2582%2593%25E3%2581%258C%25E6%2597%25A5%25E6%259C%25AC%25E3%2581%25AE%25E3%2581%2599%25E3%2581%2594%25E3%2581%2584%25E5%259F%258E" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
-<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F6296481%2Fb000fhftx16775%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMMで見る（限定特典・配信）</a>
-
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00q0721.ve2q5176.g00q0721.ve2q6e77/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F17636747%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F21067001%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天ブックス（公式・特典確認）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E9%259B%2586%25E8%258B%25B1%25E7%25A4%25BE%2520%25E3%2582%25B3%25E3%2583%25B3%25E3%2583%2591%25E3%2582%25AF%25E3%2583%2588%25E7%2589%2588%2520%25E5%25AD%25A6%25E7%25BF%2592%25E3%2581%25BE%25E3%2582%2593%25E3%2581%258C%2520%25E6%2597%25A5%25E6%259C%25AC%25E3%2581%25AE%25E6%25AD%25B4%25E5%258F%25B2%2520%25E5%2585%25A822%25E5%25B7%25BB" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E9%9B%86%E8%8B%B1%E7%A4%BE%20%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E7%89%88%20%E5%AD%A6%E7%BF%92%E3%81%BE%E3%82%93%E3%81%8C%20%E6%97%A5%E6%9C%AC%E3%81%AE%E6%AD%B4%E5%8F%B2%2F" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #059669, #047857); color: #ffffff !important;">🔎 楽天市場で他ストアを比較</a>
 </div>
 </div>
 </div>
@@ -85,7 +83,7 @@ mediaType: comic
 
 ## 大人も子供も楽しめる普遍性と、一歩踏み込んだ向き合い方
 
-この集英社の学習まんが日本の歴史は、幅広い層から支持されている。子供たちが歴史に興味を持つきっかけとして、あるいは大人たちが改めて歴史を学び直すツールとして、その普遍的な価値は揺るぎないものがある。実際に、「子供が歴史嫌いを克服した」「大人も夢中になって読んだ」という声が多数聞かれる。特に、漫画という親しみやすいフォーマットでありながら、内容は本格的であるため、親子で一緒に楽しめるという点も人気の秘訣であろう。
+この集英社の学習まんが日本の歴史は、幅広い年齢層に適した構成となっている。子供たちが歴史に興味を持つきっかけとして、あるいは大人たちが改めて歴史を学び直すツールとして活用しやすい。漫画という親しみやすいフォーマットでありながら通史を体系的に押さえているため、親子で同じシリーズを共有できる点も強みである。
 
 ただし、一点だけ率直な感想を述べると、時代が古い作品も含まれているため、一部の描写が現代の価値観からすると「やや古い」と感じる部分がないわけではない。例えば、女性の描かれ方や、特定の民族に対する表現など、現代の多様な価値観から見ると改善の余地があると感じる箇所も正直ある。これは、作品が制作された当時の時代背景を考慮する必要があるが、現代の読者、特に子供たちに読ませる際には、保護者がそうした点について補足説明をするなどの配慮が必要になるかもしれない。しかし、だからといって作品全体の価値が損なわれるわけではない。むしろ、そうした点も含めて、過去の作品と現代の価値観の比較対照ができる良い機会と捉えることもできるはずだ。
 
@@ -95,7 +93,7 @@ mediaType: comic
 
 | 項目 | 詳細 |
 | :--- | :--- |
-| 価格 | 18,590円 |
+| 価格 | 最新価格は各ショップで確認 |
 | 商品名 | 集英社 コンパクト版 学習まんが 日本の歴史 全巻セット(全20巻+別巻2) 漫画 コミック イラスト 勉強 本 歴史 受験 日本 セット 学習 日本史 中学 大人 まんが 子供 児童書 小学生 歴史漫画 人物 子ども 贈り物 ギフト クリスマス プレゼント お祝い |
 
 ## 電子書籍で広がる歴史探求の扉
@@ -113,16 +111,16 @@ mediaType: comic
 <p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>あわせて読みたい関連解説</strong>：<a href="/blog/mashima-hiro-rave-manga-vs-comparison/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">『RAVE』原作コミック vs アニメ版 徹底比較！どっちから楽しむべき？</a> ／ <a href="/blog/neon-genesis-evangelion-tv-dvdbox/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">新世紀エヴァンゲリオンTV放映版DVDBOX！社会現象となった伝説の熱狂と魂の軌跡</a></p>
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
-<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>日本の歴史 まんが日本のすごい城</strong></div>
-<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%2597%25A5%25E6%259C%25AC%25E3%2581%25AE%25E6%25AD%25B4%25E5%258F%25B2%2520%25E3%2581%25BE%25E3%2582%2593%25E3%2581%258C%25E6%2597%25A5%25E6%259C%25AC%25E3%2581%25AE%25E3%2581%2599%25E3%2581%2594%25E3%2581%2584%25E5%259F%258E" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E6%97%A5%E6%9C%AC%E3%81%AE%E6%AD%B4%E5%8F%B2%20%E3%81%BE%E3%82%93%E3%81%8C%E6%97%A5%E6%9C%AC%E3%81%AE%E3%81%99%E3%81%94%E3%81%84%E5%9F%8E%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E6%2597%25A5%25E6%259C%25AC%25E3%2581%25AE%25E6%25AD%25B4%25E5%258F%25B2%2520%25E3%2581%25BE%25E3%2582%2593%25E3%2581%258C%25E6%2597%25A5%25E6%259C%25AC%25E3%2581%25AE%25E3%2581%2599%25E3%2581%2594%25E3%2581%2584%25E5%259F%258E" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a><a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F6296481%2Fb000fhftx16775%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #1d4ed8; border: 1px solid #93c5fd;">DMMで見る</a></div>
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>集英社 コンパクト版 学習まんが 日本の歴史 全巻セット(全20巻+別巻2)</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E9%259B%2586%25E8%258B%25B1%25E7%25A4%25BE%2520%25E3%2582%25B3%25E3%2583%25B3%25E3%2583%2591%25E3%2582%25AF%25E3%2583%2588%25E7%2589%2588%2520%25E5%25AD%25A6%25E7%25BF%2592%25E3%2581%25BE%25E3%2582%2593%25E3%2581%258C%2520%25E6%2597%25A5%25E6%259C%25AC%25E3%2581%25AE%25E6%25AD%25B4%25E5%258F%25B2%2520%25E5%2585%25A822%25E5%25B7%25BB" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/g00q0721.ve2q5176.g00q0721.ve2q6e77/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F17636747%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F21067001%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天ブックスで見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E9%259B%2586%25E8%258B%25B1%25E7%25A4%25BE%2520%25E3%2582%25B3%25E3%2583%25B3%25E3%2583%2591%25E3%2582%25AF%25E3%2583%2588%25E7%2589%2588%2520%25E5%25AD%25A6%25E7%25BF%2592%25E3%2581%25BE%25E3%2582%2593%25E3%2581%258C%2520%25E6%2597%25A5%25E6%259C%25AC%25E3%2581%25AE%25E6%25AD%25B4%25E5%258F%25B2%2520%25E5%2585%25A822%25E5%25B7%25BB" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E9%9B%86%E8%8B%B1%E7%A4%BE%20%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%E7%89%88%20%E5%AD%A6%E7%BF%92%E3%81%BE%E3%82%93%E3%81%8C%20%E6%97%A5%E6%9C%AC%E3%81%AE%E6%AD%B4%E5%8F%B2%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #047857; border: 1px solid #6ee7b7;">楽天市場で比較</a></div>
 </div>
 
-## 『日本の歴史 まんが日本のすごい城』の購入前チェックポイント
+## 『集英社 コンパクト版 学習まんが 日本の歴史』の購入前チェックポイント
 
-### よくある質問（FAQ）：『日本の歴史 まんが日本のすごい城』
+### よくある質問（FAQ）：『集英社 コンパクト版 学習まんが 日本の歴史 全22巻セット』
 
-<strong>Q1. 「時を超え、息づく歴史の舞台裏へ」の視点から見て、初見の読者でも楽しめますか？</strong>
-A1. はい。『日本の歴史 まんが日本のすごい城』（参考価格：1430円前後）は導入から世界観と人物描写が丁寧に描かれており、予備知識がなくても物語の核心に自然と引き込まれる構成になっています。
+<strong>Q1. コンパクト版（全20巻＋別巻2）は通常のハードカバー版と内容が異なりますか？</strong>
+A1. 本編の収録内容や通史の構成は共通しており、B6判クラスの持ち運びやすい判型にまとめたのがコンパクト版の特徴です。書棚への収まりやすさや持ち歩きやすさを重視する場合に適しています。
 
-<strong>Q2. 『学習まんが 日本の歴史』シリーズや関連書『まんが日本のすごい城』を読む際、通史セットとテーマ別書籍をどう使い分けると効果的ですか？</strong>
-A2. 通史セットで時代全体の流れや人物の相関を押さえつつ、『まんが日本のすごい城』（参考価格1,430円）のような特定テーマ・建築に焦点を当てた一冊を副読本として併用すると、年表だけでは掴みにくい時代背景の理解が立体的に深まります。
+<strong>Q2. 大人の学び直し用途でも全22巻セットは活用できますか？</strong>
+A2. はい。原始・古代から平成時代までを網羅した全20巻に加え、受験や教養整理にも役立つ別巻2冊（テーマ別・人物別）が揃うため、子ども用だけでなく大人の日本史再入門にも活用しやすい構成です。

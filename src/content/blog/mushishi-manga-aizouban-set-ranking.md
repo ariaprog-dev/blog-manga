@@ -18,7 +18,6 @@ sidebarProducts:
 - title: 蟲師
   url: https://al.dmm.com/?lurl=https%3A%2F%2Ftv.dmm.com%2Fvod%2Fdetail%2F%3Ftitle%3Dp30arsiym9tq8kjcbdbnhfh4u%26season%3Dhv1fdj4w8ffacqxk68to12pbj&af_id=DMMaria-999&ch=api
   imageUrl: https://ebook-assets.dmm.com/digital/e-book/b900alds20444/b900alds20444pl.jpg
-  price: 550
   microCopy: 詳細を見る
 heroImages:
 - https://ebook-assets.dmm.com/digital/e-book/b900alds20444/b900alds20444pl.jpg
@@ -42,10 +41,10 @@ DMMで楽しめる『蟲師』関連コンテンツは複数存在する。本�
 
 <div class="live-price-box" data-product-key="蟲師-愛蔵版" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
-<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">参考価格: ¥550</span>
+<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">販売価格・在庫</span>
+<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">最新価格は各ショップで確認</span>
 </div>
-<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
+<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※最新の価格・在庫・ポイント還元率は各ストアの商品ページでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
 <a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E8%259F%25B2%25E5%25B8%25AB%2520%25E6%2584%259B%25E8%2594%25B5%25E7%2589%2588" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（Kindle・紙版）</a>
@@ -116,8 +115,8 @@ DMMで楽しめる『蟲師』関連コンテンツは複数存在する。本�
 
 | 順位・視聴／読書形態 | 価格目安・コスト感 | 特徴・向いている読者スタイル |
 | :--- | :--- | :--- |
-| 第1位：原作漫画（電子コミック版） | 単巻または配信各話購入（参考配信枠550円前後〜） | 漆原友紀氏の描線やコマ間の余白をタブレット等で拡大しながら自分のペースで読みたい層向け |
-| 第2位：アニメシリーズ（映像配信） | 月額見放題・都度課金プラン（550円前後〜） | 増田俊郎氏の音楽・背景美術・音響とともに静謐な世界観へ没入したい視聴者向け |
+| 第1位：原作漫画（電子コミック版） | 単巻または各話購入（最新価格は各ショップで確認） | 漆原友紀氏の描線やコマ間の余白をタブレット等で拡大しながら自分のペースで読みたい層向け |
+| 第2位：アニメシリーズ（映像配信） | 月額見放題・都度課金プラン | 増田俊郎氏の音楽・背景美術・音響とともに静謐な世界観へ没入したい視聴者向け |
 | 第3位：『蟲師 愛蔵版』紙書籍セット | 巻数×大判単行本価格（新品・中古流通で変動） | 上質な紙質・カラー再現・大判サイズを手元の本棚にコレクションとして保管したい読者向け |
 
 全10巻というコンパクトな構成のため、紙の愛蔵版を揃える場合は書棚の奥行き・高さ、電子版で集める場合はセール時期やまとめ買いクーポンを確認しておくと計画的に揃えやすい。

@@ -20,7 +20,6 @@ sidebarProducts:
 - title: ウムヴェルト 五十嵐大介作品集
   url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F717839%2Fb900qkds02196%2F&af_id=DMMaria-999&ch=api
   imageUrl: https://ebook-assets.dmm.com/digital/e-book/b900qkds02196/b900qkds02196pl.jpg
-  price: 792
   microCopy: 詳細を見る
 ---
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
@@ -40,10 +39,10 @@ sidebarProducts:
 
 <div class="live-price-box" data-product-key="ウムヴェルト-五十嵐大介作品集" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
-<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">参考価格: ¥792</span>
+<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">販売価格・在庫</span>
+<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">最新価格は各ショップで確認</span>
 </div>
-<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
+<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※最新の価格・在庫・ポイント還元率は各ストアの商品ページでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
 <a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25A6%25E3%2583%25A0%25E3%2583%25B4%25E3%2582%25A7%25E3%2583%25AB%25E3%2583%2588%2520%25E4%25BA%2594%25E5%258D%2581%25E5%25B5%2590%25E5%25A4%25A7%25E4%25BB%258B%25E4%25BD%259C%25E5%2593%2581%25E9%259B%2586" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（Kindle・紙版）</a>
@@ -104,7 +103,7 @@ sidebarProducts:
 | 媒体タイプ | メリット | デメリット |
 | :--------- | :------------------------------------------- | :------------------------------------------------------- |
 | <strong>紙の単行本</strong> | ・<strong>大判で緻密な描線を堪能できる</strong><br>・所有欲を満たす<br>・電子書籍では再現しづらい紙の手触りや質感 | ・場所を取る<br>・価格が高めな場合がある<br>・持ち運びにくい |
-| <strong>電子書籍</strong> | ・<strong>DMMブックスで792円と手軽な価格</strong><br>・すぐに読み始められる<br>・場所を取らない<br>・持ち運びが容易（複数の作品を一括管理） | ・紙の手触りがない<br>・デバイスの画面サイズに左右される<br>・コレクションとしての所有欲は薄い |
+| <strong>電子書籍</strong> | ・<strong>各ストアのキャンペーンやポイント還元を活用可能</strong><br>・すぐに読み始められる<br>・場所を取らない<br>・持ち運びが容易（複数の作品を一括管理） | ・紙の手触りがない<br>・デバイスの画面サイズに左右される<br>・コレクションとしての所有欲は薄い |
 
 『ウムヴェルト』のような作品集の場合、DMMブックスの電子書籍は<strong>手軽さと利便性</strong>が大きな魅力だ。特に五十嵐作品は、じっくりと一枚絵を鑑賞するように読むことも多いため、ズーム機能のある電子書籍との相性も良い。
 
@@ -114,29 +113,29 @@ sidebarProducts:
 
 『ウムヴェルト 五十嵐大介作品集』をこれから読み始める人に向けて、具体的な購読ガイドをまとめた。
 
-| 項目         | 詳細                                                   | 補足情報                                                         |
+| 項目 | 詳細 | 補足情報 |
 | :----------- | :----------------------------------------------------- | :--------------------------------------------------------------- |
-| <strong>刊行巻数</strong> | 1巻（作品集のため完結）                                | 複数の短編が収録されている                                       |
-| <strong>1冊あたりの価格</strong> | <strong>792円（DMMブックス）</strong>                             | 紙の単行本は書店によって価格が異なる場合がある                   |
-| <strong>全巻揃えた場合の総額</strong> | 792円                                                  | 作品集なのでこの一冊で完結する                                   |
-| <strong>試し読みの有無</strong> | DMMブックスで試し読みが可能                          | 数ページ程度だが、絵柄や雰囲気を掴むのに役立つ                   |
-| <strong>おすすめ購読ステップ</strong> | <strong>1. 試し読みで世界観に触れる</strong><br>2. 価格を確認（DMMブックスは時々セールを行う）<br>3. 電子書籍で購入し、まずは気軽に読み始める | 独特な作品なので、まず肌に合うか確認するのが重要                  |
+| <strong>刊行巻数</strong> | 1巻（作品集のため完結） | 複数の短編が収録されている |
+| <strong>1冊あたりの価格</strong> | 最新価格は各ショップで確認 | 紙の単行本は書店によって価格が異なる場合がある |
+| <strong>全巻揃えた場合の総額</strong> | 最新価格は各ショップで確認 | 作品集なのでこの一冊で完結する |
+| <strong>試し読みの有無</strong> | DMMブックスで試し読みが可能 | 数ページ程度だが、絵柄や雰囲気を掴むのに役立つ |
+| <strong>おすすめ購読ステップ</strong> | <strong>1. 試し読みで世界観に触れる</strong><br>2. 価格を確認（DMMブックスは時々セールを行う）<br>3. 電子書籍で購入し、まずは気軽に読み始める | 独特な作品なので、まず肌に合うか確認するのが重要 |
 
 DMMブックスでは、しばしば漫画のセールが開催されることがある。購入を検討している場合は、一度サイトをチェックしてみるのも有効だ。
 
-初めて五十嵐大介作品を読む際は、まず<strong>無料の試し読みでその独特な世界観に触れる</strong>ことが有効である。作品が読者の興味を引くかを確認した上で、本編の購入を検討できる。
+未読の方が五十嵐大介作品に触れる際は、まず<strong>無料の試し読みでその独特な世界観に触れる</strong>ことが有効である。作品が読者の興味を引くかを確認した上で、本編の購入を検討できる。
 
 ## 異形の作品がもたらす読後感
 
-五十嵐大介作品集『ウムヴェルト』は、読書体験を広げる一冊である。価格は792円でDMMブックスから提供されており、ジャンルはファンタジー、SFに分類される。しかし、そのカテゴリに収まりきらないのがこの作品の真髄だろう。
+五十嵐大介作品集『ウムヴェルト』は、読書体験を広げる一冊である。DMMブックスなどの電子書籍ストアでも提供されており、ジャンルはファンタジー、SFに分類される。しかし、そのカテゴリに収まりきらないのがこの作品の真髄だろう。
 
-| 項目   | 詳細                   |
+| 項目 | 詳細 |
 | :----- | :--------------------- |
-| 価格   | 792円                  |
-| サービス | DMMブックス            |
-| フロア | コミック               |
-| 著者/作者 | 五十嵐大介             |
-| ジャンル | ファンタジー, SF         |
+| 価格 | 最新価格は各ショップで確認 |
+| サービス | DMMブックス |
+| フロア | コミック |
+| 著者/作者 | 五十嵐大介 |
+| ジャンル | ファンタジー, SF |
 
 この作品を読むことは、単にストーリーを追うだけでなく、<strong>作者の思考の痕跡を辿るような知的探求</strong>に近い。緻密な描線と計算され尽くした構図は、読むたびに新たな発見を与え、読者の世界観に影響を与える力がある。
 

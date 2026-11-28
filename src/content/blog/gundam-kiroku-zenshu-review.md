@@ -1,57 +1,59 @@
 ---
-title: 'ガンダム創造の原点へ没入！KADOKAWA記録全集の深層レビュー'
-description: '初代『機動戦士ガンダム』の制作過程を詳細に記録したKADOKAWA記録全集。膨大な資料から作品の深淵を探り、日常に知的な刺激をもたらす魅力と、ファンのための深い考察を徹底レビュー。'
+title: '初代ガンダム創造の原点！日本サンライズ版『機動戦士ガンダム 記録全集』と関連設定資料の現在'
+description: '初代『機動戦士ガンダム』の制作記録として日本サンライズから刊行された伝説の『記録全集』全5巻の資料的価値と、現行で入手しやすい公式設定資料集・研究書籍の選び方を徹底解説します。'
 pubDate: '2026-09-11'
-heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/cometostore/cabinet/20200813-1/b00ucr9pk2.jpg?_ex=600x600'
+heroImage: 'https://pics.dmm.com/mono/book/entertainment/bkt34818062/bkt34818062pl.jpg'
 genre: 'manga'
-mediaType: 'figure'
+mediaType: 'comic'
 tags:
   - 'angle:review'
 faq:
-  - question: 'この記録全集は、初代ガンダムをあまり知らない人でも楽しめますか？'
-    answer: '作品の制作過程を深く理解するための資料集なので、ある程度初代ガンダムに親しんでいる方がより楽しめるでしょう。物語やキャラクターを知っていれば、掲載されている設定画や絵コンテの意図を深く読み解けます。'
-  - question: '高価なので、購入を迷っています。どんな価値がありますか？'
-    answer: '単なる設定集ではなく、作品の思想やクリエイターの情熱、試行錯誤の過程までが克明に記録されている。作品がどのようにして「名作」となったのか、その源流に触れることで、ガンダムへの理解度を深める資料として価値がある。'
-  - question: '各巻単体でも購入可能とのことですが、まずはどの巻から手をつけるのが適していますか？'
-    answer: '興味のあるテーマやキャラクターが明確であれば、それに特化した巻からが良いでしょう。例えば、メカデザインに興味があればメカニック設定が豊富な巻、キャラクターの心理描写に惹かれるならキャラクター設定や絵コンテ中心の巻を選ぶのが適している。'
+  - question: '『機動戦士ガンダム 記録全集』は初代ガンダムをあまり知らない人でも楽しめますか？'
+    answer: '作品の制作背景や当時のビジュアル資料をまとめた設定・記録集であるため、ある程度『機動戦士ガンダム』本編に親しんでいる方がより深く楽しめます。物語やキャラクターを知っていれば、掲載されている設定画や制作記録の意図をより立体的に読み解けます。'
+  - question: '現在は新刊書店での入手が難しいようですが、資料集を読む価値や代替手段はありますか？'
+    answer: '1979〜1980年に日本サンライズから刊行された『記録全集』全5巻は新刊での常時流通を終えた歴史的アーカイブですが、サンライズ作品や宇宙世紀の設定・制作思想を紐解く現行の公式設定資料集・解説書も複数刊行されています。現行で手に入りやすい関連資料をあわせて活用することで、作品への理解を深く広げられます。'
+  - question: '『機動戦士ガンダム 記録全集』と近年の関連設定資料集はどのように選べばよいですか？'
+    answer: '1979年放送当時の熱量や原典資料の記録性に触れるなら『記録全集』の復刻・資料情報を確認しつつ、モビルスーツのメカニック変遷や科学考証まで体系的に手元へ置きたい場合は、サンライズ監修の現行設定資料集や宇宙世紀解説本から揃えるのが現実的です。'
 sidebarProducts:
-  - title: 'KADOKAWA 機動戦士ガンダム 記録全集'
-    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3DKADOKAWA%20%E6%A9%9F%E5%8B%95%E6%88%A6%E5%A3%AB%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0%20%E8%A8%98%E9%8C%B2%E5%85%A8%E9%9B%86&af_id=DMMaria-999'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/cometostore/cabinet/20200813-1/b00ucr9pk2.jpg?_ex=600x600'
-    price: 0
-    microCopy: '詳細を見る'
+  - title: '機動戦士ガンダムF90設定資料集 1990-2025（サンライズ）'
+    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbkt34818062%2F&af_id=DMMaria-999&ch=api'
+    imageUrl: 'https://pics.dmm.com/mono/book/entertainment/bkt34818062/bkt34818062pl.jpg'
+    microCopy: '関連設定資料を見る'
+  - title: '機動戦士ガンダム宇宙世紀vs.現代科学'
+    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbkt34320074%2F&af_id=DMMaria-999&ch=api'
+    imageUrl: 'https://pics.dmm.com/mono/book/entertainment/bkt34320074/bkt34320074pl.jpg'
+    microCopy: '関連書籍を見る'
 ---
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
-アニメ『機動戦士ガンダム』は、関連書籍を収集するホビーコレクターにとって、特に重要な作品の一つである。
+アニメ『機動戦士ガンダム』は、作品世界の設計図や設定資料を収集するホビー・アニメファンにとって特別な原点を持つ作品である。
 
-その創造の深淵に触れることができると聞き、迷わず手に入れたのがKADOKAWA 機動戦士ガンダム 記録全集だ。
+その放送当時（1979年〜1980年）に制作会社である<strong>日本サンライズ（現：サンライズ／バンダイナムコフィルムワークス）</strong>自身が発行・販売した伝説的な資料群が『機動戦士ガンダム 記録全集』（全5巻）だ（※現在は新刊流通を終えたヴィンテージ資料集のため、下の案内カードでは現在新品・通販で入手しやすいサンライズ公式の関連設定資料集を紹介しています）。
 
-この全集は、初代ガンダムがどのように生まれ、形作られていったかを克明に記録した資料集である。アニメーションの制作過程や、その背景にあるクリエイターたちの思考に興味がある人には、まさに「教科書」と呼べる一冊となるだろう。
+この記録全集は、初代ガンダムがどのように生まれ、形作られていったかを当時のビジュアルや設定資料・スタッフ/キャスト記録とともに編纂した記念碑的アーカイブである。アニメーションの制作過程やその背景にあるクリエイターたちの思考に興味がある読者にとって、原典と呼べる存在感を放ち続けている。
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/cometostore/cabinet/20200813-1/b00ucr9pk2.jpg?_ex=600x600" alt="KADOKAWA 機動戦士ガンダム 記録全集" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://pics.dmm.com/mono/book/entertainment/bkt34818062/bkt34818062pl.jpg" alt="機動戦士ガンダムF90設定資料集 1990-2025（関連公式資料）" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
-<div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #eff6ff; color: #1d4ed8; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">📘 編集部イチオシ名作</span><span style="color: #64748b; font-size: 0.75rem;">完結・全巻セット / リマスター</span></div>
-<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">KADOKAWA 機動戦士ガンダム 記録全集</h4>
+<div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">📚 現行入手可能な関連資料</span><span style="color: #64748b; font-size: 0.75rem;">サンライズ関連設定資料・宇宙世紀研究</span></div>
+<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">機動戦士ガンダムF90設定資料集 1990-2025（ほかガンダム関連設定資料）</h4>
 
-<div class="live-price-box" data-product-key="kadokawa-機動戦士ガンダム-記録全集" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
+<div class="live-price-box" data-product-key="gundam-archive-reference" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
-<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">価格・在庫を確認</span>
+<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">販売価格・在庫</span>
+<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">最新価格は各ショップで確認</span>
 </div>
-<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
+<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※最新の価格・在庫・ポイント還元率は各ストアの商品ページでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DKADOKAWA%2520%25E6%25A9%259F%25E5%258B%2595%25E6%2588%25A6%25E5%25A3%25AB%25E3%2582%25AC%25E3%2583%25B3%25E3%2583%2580%25E3%2583%25A0%2520%25E8%25A8%2598%25E9%258C%25B2%25E5%2585%25A8%25E9%259B%2586" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（Kindle・紙版）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%25A9%259F%25E5%258B%2595%25E6%2588%25A6%25E5%25A3%25AB%25E3%2582%25AC%25E3%2583%25B3%25E3%2583%2580%25E3%2583%25A0%2520%25E8%25A8%25AD%25E5%25AE%259A%25E8%25B3%2587%25E6%2596%2599%25E9%259B%2586" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（ガンダム設定資料集）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
-<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FKADOKAWA%20%E6%A9%9F%E5%8B%95%E6%88%A6%E5%A3%AB%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0%20%E8%A8%98%E9%8C%B2%E5%85%A8%E9%9B%86%2F" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DKADOKAWA%2520%25E6%25A9%259F%25E5%258B%2595%25E6%2588%25A6%25E5%25A3%25AB%25E3%2582%25AC%25E3%2583%25B3%25E3%2583%2580%25E3%2583%25A0%2520%25E8%25A8%2598%25E9%258C%25B2%25E5%2585%25A8%25E9%259B%2586" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
-<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3DKADOKAWA%20%E6%A9%9F%E5%8B%95%E6%88%A6%E5%A3%AB%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0%20%E8%A8%98%E9%8C%B2%E5%85%A8%E9%9B%86&af_id=DMMaria-999" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMMで見る（限定特典・配信）</a>
-<a href="https://px.a8.net/svt/ejp?a8mat=4B8BWQ+57JKC2+1892+6QEUP" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #059669, #047857); color: #ffffff !important;">📚 全巻セット（漫画全巻ドットコム）</a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E6%A9%9F%E5%8B%95%E6%88%A6%E5%A3%AB%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0%20%E8%A8%AD%E5%AE%9A%E8%B3%87%E6%96%99%E9%9B%86%2F" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（設定資料を探す）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E6%25A9%259F%25E5%258B%2595%25E6%2588%25A6%25E5%25A3%25AB%25E3%2582%25AC%25E3%2583%25B3%25E3%2583%2580%25E3%2583%25A0%2520%25E8%25A8%25AD%25E5%25AE%259A%25E8%25B3%2587%25E6%2596%2599%25E9%259B%2586" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbkt34818062%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMMで関連設定資料を見る</a>
 </div>
 </div>
 </div>
@@ -59,64 +61,50 @@ sidebarProducts:
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
 
-## ガンダムの創造現場へ誘う、深淵なる記録集
+## ガンダムの創造現場へ誘う、日本サンライズ公式アーカイブ
 
-このKADOKAWA 機動戦士ガンダム 記録全集は、まさにアニメ制作の裏側を丸ごと詰め込んだ宝箱だ。設定画、原画、絵コンテ、キャラクターやメカニックのデザイン画まで、膨大な資料が復刻されている。
+『機動戦士ガンダム 記録全集』は、TVシリーズ放送当時の1979年から1980年にかけて日本サンライズから直接刊行された全5巻構成の公式記録書だ。各話のビジュアルダイジェストやストーリー記録に加え、設定資料や制作スタッフ・キャストの証言など、放映当時の制作現場の熱気をそのまま伝える構成になっている。
 
-ページをめくるたびに、あの名シーンやキャラクターたちが、どのように生み出されたのかを知ることができる。
+ページを追うごとに、あの名シーンやキャラクター・モビルスーツ群がどのように構想され、テレビアニメという枠の中で表現されたのかを辿ることができる。
 
-富野由悠季監督のメモや初期設定など、クリエイティブの源泉に触れることで、作品の解像度が格段に上がる。ただ作品を見るだけでは得られない、深い感動と発見がここにはある。ガンダムという巨大な存在が、どれほどの情熱と試行錯誤の末に形になったのかを実感できるだろう。
+富野由悠季監督をはじめとする制作陣の言葉や当時の設定群に触れることで、本編視聴だけでは見えにくい背景構造への理解が深まる。ガンダムというシリーズがどれほどの情熱と試行錯誤の末に立ち上がったのかを実感させてくれる記録集だ。
 
-## 伝説が生まれた軌跡を追体験する資料の洪水
+## 伝説が生まれた軌跡を辿る設定・構成情報
 
-この記録全集を手に取ると、まずその情報量の多さに圧倒される。特に印象的なのは、キャラクターやモビルスーツが決定稿に至るまでのデザイン変遷だ。ラフスケッチの段階から、細部がどう調整され、現在の姿になったのかが手に取るようにわかる。
+全5巻を通して見えてくる最大の特徴は、キャラクターやモビルスーツのメカニック設定、世界観の用語・年表が放映時期と地続きの温度感で収録されている点にある。安彦良和氏によるキャラクター表現や大河原邦男氏のメカニックデザインなど、作品世界を支えたクリエイティブの息吹を資料として確認できるのが大きな魅力だ。
 
-例えば、アムロ・レイの初期デザイン案や、ザクの形状がどのように検討されていったか。これらの「途中経過」を見ることで、クリエイターが何を表現しようとしたのか、どんな制約の中で形にしたのかを深く想像できる。
+単に懐かしむためのファンブックにとどまらず、後年につながる「宇宙世紀」という重層的なSF設定がどのように確立されていったのかを追うアーカイブとしての資料価値を備えている。
 
-これは単なる資料ではなく、ガンダムという作品が「生き物」として進化していく過程の記録として捉えることができる。
+また、ストーリー解説やスタッフによる解説コメントをあわせて読むことで、戦闘描写の裏にある人間ドラマや作品全体の構成意図がより鮮明に浮かび上がる。
 
-絵コンテや原画からは、アニメーターたちの筆致や修正の跡が生々しく伝わってくる。線の勢いや細かな表情の指示から、彼らがシーンに込めた意図を読み解くのは、まるでタイムスリップして制作現場にいるような感覚だ。
+## 映像表現とテーマ性を深掘りする思想の記録
 
-特に、戦闘シーンのスピード感やキャラクターの感情の機微が、絵コンテの段階でいかに緻密に設計されていたかを知ると、改めて感動を覚える。
+『機動戦士ガンダム』が単なるロボットアニメにとどまらず、戦争の中で葛藤する人間たちの群像劇として語り継がれる背景には、制作陣が込めた明確なドラマ構造がある。『記録全集』などの公式資料に触れることで、アムロやシャア、ホワイトベースのクルーたちが背負った「戦うことの意味」や「ニュータイプ」という概念の輪郭がより立体的に理解できる。
 
-## 原画に宿る情熱と、作品を形作る思想の断片
+一話一話の構成や設定の細部に込められた意図を読み解く体験は、初代ガンダムを歴史的な人間ドラマとして捉え直す貴重な視点を与えてくれる。
 
-この記録全集において、富野監督の直筆メモや初期プロットの断片は特に注目すべき点である。そこには、アムロの苦悩、シャアの葛藤、そして戦争の虚しさといった、ガンダムの根底を流れる核心テーマが、まだ粗削りながらも明確に記されている。
+## コアファンが押さえるべき流通状況と選び方
 
-「人間とは何か」「戦うことの意味」といった問いが、どのようにキャラクターのセリフや行動に落とし込まれていったのか。資料を読み解くことで、作中の名シーンが持つメッセージがより深く響くようになる。
+当時のオリジナル版『機動戦士ガンダム 記録全集』（日本サンライズ刊・全5巻）はファンの間で現在も資料的評価が高い一方、刊行から長い年月が経過しているため、新刊書店での常時流通は終了している。
 
-例えば、アムロがニュータイプとして覚醒していく過程の描写が、初期構想からどのように練られていったかを知ると、彼の成長がより立体的に感じられるんだ。
+そのため、手元に資料を置いて設定や設計思想を深掘りしたい場合は、古書流通のコンディションに留意しつつ、現行で新品入手しやすいサンライズ監修の設定資料集（『機動戦士ガンダムF90設定資料集 1990-2025』など）や宇宙世紀の科学・設定解説本を併用するのが合理的な選択肢だ。
 
-ブライト艦長の人間臭さや、ホワイトベースクルーの連帯感がどのように描かれようとしていたのか。一枚の絵コンテ、一つの設定画の裏側に、作品を構築する思想が隠されていることを実感する。
-
-これは、ガンダムという作品が単なるロボットアニメではなく、普遍的な人間ドラマであることを再認識させてくれる体験だ。
-
-## コアファン必携の一冊、その価値と覚悟
-
-この記録全集は、ガンダムのコアなファン層からの評価が非常に高い。SNSやブログでも「これぞ究極の資料集」「価格以上の価値がある」といった声が目立つ。初めてページを開いた時の高揚感は、多くの読者に共通する。本当に作品愛が深い人ほど、その価値を理解できるはずだ。
-
-しかし、注意点もある。全5巻セットで価格は31,680円と、決して安価ではない。
-
-気軽に手を出すには、少し躊躇するかもしれない。また、掲載されているのはあくまで制作資料であり、一般向けの解説書とは異なる。
-
-作品を深掘りしたいという強い探究心がなければ、その膨大な情報を読み解くのは難しいと感じる可能性もある。
-
-これは、ガンプラ製作や二次創作、あるいはアニメ研究など、ガンダムという作品を様々な角度から深く愛し、自身の活動に活かしたいと考える人にこそ向いている。作品の裏側にある「なぜ」を知りたい、クリエイターの息遣いを感じたい、そんな情熱を持つ人には最高の投資となるはずだ。
+ガンプラ製作や作品研究、アニメ史への関心を深めたい読者にとって、原典となる当時の記録への視点と現行資料の網羅性を組み合わせることで、より豊かな探究体験が得られる。
 
 ### スペック・購入検討ポイント整理表
 
-購入検討時の判断材料として、掲載アイテムの基本仕様・参考価格帯・確認ポイントを以下の表に整理しています。
+購入検討時の判断材料として、記事内で触れたアーカイブおよび現行関連資料の比較ポイントを以下の表に整理しています。
 
-| 確認項目・ラインナップ | 仕様・価格目安 | 選定時の確認ポイント |
+| 確認項目・ラインナップ | 仕様・入手目安 | 選定時の確認ポイント |
 | :--- | :--- | :--- |
-| 対象作品・掲載商品 | KADOKAWA 機動戦士ガンダム 記録全集 | 記事内の主要紹介アイテム |
-| 媒体区分・想定仕様 | ホビー・大型資料・書籍 | 視聴・閲覧環境（端末・プレイヤー・収納棚）との適合を確認 |
-| 価格・流通目安 | 各ECサイトで最新価格を確認 | 在庫状況・送料・クーポン適用有無を含めて比較 |
-| 複数ストア比較の視点 | Amazon／楽天市場／Yahoo!／DMM等 | ポイント還元率・限定特典の有無・中古流通状態を照合 |
+| 日本サンライズ版『機動戦士ガンダム 記録全集』全5巻 | 1979〜1980年刊（新刊流通終了・ヴィンテージ資料） | 発行元は当時の制作会社「日本サンライズ」。現在入手する場合は古書コンディションの確認が必須 |
+| 現行関連資料：機動戦士ガンダムF90設定資料集 1990-2025 等 | 新品・通販で入手可（最新価格は各ショップで確認） | 現行のサンライズ公式設定・宇宙世紀資料を安定した新品コンディションで手元に置きたい場合に好適 |
+| 価格・流通目安 | 各ECサイトで最新価格を確認 | 在庫状況・送料・ポイント還元を含めて比較 |
+| 複数ストア比較の視点 | Amazon／楽天市場／Yahoo!／DMM等 | 新品在庫の有無や関連設定資料集のラインナップを比較 |
 
 <p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>あわせて読みたい関連解説</strong>：<a href="/blog/record-of-lodoss-war-ova-remaster/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">OVA版 ロードス島戦記 デジタルリマスター：蘇る剣と魔法の原点</a> ／ <a href="/blog/hj-mechanics-functional-beauty/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">HJメカニクス徹底考察：機能美に宿るSFとリアルの融合</a></p>
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
-<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>KADOKAWA 機動戦士ガンダム 記録全集</strong></div>
-<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DKADOKAWA%2520%25E6%25A9%259F%25E5%258B%2595%25E6%2588%25A6%25E5%25A3%25AB%25E3%2582%25AC%25E3%2583%25B3%25E3%2583%2580%25E3%2583%25A0%2520%25E8%25A8%2598%25E9%258C%25B2%25E5%2585%25A8%25E9%259B%2586" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FKADOKAWA%20%E6%A9%9F%E5%8B%95%E6%88%A6%E5%A3%AB%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0%20%E8%A8%98%E9%8C%B2%E5%85%A8%E9%9B%86%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DKADOKAWA%2520%25E6%25A9%259F%25E5%258B%2595%25E6%2588%25A6%25E5%25A3%25AB%25E3%2582%25AC%25E3%2583%25B3%25E3%2583%2580%25E3%2583%25A0%2520%25E8%25A8%2598%25E9%258C%25B2%25E5%2585%25A8%25E9%259B%2586" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a><a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3DKADOKAWA%20%E6%A9%9F%E5%8B%95%E6%88%A6%E5%A3%AB%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0%20%E8%A8%98%E9%8C%B2%E5%85%A8%E9%9B%86&af_id=DMMaria-999" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #1d4ed8; border: 1px solid #93c5fd;">DMMで見る</a></div>
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>機動戦士ガンダム 関連公式設定資料集</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%25A9%259F%25E5%258B%2595%25E6%2588%25A6%25E5%25A3%25AB%25E3%2582%25AC%25E3%2583%25B3%25E3%2583%2580%25E3%2583%25A0%2520%25E8%25A8%25AD%25E5%25AE%259A%25E8%25B3%2587%25E6%2596%2599%25E9%259B%2586" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E6%A9%9F%E5%8B%95%E6%88%A6%E5%A3%AB%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0%20%E8%A8%AD%E5%AE%9A%E8%B3%87%E6%96%99%E9%9B%86%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E6%25A9%259F%25E5%258B%2595%25E6%2588%25A6%25E5%25A3%25AB%25E3%2582%25AC%25E3%2583%25B3%25E3%2583%2580%25E3%2583%25A0%2520%25E8%25A8%25AD%25E5%25AE%259A%25E8%25B3%2587%25E6%2596%2599%25E9%259B%2586" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a><a href="https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbkt34818062%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #1d4ed8; border: 1px solid #93c5fd;">DMMで見る</a></div>
 </div>

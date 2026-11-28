@@ -12,19 +12,17 @@ faq:
   answer: デジタルリマスター版は、オリジナルのフィルムネガから高解像度でスキャンし、最新技術で映像のノイズ除去や色彩補正が施されています。これにより、当時の粗かった画質が飛躍的に向上し、より鮮明で美しい映像で作品を鑑賞できます。特に暗部や細かい背景描写のディテールが格段に見やすくなっています。
 - question: ロードス島戦記を初めて見るのですが、OVA版から入っても楽しめますか？
   answer: はい、楽しめます。OVA版は全13話で、原作小説「灰色の魔女」編をベースに独立した物語として構成されています。 パーンやディードリットたちの出会いから冒険の始まり、そしてクライマックスまでが凝縮されており、作品の世界観やキャラクターの魅力を十分に理解できます。ここからロードス島戦記の世界へ足を踏み入れるのは、素晴らしい体験になるでしょう。
-- question: 価格が少し高く感じますが、購入する価値はありますか？
-  answer: 11,220円という価格は確かに安価ではありません。しかし、日本のファンタジーアニメの歴史に残る名作を、最高の映像クオリティで手元に置けるという点に価値があります。
-    デジタルリマスター化には多大な時間とコストがかかっており、その結果として作品本来の映像美が最大限に引き出されています。コレクションとして、また繰り返し見返すことで得られる感動を考慮すれば、十分購入を検討する価値があるでしょう。
+- question: 本格仕様のBlu-ray BOXですが、購入する価値はありますか？
+  answer: 日本のファンタジーアニメの歴史に残る名作を、オリジナルネガからのデジタルリマスターによる高精細な映像クオリティで手元に置ける点に大きな価値があります。
+    ノイズ除去や色彩補正などの丁寧なリマスター工程によって作品本来の映像美が引き出されており、コレクションとして繰り返し見返すことを重視するファンには有力な選択肢です。最新の実売価格や仕様は各販売ページで確認してください。
 sidebarProducts:
 - title: OVA版 ロードス島戦記 デジタルリマスター Blu-ray BOX スタンダード エディション （ブルーレイディスク）
   url: https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_747kaxa9829%2F&af_id=DMMaria-999&ch=api
   imageUrl: https://pics.dmm.com/mono/movie/animation/n_747kaxa9829/n_747kaxa9829pl.jpg
-  price: 11220
   microCopy: 詳細を見る
 - title: OVA版 ロードス島戦記 デジタルリマスター Blu-ray BOX （ブルーレイディスク）
   url: https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_747kaxa9807%2F&af_id=DMMaria-999&ch=api
   imageUrl: https://pics.dmm.com/mono/movie/animation/n_747kaxa9807/n_747kaxa9807pl.jpg
-  price: 35530
   microCopy: 詳細を見る
 heroImages:
 - https://pics.dmm.com/mono/movie/animation/n_747kaxa9829/n_747kaxa9829pl.jpg
@@ -36,11 +34,7 @@ heroImages:
 
 当時、VHSで何度も繰り返し視聴していた世代も存在する。
 
-当時の映像は、どうしても画質の粗さが否めなかった。初めてデジタルリマスター版を視聴した時、その鮮烈な色彩と細部の描写に息を呑んだ。
-
-単なる高画質化ではない、作品への深いリスペクトが詰まった決定版だと感じたよ。ディードリットの耳の先、パーンの甲冑の傷痕、そしてロードス島の豊かな自然。
-
-これら全てが、まるで当時作者が意図したままの姿で眼前に現れたような感動があった。
+当時の映像は、どうしても画質の粗さが否めなかった。デジタルリマスター版ではその鮮烈な色彩と細部の描写が際立ち、作品への深いリスペクトが詰まった決定版に仕上がっている。ディードリットの耳の先、パーンの甲冑の傷痕、そしてロードス島の豊かな自然まで、作り手が意図した描写の機微をよりクリアに味わえる点が見どころだ。
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -53,10 +47,10 @@ heroImages:
 
 <div class="live-price-box" data-product-key="ova版-ロードス島戦記-デジタルリマスター" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
-<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">参考価格: ¥11,220</span>
+<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">販売価格・在庫</span>
+<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">最新価格は各ショップで確認</span>
 </div>
-<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
+<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※最新の価格・在庫・ポイント還元率は各ストアの商品ページでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
 <a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DOVA%25E7%2589%2588%2520%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%2589%25E3%2582%25B9%25E5%25B3%25B6%25E6%2588%25A6%25E8%25A8%2598%2520%25E3%2583%2587%25E3%2582%25B8%25E3%2582%25BF%25E3%2583%25AB%25E3%2583%25AA%25E3%2583%259E%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25BC" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（Kindle・紙版）</a>
@@ -100,7 +94,7 @@ OVA版「ロードス島戦記」は、日本のファンタジー作品に計�
 
 ## デジタルリマスター版の価格と視聴環境への割り切り
 
-このOVA版 ロードス島戦記 デジタルリマスターの価格は11,220円だ。正直なところ、ストリーミングサービスが主流の現代において、物理メディアでこの価格は高く感じる人もいるかもしれない。
+このOVA版 ロードス島戦記 デジタルリマスターは、ストリーミングサービスが主流の現代において、物理メディアならではの価格帯と価値を見極めて選びたいアイテムである。スタンダード エディションなど仕様によって価格帯や特典が異なるため、各ショップの最新価格・在庫を比較しながら検討するのがよい。
 
 しかし、これは単なる過去作品の再販とは一線を画す。莫大な時間とコストをかけて行われたデジタルリマスター作業は、作品の持つ本来の魅力を最大限に引き出すためのものだ。
 
@@ -114,11 +108,7 @@ OVA版「ロードス島戦記」は、日本のファンタジー作品に計�
 
 このデジタルリマスター版は、単なる映像作品としてだけでなく、コレクションアイテムとしても高い価値を持つ。パッケージデザインはシンプルながらも、ロードス島戦記の世界観を静かに表現している。
 
-書棚に並べた時、その存在感は他のアニメとは一線を画すはずだ。まるで美術品のような風格を漂わせている。
-
-SNSなどを見ても、「当時の感動が蘇った」「こんなに綺麗になるなんて驚き」「初めて観たが、これが日本のファンタジーの原点か」といった高評価が多数見受けられる。特に当時のファンからは、青春時代の思い出が鮮やかな映像と共に蘇ったと熱い声が上がっているようだ。
-
-当時ぼやけていた炎の描写や、キャラクターの細かな表情が鮮明になったことで、物語への没入感が格段に増すとされる。
+書棚に並べた時の存在感は大きく、美術品のように長く手元に置いて鑑賞しやすいパッケージとなっている。当時の放送やVHSを知る世代から、日本のファンタジーアニメの原点を高画質で味わいたい未見の層まで、鮮明になった炎の描写やキャラクターの繊細な表情を改めて堪能できる点が高く評価されている。
 
 ## 製品仕様・購入選択肢の比較整理表
 
@@ -126,8 +116,8 @@ SNSなどを見ても、「当時の感動が蘇った」「こんなに綺麗�
 
 | 確認項目・ラインナップ | 仕様・価格目安 | 選定時の確認ポイント |
 | :--- | :--- | :--- |
-| OVA版 ロードス島戦記 デジタルリマスター Blu-ray BOX スタンダード エディション （ブルーレイディスク） | 11,220円（参考価格） | 本編・主要パッケージ／第1候補 |
-| OVA版 ロードス島戦記 デジタルリマスター Blu-ray BOX （ブルーレイディスク） | 35,530円（参考価格） | 比較・関連アイテム／別仕様 |
+| OVA版 ロードス島戦記 デジタルリマスター Blu-ray BOX スタンダード エディション （ブルーレイディスク） | 最新価格は各ショップで確認 | 本編・主要パッケージ／第1候補 |
+| OVA版 ロードス島戦記 デジタルリマスター Blu-ray BOX （ブルーレイディスク） | 最新価格は各ショップで確認 | 比較・関連アイテム／別仕様 |
 | 購入前の共通確認事項（映像ソフト・配信（Blu-ray／DVD／配信）） | 各ストアの最新在庫・セール・ポイント条件を比較 | 媒体仕様（対応再生機器・判型・電子／紙）の確認が重要 |
 
 <p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>あわせて読みたい関連解説</strong>：<a href="/blog/reincarnated-heavy-knight-game-knowledge/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">「追放された転生重騎士」が示す、不遇職が最強になる痛快さとは？</a> ／ <a href="/blog/recovering-girl-expelled-party-manga/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">追放回復士の少女。なぜ彼女は最強になり、そして様子がおかしいのか？</a></p>

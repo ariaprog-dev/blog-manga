@@ -18,12 +18,10 @@ sidebarProducts:
   - title: '特装版 進撃の巨人 悔いなき選択 2'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbkt07329912%2F&af_id=DMMaria-999&ch=api'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0469/9784063770469.jpg?_ex=600x600'
-    price: 880
     microCopy: '詳細を見る'
   - title: '特装版 進撃の巨人 悔いなき選択 1'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbkt07321424%2F&af_id=DMMaria-999&ch=api'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0469/9784063770469.jpg?_ex=600x600'
-    price: 880
     microCopy: '詳細を見る'
 heroImages:
   - 'https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0469/9784063770469.jpg?_ex=600x600'
@@ -46,10 +44,10 @@ heroImages:
 
 <div class="live-price-box" data-product-key="特装版-進撃の巨人-悔いなき選択-2" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
-<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">参考価格: ¥880</span>
+<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">販売価格・在庫</span>
+<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">最新価格は各ショップで確認</span>
 </div>
-<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
+<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※最新の価格・在庫・ポイント還元率は各ストアの商品ページでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
 <a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E7%2589%25B9%25E8%25A3%2585%25E7%2589%2588%2520%25E9%2580%25B2%25E6%2592%2583%25E3%2581%25AE%25E5%25B7%25A8%25E4%25BA%25BA%2520%25E6%2582%2594%25E3%2581%2584%25E3%2581%25AA%25E3%2581%258D%25E9%2581%25B8%25E6%258A%259E%25202" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（Kindle・紙版）</a>
@@ -95,8 +93,8 @@ heroImages:
 
 | ラインナップ | 参考価格目安 | 主な仕様・注目ポイント |
 | :--- | :--- | :--- |
-| 第1位：特装版 進撃の巨人 悔いなき選択 2（完結巻） | 880円（DMM掲載参考価格） | クライマックス収録に加え、連載時カラーイラスト・ラフスケッチ小冊子付きの完結編 |
-| 第2位：特装版 進撃の巨人 悔いなき選択 1 | 880円（DMM掲載参考価格） | 王都地下街から調査兵団との邂逅までを描く第1巻の特装装丁版 |
+| 第1位：特装版 進撃の巨人 悔いなき選択 2（完結巻） | 最新価格は各ショップで確認 | クライマックス収録に加え、連載時カラーイラスト・ラフスケッチ小冊子付きの完結編 |
+| 第2位：特装版 進撃の巨人 悔いなき選択 1 | 最新価格は各ショップで確認 | 王都地下街から調査兵団との邂逅までを描く第1巻の特装装丁版 |
 | 電子書籍版・中古紙版との比較視点 | 各ストア・流通在庫による | 特典小冊子の有無・状態や配送条件を確認のうえ、電子版と紙版を比較して選択可能 |
 
 ## 紙書籍（特装版）と電子書籍・関連メディアの選び方

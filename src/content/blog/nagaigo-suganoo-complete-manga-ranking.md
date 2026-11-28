@@ -2,13 +2,13 @@
 title: '【2026年最新】永井豪 凄ノ王 完全版 全巻おすすめ人気ランキング4選を徹底比較！'
 description: '永井豪 凄ノ王 完全版 全巻の選び方・おすすめ比較まとめ。違いやメリット・デメリットを徹底解説。'
 pubDate: '2026-10-07'
-heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/mottainaihonpo-omatome/cabinet/08418128/bkynlzvgpbz2a3iv.jpg?_ex=600x600'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8496/9784835458496_1_5.jpg?_ex=600x600'
 genre: 'manga'
 mediaType: 'comic'
 heroImages:
-  - 'https://thumbnail.image.rakuten.co.jp/@0_mall/mottainaihonpo-omatome/cabinet/08418128/bkynlzvgpbz2a3iv.jpg?_ex=600x600'
-  - 'https://thumbnail.image.rakuten.co.jp/@0_mall/comicset/cabinet/08419625/bknvzkgloqzozhes.jpg?_ex=600x600'
-  - 'https://thumbnail.image.rakuten.co.jp/@0_mall/comicset/cabinet/08419625/bki4k8z6a9bkxieu.jpg?_ex=600x600'
+  - 'https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8496/9784835458496_1_5.jpg?_ex=600x600'
+  - 'https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8489/9784835458489_1_4.jpg?_ex=600x600'
+  - 'https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8472/9784835458472_1_4.jpg?_ex=600x600'
 tags:
   - 'angle:ranking'
 faq:
@@ -21,18 +21,15 @@ faq:
 sidebarProducts:
   - title: '凄ノ王 完全初出 4 週刊少年マガジン版'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbkt34318264%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/mottainaihonpo-omatome/cabinet/08418128/bkynlzvgpbz2a3iv.jpg?_ex=600x600'
-    price: 4950
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8496/9784835458496_1_5.jpg?_ex=600x600'
     microCopy: '詳細を見る'
   - title: '凄ノ王 完全初出 3 週刊少年マガジン版'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbkt34309494%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/comicset/cabinet/08419625/bknvzkgloqzozhes.jpg?_ex=600x600'
-    price: 4950
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8489/9784835458489_1_4.jpg?_ex=600x600'
     microCopy: '詳細を見る'
   - title: '凄ノ王 完全初出 2 週刊少年マガジン版'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbkt34295422%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/comicset/cabinet/08419625/bki4k8z6a9bkxieu.jpg?_ex=600x600'
-    price: 4950
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8472/9784835458472_1_4.jpg?_ex=600x600'
     microCopy: '詳細を見る'
 ---
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
@@ -46,7 +43,7 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/mottainaihonpo-omatome/cabinet/08418128/bkynlzvgpbz2a3iv.jpg?_ex=600x600" alt="凄ノ王 完全初出 4 週刊少年マガジン版" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8496/9784835458496_1_5.jpg?_ex=600x600" alt="凄ノ王 完全初出 4 週刊少年マガジン版" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #eff6ff; color: #1d4ed8; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">📰 注目コミック誌</span><span style="color: #64748b; font-size: 0.75rem;">最新号・電子版配信 / バックナンバー</span></div>
@@ -54,10 +51,10 @@ sidebarProducts:
 
 <div class="live-price-box" data-product-key="凄ノ王-完全初出-4-週刊少年マガジン版" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
-<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">参考価格: ¥4,950</span>
+<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">販売価格・在庫</span>
+<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">最新価格は各ショップで確認</span>
 </div>
-<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
+<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※最新の価格・在庫・ポイント還元率は各ストアの商品ページでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
 <a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%2587%2584%25E3%2583%258E%25E7%258E%258B%2520%25E5%25AE%258C%25E5%2585%25A8%25E5%2588%259D%25E5%2587%25BA%25204%2520%25E9%2580%25B1%25E5%2588%258A%25E5%25B0%2591%25E5%25B9%25B4%25E3%2583%259E%25E3%2582%25AC%25E3%2582%25B8%25E3%2583%25B3%25E7%2589%2588" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（Kindle・紙版）</a>
@@ -93,14 +90,14 @@ sidebarProducts:
 *   <strong>デメリット:</strong>
     *   物語の進行を追うことはできないため、本編の代わりにはならない。
     *   初見の読者には、画集だけではストーリーの全体像が掴みにくい。
-    *   価格は6,050円と、単行本と比べるとやや高価に感じるかもしれない。
+    *   大型判・画集仕様のため、一般的な単行本と比べて価格帯は高めになる（最新価格は各ショップで確認）。
 
 *   <strong>対策:</strong>
     *   画集で作品世界への理解を深めた後、コミックスで物語をじっくり追うことで、永井豪が意図した演出の妙をより鮮明に感じられるはずだ。
 
 | 項目 | 詳細 |
 | :--- | :--- |
-| 価格 | 6,050円 |
+| 価格 | 最新価格は各ショップで確認 |
 | サービス | 通販 |
 | フロア | 本・コミック |
 | 著者/作者 | 永井豪 |
@@ -129,7 +126,7 @@ sidebarProducts:
 *   <strong>デメリット:</strong>
     *   この巻だけでは物語の全体像を把握できない。
     *   現時点では、このシリーズの全巻がDMMで揃うわけではない。
-    *   価格は4,950円と、通常のコミックスより高価に設定されている。
+    *   愛蔵版仕様のため、通常のコミックスより高価格帯に設定されている（最新価格は各ショップで確認）。
 
 *   <strong>対策:</strong>
     *   あくまでコレクションアイテムと捉え、物語の補完は他の版で賄う。
@@ -137,7 +134,7 @@ sidebarProducts:
 
 | 項目 | 詳細 |
 | :--- | :--- |
-| 価格 | 4,950円 |
+| 価格 | 最新価格は各ショップで確認 |
 | サービス | 通販 |
 | フロア | 本・コミック |
 | 著者/作者 | 永井豪, ダイナミックプロ |
@@ -164,7 +161,7 @@ sidebarProducts:
 *   <strong>デメリット:</strong>
     *   前後の巻がなければ、物語の流れを完全に掴むのは難しい。
     *   コレクションとして揃えるには、他の巻も入手する必要がある。
-    *   価格は他の完全初出版と同様に4,950円だ。
+    *   愛蔵版・完全初出仕様のため、他の巻と同様に価格帯は高めである（最新価格は各ショップで確認）。
 
 *   <strong>対策:</strong>
     *   他の巻と並行して購入を検討し、物語の進行に合わせて読み進めるのが理想的。
@@ -172,7 +169,7 @@ sidebarProducts:
 
 | 項目 | 詳細 |
 | :--- | :--- |
-| 価格 | 4,950円 |
+| 価格 | 最新価格は各ショップで確認 |
 | サービス | 通販 |
 | フロア | 本・コミック |
 | 著者/作者 | 永井豪, ダイナミックプロ |
@@ -199,7 +196,7 @@ sidebarProducts:
 *   <strong>デメリット:</strong>
     *   残念ながら、物語の始まりである第1巻がこのシリーズには含まれていない。
     *   単体でのコレクション価値は高いが、物語の通読には不向き。
-    *   他の完全初出版と同様に、価格は4,950円だ。
+    *   愛蔵版・完全初出仕様のため、他巻と同様に通常の単行本より高価格帯である（最新価格は各ショップで確認）。
 
 *   <strong>対策:</strong>
     *   この巻で作品の世界観に触れ、他のメディアで第1巻の情報を補完する。
@@ -207,7 +204,7 @@ sidebarProducts:
 
 | 項目 | 詳細 |
 | :--- | :--- |
-| 価格 | 4,950円 |
+| 価格 | 最新価格は各ショップで確認 |
 | サービス | 通販 |
 | フロア | 本・コミック |
 | 著者/作者 | 永井豪, ダイナミックプロ |

@@ -22,17 +22,14 @@ sidebarProducts:
   - title: 'MASTERキートン 完全版 デジタルVer.'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4185491%2Fb600bsgk08254%2F&af_id=DMMaria-999&ch=api'
     imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b600bsgk08254/b600bsgk08254pl.jpg'
-    price: 1320
     microCopy: '詳細を見る'
   - title: 'MASTERキートン Reマスター 豪華版 デジタルVer.'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4185485%2Fb600bsgk08255%2F&af_id=DMMaria-999&ch=api'
     imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b600bsgk08255/b600bsgk08255pl.jpg'
-    price: 1100
     microCopy: '詳細を見る'
   - title: '浦沢直樹 描いて描いて描きまくる'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4157736%2Fb600bsgk02700%2F&af_id=DMMaria-999&ch=api'
     imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b600bsgk02700/b600bsgk02700pl.jpg'
-    price: 1650
     microCopy: '詳細を見る'
 ---
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
@@ -54,10 +51,10 @@ sidebarProducts:
 
 <div class="live-price-box" data-product-key="masterキートン-完全版-デジタルver" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
-<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">参考価格: ¥1,320</span>
+<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">販売価格・在庫</span>
+<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">最新価格は各ショップで確認</span>
 </div>
-<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
+<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※最新の価格・在庫・ポイント還元率は各ストアの商品ページでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
 <a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DMASTER%25E3%2582%25AD%25E3%2583%25BC%25E3%2583%2588%25E3%2583%25B3%2520%25E5%25AE%258C%25E5%2585%25A8%25E7%2589%2588%2520%25E3%2583%2587%25E3%2582%25B8%25E3%2582%25BF%25E3%2583%25ABVer" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（Kindle・紙版）</a>
@@ -129,8 +126,8 @@ sidebarProducts:
 | 項目 | 詳細 |
 | :--- | :--- |
 | <strong>刊行巻数</strong> | 全12集（完結済み） |
-| <strong>デジタル版の価格</strong> | 各巻<strong>1,320円</strong>（税込） |
-| <strong>全巻総額</strong> | <strong>15,840円</strong>（税込）※セール時は変動あり |
+| <strong>デジタル版の価格</strong> | 最新価格は各ショップで確認 |
+| <strong>全巻総額</strong> | 最新価格は各ショップで確認 |
 | <strong>脚本担当の推移</strong> | 1〜5集: 勝鹿北星・長崎尚志、6〜12集: 勝鹿北星・浦沢直樹 |
 | <strong>アニメ放送カバー範囲</strong> | 全24話（原作の序盤から中盤を網羅） |
 | <strong>アニメの続きを読むなら</strong> | アニメ最終話以降も、原作は多数のエピソードが続く |
@@ -160,7 +157,7 @@ A3: 基本的に<strong>1話完結形式</strong>なので、各エピソード�
 
 | 項目 | 詳細 |
 | :--- | :--- |
-| 価格 | 1,320円 |
+| 価格 | 最新価格は各ショップで確認 |
 | サービス | DMMブックス |
 | フロア | コミック |
 | 著者/作者 | 浦沢直樹, 勝鹿北星 |

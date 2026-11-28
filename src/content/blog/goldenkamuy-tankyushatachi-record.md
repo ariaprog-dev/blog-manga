@@ -18,12 +18,10 @@ sidebarProducts:
   - title: 'ゴールデンカムイ 探究者たちの記録'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4034838%2Fb950ushes00261%2F&af_id=DMMaria-999&ch=api'
     imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b950ushes00261/b950ushes00261pl.jpg'
-    price: 1320
     microCopy: '詳細を見る'
   - title: 'ゴールデンカムイ公式ファンブック 探究者たちの記録'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbkt07459111%2F&af_id=DMMaria-999&ch=api'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7320/9784088917320_1_2.jpg?_ex=600x600'
-    price: 990
     microCopy: '詳細を見る'
 ---
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
@@ -45,10 +43,10 @@ sidebarProducts:
 
 <div class="live-price-box" data-product-key="ゴールデンカムイ-探究者たちの記録" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
-<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">参考価格: ¥1,320</span>
+<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">販売価格・在庫</span>
+<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">最新価格は各ショップで確認</span>
 </div>
-<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
+<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※最新の価格・在庫・ポイント還元率は各ストアの商品ページでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
 <a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B4%25E3%2583%25BC%25E3%2583%25AB%25E3%2583%2587%25E3%2583%25B3%25E3%2582%25AB%25E3%2583%25A0%25E3%2582%25A4%2520%25E6%258E%25A2%25E7%25A9%25B6%25E8%2580%2585%25E3%2581%259F%25E3%2581%25A1%25E3%2581%25AE%25E8%25A8%2598%25E9%258C%25B2" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（Kindle・紙版）</a>
@@ -120,9 +118,7 @@ sidebarProducts:
 | <strong>電子書籍</strong> | ・<strong>スマホやタブレットで手軽に読める</strong><br>・場所を取らない、かさばらない<br>・紙より安価な場合が多く、セール頻度が高い<br>・試し読みが豊富、すぐに読める | ・物理的な所有感がない<br>・デバイスの電池切れで読めなくなる<br>・画面サイズにより見開きの迫力に欠けることも<br>・サービス終了や閲覧不可のリスク |
 | <strong>アプリ連載</strong> | ・最新話を<strong>リアルタイムで追える</strong><br>・無料で読める話もある<br>・気軽に始められる、お試し感覚 | ・広告が多い、UIが煩雑な場合も<br>・課金が必要な場合が多い<br>・全巻通して読み返すには不便<br>・サービスに依存 |
 
-個人的には、<strong>持ち運びの便利さや、定期的に開催されるセール</strong>を考慮すると<strong>電子書籍がおすすめ</strong>だ。特にDMMブックスのようなサービスは、<strong>初回購入でポイント還元率が高い</strong>場合が多く、全31巻という長編をかなりお得に揃えられるチャンスがある。
-
-DMMブックスのキャンペーンを活用することで、かなりのポイントを獲得できる場合がある。
+<strong>持ち運びの便利さや、保管スペースを節約できる点</strong>を考慮すると、長編シリーズでは<strong>電子書籍が実用的な選択肢</strong>となる。DMMブックスなどの電子書籍ストアではポイント還元キャンペーンやセールが行われる時期もあるため、各ストアの条件を確認しながら全31巻を少しずつ揃えていくのも一つの方法だ。
 
 ## 今から始める「ゴールデンカムイ」読破ロードマップ
 
@@ -134,7 +130,7 @@ DMMブックスのキャンペーンを活用することで、かなりのポ�
 | <strong>物語の大まかな区切り</strong> | 第1部（囚人たちとの戦い中心）：約1〜10巻<br>第2部（樺太編）：約11〜20巻<br>最終章（決着へ）：約21〜31巻 |
 | <strong>アニメ放送カバー範囲（4期まで）</strong> | 約1〜28巻の途中までをカバー |
 | <strong>アニメの続きは漫画何巻から？</strong> | <strong>29巻から</strong>読み始めるのがスムーズ |
-| <strong>全巻総額試算（目安）</strong> | 紙版：約22,000円（税別）<br>電子書籍版（DMMブックス）：約20,000円前後（セールやポイント還元で変動） |
+| <strong>全巻総額試算（目安）</strong> | 最新価格は各ショップで確認 |
 
 アニメを観て「続きが気になる！」と思ったなら、漫画の<strong>29巻から読み進めるのが最も効率的なルート</strong>だ。しかし、アニメではカットされたり、順序が入れ替わったりした場面も少なからずある。
 
@@ -148,7 +144,7 @@ DMMブックスのキャンペーンを活用することで、かなりのポ�
 
 | 項目 | 詳細 |
 | :--- | :--- |
-| 価格 | 1,320円 |
+| 価格 | 最新価格は各ショップで確認 |
 | サービス | DMMブックス |
 | フロア | コミック |
 | 著者/作者 | 野田サトル |

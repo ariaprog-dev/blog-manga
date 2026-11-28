@@ -19,23 +19,20 @@ faq:
     answer: 'クリアカード編単体でも魔法少女サスペンスとして楽しむことは可能ですが、物語の核心に深く関わる李小狼（シャオラン）との絆や、月（ユエ）やケルベロスとの契約、エリオルがイギリスへ帰国した経緯などは前作の読了を前提としています。より感動を何倍にも味わうためには、前作コミック（全12巻・愛蔵版全9巻）またはアニメ旧作を予習してからクリアカード編に入るのがベストです。'
   - question: '紙の単行本を買う場合、特装版と通常版のどちらを選ぶべき？'
     answer: '装丁や本編の内容自体は特装版も通常版も同じですが、特装版にはCLAMP先生描き下ろしのオリジナルさくらカード、特製BIGアクスタ、ドラマCD、トランプなどの限定コレクターズアイテムが同梱されています。後から特装版をフリマ等でプレミアム価格で探すのは難しいため、ファンやコレクション重視の方は完売前に特装版を、純粋にストーリーを追いたい方は通常版や全巻電子書籍を選ぶのが賢い選択です。'
-  - question: 'クリアカード編全16巻をお得にまとめ買いする最安ルートは？'
-    answer: '紙の単行本全16巻を新品で揃えると約10,500円（税込）です。保管場所を取らず最安で揃えたい場合はDMMブックスなどの電子書籍ストアが最も経済的です。DMMブックスの初回70%OFFクーポンや、春・夏・年末年始の「DMMブックススーパーセール（最大30〜50%ポイント還元）」を活用することで、実質5,000円〜6,000円台で全16巻を即座にライブラリに揃えることが可能です。'
+  - question: 'クリアカード編全16巻をお得にまとめ買いする方法は？'
+    answer: '保管場所を取らず効率的に揃えたい場合は、DMMブックスなどの電子書籍ストアを活用する方法があります。ストアごとに配布される初回・期間限定クーポンやポイント還元キャンペーン・スーパーセールなどを比較して併用すると、全16巻セットの負担を抑えてコレクションを揃えやすくなります。'
 sidebarProducts:
   - title: '小説 アニメ カードキャプターさくら'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F794387%2Fb900skds02906%2F&af_id=DMMaria-999&ch=api'
     imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b900skds02906/b900skds02906pl.jpg'
-    price: 710
     microCopy: '詳細を見る'
   - title: '小説 アニメ カードキャプターさくら クロウカード編'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F789276%2Fb900rkds04190%2F&af_id=DMMaria-999&ch=api'
     imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b900rkds04190/b900rkds04190pl.jpg'
-    price: 710
     microCopy: '詳細を見る'
   - title: 'カードキャプターさくら クリアカード編16'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbkt07524024%2F&af_id=DMMaria-999&ch=api'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/mangazenkan/cabinet/syncip_0064/m9360439903_01.jpg?_ex=600x600'
-    price: 605
     microCopy: '詳細を見る'
 ---
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
@@ -61,10 +58,10 @@ sidebarProducts:
 
 <div class="live-price-box" data-product-key="小説-アニメ-カードキャプターさくら" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
-<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">参考価格: ¥710</span>
+<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">販売価格・在庫</span>
+<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">最新価格は各ショップで確認</span>
 </div>
-<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
+<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※最新の価格・在庫・ポイント還元率は各ストアの商品ページでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
 <a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%25B0%258F%25E8%25AA%25AC%2520%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%2520%25E3%2582%25AB%25E3%2583%25BC%25E3%2583%2589%25E3%2582%25AD%25E3%2583%25A3%25E3%2583%2597%25E3%2582%25BF%25E3%2583%25BC%25E3%2581%2595%25E3%2581%258F%25E3%2582%2589" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（Kindle・紙版）</a>
@@ -96,8 +93,8 @@ sidebarProducts:
 | 項目 | 詳細スペック |
 | :--- | :--- |
 | <strong>巻数</strong> | 全16巻（完全完結） |
-| <strong>単巻定価</strong> | 660円〜715円（税込） |
-| <strong>全巻総額</strong> | 約10,500円（※クーポン・ポイント還元で実質5,000円台も可） |
+| <strong>単巻定価</strong> | 最新価格は各ショップで確認 |
+| <strong>全巻総額</strong> | 最新価格は各ショップで確認 |
 | <strong>配信形式</strong> | デジタル書籍（DMMブックス、Kindle、楽天Kobo等） |
 | <strong>おすすめ対象</strong> | スマホやタブレットでいつでも読みたい方、収納場所を気にせずお得に揃えたい方 |
 
@@ -125,7 +122,7 @@ sidebarProducts:
 | :--- | :--- |
 | <strong>巻数</strong> | 全16巻（完結） |
 | <strong>判型</strong> | KCデラックス（新書判サイズ） |
-| <strong>全巻総額</strong> | 定価: 10,516円（税込） |
+| <strong>全巻総額</strong> | 最新価格は各ショップで確認 |
 | <strong>出版社</strong> | 講談社 |
 | <strong>おすすめ対象</strong> | 本棚に美しくコレクションしたい方、紙の手触りと装丁の美しさを愛する方 |
 
@@ -149,15 +146,15 @@ sidebarProducts:
 * <strong>アクリルスタンド＆BIGジオラマアクスタ</strong>
 * <strong>オリジナルドラマCD</strong>（丹下桜、くまいもとこら豪華声優陣による録り下ろし）
 * <strong>プレート付きトランプ＆オリジナルジュエリーポーチ</strong>
-など、ファンなら喉から手が出るほど欲しい至高のコレクターズアイテムが勢揃いしている。
+など、ファンにとってコレクション欲を強く刺激されるアイテムが勢揃いしている。
 
-価格は1冊あたり約2,000円〜3,500円前後と通常版よりも高価であり、発売から時間が経つと書店店頭から姿を消してプレミア化するケースが多い。しかし、ファンブックとしての価値やグッズの質感は妥協のない超一級品である。「完結した今だからこそ、特別な形でさくらを手元に迎い入れたい」という熱心なファンには、満足度の高い選択肢となる。
+単行本通常版よりも高価であり、発売から時間が経つと書店店頭から姿を消して希少品扱いとなるケースが多い。しかし、ファンブックとしての価値やグッズの質感は細部まで丁寧に仕上げられている。「完結した今だからこそ、特別な形でさくらを手元に迎い入れたい」という熱心なファンには、満足度の高い選択肢となる。
 
 【商品基本スペック】
 | 項目 | 詳細スペック |
 | :--- | :--- |
 | <strong>主な特装版対象巻</strong> | 第3巻、第7巻、第8巻、第12巻〜第16巻（完結巻）など |
-| <strong>価格帯</strong> | 1,980円 〜 3,500円前後（巻による） |
+| <strong>価格帯</strong> | 最新価格は各ショップで確認 |
 | <strong>同梱グッズ</strong> | 描き下ろしさくらカード、アクリルスタンド、ドラマCD、トランプ等 |
 | <strong>おすすめ対象</strong> | CLAMP作品の熱烈なコレクター、限定特典・オリジナルカードを手に入れたい方 |
 
@@ -184,7 +181,7 @@ sidebarProducts:
 | 項目 | 詳細スペック |
 | :--- | :--- |
 | <strong>著者</strong> | 有沢ゆう希（原作・監修: CLAMP） |
-| <strong>定価</strong> | 710円（税込） |
+| <strong>定価</strong> | 最新価格は各ショップで確認 |
 | <strong>レーベル</strong> | 講談社KK文庫 |
 | <strong>おすすめ対象</strong> | アニメやコミックの情景・心理描写を活字で深く味わいたい方、小説好きな読者 |
 
@@ -201,7 +198,7 @@ sidebarProducts:
 
 各エディションの長所と短所、コスト感を一目で比較できる早見表をまとめた。
 
-**【表の見方のポイント】** 表の2行目「総額コスト」と4行目「限定付録・グッズの有無」に注目してほしい。「物語の結末を最も手軽かつ最安で一気読みしたい」なら電子書籍一択だが、「CLAMP美麗イラストの現物グッズ（トランプ・アクリルジオラマ等）を手元に残したい」なら特装版の入手が必須となる。
+**【表の見方のポイント】** 表の「作画の鑑賞性」と「収納スペース」、そして「入手難易度（特装版）」に注目してほしい。「物語の結末までを場所を取らず一気読みしたい」なら電子書籍が扱いやすく、「CLAMP美麗イラストの現物グッズ（トランプ・アクリルジオラマ等）を手元に残したい」なら特装版の在庫確認が鍵となる。最新価格は各ショップのページであわせて確認しよう。
 
 | 比較項目 | ① 電子書籍（DMMブックス） | ② 紙単行本（通常版全巻） | ③ 特装版（限定グッズ付き） | ④ 小説版（ノベライズ） |
 | :--- | :--- | :--- | :--- | :--- |
@@ -209,7 +206,7 @@ sidebarProducts:
 | <strong>作画の鑑賞性</strong> | ◎（ピンチアウトで拡大鑑賞） | ○（紙とインクの階調美） | ○（特装カバー・紙版準拠） | △（挿絵のみ） |
 | <strong>コレクション性</strong> | △（端末内ライブラリ） | ◎（本棚に並ぶ背表紙） | ★★★（限定カード・アクスタ等） | ○（児童文庫サイズ） |
 | <strong>収納スペース</strong> | <strong>0cm（スマホ1台）</strong> | 約25〜30cm（本棚1段） | 約35〜40cm（特装化粧箱） | 約10cm |
-| <strong>全巻総額の目安</strong> | <strong>実質 約5,000〜6,500円</strong> | 定価 約10,516円 | 各巻 約2,000〜3,500円/冊 | 各巻 約710円/冊 |
+| <strong>全巻総額の目安</strong> | 最新価格は各ショップで確認 | 最新価格は各ショップで確認 | 最新価格は各ショップで確認 | 最新価格は各ショップで確認 |
 | <strong>入手難易度</strong> | 即時ダウンロード可能 | 書店・通販で常時入手可能 | <strong>品切れ・プレミア化あり</strong> | 書店・電子で入手可能 |
 
 ---
@@ -248,8 +245,8 @@ A1: 物語単体でも魔法サスペンスとして成立していますが、�
 <strong>Q2: 紙の単行本を買う場合、特装版と通常版のどちらを選ぶべき？</strong>  
 A2: 本編の漫画内容は全く同じです。特装版には描き下ろしさくらカードやBIGアクスタ、トランプなどの限定特典が付きます。純粋に物語を読みたい方は通常版（または電子書籍）、記念品としてグッズを手元に残したいコレクターは完売前に特装版を選ぶのが最適です。
 
-<strong>Q3: クリアカード編全16巻をお得にまとめ買いする最安ルートは？</strong>  
-A3: 定価は約10,500円（税込）です。DMMブックスなどの電子書籍ストアを活用すると、初回大幅割引クーポン（最大70%OFF）や定期的に開催されるスーパーセール（30〜50%ポイント還元）を利用して、実質5,000円〜6,000円台で全巻即座に揃えることが可能です。
+<strong>Q3: クリアカード編全16巻をお得にまとめ買いする方法はありますか？</strong>  
+A3: 各電子書籍ストアでは定期的にクーポン配布やポイント還元キャンペーン・セールが実施されているため、複数の配信ストアやセット購入特典を比較しながら購入すると負担を抑えて全16巻を揃えやすくなります。最新の価格やキャンペーン条件は各ストアの商品ページをご確認ください。
 
 ---
 

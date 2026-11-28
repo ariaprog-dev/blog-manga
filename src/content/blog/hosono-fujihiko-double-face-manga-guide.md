@@ -18,17 +18,14 @@ sidebarProducts:
 - title: ダブル・フェイス
   url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F101527%2Fb600osgk01337%2F&af_id=DMMaria-999&ch=api
   imageUrl: https://ebook-assets.dmm.com/digital/e-book/b600osgk01337/b600osgk01337pl.jpg
-  price: 550
   microCopy: 詳細を見る
 - title: ダブル・フェイス
   url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F101527%2Fb600osgk01337%2F&af_id=DMMaria-999&ch=api
   imageUrl: https://ebook-assets.dmm.com/digital/e-book/b600osgk01337/b600osgk01337pl.jpg
-  price: 759
   microCopy: 詳細を見る
 - title: ダブル・フェイス 24
   url: https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbkt07259514%2F&af_id=DMMaria-999&ch=api
   imageUrl: https://ebook-assets.dmm.com/digital/e-book/b600osgk01337/b600osgk01337pl.jpg
-  price: 712
   microCopy: 詳細を見る
 heroImages:
 - https://ebook-assets.dmm.com/digital/e-book/b213cnhbg04580/b213cnhbg04580pl.jpg
@@ -54,10 +51,10 @@ heroImages:
 
 <div class="live-price-box" data-product-key="ダブル-フェイス" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
-<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">参考価格: ¥550</span>
+<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">販売価格・在庫</span>
+<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">最新価格は各ショップで確認</span>
 </div>
-<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
+<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※最新の価格・在庫・ポイント還元率は各ストアの商品ページでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
 <a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2580%25E3%2583%2596%25E3%2583%25AB%2520%25E3%2583%2595%25E3%2582%25A7%25E3%2582%25A4%25E3%2582%25B9" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（Kindle・紙版）</a>
@@ -81,7 +78,7 @@ heroImages:
 
 タイトル名や作者名だけで「細野不二彦作品だから」と安易に飛びつくと、「思っていたのと違う」と感じるかもしれない。これが、初めて細野作品に触れる人が陥りがちな最初の落とし穴だ。
 
-以前、同じ作者であるという理由で別の作品を誤って購入し、序盤で違和感を覚える経験がある。購入前には作品のジャンルとテーマを十分に確認することが重要である。
+同じ作者であるという理由だけで別の作品を手に取ると、作風の違いから序盤で違和感を覚える場合もある。購入前には作品のジャンルとテーマを十分に確認することが重要である。
 
 ## 『ダブル・フェイス』が描く人間の二面性とその深掘り
 
@@ -93,7 +90,7 @@ heroImages:
 
 セリフがなくとも、コマの配置や人物の視線誘導だけで、心理的な緊張感や、隠された真実を暗示する。本作では、ごく自然な会話の中に、後々物語を大きく動かす伏線がさりげなく仕込まれている点が特徴的である。
 
-1巻の何気ないシーンが、10巻、20巻と読み進めるうちに「なるほど、あの時のあれが！」と繋がっていく瞬間の知的興奮は格別だった。
+1巻の何気ないシーンが、10巻、20巻と読み進めるうちに緻密に繋がっていく瞬間の知的な興奮こそが本作の醍醐味だ。
 
 ## 配信形式・関連タイトル別の選び方
 
@@ -105,19 +102,19 @@ heroImages:
 
 電子書籍なら、場所を取らずに全巻を携帯できるため、自宅でも外出先でも好きな時に読み返せる利点がある。
 
-この作品は1巻あたり759円（税込）で、全24巻を揃えると合計で約18,216円となる。決して安くはないが、その価格に見合うだけの濃密な読書体験が君を待っている。
+全24巻をまとめて揃える場合は一定のボリュームになるが、その分量に見合うだけの濃密な読書体験が味わえる。
 
 #### ② スマホで気軽に楽しむなら：『キャット・ウォーカー』タテヨミ版（※別作品であることに注意）
 
 もし君が「まず細野不二彦作品の雰囲気に触れてみたい」「スマホで手軽に読める形式が良い」と考えるなら、別の作品になるが『キャット・ウォーカー』のタテヨミ版も選択肢の一つだ。繰り返しになるが、これは『ダブル・フェイス』とは異なる作品だ。
 
-タテヨミ形式は、スマートフォンの小さな画面でも読みやすく、縦スクロールでコマが展開するため、通常のコミックとは異なるリズムで物語を楽しめる。通勤通学の移動中や、ちょっとした待ち時間にサッと読みたい時に便利だろう。価格は1話あたり67円と手頃で、気軽に試しやすい。
+タテヨミ形式は、スマートフォンの小さな画面でも読みやすく、縦スクロールでコマが展開するため、通常のコミックとは異なるリズムで物語を楽しめる。通勤通学の移動中や、ちょっとした待ち時間にサッと読みたい時に便利だろう。単話単位で購入できるため、気軽に試しやすい形式となっている。
 
 #### ③ 美しい色彩で世界に没入したいなら：『キャット・ウォーカー』フルカラー版（※別作品であることに注意）
 
 これも『ダブル・フェイス』とは異なるが、『キャット・ウォーカー』にはフルカラー版も用意されている。漫画の表現として色彩が加わることで、登場人物の感情や、場面の雰囲気、細かな背景の描写などがより鮮やかに伝わってくる。
 
-モノクロの漫画が持つ線の美しさとはまた違う、視覚的な情報量が増えることで作品世界への没入感が深まるのがフルカラー版の魅力だ。価格は939円とモノクロ版より高くなるが、その分、作品の持つ雰囲気をより豊かに享受できる。
+モノクロの漫画が持つ線の美しさとはまた違う、視覚的な情報量が増えることで作品世界への没入感が深まるのがフルカラー版の魅力だ。フルカラー仕様はモノクロ版と価格体系が異なる場合があるものの、その分、作品の持つ雰囲気をより豊かに享受できる。
 
 ## 全巻揃える前に知っておくべきことと、最初の1巻の読み方
 
@@ -135,9 +132,9 @@ heroImages:
 
 | 確認項目・ラインナップ | 仕様・価格目安 | 選定時の確認ポイント |
 | :--- | :--- | :--- |
-| ダブル・フェイス | 550円（参考価格） | 代表・注目掲載商品 |
-| ダブル・フェイス | 759円（参考価格） | 関連・別巻／周辺ラインナップ 2 |
-| ダブル・フェイス 24 | 712円（参考価格） | 関連・別巻／周辺ラインナップ 3 |
+| ダブル・フェイス | 最新価格は各ショップで確認 | 代表・注目掲載商品 |
+| ダブル・フェイス | 最新価格は各ショップで確認 | 関連・別巻／周辺ラインナップ 2 |
+| ダブル・フェイス 24 | 最新価格は各ショップで確認 | 関連・別巻／周辺ラインナップ 3 |
 
 <p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>あわせて読みたい関連解説</strong>：<a href="/blog/gugu-ganmo-manga-guide/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">細野不二彦『Gu-Guガンモ』愛蔵版・全巻ガイド｜アニメ版との違いと読破の魅力</a> ／ <a href="/blog/phantom-burai-manga-ranking/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">新谷かおる ファントム無頼 文庫版 全巻おすすめ人気ランキング4選を徹底比較！</a></p>
 

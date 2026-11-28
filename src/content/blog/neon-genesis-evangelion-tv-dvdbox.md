@@ -8,7 +8,6 @@ sidebarProducts:
   - title: '新世紀エヴァンゲリオン TV放映版 DVDBOX（ARCHIVES OF EVANGELION）'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00qo031.ve2q517d.g00qo031.ve2q67ac/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsurprise-web%2Faznkiba-92191%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsurprise-web%2Fi%2F12888204%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/surprise-web/cabinet/imgr0642/kiba-92191.jpg?_ex=600x600'
-    price: 17404
     microCopy: '詳細を見る'
 
 mediaType: anime
@@ -30,10 +29,10 @@ mediaType: anime
 
 <div class="live-price-box" data-product-key="neon-genesis-evangelion-dvd-box" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
-<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">参考価格: ¥17,404</span>
+<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">販売価格・在庫</span>
+<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">最新価格は各ショップで確認</span>
 </div>
-<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
+<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※最新の価格・在庫・ポイント還元率は各ストアの商品ページでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
 <a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DNeon%2520Genesis%2520Evangelion%2520DVD%2520BOX" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（プライム対応）</a>
@@ -107,7 +106,7 @@ mediaType: anime
 
 | 項目 | 詳細 |
 | :--- | :--- |
-| 価格 | 17,404円 |
+| 価格 | 最新価格は各ショップで確認 |
 | 販売ショップ | サプライズWEB |
 
 詳細はこちらから確認できる。
@@ -134,7 +133,7 @@ mediaType: anime
 ### よくある質問（FAQ）：『新世紀エヴァンゲリオン TV放映版 DVDBOX（ARCHIVES OF EVANGELION）』
 
 <strong>Q1. 「「逃げちゃダメだ」——時代を象徴した魂の物語」で触れられている本作ならではの魅力は何ですか？</strong>
-A1. 『新世紀エヴァンゲリオン TV放映版 DVDBOX（ARCHIVES OF EVANGELION）』（参考価格：17404円前後）は、作品世界への没入感を高める造形・音響・パッケージ仕様にこだわって制作されており、ファンが手元に置いて繰り返し堪能できるコレクターズアイテムとして高い満足度を備えています。
+A1. 『新世紀エヴァンゲリオン TV放映版 DVDBOX（ARCHIVES OF EVANGELION）』は、作品世界への没入感を高める造形・音響・パッケージ仕様にこだわって制作されており、ファンが手元に置いて繰り返し堪能できるコレクターズアイテムとして高い満足度を備えています。
 
 <strong>Q2. TV放映版と後に発売されたリニューアル版・新劇場版では何が違いますか？</strong>
 A2. TV放映版は1995〜1996年当時の本放送時の映像・テロップ・音楽演出そのままを体感できる歴史的価値があります。一方、リニューアル版は画質や一部カットの修正、新劇場版は物語後半が別展開となっており、原点表現を確かめるにはTV放映版が基準になります。

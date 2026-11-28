@@ -18,7 +18,6 @@ sidebarProducts:
 - title: 映画ノベライズ かくかくしかじか
   url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F6117237%2Fb950xshes83088%2F&af_id=DMMaria-999&ch=api
   imageUrl: https://ebook-assets.dmm.com/digital/e-book/b950xshes83088/b950xshes83088pl.jpg
-  price: 693
   microCopy: 詳細を見る
 heroImages:
 - https://ebook-assets.dmm.com/digital/e-book/b950xshes83088/b950xshes83088pl.jpg
@@ -42,10 +41,10 @@ heroImages:
 
 <div class="live-price-box" data-product-key="かくかくしかじか" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
-<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">参考価格: ¥759</span>
+<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">販売価格・在庫</span>
+<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">最新価格は各ショップで確認</span>
 </div>
-<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
+<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※最新の価格・在庫・ポイント還元率は各ストアの商品ページでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
 <a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2581%25BE%25E3%2582%258B%25E3%2581%2595%25E3%2582%2593%25E3%2581%258B%25E3%2581%258F%25E3%2581%2597%25E3%2581%258B%25E3%2581%258F" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（Kindle・紙版）</a>
@@ -115,5 +114,5 @@ heroImages:
 | 順位・対象 | 媒体区分・特徴 | 選定時の確認ポイント |
 | :--- | :--- | :--- |
 | 第1位：アニメ版『かくかくしかじか』 | DMM TV等の映像配信 | 声・動き・劇伴とともにストーリーの流れを追いたい場合に適合 |
-| 第2位：映画ノベライズ かくかくしかじか | 書籍・電子書籍（参考価格693円） | 心理描写や行間の感情を活字でじっくり読み解きたい読者向け |
+| 第2位：映画ノベライズ かくかくしかじか | 書籍・電子書籍 | 心理描写や行間の感情を活字でじっくり読み解きたい読者向け |
 | 第3位：関連作『もしもし、アッコちゃん？』 | コミック・エッセイ関連書 | 原作制作の背景や作者の創作ルーツをあわせて辿りたい場合に適合 |

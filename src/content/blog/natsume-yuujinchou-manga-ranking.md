@@ -18,17 +18,14 @@ sidebarProducts:
   - title: '夏目友人帳'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Ftv.dmm.com%2Fvod%2Fdetail%2F%3Ftitle%3Djnmwvusf1r7rjkfe60wa2uegd%26season%3Dszy4xzc1sx8s9art7wwh7wax0&af_id=DMMaria-999&ch=api'
     imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b371khkss08364/b371khkss08364pl.jpg'
-    price: 550
     microCopy: '詳細を見る'
   - title: '夏目友人帳'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Ftv.dmm.com%2Fvod%2Fdetail%2F%3Ftitle%3Djnmwvusf1r7rjkfe60wa2uegd%26season%3Dovaz7veqtfqwbrimut7wd14af&af_id=DMMaria-999&ch=api'
     imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b371khkss08364/b371khkss08364pl.jpg'
-    price: 550
     microCopy: '詳細を見る'
   - title: '夏目友人帳'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Ftv.dmm.com%2Fvod%2Fdetail%2F%3Ftitle%3Djnmwvusf1r7rjkfe60wa2uegd%26season%3Dopdm6gqwshtcr73iu1rsypjuk&af_id=DMMaria-999&ch=api'
     imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b371khkss08364/b371khkss08364pl.jpg'
-    price: 550
     microCopy: '詳細を見る'
 ---
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
@@ -41,10 +38,10 @@ sidebarProducts:
 
 | 順位 | 商品名 | 主な特徴 | 価格帯 | おすすめな人 |
 | :--- | :--- | :--- | :--- | :--- |
-| <strong>第1位</strong> | 夏目友人帳 (コミック1巻) | 緑川ゆき先生の<strong>原点となる筆致</strong>と物語 | 594円 | 原作の世界観をじっくり味わいたい人 |
-| <strong>第2位</strong> | 夏目友人帳（アニメ 第1期） | <strong>動き出す夏目とニャンコ先生</strong>の姿 | 550円 | 映像で作品の雰囲気を気軽に楽しみたい人 |
-| <strong>第3位</strong> | 続 夏目友人帳（アニメ 第2期） | 物語の<strong>感情的な深まりと妖たちとの交流</strong> | 550円 | アニメでさらに物語を追いかけたい人 |
-| <strong>第4位</strong> | 夏目友人帳 参（アニメ 第3期） | 新たな出会いと別れ、<strong>世界の広がり</strong> | 550円 | 物語の続きを映像で楽しむファン |
+| <strong>第1位</strong> | 夏目友人帳 (コミック1巻) | 緑川ゆき先生の<strong>原点となる筆致</strong>と物語 | 最新価格は各ショップで確認 | 原作の世界観をじっくり味わいたい人 |
+| <strong>第2位</strong> | 夏目友人帳（アニメ 第1期） | <strong>動き出す夏目とニャンコ先生</strong>の姿 | 最新価格は各ショップで確認 | 映像で作品の雰囲気を気軽に楽しみたい人 |
+| <strong>第3位</strong> | 続 夏目友人帳（アニメ 第2期） | 物語の<strong>感情的な深まりと妖たちとの交流</strong> | 最新価格は各ショップで確認 | アニメでさらに物語を追いかけたい人 |
+| <strong>第4位</strong> | 夏目友人帳 参（アニメ 第3期） | 新たな出会いと別れ、<strong>世界の広がり</strong> | 最新価格は各ショップで確認 | 物語の続きを映像で楽しむファン |
 
 ---
 
@@ -59,10 +56,10 @@ sidebarProducts:
 
 <div class="live-price-box" data-product-key="夏目友人帳" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
-<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">参考価格: ¥550</span>
+<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">販売価格・在庫</span>
+<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">最新価格は各ショップで確認</span>
 </div>
-<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
+<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※最新の価格・在庫・ポイント還元率は各ストアの商品ページでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
 <a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%25A4%258F%25E7%259B%25AE%25E5%258F%258B%25E4%25BA%25BA%25E5%25B8%25B3" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（Kindle・紙版）</a>
@@ -94,7 +91,7 @@ DMMで「夏目友人帳」の世界に足を踏み入れるなら、まずは<s
 
 | 項目 | 詳細 |
 | :--- | :--- |
-| 価格 | 594円 |
+| 価格 | 最新価格は各ショップで確認 |
 | サービス | DMMブックス |
 | フロア | コミック |
 | 著者/作者 | 緑川ゆき |
@@ -121,7 +118,7 @@ DMMで「夏目友人帳」の世界に足を踏み入れるなら、まずは<s
 
 | 項目 | 詳細 |
 | :--- | :--- |
-| 価格 | 550円 |
+| 価格 | 最新価格は各ショップで確認 |
 | サービス | DMMTV |
 | フロア | DMMTV |
 
@@ -146,7 +143,7 @@ DMMで「夏目友人帳」の世界に足を踏み入れるなら、まずは<s
 
 | 項目 | 詳細 |
 | :--- | :--- |
-| 価格 | 550円 |
+| 価格 | 最新価格は各ショップで確認 |
 | サービス | DMMTV |
 | フロア | DMMTV |
 
@@ -173,7 +170,7 @@ DMMで「夏目友人帳」の世界に足を踏み入れるなら、まずは<s
 
 | 項目 | 詳細 |
 | :--- | :--- |
-| 価格 | 550円 |
+| 価格 | 最新価格は各ショップで確認 |
 | サービス | DMMTV |
 | フロア | DMMTV |
 

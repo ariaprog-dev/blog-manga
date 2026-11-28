@@ -8,8 +8,8 @@ mediaType: comic
 tags:
 - angle:guide
 faq:
-- question: 『モブサイコ100』のコミック全巻を揃えるのに、いくらくらいかかる？
-  answer: 『モブサイコ100』は全16巻で完結しています。新刊で購入する場合、1巻あたり550円（税込）として、合計で約8,800円かかります。電子書籍であれば、キャンペーンやセールを利用することで、もう少し安く購入できる場合があります。中古品であれば、状態次第で半額以下になることもありますが、品質にばらつきがあるため注意が必要です。
+- question: 『モブサイコ100』のコミック全巻の入手方法や価格感は？
+  answer: 『モブサイコ100』は全16巻で完結しています。紙の単行本・電子書籍・中古セットで価格帯が異なり、電子書籍ストアではキャンペーンやセール時に割引される場合もあります（最新価格は各ショップでご確認ください）。中古品の場合は価格を抑えやすい一方、状態にばらつきがあるため注意が必要です。
 - question: 全巻セットはどこで買うのが一番お得？
   answer: 新品の紙媒体であれば、大手オンライン書店（Amazon、楽天ブックスなど）や全国展開の書店で購入するのが一般的です。電子書籍は、各電子書籍ストア（Kindle、楽天Kobo、DMMブックスなど）で定期的にセールが行われるので、チェックするとお得に購入できることがあります。中古品の場合は、フリマアプリや中古書店（ブックオフなど）を利用することになりますが、状態をよく確認することが重要です。
 - question: アニメを先に観てからでもコミックを楽しめますか？
@@ -18,17 +18,14 @@ sidebarProducts:
 - title: モブサイコ100
   url: https://al.dmm.com/?lurl=https%3A%2F%2Ftv.dmm.com%2Fvod%2Fdetail%2F%3Ftitle%3Dsfnajnwzqsptdgtgohmjdq3w6%26season%3Dtkkvz49dohahzqij1s8560osf&af_id=DMMaria-999&ch=api
   imageUrl: https://ebook-assets.dmm.com/digital/e-book/b600usgk00886/b600usgk00886pl.jpg
-  price: 550
   microCopy: 詳細を見る
 - title: モブサイコ100
   url: https://al.dmm.com/?lurl=https%3A%2F%2Ftv.dmm.com%2Fvod%2Fdetail%2F%3Ftitle%3Dsfnajnwzqsptdgtgohmjdq3w6%26season%3D4dwoqzzrc56p9zzahxz26xsnc&af_id=DMMaria-999&ch=api
   imageUrl: https://ebook-assets.dmm.com/digital/e-book/b600usgk00886/b600usgk00886pl.jpg
-  price: 550
   microCopy: 詳細を見る
 - title: 舞台『モブサイコ100』
   url: https://al.dmm.com/?lurl=https%3A%2F%2Ftv.dmm.com%2Fvod%2Fdetail%2F%3Ftitle%3D9mdo9jysvjgk13qh8340jtsn0%26season%3Diu114uso99t5b1mco7r44spw4&af_id=DMMaria-999&ch=api
   imageUrl: https://ebook-assets.dmm.com/digital/e-book/b600usgk00886/b600usgk00886pl.jpg
-  price: 550
   microCopy: 詳細を見る
 heroImages:
 - https://ebook-assets.dmm.com/digital/e-book/b600usgk00886/b600usgk00886pl.jpg
@@ -54,10 +51,10 @@ heroImages:
 
 <div class="live-price-box" data-product-key="モブサイコ100" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
-<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">参考価格: ¥550</span>
+<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">販売価格・在庫</span>
+<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">最新価格は各ショップで確認</span>
 </div>
-<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
+<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※最新の価格・在庫・ポイント還元率は各ストアの商品ページでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
 <a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%25A2%25E3%2583%2596%25E3%2582%25B5%25E3%2582%25A4%25E3%2582%25B3100" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（Kindle・紙版）</a>
@@ -79,7 +76,7 @@ heroImages:
 
 しかし彼はその力を使うことを嫌い、普通の人間として生きることを願っている。彼の感情が100%に達すると、秘めたる力が暴走するという設定が、この物語の核となる。
 
-『モブサイコ100』を初めて読んだ際、ONE氏の独特な絵柄に戸惑いを感じる場合がある。しかし、読み進めるうちに、その絵がキャラクターの内面や感情の揺れ動きを、どれほどはっきりと示しているかに気づかされたんだ。
+『モブサイコ100』に初めて触れる読者は、ONE氏の独特な絵柄に戸惑いを感じる場合がある。しかし、読み進めるうちに、その絵がキャラクターの内面や感情の揺れ動きをどれほど鮮明に伝えているかに気づくことになる。
 
 例えば、モブが感情を抑え込む時の表情や、爆発する時のデフォルメされた描写は、他の作品にはない説得力を持つ。これは単に「絵が下手」なのではなく、登場人物の感情の機微を最大限に引き出すための、ONE氏の緻密な「設計思想」であると解釈できる。
 
@@ -121,19 +118,19 @@ heroImages:
 
 ### 【チェック2】「新品で完璧を求めるか、中古でお得に済ますか」コスパと品質のバランス
 
-次に考えるべきは、新品を購入するか、中古品で済ませるかだ。『モブサイコ100』は全16巻で、新品を定価（1巻550円として）で揃えると約8,800円かかる。この初期投資をどう考えるか、だ。
+次に考えるべきは、新品を購入するか、中古品で済ませるかだ。『モブサイコ100』は全16巻で完結しており、新品をまとめて揃える場合の最新価格は各ショップで確認できる。この初期費用と書籍状態・特典のバランスをどう考えるか、だ。
 
 新品コミックのメリットは、なんと言ってもその「完璧な状態」にある。日焼けや折れ、汚れがなく、初版なら帯付きで手に入る可能性も高い。
 
 連載当時の作者コメントや、初回限定の特典ペーパーなどが付属している場合もあり、コレクターにとっては見逃せないポイントだ。ONE先生の作品は、その独特の描線とストーリーの新鮮さで読者に衝撃を与え、全巻を揃えるきっかけとなることがある。
 
-あの時の「手元に全巻揃った喜び」は今でも忘れられない。
+全16巻をまとめて手元に揃えられる満足感はやはり大きい。
 
 中古品は、やはり価格の安さが最大の魅力だ。状態によっては新品の半額以下で手に入ることもある。
 
 しかし、その分リスクも伴う。日焼け、シミ、折れ、破れ、喫煙環境での保管による臭いなど、個体差が非常に大きい。
 
-オンラインで中古品を購入する場合、写真だけでは状態を完全に把握できないことがある。状態の悪いものが混じっており、買い直しが必要となるケースも存在する。
+オンラインで中古品を購入する場合、写真だけでは状態を完全に把握できないことがある。状態の悪いものが混じっており、追加購入や交換が必要となるケースも存在する。
 
 全巻を良い状態で揃えたいなら、多少値が張っても新品を選ぶのが無難だろう。どうしても中古で、というなら、実店舗で現物を確認できるならそれに越したことはない。
 
@@ -165,9 +162,9 @@ DMMTVでは、『モブサイコ100』のアニメ全シーズンや舞台版が
 
 | 確認項目・ラインナップ | 仕様・価格目安 | 選定時の確認ポイント |
 | :--- | :--- | :--- |
-| モブサイコ100 | 550円（参考価格） | 代表・注目掲載商品 |
-| モブサイコ100 | 550円（参考価格） | 関連・別巻／周辺ラインナップ 2 |
-| 舞台『モブサイコ100』 | 550円（参考価格） | 関連・別巻／周辺ラインナップ 3 |
+| モブサイコ100 | 最新価格は各ショップで確認 | 代表・注目掲載商品 |
+| モブサイコ100 | 最新価格は各ショップで確認 | 関連・別巻／周辺ラインナップ 2 |
+| 舞台『モブサイコ100』 | 最新価格は各ショップで確認 | 関連・別巻／周辺ラインナップ 3 |
 
 <p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>あわせて読みたい関連解説</strong>：<a href="/blog/ch-earth-motion-manga/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">チ 地球の運動について 全巻セットはコレクター必携！圧倒的存在感を徹底レビュー</a> ／ <a href="/blog/hana-kimi-deluxe-complete-manga/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">芦屋瑞稀の嘘はなぜ尊い？「花ざかりの君たちへ」が語る本当の青春</a></p>
 

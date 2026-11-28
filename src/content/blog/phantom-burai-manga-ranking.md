@@ -20,7 +20,6 @@ sidebarProducts:
 - title: ファントム無頼
   url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4106908%2Fb750egrzr06158%2F&af_id=DMMaria-999&ch=api
   imageUrl: https://ebook-assets.dmm.com/digital/e-book/b750egrzr06158/b750egrzr06158pl.jpg
-  price: 440
   microCopy: 詳細を見る
 ---
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
@@ -33,10 +32,10 @@ F-4ファントムIIという伝説の機体と、その乗り手たちの生き
 
 | 順位 | 商品名 | 主な特徴 | 価格帯 | おすすめな人 |
 | :--- | :--- | :--- | :--- | :--- |
-| 1位 | ファントム無頼【合本版】 | 電子書籍。全巻まとめてお得に読める。 | 1,650円 | <strong>手軽に全巻読破したい</strong>、<strong>コスパ重視</strong>の読者。 |
-| 2位 | ファントム無頼 完全版 Vol.1 | 紙媒体。大判で<strong>新谷先生の描線を堪能したい</strong>読者。 | 4,950円 | <strong>コレクション性重視</strong>、<strong>紙で最高の読書体験</strong>を求める読者。 |
-| 3位 | ファントム無頼（単巻） | 電子書籍。特定の巻だけ読みたい。 | 440円 | <strong>試し読み感覚で手軽に1冊から</strong>読みたい読者。 |
-| 4位 | F-4 ファントムIIの科学 40年を超えて最前線で活躍する名機の秘密 | F-4ファントムIIの<strong>技術解説書</strong>。 | 1,100円 | <strong>作品の背景知識を深めたい</strong>、<strong>航空機マニア</strong>の読者。 |
+| 1位 | ファントム無頼【合本版】 | 電子書籍。全巻まとめてお得に読める。 | 最新価格は各ショップで確認 | <strong>手軽に全巻読破したい</strong>、<strong>コスパ重視</strong>の読者。 |
+| 2位 | ファントム無頼 完全版 Vol.1 | 紙媒体。大判で<strong>新谷先生の描線を堪能したい</strong>読者。 | 最新価格は各ショップで確認 | <strong>コレクション性重視</strong>、<strong>紙で最高の読書体験</strong>を求める読者。 |
+| 3位 | ファントム無頼（単巻） | 電子書籍。特定の巻だけ読みたい。 | 最新価格は各ショップで確認 | <strong>試し読み感覚で手軽に1冊から</strong>読みたい読者。 |
+| 4位 | F-4 ファントムIIの科学 40年を超えて最前線で活躍する名機の秘密 | F-4ファントムIIの<strong>技術解説書</strong>。 | 最新価格は各ショップで確認 | <strong>作品の背景知識を深めたい</strong>、<strong>航空機マニア</strong>の読者。 |
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -49,10 +48,10 @@ F-4ファントムIIという伝説の機体と、その乗り手たちの生き
 
 <div class="live-price-box" data-product-key="ファントム無頼" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
-<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">参考価格: ¥440</span>
+<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">販売価格・在庫</span>
+<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">最新価格は各ショップで確認</span>
 </div>
-<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
+<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※最新の価格・在庫・ポイント還元率は各ストアの商品ページでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
 <a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2595%25E3%2582%25A1%25E3%2583%25B3%25E3%2583%2588%25E3%2583%25A0%25E7%2584%25A1%25E9%25A0%25BC" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（Kindle・紙版）</a>
@@ -74,7 +73,7 @@ F-4ファントムIIという伝説の機体と、その乗り手たちの生き
 
 最初に文庫版を読んだ読者も、スマホやタブレットで気軽に読み返せる電子書籍の便利さに魅力を感じ、合本版を購入するケースがある。F-4ファントムIIの緻密な描写は、大きな画面で見るほど迫力が増す。
 
-しかし、電子書籍の合本版なら、<strong>自宅だけでなく通勤中や外出先でも好きな時に作品の世界に没頭できる</strong>のは嬉しい誤算だった。
+電子書籍の合本版であれば、自宅だけでなく通勤中や外出先でも好きな時に作品の世界に没頭できる点が大きな強みだ。
 
 新谷かおる先生が描くF-4のメカニカルなディテールは、まさに<strong>「空飛ぶ鉄塊」の魂を感じさせる</strong>。史村翔先生による神田と栗原のプロ意識と人間臭さが同居するストーリーは、シリアスな空中戦とコミカルな日常の緩急が絶妙で、ページをめくる手が止まらないだろう。
 
@@ -98,7 +97,7 @@ F-4ファントムIIという伝説の機体と、その乗り手たちの生き
 【スペック表】
 | 項目 | 詳細 |
 | :--- | :--- |
-| 価格 | 1,650円 |
+| 価格 | 最新価格は各ショップで確認 |
 | サービス | DMMブックス |
 | フロア | コミック |
 | 著者/作者 | 新谷かおる, 史村翔 |
@@ -111,7 +110,7 @@ F-4ファントムIIという伝説の機体と、その乗り手たちの生き
 <div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2595%25E3%2582%25A1%25E3%2583%25B3%25E3%2583%2588%25E3%2583%25A0%25E7%2584%25A1%25E9%25A0%25BC" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%95%E3%82%A1%E3%83%B3%E3%83%88%E3%83%A0%E7%84%A1%E9%A0%BC%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%2595%25E3%2582%25A1%25E3%2583%25B3%25E3%2583%2588%25E3%2583%25A0%25E7%2584%25A1%25E9%25A0%25BC" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a><a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4106908%2Fb750egrzr06158%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #1d4ed8; border: 1px solid #93c5fd;">DMMで見る</a></div>
 </div>
 
-## 第2位：最高の読書体験を！『ファントム無頼 完全版 Vol.1』
+## 第2位：『ファントム無頼 完全版 Vol.1』
 
 もしあなたが「ファントム無頼」を<strong>最高のクオリティで手元に置いておきたい</strong>と考えるなら、この『ファントム無頼 完全版 Vol.1』は非常に魅力的な選択肢となるはずだ。これは紙媒体の書籍であり、単なる文庫版やコミックスとは一線を画す。
 
@@ -133,7 +132,7 @@ F-4ファントムIIという伝説の機体と、その乗り手たちの生き
 【スペック表】
 | 項目 | 詳細 |
 | :--- | :--- |
-| 価格 | 4,950円 |
+| 価格 | 最新価格は各ショップで確認 |
 | サービス | 通販 |
 | フロア | 本・コミック |
 | メーカー/出版社 | 小学館 |
@@ -141,19 +140,19 @@ F-4ファントムIIという伝説の機体と、その乗り手たちの生き
 ---
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
-<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>最高の読書体験を！ ファントム無頼 完全版 Vol.1</strong></div>
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong> ファントム無頼 完全版 Vol.1</strong></div>
 <div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%259C%2580%25E9%25AB%2598%25E3%2581%25AE%25E8%25AA%25AD%25E6%259B%25B8%25E4%25BD%2593%25E9%25A8%2593%25E3%2582%2592%2520%25E3%2583%2595%25E3%2582%25A1%25E3%2583%25B3%25E3%2583%2588%25E3%2583%25A0%25E7%2584%25A1%25E9%25A0%25BC%2520%25E5%25AE%258C%25E5%2585%25A8%25E7%2589%2588%2520Vol%25201" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E6%9C%80%E9%AB%98%E3%81%AE%E8%AA%AD%E6%9B%B8%E4%BD%93%E9%A8%93%E3%82%92%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%88%E3%83%A0%E7%84%A1%E9%A0%BC%20%E5%AE%8C%E5%85%A8%E7%89%88%20Vol%201%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E6%259C%2580%25E9%25AB%2598%25E3%2581%25AE%25E8%25AA%25AD%25E6%259B%25B8%25E4%25BD%2593%25E9%25A8%2593%25E3%2582%2592%2520%25E3%2583%2595%25E3%2582%25A1%25E3%2583%25B3%25E3%2583%2588%25E3%2583%25A0%25E7%2584%25A1%25E9%25A0%25BC%2520%25E5%25AE%258C%25E5%2585%25A8%25E7%2589%2588%2520Vol%25201" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
 </div>
 
-## 第3位：気軽に1冊から！『ファントム無頼』（単巻）
+## 第3位：『ファントム無頼』（単巻）
 
-「ファントム無頼」は読んでみたいけれど、いきなり全巻購入するのはちょっと…と躊躇する人も少なくない。そんな時に便利なのが、この<strong>電子書籍の単巻版</strong>だ。1冊440円という手頃な価格で、試し読み感覚で作品の世界に触れることができる。
+「ファントム無頼」は読んでみたいけれど、いきなり合本版やまとめ買いに踏み切るのは迷うという読者も少なくない。そんな時に便利なのが、この<strong>電子書籍の単巻版</strong>だ。1冊ずつ無理なく購入でき、試し読み感覚で作品の世界に触れることができる（最新価格は各ショップで確認）。
 
 この単巻版は、特定の好きなエピソードだけを読み返したい時や、<strong>合本版の導入前に作品の雰囲気を確認したい時</strong>に特に重宝する。例えば、「ファントム無頼」の序盤の、神田と栗原が初めて出会い、衝突しながらもコンビとして成長していく過程は、彼らのキャラクターを深く理解する上で欠かせない。
 
 最初の1巻だけ読んでみて、作品が自分に合うかどうかを判断するのも有効だ。
 
-ただし、全巻を単巻で揃えると、合本版（1,650円）よりも高額になる可能性が高い。文庫版は全12巻なので、もし単巻で全巻購入すると<strong>5,000円を超える計算になる</strong>。そのため、最終的に全巻読破を考えているなら、<strong>合本版の方が経済的だ</strong>。
+なお、『ファントム無頼』は通常版（少年サンデーコミックス）が全12巻、文庫版が全7巻、完全版／ワイド版が全5巻という巻数構成になっているため、単巻ごとに1冊ずつ全巻揃えると合本版よりも合計額が高くなる場合がある。最初から全巻通読を予定している場合は、<strong>合本版を検討する方が合理的</strong>だ。
 
 #### こんな人におすすめ
 
@@ -165,7 +164,7 @@ F-4ファントムIIという伝説の機体と、その乗り手たちの生き
 【スペック表】
 | 項目 | 詳細 |
 | :--- | :--- |
-| 価格 | 440円 |
+| 価格 | 最新価格は各ショップで確認 |
 | サービス | DMMブックス |
 | フロア | コミック |
 | 著者/作者 | 新谷かおる, 史村翔 |
@@ -174,7 +173,7 @@ F-4ファントムIIという伝説の機体と、その乗り手たちの生き
 ---
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
-<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>気軽に1冊から！ ファントム無頼</strong></div>
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>！ ファントム無頼</strong></div>
 <div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%25B0%2597%25E8%25BB%25BD%25E3%2581%25AB1%25E5%2586%258A%25E3%2581%258B%25E3%2582%2589%2520%25E3%2583%2595%25E3%2582%25A1%25E3%2583%25B3%25E3%2583%2588%25E3%2583%25A0%25E7%2584%25A1%25E9%25A0%25BC" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E6%B0%97%E8%BB%BD%E3%81%AB1%E5%86%8A%E3%81%8B%E3%82%89%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%88%E3%83%A0%E7%84%A1%E9%A0%BC%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E6%25B0%2597%25E8%25BB%25BD%25E3%2581%25AB1%25E5%2586%258A%25E3%2581%258B%25E3%2582%2589%2520%25E3%2583%2595%25E3%2582%25A1%25E3%2583%25B3%25E3%2583%2588%25E3%2583%25A0%25E7%2584%25A1%25E9%25A0%25BC" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
 </div>
 
@@ -198,7 +197,7 @@ F-4ファントムIIという伝説の機体と、その乗り手たちの生き
 【スペック表】
 | 項目 | 詳細 |
 | :--- | :--- |
-| 価格 | 1,100円 |
+| 価格 | 最新価格は各ショップで確認 |
 | サービス | DMMブックス |
 | フロア | ビジネス・実用 |
 | 著者/作者 | 青木謙知, 赤塚聡 |

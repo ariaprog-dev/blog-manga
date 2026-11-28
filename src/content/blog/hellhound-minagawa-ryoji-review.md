@@ -20,7 +20,6 @@ sidebarProducts:
 - title: ヘルハウンド
   url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4253158%2Fb900zkds54317%2F&af_id=DMMaria-999&ch=api
   imageUrl: https://ebook-assets.dmm.com/digital/e-book/b900zkds54317/b900zkds54317pl.jpg
-  price: 979
   microCopy: 詳細を見る
 ---
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
@@ -40,10 +39,10 @@ sidebarProducts:
 
 <div class="live-price-box" data-product-key="ヘルハウンド" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
-<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">参考価格: ¥979</span>
+<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">販売価格・在庫</span>
+<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">最新価格は各ショップで確認</span>
 </div>
-<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
+<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※最新の価格・在庫・ポイント還元率は各ストアの商品ページでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
 <a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2598%25E3%2583%25AB%25E3%2583%258F%25E3%2582%25A6%25E3%2583%25B3%25E3%2583%2589" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（Kindle・紙版）</a>
@@ -67,11 +66,11 @@ sidebarProducts:
 
 キャラクターの視線や表情をアップで捉えるコマと、広角で状況全体を見せるコマを交互に配置することで、読者は事件の全貌と同時に、登場人物たちの内面にある葛藤を深く感じ取れる。例えば、主人公が決定的な証拠を見つける場面では、その証拠がコマの隅に小さく描かれ、読者が自ら発見するような視線誘導がなされている。
 
-これは、読者を物語の傍観者ではなく、あたかも探偵のように事件に巻き込むための演出だと感じた。
+これは、読者を物語の傍観者ではなく、あたかも探偵のように事件の推理へ引き込むための巧みな視線誘導の演出といえる。
 
 緻密な描写は、単に絵が上手いというだけでなく、心理的なリアリティを構築している。キャラクターの汗の一滴や、指先の震えまでが、彼らの置かれた状況や感情を雄弁に物語る。
 
-当初、あまりにも情報量が多いコマに戸惑うこともあったが、読み進めるうちにそれが伏線であり、後の展開に繋がる「機能美」であることに気づかされた。細部までこだわり抜かれた描写の全てが、物語の深層を理解するための鍵なのだ。
+序盤は情報量の多い画面構成に圧倒される場面もあるが、読み進めるうちに細部の描写こそが伏線であり、後の展開に繋がる「機能美」であることが明確に見えてくる。細部までこだわり抜かれた描写の全てが、物語の深層を理解するための鍵なのだ。
 
 ## 隠された真実が炙り出す、人間の業と絆
 
@@ -105,18 +104,15 @@ sidebarProducts:
 
 ## 今すぐ読むための実践ガイドと費用感
 
-『ヘルハウンド』は、現在DMMブックスで好評配信中だ。現時点（2024年6月時点）ではコミックス第2巻までが発売されており、第3巻も予約受付が開始されている。
+『ヘルハウンド』は、現在DMMブックスなどの主要電子書籍ストアで配信中だ。複数巻が順次刊行されており、1巻から読み進めて作品の空気感を確かめやすい。
 
-1冊あたりの価格は<strong>979円</strong>。
-試し読みも可能なので、まずは無料で作品の世界観に触れてみるのが適している。DMMブックスの公式サイトで、最初の数ページを読み、皆川亮二先生の描く『ヘルハウンド』の空気をぜひ体感してみてほしい。
+試し読みにも対応しているストアが多いため、まずは冒頭数ページで皆川亮二先生が描く濃密なサスペンスの雰囲気に触れてみるのが適している。
 
-例えば、既刊2巻を揃える場合、総額は979円×2冊で<strong>1,958円</strong>となる。これは、単行本の価格としては標準的な水準だ。
-
-電子書籍なので、購入後すぐに読み始められる手軽さも魅力である。
+単行本価格やキャンペーン適用条件は各ショップ・時期により異なるため、最新価格を確認のうえ、デジタルならではの即時閲覧性や保管スペースを取らない利便性も踏まえて選びたい。
 
 | 項目 | 詳細 |
 | :--- | :--- |
-| 価格 | 979円（1冊あたり） |
+| 価格 | 最新価格は各ショップで確認 |
 | サービス | DMMブックス |
 | フロア | コミック |
 | 著者/作者 | 皆川亮二 |

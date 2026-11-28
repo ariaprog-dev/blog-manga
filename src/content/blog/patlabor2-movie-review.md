@@ -18,7 +18,6 @@ sidebarProducts:
   - title: '機動警察パトレイバー2 the Movie 4Kリマスターコレクション（4K ULTRA HD Blu-ray ＆ Blu-ray Disc） （特装限定版）'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_609bcqa24%2F&af_id=DMMaria-999&ch=api'
     imageUrl: 'https://pics.dmm.com/mono/movie/animation/n_609bcqa24/n_609bcqa24pl.jpg'
-    price: 12155
     microCopy: '詳細を見る'
 ---
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
@@ -40,10 +39,10 @@ sidebarProducts:
 
 <div class="live-price-box" data-product-key="機動警察パトレイバー2-the-movie" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
-<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">参考価格: ¥12,155</span>
+<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">販売価格・在庫</span>
+<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">最新価格は各ショップで確認</span>
 </div>
-<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
+<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※最新の価格・在庫・ポイント還元率は各ストアの商品ページでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
 <a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%25A9%259F%25E5%258B%2595%25E8%25AD%25A6%25E5%25AF%259F%25E3%2583%2591%25E3%2583%2588%25E3%2583%25AC%25E3%2582%25A4%25E3%2583%2590%25E3%2583%25BC2%2520the%2520Movie" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（Kindle・紙版）</a>
@@ -61,7 +60,7 @@ sidebarProducts:
 
 ## 映像が語りかける戦争の陰影
 
-本作の最大の見どころは、その圧倒的な「映像美」と「演出」にある。フィギュアの造形美と同じように、一枚一枚のセル画、カメラワーク、色彩設計にまで、押井守監督の深い思考が宿っている。
+本作の最大の見どころは、その圧倒的な「映像美」と「演出」にある。精緻なメカニカルデザインと同様に、一枚一枚のセル画、カメラワーク、色彩設計にまで、押井守監督の深い思考が宿っている。
 
 特に印象的なのは、静と動のコントラストだ。東京という現実の都市を舞台に、空虚な日常と戦争の予兆が静かに交錯する。
 
@@ -83,7 +82,7 @@ sidebarProducts:
 
 南雲しのぶ隊長もまた、柘植との過去と自身の正義の間で苦悩する。彼らの複雑な人間関係と心理描写が、作品に多層的な深みを与えている。
 
-初めて観た際、後藤隊長の台詞の多さや政治的な会話劇の連続に戸惑うことがあるかもしれない。しかし、繰り返し観ることで、その一言一句が持つ重みに気づき、物語の核を理解できる。
+初見時は、後藤隊長の台詞の多さや政治的な会話劇の連続に戸惑うことがあるかもしれない。しかし、繰り返し観ることで、その一言一句が持つ重みに気づき、物語の核を理解できる。
 
 この作品は、一度で全てを理解しようとするよりも、繰り返し鑑賞することで真価を発揮するスルメのような魅力がある。
 
@@ -95,7 +94,7 @@ sidebarProducts:
 
 また、作品が投げかけるテーマは非常に重く、現代社会の国際情勢や日本の特殊な安全保障環境に対する一定の知識が求められる部分もある。そういった背景を理解していなくても物語は追えるが、より深く作品を味わうためには、少しだけ予備知識を仕入れるか、複数回観て解釈を深める「割り切り」が必要になる。
 
-価格も12,155円と、一般的なアニメ作品のBlu-ray/DVDとしては高価な部類に入る。しかし、その価格は作品が持つ普遍的な価値と、バンダイナムコ フィルムワークスが提供する高品位な映像・音響体験への投資と考えるべきだ。
+特装限定版のため一般的なアニメ作品のBlu-ray/DVDと比べると一定の初期投資は必要になる。しかし、それは作品が持つ普遍的な価値と、バンダイナムコ フィルムワークスが提供する高品位な映像・音響体験への投資と考えるべきだ。
 
 ## 総括：時代を超えて警鐘を鳴らし続ける永遠の傑作
 
@@ -111,7 +110,7 @@ sidebarProducts:
 | :--- | :--- | :--- |
 | 対象作品・掲載商品 | 機動警察パトレイバー2 the Movie 4Kリマスターコレクション（4K ULTRA HD Blu-ray ＆ Blu-ray Disc） （特装限定版） | 記事内の主要紹介アイテム |
 | 媒体区分・想定仕様 | 映像ソフト・配信（Blu-ray／DVD／配信） | 視聴・閲覧環境（端末・プレイヤー・収納棚）との適合を確認 |
-| 価格・流通目安 | 12,155円（参考価格） | 在庫状況・送料・クーポン適用有無を含めて比較 |
+| 価格・流通目安 | 最新価格は各ショップで確認 | 在庫状況・送料・クーポン適用有無を含めて比較 |
 | 複数ストア比較の視点 | Amazon／楽天市場／Yahoo!／DMM等 | ポイント還元率・限定特典の有無・中古流通状態を照合 |
 
 <p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>あわせて読みたい関連解説</strong>：<a href="/blog/kara-no-kyoukai-bd-box-review/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">『劇場版 空の境界』Standard Edition：名作アニメを長く愛せる永久保存版レビュー</a> ／ <a href="/blog/shoujo-kakumei-utena-complete/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">「少女革命ウテナ Complete」は“決定版”か？伝説的クオリティの音響を検証</a></p>

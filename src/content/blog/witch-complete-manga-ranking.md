@@ -16,22 +16,19 @@ sidebarProducts:
 - title: 魔女
   url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F104057%2Fb600psgk02937%2F&af_id=DMMaria-999&ch=api
   imageUrl: https://ebook-assets.dmm.com/digital/e-book/b600psgk02937/b600psgk02937pl.jpg
-  price: 759
   microCopy: 詳細を見る
 - title: 魔女 第2集
   url: https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbk251_2508796%2F&af_id=DMMaria-999&ch=api
   imageUrl: https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5648/2000000125648.jpg?_ex=600x600
-  price: 691
   microCopy: 詳細を見る
-- title: 魔女 第1集
-  url: https://hb.afl.rakuten.co.jp/hgc/g00rc681.ve2q5dc9.g00rc681.ve2q61dc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbookoffonline%2F0015024625%2F
-  imageUrl: https://thumbnail.image.rakuten.co.jp/@0_mall/bookoffonline/cabinet/461/0015024625l.jpg?_ex=600x600
-  price: 691
+- title: 魔女 【電子書籍 第1集】
+  url: https://hb.afl.rakuten.co.jp/hgc/g00reb41.ve2q58c2.g00reb41.ve2q61ce/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutenkobo-ebooks%2F5b965f0a5942417e933a9d4bdcceb35c%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutenkobo-ebooks%2Fi%2F17819358%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b
+  imageUrl: https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5648/2000000125648.jpg?_ex=600x600
   microCopy: 詳細を見る
 heroImages:
 - https://ebook-assets.dmm.com/digital/e-book/b600psgk02937/b600psgk02937pl.jpg
+- https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9145/2000002809145.jpg?_ex=600x600
 - https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5648/2000000125648.jpg?_ex=600x600
-- https://thumbnail.image.rakuten.co.jp/@0_mall/bookoffonline/cabinet/461/0015024625l.jpg?_ex=600x600
 ---
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
@@ -46,15 +43,15 @@ heroImages:
 
 <div class="live-price-box" data-product-key="魔女-完全版-五十嵐大介" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
-<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">参考価格: ¥759</span>
+<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">販売価格・在庫</span>
+<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">最新価格は各ショップで確認</span>
 </div>
-<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
+<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※最新の価格・在庫・ポイント還元率は各ストアの商品ページでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
 <a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E9%25AD%2594%25E5%25A5%25B3%2520%25E5%25AE%258C%25E5%2585%25A8%25E7%2589%2588%2520%25E4%25BA%2594%25E5%258D%2581%25E5%25B5%2590%25E5%25A4%25A7%25E4%25BB%258B" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（Kindle・紙版）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
-<a href="https://hb.afl.rakuten.co.jp/hgc/g00rc681.ve2q5dc9.g00rc681.ve2q61dc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbookoffonline%2F0015024625%2F" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E9%AD%94%E5%A5%B3%20%E4%BA%94%E5%8D%81%E5%B5%90%E5%A4%A7%E4%BB%8B%2F" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E9%25AD%2594%25E5%25A5%25B3%2520%25E5%25AE%258C%25E5%2585%25A8%25E7%2589%2588%2520%25E4%25BA%2594%25E5%258D%2581%25E5%25B5%2590%25E5%25A4%25A7%25E4%25BB%258B" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 <a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F104057%2Fb600psgk02937%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMMで見る（限定特典・配信）</a>
 <a href="https://px.a8.net/svt/ejp?a8mat=4B8BWQ+57JKC2+1892+6QEUP" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #059669, #047857); color: #ffffff !important;">📚 全巻セット（漫画全巻ドットコム）</a>
@@ -113,22 +110,22 @@ heroImages:
 
 ## 第3位：『魔女 第1集』／『魔女 第2集』を分冊・中古流通から段階的に揃える
 
-全2巻のうちまず第1集だけを手に取って作品の空気感や描写密度を確かめたい場合や、手頃な流通在庫を活用して一冊ずつ読み進めたい読者には、第1集（参考価格691円前後）および第2集（参考価格691円前後）を個別に購入するアプローチも堅実な選択肢である。オムニバス性の高い連作短編集であるため、第1集の段階で収録された各短編の独特な筆致が自身の好みに合うかを確認したうえで第2集へ進める点が無駄のない進め方といえる。
+全2巻のうちまず第1集だけを手に取って作品の空気感や描写密度を確かめたい場合や、手頃な流通在庫を活用して一冊ずつ読み進めたい読者には、第1集および第2集を個別に購入するアプローチも堅実な選択肢である。オムニバス性の高い連作短編集であるため、第1集の段階で収録された各短編の独特な筆致が自身の好みに合うかを確認したうえで第2集へ進める点が無駄のない進め方といえる。
 
 <p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>あわせて読みたい関連解説</strong>：<a href="/blog/nagaigo-suganoo-complete-manga-ranking/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">永井豪 凄ノ王 完全版 全巻おすすめ人気ランキング4選を徹底比較！</a> ／ <a href="/blog/phantom-burai-manga-ranking/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">新谷かおる ファントム無頼 文庫版 全巻おすすめ人気ランキング4選を徹底比較！</a></p>
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
 <div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>魔女 第1集</strong></div>
-<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E9%25AD%2594%25E5%25A5%25B3%2520%25E5%25AE%258C%25E5%2585%25A8%25E7%2589%2588%2520%25E4%25BA%2594%25E5%258D%2581%25E5%25B5%2590%25E5%25A4%25A7%25E4%25BB%258B" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/g00rc681.ve2q5dc9.g00rc681.ve2q61dc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbookoffonline%2F0015024625%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E9%25AD%2594%25E5%25A5%25B3%2520%25E5%25AE%258C%25E5%2585%25A8%25E7%2589%2588%2520%25E4%25BA%2594%25E5%258D%2581%25E5%25B5%2590%25E5%25A4%25A7%25E4%25BB%258B" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E9%25AD%2594%25E5%25A5%25B3%2520%25E5%25AE%258C%25E5%2585%25A8%25E7%2589%2588%2520%25E4%25BA%2594%25E5%258D%2581%25E5%25B5%2590%25E5%25A4%25A7%25E4%25BB%258B" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/g00reb41.ve2q58c2.g00reb41.ve2q61ce/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutenkobo-ebooks%2F5b965f0a5942417e933a9d4bdcceb35c%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutenkobo-ebooks%2Fi%2F17819358%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天Koboで見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E9%25AD%2594%25E5%25A5%25B3%2520%25E5%25AE%258C%25E5%2585%25A8%25E7%2589%2588%2520%25E4%25BA%2594%25E5%258D%2581%25E5%25B5%2590%25E5%25A4%25A7%25E4%25BB%258B" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
 </div>
 
 ## 『魔女』全巻・形式別ラインナップ比較整理表
 
 | ランキング・選択肢 | 参考価格目安（掲載時） | 媒体・選定ポイント |
 | :--- | :--- | :--- |
-| 第1位：『魔女』紙書籍 第1集＋第2集セット | 各691円前後〜（新品・中古流通で変動） | 装丁や紙質を含め、本棚に全2巻を揃えて長期保管したいコレクター向け |
-| 第2位：電子書籍版『魔女』（1巻／2巻） | 759円（DMMブックス1巻参考価格） | タブレット等で精緻な自然描写を拡大しつつ省スペースで即読したい読者向け |
-| 第3位：第1集・第2集 個別分冊購入（通販・中古） | 691円前後（第1集・第2集各巻目安） | まず1冊目から試読し、配送条件やコンディションを見比べて順次揃えたい層向け |
+| 第1位：『魔女』紙書籍 第1集＋第2集セット | 各最新価格は各ショップで確認（新品・中古流通で変動） | 装丁や紙質を含め、本棚に全2巻を揃えて長期保管したいコレクター向け |
+| 第2位：電子書籍版『魔女』（1巻／2巻） | 最新価格は各ショップで確認 | タブレット等で精緻な自然描写を拡大しつつ省スペースで即読したい読者向け |
+| 第3位：第1集・第2集 個別分冊購入（通販・中古） | 最新価格は各ショップで確認（第1集・第2集各巻目安） | まず1冊目から試読し、配送条件やコンディションを見比べて順次揃えたい層向け |
 
 ## まとめ：五十嵐大介が描く自然と魔女の神秘に触れるための選び方
 

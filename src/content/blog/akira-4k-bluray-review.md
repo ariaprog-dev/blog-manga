@@ -22,7 +22,6 @@ sidebarProducts:
   - title: 'AKIRA 4Kリマスターセット (4K ULTRA HD Blu-ray)'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3D609bcqa9%2F&af_id=DMMaria-999&ch=api'
     imageUrl: 'https://pics.dmm.com/mono/movie/animation/n_609bcqa9/n_609bcqa9pl.jpg'
-    price: 9800
     microCopy: '詳細を見る'
 ---
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
@@ -31,7 +30,7 @@ sidebarProducts:
 
 総作画枚数15万枚、当時としては異例のプレスコ（台詞先行録音）採用など、狂気とも言える熱量で作られた本作が、最高峰の修復技術によって蘇ったパッケージが「<strong>AKIRA 4Kリマスターセット（4K ULTRA HD Blu-ray）</strong>」です。
 
-「従来のBlu-ray版と何が違うのか？」「定価約1万円を出して買い直す価値はあるのか？」「専用の再生環境はどう整えればいいのか？」
+「従来のBlu-ray版と何が違うのか？」「新たに買い足す価値はあるのか？」「専用の再生環境はどう整えればいいのか？」
 
 そんな疑問を抱く映画・アニメファンに向けて、<strong>4K HDRがもたらすネオ東京の光と影、芸能山城組による超高周波音響の凄み、そして購入前のハードル</strong>を徹底的に検証します。
 
@@ -46,10 +45,10 @@ sidebarProducts:
 
 <div class="live-price-box" data-product-key="akira-4k-blu-ray" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
-<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">参考価格: ¥9,800</span>
+<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">販売価格・在庫</span>
+<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">最新価格は各ショップで確認</span>
 </div>
-<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
+<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※最新の価格・在庫・ポイント還元率は各ストアの商品ページでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
 <a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DAKIRA%25204K%2520Blu-ray" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（Kindle・紙版）</a>
@@ -128,7 +127,7 @@ sidebarProducts:
 
 あなたのホームシアターで、この歴史的傑作の真の姿をぜひ体感してください。
 
-<p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>あわせて読みたい関連解説</strong>：<a href="/blog/metropolis-4k-bluray-review/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">メトロポリス4K UHD：SFアニメの金字塔を今、再体験する価値</a> ／ <a href="/blog/oneamis-wing-4k-bluray-deep-dive/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">『王立宇宙軍 オネアミスの翼』4K Blu-rayで歴史的アニメを再発見する</a></p>
+<p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>あわせて読みたい関連解説</strong>：<a href="/blog/metropolis-4k-bluray-review/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">『メトロポリス』Blu-ray（BCXA-0093）：手塚×りんたろう×大友SFアニメの金字塔を再体験する価値</a> ／ <a href="/blog/oneamis-wing-4k-bluray-deep-dive/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">『王立宇宙軍 オネアミスの翼』4K Blu-rayで歴史的アニメを再発見する</a></p>
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
 <div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>AKIRA 4K Blu-ray</strong></div>

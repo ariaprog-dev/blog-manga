@@ -1,22 +1,21 @@
 ---
 title: 'よしながふみ「愛がなくても喰ってゆけます」独り飯から見つける人生の豊かさ'
-description: 'よしながふみ「愛がなくても喰ってゆけます」は、食への深い洞察とユーモアで満ちた珠玉のエッセイ漫画だ。独り飯から広がる豊かな世界観と日常のささやかな幸せの発見は、日々に疲れたあなたに温かい光を届けるだろう。コスパ最強の食の知恵も満載。'
+description: 'よしながふみ「愛がなくても喰ってゆけます」は、食への深い洞察とユーモアで満ちた珠玉のエッセイ漫画だ。独り飯から広がる豊かな世界観と日常のささやかな幸せの発見は、日々の暮らしに温かい光を届ける。身近な食材を活かす食の知恵も満載。'
 pubDate: '2026-09-09'
-heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/comicset/cabinet/05608447/bkm2gkpcnqprljpk.jpg?_ex=600x600'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1012/2000002791012.jpg?_ex=600x600'
 genre: 'manga'
 mediaType: 'comic'
 faq:
   - question: '料理漫画として、具体的なレシピは豊富に載っていますか？'
-    answer: '本作は本格的なレシピ集というより、よしながふみ先生の食への向き合い方や日常の食事風景を描いたエッセイ漫画です。具体的な調理法は紹介されますが、分量などが詳細に書かれた「レシピ」は限定的だと感じます。 食へのインスピレーションを得る作品として楽しんでください。'
+    answer: '本作は本格的なレシピ集というより、よしながふみ先生の食への向き合い方や日常の食事風景を描いたエッセイ漫画です。具体的な調理法は紹介されますが、分量などが詳細に書かれた実用レシピ集とは趣が異なります。食へのインスピレーションを得る作品として楽しんでください。'
   - question: 'よしながふみ作品は初めてですが、この作品から読んでも楽しめますか？'
     answer: 'はい、問題なく楽しめます。この作品は先生自身の食生活に焦点を当てたルポ・エッセイなので、他の作品の世界観を知らなくても独立して読むことができます。 よしながふみ先生の人間観察力やユーモアのセンスに触れる入門編としても最適です。'
   - question: '電子書籍で読むメリットは何ですか？'
-    answer: 'DMMブックスの電子書籍版は、購入後すぐに読み始められる手軽さが最大のメリットです。本棚のスペースを気にせず、スマホやタブレットでいつでもどこでも読めます。 また、DMMブックスでは試し読みが可能なので、購入前に内容を一部確認できる点も安心です。'
+    answer: 'DMMブックスや楽天Koboなどの電子書籍版は、購入後すぐに読み始められる手軽さが最大のメリットです。本棚のスペースを気にせず、スマホやタブレットでいつでもどこでも読めます。各ストアでは無料試し読みも利用できるため、購入前に作風を確認できる点も安心です。'
 sidebarProducts:
   - title: '愛がなくても喰ってゆけます。'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbk254_2537399%2F&af_id=DMMaria-999&ch=api'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/comicset/cabinet/05608447/bkm2gkpcnqprljpk.jpg?_ex=600x600'
-    price: 968
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1012/2000002791012.jpg?_ex=600x600'
     microCopy: '詳細を見る'
 ---
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
@@ -24,7 +23,7 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/comicset/cabinet/05608447/bkm2gkpcnqprljpk.jpg?_ex=600x600" alt="愛がなくても喰ってゆけます" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1012/2000002791012.jpg?_ex=600x600" alt="愛がなくても喰ってゆけます" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #eff6ff; color: #1d4ed8; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">📘 編集部イチオシ名作</span><span style="color: #64748b; font-size: 0.75rem;">完結・全巻セット / リマスター</span></div>
@@ -32,10 +31,10 @@ sidebarProducts:
 
 <div class="live-price-box" data-product-key="愛がなくても喰ってゆけます" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
-<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">参考価格: ¥968</span>
+<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">販売価格・在庫</span>
+<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">最新価格は各ショップで確認</span>
 </div>
-<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
+<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※最新の価格・在庫・ポイント還元率は各ストアの商品ページでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
 <a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%2584%259B%25E3%2581%258C%25E3%2581%25AA%25E3%2581%258F%25E3%2581%25A6%25E3%2582%2582%25E5%2596%25B0%25E3%2581%25A3%25E3%2581%25A6%25E3%2582%2586%25E3%2581%2591%25E3%2581%25BE%25E3%2581%2599" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（Kindle・紙版）</a>
@@ -83,7 +82,7 @@ sidebarProducts:
 
 ## 読者の作品の魅力と、購入前の検討ポイント
 
-この作品は、読者からも「食への意識が変わった」「料理のハードルが下がった」「よしながふみ先生の日常が垣間見えて面白い」といった肯定的な声が多く聞かれる。特に、一人暮らしで食事のモチベーションが上がらないという人には、強く響く内容だろう。
+この作品は、気負わない調理視点や作者ならではの率直な語り口によって、食生活を見直すきっかけや読み物としての楽しさが高く評価されている。特に、一人暮らしで食事のモチベーションを保ちたい読者にとっては、身近で実践的なヒントを得やすい内容だ。
 
 マンガの形式で描かれているため、文章だけのエッセイよりも格段に読みやすいのもポイントだ。
 
@@ -100,7 +99,7 @@ sidebarProducts:
 | 検討項目 | 仕様・目安 | 選定時の着眼点 |
 | :--- | :--- | :--- |
 | 対象タイトル | 愛がなくても喰ってゆけます。（よしながふみ） | 食にまつわる体験談・日常描写をまとめたエッセイ漫画 |
-| 掲載参考価格 | 968円前後（DMMブックス等参考価格） | ポイント還元キャンペーンやクーポンの適用条件を確認 |
+| 掲載参考価格 | 最新価格は各ショップで確認 | ポイント還元キャンペーンやクーポンの適用条件を確認 |
 | 電子書籍版の特性 | スマホ・タブレットですぐに閲覧可能 | 通勤時間やキッチンの近くでも場所を取らずに参照できる |
 | 紙の単行本版の特性 | 書棚に並べて手元に保管できる物理版 | 装丁や紙の手触りを残しつつ手元で読み返したい場合に適合 |
 

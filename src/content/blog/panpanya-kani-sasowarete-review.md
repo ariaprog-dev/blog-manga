@@ -16,7 +16,6 @@ sidebarProducts:
   - title: '蟹に誘われて'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbkt33086038%2F&af_id=DMMaria-999&ch=api'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0684/9784592710684_1_2.jpg?_ex=600x600'
-    price: 0
     microCopy: '詳細を見る'
 ---
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
@@ -36,10 +35,10 @@ panpanya作品『蟹に誘われて』は、一見すると穏やかな日常の
 
 <div class="live-price-box" data-product-key="蟹に誘われて" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
-<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">価格・在庫を確認</span>
+<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">販売価格・在庫</span>
+<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">最新価格は各ショップで確認</span>
 </div>
-<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
+<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※最新の価格・在庫・ポイント還元率は各ストアの商品ページでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
 <a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E8%259F%25B9%25E3%2581%25AB%25E8%25AA%2598%25E3%2582%258F%25E3%2582%258C%25E3%2581%25A6" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（Kindle・紙版）</a>
@@ -85,7 +84,7 @@ panpanya作品は、その独特な装丁デザインも所有欲を刺激する
 
 読み終えた後も、装丁デザインはじっくりと鑑賞される。作品の内容と装丁が密接に結びついており、それ自体が一つのアート作品のようだ。一般的な商業漫画とは一線を画す、その芸術性の高さは多くのファンから熱狂的に支持されている。
 
-作品の構造や読後感を分析しても、「作者独自のリリカルな世界観」「想像力を刺激すれる」「再読すると新たな発見がある」といった声が多い。明確なストーリーを追うだけでなく、絵の細部やセリフの裏側を読み解く楽しみがあるからこそ、熱心な読者が生まれるのだ。
+作品の構造や読後感を踏まえると、独自のリリカルな画風や想像力を刺激する余白、再読するたびに新たな発見をもたらす構成の巧みさが多くのファンを惹きつけていることがわかる。明確なストーリーを追うだけでなく、絵の細部やセリフの裏側を読み解く楽しみがあるからこそ、熱心な読者が生まれるのだ。
 
 ## 読み手を選ぶ個性：全ての人に刺さるわけではない、その理由
 
@@ -93,7 +92,7 @@ panpanya作品は、その唯一無二の魅力がある一方で、万人受け
 
 また、読者によっては「難解だ」「意味がわからない」と感じることもある。それは作者が意図的に読者の解釈に委ねる余地を残しているからだ。この点が、panpanya作品の醍醐味であると同時に、読み手を選ぶ最大の理由でもある。
 
-価格については、単巻で1,430円と一般的なコミックよりやや高めだが、そのクオリティを考慮すれば妥当である。緻密な作画、独特な世界観、そして読後に長く残る余韻は、価格以上の価値を提供するはずだ。これは読み捨てにするのではなく、何度も手元で読み返す「鑑賞品」に近い。
+一般的なコミックスと比べて装丁やボリュームに応じた価格帯になりやすいが、緻密な作画、独特な世界観、そして読後に長く残る余韻を含めた造本の完成度は高い（最新価格は各ショップで確認）。読み捨てにするのではなく、何度も手元で読み返す「鑑賞品」に近い一冊だ。
 
 ## 製品仕様・購入選択肢の比較整理表
 

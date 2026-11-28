@@ -2,13 +2,13 @@
 title: '横山光輝『伊達政宗』全4巻レビュー！独眼竜の人間ドラマと横山劇画の読みどころ'
 description: '横山光輝版『伊達政宗』全4巻の魅力を徹底レビュー。山岡荘八原作による戦国ロマンの真髄、人間味あふれる独眼竜の成長と苦悩、全巻揃えて通読すべき理由を解説。'
 pubDate: '2026-10-17'
-heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/bookoffonline/cabinet/1901/0011377900l.jpg?_ex=600x600'
+heroImage: 'https://pics.dmm.com/mono/book/etc/bkt28344465/bkt28344465pl.jpg'
 genre: 'manga'
 mediaType: 'comic'
 heroImages:
-  - 'https://thumbnail.image.rakuten.co.jp/@0_mall/bookoffonline/cabinet/1901/0011377900l.jpg?_ex=600x600'
-  - 'https://thumbnail.image.rakuten.co.jp/@0_mall/ajimura4861/cabinet/a/309-4/b00bc9rs4y.jpg?_ex=600x600'
-  - 'https://thumbnail.image.rakuten.co.jp/@0_mall/bookoffonline/cabinet/1900/0011377901l.jpg?_ex=600x600'
+  - 'https://pics.dmm.com/mono/book/etc/bkt28344465/bkt28344465pl.jpg'
+  - 'https://pics.dmm.com/mono/book/etc/bkt28344466/bkt28344466pl.jpg'
+  - 'https://pics.dmm.com/mono/book/etc/bkt28362405/bkt28362405pl.jpg'
 tags:
   - 'angle:review'
 faq:
@@ -19,20 +19,17 @@ faq:
   - question: '全巻揃えるなら紙と電子、どちらが良い？'
     answer: '紙媒体は書棚に並べてコレクションする満足感や、ページをめくる手触りがあります。一方、電子書籍は場所を取らず、どこでも手軽に読めるのが利点です。ご自身の読書習慣や保管スペースを考慮して選ぶと良いでしょう。'
 sidebarProducts:
-  - title: '伊達政宗（文庫版）1巻'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00rc681.ve2q5dc9.g00rc681.ve2q61dc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbookoffonline%2F0011377900%2F'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/bookoffonline/cabinet/1901/0011377900l.jpg?_ex=600x600'
-    price: 814
+  - title: '伊達政宗 1（横山光輝）'
+    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbkt28344465%2F&af_id=DMMaria-999&ch=api'
+    imageUrl: 'https://pics.dmm.com/mono/book/etc/bkt28344465/bkt28344465pl.jpg'
     microCopy: '詳細を見る'
-  - title: '伊達政宗 文庫版 全4巻セット'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00tywq1.ve2q50f4.g00tywq1.ve2q643b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fajimura4861%2Fa-b00bc9rs4y%2F'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/ajimura4861/cabinet/a/309-4/b00bc9rs4y.jpg?_ex=600x600'
-    price: 3256
-    microCopy: '全巻セットを見る'
-  - title: '伊達政宗（文庫版）2巻'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00rc681.ve2q5dc9.g00rc681.ve2q61dc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbookoffonline%2F0011377901%2F'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/bookoffonline/cabinet/1900/0011377901l.jpg?_ex=600x600'
-    price: 814
+  - title: '伊達政宗 2（横山光輝）'
+    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbkt28344466%2F&af_id=DMMaria-999&ch=api'
+    imageUrl: 'https://pics.dmm.com/mono/book/etc/bkt28344466/bkt28344466pl.jpg'
+    microCopy: '詳細を見る'
+  - title: '伊達政宗 4（横山光輝）'
+    url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbkt28362405%2F&af_id=DMMaria-999&ch=api'
+    imageUrl: 'https://pics.dmm.com/mono/book/etc/bkt28362405/bkt28362405pl.jpg'
     microCopy: '詳細を見る'
 ---
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
@@ -44,7 +41,7 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/bookoffonline/cabinet/1901/0011377900l.jpg?_ex=600x600" alt="伊達政宗 1巻" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://pics.dmm.com/mono/book/etc/bkt28344465/bkt28344465pl.jpg" alt="伊達政宗 1巻" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #eff6ff; color: #1d4ed8; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">📘 編集部イチオシ名作</span><span style="color: #64748b; font-size: 0.75rem;">完結・全巻セット / リマスター</span></div>
@@ -52,15 +49,15 @@ sidebarProducts:
 
 <div class="live-price-box" data-product-key="伊達政宗-1巻" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
-<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">参考価格: ¥814</span>
+<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">販売価格・在庫</span>
+<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">最新価格は各ショップで確認</span>
 </div>
-<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
+<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※最新の価格・在庫・ポイント還元率は各ストアの商品ページでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
 <a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E4%25BC%258A%25E9%2581%2594%25E6%2594%25BF%25E5%25AE%2597%25201%25E5%25B7%25BB" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（Kindle・紙版）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
-<a href="https://hb.afl.rakuten.co.jp/hgc/g00rc681.ve2q5dc9.g00rc681.ve2q61dc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbookoffonline%2F0011377900%2F" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E6%A8%AA%E5%B1%B1%E5%85%89%E8%BC%9D%20%E4%BC%8A%E9%81%94%E6%94%BF%E5%AE%97%2F" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E4%25BC%258A%25E9%2581%2594%25E6%2594%25BF%25E5%25AE%2597%25201%25E5%25B7%25BB" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 <a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D%E4%BC%8A%E9%81%94%E6%94%BF%E5%AE%97%201%E5%B7%BB&af_id=DMMaria-999" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMM（無料試し読み）</a>
 <a href="https://px.a8.net/svt/ejp?a8mat=4B8BWQ+57JKC2+1892+6QEUP" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #059669, #047857); color: #ffffff !important;">📚 全巻セット（漫画全巻ドットコム）</a>
@@ -88,7 +85,7 @@ sidebarProducts:
 
 作品を読み始めた当初は、登場人物の顔が類似していると感じるかもしれない。しかし、数巻読み進めるうちに、<strong>わずかな表情の変化や、キャラクターごとの立ち位置、セリフ回し</strong>によって彼らの個性が鮮やかに浮かび上がる。
 
-これは、横山作品特有の読解術であり、その深さに気づいた時の感動はひとしおだった。
+これは、横山作品特有の読解術であり、巻を追うごとにキャラクターの奥行きが鮮やかに立ち上がってくる面白さがある。
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
 <div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>伊達政宗 の画力と演出</strong></div>
@@ -105,12 +102,12 @@ sidebarProducts:
 
 横山光輝作品といえば「三国志」や「バビル2世」が有名だが、「伊達政宗」は歴史を題材としながらも、他のSF作品に通じる<strong>普遍的なテーマ</strong>を内包している。
 
-| 比較項目       | 歴史作品（例：伊達政宗、三国志）                     | SF作品（例：バビル2世、ジャイアントロボ）           |
+| 比較項目 | 歴史作品（例：伊達政宗、三国志） | SF作品（例：バビル2世、ジャイアントロボ） |
 | :------------- | :------------------------------------------------- | :------------------------------------------------- |
-| <strong>主な魅力</strong>   | 史実に基づいた人間ドラマ、戦略戦術の面白さ           | 想像力豊かな世界観、超能力やロボットバトルの爽快さ   |
-| <strong>絵柄の傾向</strong> | 重厚感のある劇画調、合戦の迫力                       | 洗練されたメカニック、SF的な記号的表現               |
-| <strong>ストーリー</strong> | 長編が多く、歴史の流れや人物の成長を追う             | 短編〜中編が多く、毎回新たな敵や脅威に立ち向かう     |
-| <strong>読後の余韻</strong> | 歴史への深い理解、登場人物への共感                   | 壮大な物語への没入感、人類や未来への問いかけ         |
+| <strong>主な魅力</strong> | 史実に基づいた人間ドラマ、戦略戦術の面白さ | 想像力豊かな世界観、超能力やロボットバトルの爽快さ |
+| <strong>絵柄の傾向</strong> | 重厚感のある劇画調、合戦の迫力 | 洗練されたメカニック、SF的な記号的表現 |
+| <strong>ストーリー</strong> | 長編が多く、歴史の流れや人物の成長を追う | 短編〜中編が多く、毎回新たな敵や脅威に立ち向かう |
+| <strong>読後の余韻</strong> | 歴史への深い理解、登場人物への共感 | 壮大な物語への没入感、人類や未来への問いかけ |
 
 歴史作品である「伊達政宗」も、政宗の「運命への抗い」という点でSF作品の主人公たちと共通する部分がある。彼の決断一つ一つに、<strong>人間の尊厳や時代の荒波を乗り越える力強さ</strong>が込められているのだ。
 
@@ -118,7 +115,7 @@ sidebarProducts:
 
 横山光輝版『伊達政宗』は、現在1巻〜4巻の個別巻および全巻セットで揃えられる。全巻セットとしての特別なパッケージは現在流通していない場合が多いが、<strong>各巻を揃えることで全巻を通読できる</strong>。
 
-漫画は全4巻で完結しているため、一冊一冊揃えていくのも良いだろう。全4巻を購入した場合、<strong>総額は3256円（税込）</strong> となる。歴史に名を刻む人物の物語をこの価格で読めるのは、非常に価値がある。
+漫画は全4巻でコンパクトに完結しているため、一冊ずつ計画的に揃えて通読しやすいのが特徴だ。歴史に名を刻む人物の生涯を4巻構成に凝縮した密度の高さは、横山光輝作品の中でも手に取りやすいボリュームと言える（最新価格は各ショップで確認）。
 
 現在は電子書籍での入手も容易になっている。手軽に読みたいなら電子版、書棚に並べてコレクションしたいなら紙版と、自分の読書スタイルに合わせて選択するといい。
 
@@ -126,7 +123,7 @@ sidebarProducts:
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
 <div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>横山光輝 伊達政宗</strong></div>
-<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%25A8%25AA%25E5%25B1%25B1%25E5%2585%2589%25E8%25BC%259D%2520%25E4%25BC%258A%25E9%2581%2594%25E6%2594%25BF%25E5%25AE%2597" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/g00rc681.ve2q5dc9.g00rc681.ve2q61dc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbookoffonline%2F0011377900%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E6%25A8%25AA%25E5%25B1%25B1%25E5%2585%2589%25E8%25BC%259D%2520%25E4%25BC%258A%25E9%2581%2594%25E6%2594%25BF%25E5%25AE%2597" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%25A8%25AA%25E5%25B1%25B1%25E5%2585%2589%25E8%25BC%259D%2520%25E4%25BC%258A%25E9%2581%2594%25E6%2594%25BF%25E5%25AE%2597" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E6%A8%AA%E5%B1%B1%E5%85%89%E8%BC%9D%20%E4%BC%8A%E9%81%94%E6%94%BF%E5%AE%97%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E6%25A8%25AA%25E5%25B1%25B1%25E5%2585%2589%25E8%25BC%259D%2520%25E4%25BC%258A%25E9%2581%2594%25E6%2594%25BF%25E5%25AE%2597" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
 </div>
 
 ## まとめ：歴史漫画の金字塔を味わう

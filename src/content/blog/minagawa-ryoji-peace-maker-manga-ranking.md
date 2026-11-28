@@ -21,12 +21,10 @@ sidebarProducts:
 - title: PEACE MAKER
   url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F106084%2Fb950nshes02447%2F&af_id=DMMaria-999&ch=api
   imageUrl: https://ebook-assets.dmm.com/digital/e-book/b950nshes02447/b950nshes02447pl.jpg
-  price: 770
   microCopy: 詳細を見る
 - title: PEACE MAKER ―BLACK WING―
   url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F685757%2Fb950nshes04261%2F&af_id=DMMaria-999&ch=api
   imageUrl: https://ebook-assets.dmm.com/digital/e-book/b950nshes04261/b950nshes04261pl.jpg
-  price: 733
   microCopy: 詳細を見る
 ---
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
@@ -46,19 +44,19 @@ sidebarProducts:
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #eff6ff; color: #1d4ed8; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">📘 編集部イチオシ名作</span><span style="color: #64748b; font-size: 0.75rem;">完結・全巻セット / リマスター</span></div>
 <h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">PEACE MAKER</h4>
 
-<div class="live-price-box" data-product-key="転送者-皆川亮二短編集" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
+<div class="live-price-box" data-product-key="peace-maker" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
-<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">参考価格: ¥770</span>
+<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">販売価格・在庫</span>
+<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">最新価格は各ショップで確認</span>
 </div>
-<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
+<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※最新の価格・在庫・ポイント還元率は各ストアの商品ページでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E8%25BB%25A2%25E9%2580%2581%25E8%2580%2585%2520%25E7%259A%2586%25E5%25B7%259D%25E4%25BA%25AE%25E4%25BA%258C%25E7%259F%25AD%25E7%25B7%25A8%25E9%259B%2586" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（Kindle・紙版）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DPEACE%2520MAKER%2520%25E7%259A%2586%25E5%25B7%259D%25E4%25BA%25AE%25E4%25BA%258C" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（Kindle・紙版）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
 <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPEACE%20MAKER%2F" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E8%25BB%25A2%25E9%2580%2581%25E8%2580%2585%2520%25E7%259A%2586%25E5%25B7%259D%25E4%25BA%25AE%25E4%25BA%258C%25E7%259F%25AD%25E7%25B7%25A8%25E9%259B%2586" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
-<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4071103%2Fb600zsgk02967%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMMで見る（限定特典・配信）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DPEACE%2520MAKER%2520%25E7%259A%2586%25E5%25B7%259D%25E4%25BA%25AE%25E4%25BA%258C" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
+<a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F106084%2Fb950nshes02447%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #1877f2, #0d5cb6); color: #ffffff !important;">📘 DMMで見る（限定特典・配信）</a>
 <a href="https://px.a8.net/svt/ejp?a8mat=4B8BWQ+57JKC2+1892+6QEUP" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #059669, #047857); color: #ffffff !important;">📚 全巻セット（漫画全巻ドットコム）</a>
 </div>
 </div>
@@ -79,12 +77,12 @@ sidebarProducts:
 
 全17巻で描かれる壮大なストーリーは、緻密な伏線回収と読者を飽きさせない展開が続き、最後まで目が離せない。この作品は、ただのガンアクションにとどまらない深いテーマ性を持つ。
 
-残念ながら、DMMブックスでは現時点で『PEACE MAKER』の「全巻セット」という形式での販売はない。そのため、読者は一冊ずつカートに入れて購入する必要がある。しかし、作品の面白さを考えれば、このひと手間は決して惜しくないはずだ。1冊あたり770円で購入できる。
+DMMブックスなどでは1冊ずつ順番に揃える形となるが、電子版なら手元に保管場所を取らず、作品の重厚なガンアクションを1巻から気軽に追いやすい（最新価格は各ショップで確認）。
 
 ### スペック表
 | 項目 | 詳細 |
 | :--- | :--- |
-| 価格 | 770円 |
+| 価格 | 最新価格は各ショップで確認 |
 | サービス | DMMブックス |
 | フロア | コミック |
 | 著者/作者 | 皆川亮二 |
@@ -110,7 +108,7 @@ sidebarProducts:
 ### スペック表
 | 項目 | 詳細 |
 | :--- | :--- |
-| 価格 | 733円 |
+| 価格 | 最新価格は各ショップで確認 |
 | サービス | DMMブックス |
 | フロア | 文芸・ラノベ |
 | 著者/作者 | 皆川亮二, 岡村直宏 |
@@ -121,30 +119,30 @@ sidebarProducts:
 <div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DPEACE%2520MAKER%2520%25E2%2580%2595BLACK%2520WING%25E2%2580%2595" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPEACE%20MAKER%20%E2%80%95BLACK%20WING%E2%80%95%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DPEACE%2520MAKER%2520%25E2%2580%2595BLACK%2520WING%25E2%2580%2595" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a><a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F685757%2Fb950nshes04261%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #1d4ed8; border: 1px solid #93c5fd;">DMMで見る</a></div>
 </div>
 
-## 第3位: PEACE MAKER
+## 第3位: 転送者 皆川亮二短編集
 
-『PEACE MAKER』の世界観から少し離れるが、皆川亮二先生の作家としてのルーツや幅広い才能を知る上で、『PEACE MAKER』は非常に価値のある一冊だ。彼の連載作品では見られないような、実験的で多様なテーマの短編が収録されている。
+『PEACE MAKER』の世界観から少し離れるが、皆川亮二先生の作家としてのルーツや幅広い才能を知る上で、短編集『転送者』は非常に価値のある一冊だ。彼の連載作品では見られないような、実験的で多様なテーマの短編が収録されている。
 
-この短編集を読むことで、『PEACE MAKER』や『ARMS』といった長編作品に見られる、緻密なメカニック描写やダイナミックなアクション、そして人間ドラマの原点となるような表現の萌芽を見つけられるはずだ。様々な題材に挑戦した若き日の皆川亮二先生の初期衝動が凝縮されており、彼の作画スタイルや構図の変遷を感じ取れるのも面白い。
+この短編集を読むことで、『PEACE MAKER』や『ARMS』といった長編作品に見られる、緻密なメカニック描写やダイナミックなアクション、そして人間ドラマの原点となるような表現の萌芽を見つけられるはずだ。様々な題材に挑戦した皆川亮二先生の初期衝動が凝縮されており、作画スタイルや構図の変遷を感じ取れるのも面白い。
 
-短編という形式のため、一つ一つの物語が完結しており、通勤電車の中やちょっとした休憩時間にも気軽に読めるのもメリットだ。1冊770円で、複数の異なる世界観を楽しめるのはコスパも良い。
+短編という形式のため、一つ一つの物語が完結しており、通勤電車の中やちょっとした休憩時間にも気軽に読み進められるのがメリットだ。
 
-『PEACE MAKER』とは直接の関連がないため、特定のストーリーを深く追いたい人にとっては、物足りなさを感じるかもしれない。しかし、皆川亮二先生のファンであれば、彼の引き出しの多さや、ジャンルに縛られない発想力にきっと感銘を受けるはずだ。
+『PEACE MAKER』と直接のストーリー上の繋がりはないため、長編の連続劇を深く追いたい読者には趣が異なって映る場合もある。しかし、皆川亮二先生の引き出しの多さや、ジャンルに縛られない発想力に触れると、作風への理解が一層深まるはずだ。
 
 長編作品の合間に、箸休めとして、あるいは作者のルーツを探る意味で読んでみるのが効果的だ。
 
 ### スペック表
 | 項目 | 詳細 |
 | :--- | :--- |
-| 価格 | 770円 |
+| 価格 | 最新価格は各ショップで確認 |
 | サービス | DMMブックス |
 | フロア | コミック |
 | 著者/作者 | 皆川亮二 |
 | ジャンル | オムニバス・短編集 |
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
-<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>PEACE MAKER</strong></div>
-<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DPEACE%2520MAKER" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPEACE%20MAKER%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DPEACE%2520MAKER" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>転送者 皆川亮二短編集</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E8%25BB%25A2%25E9%2580%2581%25E8%2580%2585%2520%25E7%259A%2586%25E5%25B7%259D%25E4%25BA%25AE%25E4%25BA%258C%25E7%259F%25AD%25E7%25B7%25A8%25E9%259B%2586" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E8%BB%A2%E9%80%81%E8%80%85%20%E7%9A%86%E5%B7%9D%E4%BA%AE%E4%BA%8C%E7%9F%AD%E7%B7%A8%E9%9B%86%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E8%25BB%25A2%25E9%2580%2581%25E8%2580%2585%2520%25E7%259A%2586%25E5%25B7%259D%25E4%25BA%25AE%25E4%25BA%258C%25E7%259F%25AD%25E7%25B7%25A8%25E9%259B%2586" target="_blank" rel="noopener noreferrer sponsored" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a><a href="https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4071103%2Fb600zsgk02967%2F&af_id=DMMaria-999&ch=api" target="_blank" rel="noopener noreferrer sponsored" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #1d4ed8; border: 1px solid #93c5fd;">DMMで見る</a></div>
 </div>
 
 ## 第4位: 海王ダンテ
@@ -153,9 +151,7 @@ sidebarProducts:
 
 泉福朗氏との共同原作という形で、ストーリーテリングにも奥行きがある。皆川亮二先生らしい迫力あるアクションシーンは健在で、海戦の描写や帆船のメカニックデザインは、その緻密さで読者を唸らせるといえる。
 
-海戦の描写では、荒れる波濤の中を突き進む船の迫力が表現されている。歴史考証に基づいた世界観も相まって、読んでいるとまるでその時代にタイムスリップしたかのような没入感がある。
-
-1冊715円という価格も魅力的だ。
+海戦の描写では、荒れる波濤の中を突き進む船の迫力が表現されている。歴史考証に基づいた世界観も相まって、読んでいるとまるでその時代にタイムスリップしたかのような没入感がある。最新価格や電子版の配信状況も各ストアで確認しやすい。
 
 『PEACE MAKER』のようなSF要素は薄く、歴史・時代劇に興味がない読者にとっては、魅力が伝わりにくいかもしれない。しかし、皆川亮二作品に共通する「男のロマン」を追求する作風は、『海王ダンテ』にも脈々と流れている。
 
@@ -164,7 +160,7 @@ sidebarProducts:
 ### スペック表
 | 項目 | 詳細 |
 | :--- | :--- |
-| 価格 | 715円 |
+| 価格 | 最新価格は各ショップで確認 |
 | サービス | DMMブックス |
 | フロア | コミック |
 | 著者/作者 | 皆川亮二, 泉福朗 |

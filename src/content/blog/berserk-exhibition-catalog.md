@@ -22,7 +22,6 @@ sidebarProducts:
   - title: '大ベルセルク展 公式図録 THE ARTWORK OF BERSERK'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fsearch%2F%3Fsearchstr%3D%E5%A4%A7%E3%83%99%E3%83%AB%E3%82%BB%E3%83%AB%E3%82%AF%E5%B1%95%20%E5%85%AC%E5%BC%8F%E5%9B%B3%E9%8C%B2&af_id=DMMaria-999'
     imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b371khkss06951/b371khkss06951pl.jpg'
-    price: 3960
     microCopy: '詳細を見る'
 ---
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
@@ -31,7 +30,7 @@ sidebarProducts:
 
 作者・三浦建太郎先生の突然の訃報から時を経て開催された「大ベルセルク展」において、会場限定グッズとして発売され瞬く間に完売・重版が繰り返された伝説のアートブックが、この「<strong>大ベルセルク展 公式図録（THE ARTWORK OF BERSERK）</strong>」です。
 
-「定価約4,000円の価値はあるのか？」「過去のカラー画集と何が違うのか？」「単行本を持っているなら買う必要はないのでは？」
+「図録ならではの価値はあるのか？」「過去のカラー画集と何が違うのか？」「単行本を持っているなら買う必要はないのでは？」
 
 そんな疑問を抱く方に向けて、本書を長年愛読してきたファン目線から、<strong>通常単行本との圧倒的な解像度の違い、収録ボリューム、そして一生モノの家宝として手元に置くべき理由</strong>を忖度なしでレビューします。
 
@@ -46,10 +45,10 @@ sidebarProducts:
 
 <div class="live-price-box" data-product-key="berserk" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
-<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">参考価格: ¥3,960</span>
+<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">販売価格・在庫</span>
+<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">最新価格は各ショップで確認</span>
 </div>
-<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
+<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※最新の価格・在庫・ポイント還元率は各ストアの商品ページでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
 <a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DBerserk" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（Kindle・紙版）</a>
@@ -87,7 +86,7 @@ sidebarProducts:
 | <strong>総ページ数</strong> | 約220ページ | <strong>400ページ超（超重量級）</strong> | 1冊で全41巻分の重要名画を一望できる |
 | <strong>用紙と印刷品質</strong> | 通常の更紙・単色オフセット印刷 | <strong>高白色・超高精細アート紙</strong> | <strong>黒の沈み込みと線のエッジが極めてシャープ</strong> |
 | <strong>修正跡・筆致の視認</strong> | 印刷処理で平滑化され不可視 | <strong>ホワイトの盛り上がりや筆跡が視認可能</strong> | 三浦先生の作画時の熱量と苦闘がダイレクトに伝わる |
-| <strong>定価目安</strong> | 約600円〜700円 | 約3,960円（税込） | 美術展の公式カタログとして妥当かつ高コスパ |
+| <strong>定価目安</strong> | 最新価格は各ショップで確認 | 最新価格は各ショップで確認 | 美術展の公式カタログとして妥当かつ高コスパ |
 
 ## 収録章立て＆年代別アートワーク早見表
 
@@ -121,12 +120,12 @@ sidebarProducts:
    展示原画のビジュアルが中心であり、セリフやストーリーの解説は最小限です。『ベルセルク』を未読の方が最初に読んでも物語の文脈は掴めないため、原作未読の方には不向きです。
 2. <strong>重量約2kg・A4大判による保管のハードル</strong>:
    総ページ数400P超の超重量本のため、寝転がって片手で読むことは不可能です。机の上に大きく広げて鑑賞するスタイルが基本となり、本棚の高さ（30cm以上）も必要となります。
-3. <strong>流通相場の確認（定価は約4,000円）</strong>:
-   展覧会公式アイテムであるため、タイミングによってフリマやネット通販で定価以上のプレミア価格がついている場合があります。定価（約3,960円前後）を念頭に置き、適正価格で購入するのが効果的だ。
+3. <strong>流通相場と公式定価の確認</strong>:
+   展覧会公式アイテムであるため、タイミングによってフリマやネット通販で公式定価を上回るプレミア価格がついている場合があります。公式定価を事前に確認し、適正な入手経路かどうかを見極めて購入するのが効果的だ。
 
 ## まとめ：三浦建太郎の命が刻まれた唯一無二の遺産
 
-『大ベルセルク展 公式図録（THE ARTWORK OF BERSERK）』は、<strong>ファンであるならば絶対に手元に置いておくべき、後世に受け継ぐべき至宝</strong>です。
+『大ベルセルク展 公式図録（THE ARTWORK OF BERSERK）』は、<strong>ファンであるならばぜひ手元に置いておきたい、後世に受け継がれるべき至宝</strong>です。
 
 コミックスを全巻読破した方なら、あの名シーンの原画を大判で見つめるたびに、胸の奥底から熱い感情が込み上げてくるはずです。
 

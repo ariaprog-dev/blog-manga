@@ -13,12 +13,11 @@ faq:
   - question: 'ストーリーは難しい？ 予備知識は必要？'
     answer: '複雑な設定が魅力だけど、作中で丁寧に説明されているから予備知識は不要だ。読み進めるうちに世界の全貌が徐々に見えてくる構造になっている。'
   - question: '試し読みはできる？'
-    answer: 'DMMブックスで試し読みが可能である。冒頭を読むことで、物語の雰囲気や文章を確認できる。 [楽園殺し](https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4089935%2Fb600dsgk27878%2F&af_id=DMMaria-999&ch=api)'
+    answer: 'DMMブックスで試し読みが可能である。冒頭を読むことで、物語の雰囲気や文章を確認できる。'
 sidebarProducts:
 - title: 楽園殺し
   url: https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F4089935%2Fb600dsgk27878%2F&af_id=DMMaria-999&ch=api
   imageUrl: https://ebook-assets.dmm.com/digital/e-book/b600dsgk27878/b600dsgk27878pl.jpg
-  price: 1001
   microCopy: 詳細を見る
 heroImages:
 - https://ebook-assets.dmm.com/digital/e-book/b600dsgk27878/b600dsgk27878pl.jpg
@@ -40,10 +39,10 @@ heroImages:
 
 <div class="live-price-box" data-product-key="楽園殺し" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
-<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">参考価格: ¥1,001</span>
+<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">販売価格・在庫</span>
+<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">最新価格は各ショップで確認</span>
 </div>
-<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
+<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※最新の価格・在庫・ポイント還元率は各ストアの商品ページでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
 <a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%25A5%25BD%25E5%259C%2592%25E6%25AE%25BA%25E3%2581%2597" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（Kindle・紙版）</a>
@@ -75,13 +74,13 @@ heroImages:
 
 特に印象的なのは、物語の節目で提示される情報の出し方だ。まるでパズルのピースが少しずつ嵌まっていくように、世界の真実が徐々に明らかになっていく。この情報開示のタイミングと構成が絶妙で、読者の考察心を掻き立てる。物語全体の「構造」が、読者の体験をデザインしているかのようだ。
 
-## 読者が語る世界観の引力と、深く読み解くための割り切り
+## 作品世界の引力と、深く読み解くための向き・不向き
 
-実際に『楽園殺し』を読んだ人からは、「設定が作り込まれていてすごい」「一度読み始めると止まらない」といった声が多く聞かれる。特に、世界観の緻密さや伏線の張り方に感銘を受ける読者が多い印象だ。多くの読者が、その巧妙なプロットに引き込まれる傾向がある。
+『楽園殺し』は、作り込まれた閉鎖空間のルールや緻密な伏線の張り方によって、設定や物語構造を読み解くことに面白さを見出す読者層から特に評価されやすい作風を備えている。
 
 しかし、この作品は決して万人受けするわけではない。哲学的要素や重厚な世界観が強いため、物語に没入するにはある程度の集中力と知的好奇心が必要になる。軽い気持ちで読み始めると、その世界観の深さに圧倒されてしまうかもしれない。
 
-正直なところ、読み手を選ぶ作品だと思う。サクサクと読み進めたい人や、あまり考察せずにエンターテインメントを楽しみたい人には、もしかしたら少しハードルが高いかもしれない。しかし、複雑な物語の「構造」を解き明かすことに喜びを感じる読者には、かけがえのない体験をもたらすだろう。
+率直に言えば、読み手を選ぶタイプの作品だ。サクサクと読み進めたい人や、あまり考察せずにエンターテインメントを楽しみたい人には、少しハードルが高く感じられるかもしれない。しかし、複雑な物語の「構造」を解き明かすことに喜びを感じる読者には、記憶に残る深い体験をもたらしてくれるだろう。
 
 ## 賢く読破するための購読ガイド
 
@@ -92,7 +91,7 @@ heroImages:
 | 比較項目 | 詳細・仕様概要 | 読者が事前に確認すべき観点 |
 | :--- | :--- | :--- |
 | 対象タイトル | 楽園殺し（文：呂暇郁夫／イラスト：ろるあ） | 閉鎖空間「楽園」の構造を巡るSFファンタジー・文芸作品 |
-| 掲載参考価格 | 1,001円（DMMブックス掲載時参考価格） | 電子版と紙書籍版（単行本）の販売価格・ポイント条件を比較 |
+| 掲載参考価格 | 最新価格は各ショップで確認 | 電子版と紙書籍版（単行本）の販売価格・ポイント条件を比較 |
 | 作風・読者適正 | 伏線と世界の仕組みを段階的に読み解く構成 | 軽快な日常系ではなく、設定考察や思索的な展開を好む読者層に適合 |
 | 試し読みの活用 | 各電子ストアのサンプル機能に対応 | 文体・語彙のトーンや世界観の密度が好みに合うか購入前に確認可能 |
 

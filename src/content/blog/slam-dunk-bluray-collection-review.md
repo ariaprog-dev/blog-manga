@@ -11,7 +11,6 @@ sidebarProducts:
   - title: 'SLAM DUNK Blu-ray Collection VOL.1'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_618bstd8921%2F&af_id=DMMaria-999&ch=api'
     imageUrl: 'https://pics.dmm.com/mono/movie/animation/n_618bstd8921/n_618bstd8921pl.jpg'
-    price: 14960
     microCopy: 'DMMで詳細を見る'
 faq:
   - question: 'Blu-rayコレクションは、DVD版と比べて具体的に何が優れているのですか？'
@@ -38,10 +37,10 @@ faq:
 
 <div class="live-price-box" data-product-key="slam-dunk-blu-ray-collection-vol-1" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
-<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">参考価格: ¥14,960</span>
+<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">販売価格・在庫</span>
+<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">最新価格は各ショップで確認</span>
 </div>
-<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
+<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※最新の価格・在庫・ポイント還元率は各ストアの商品ページでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
 <a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DSLAM%2520DUNK%2520Blu-ray%2520Collection%2520VOL%25201" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（Kindle・紙版）</a>
@@ -95,7 +94,7 @@ HDリマスター化された映像は、当時のブラウン管テレビでは
 
 ## 高額コレクションの現実：購入前に考慮すべき費用と保管スペース
 
-この「東映ビデオ スラムダンク Blu-ray Collection 全5巻セット」は、<strong>82,500円という価格設定</strong>だ。これは決して安い買い物ではない。
+この「東映ビデオ スラムダンク Blu-ray Collection 全5巻セット」は、TV全101話・5BOX相当にわたるコレクターズアイテムだ。気軽に手に取れる価格帯ではないが、最新価格は各ショップの在庫・セット状況とあわせて確認したい。
 
 しかし、約30年前に始まった伝説のアニメ全話を、最新の技術で<strong>HDリマスター化し、永久保存できる価値</strong>を考えれば、妥当な投資とも言える。これは一時的な消費ではなく、一生もののコレクションとなるだろう。
 
@@ -103,7 +102,7 @@ HDリマスター化された映像は、当時のブラウン管テレビでは
 
 Blu-rayディスクを視聴するためには、<strong>Blu-ray対応のプレーヤー</strong>が必要になる。また、高画質の恩恵を最大限に受けるためには、ある程度高性能なテレビやディスプレイも欲しい。
 
-古いテレビで再生した場合、HD画質の恩恵を十分に感じられない可能性がある。<strong>4Kテレビを導入することで、その真価を体感できる</strong>という経験談もある。
+古いテレビで再生した場合、HD画質の恩恵を十分に感じられない可能性がある。大画面のフルHD対応機種や<strong>4Kテレビなどの再生環境を整えることで、その真価を体感しやすい</strong>。
 
 保管スペースも考慮すべきだ。全5巻セットは、それぞれ三方背BOXに収められており、<strong>それなりの収納場所を確保する必要がある</strong>。
 
@@ -115,14 +114,14 @@ Blu-rayディスクを視聴するためには、<strong>Blu-ray対応のプレ�
 
 現在、アニメを視聴する方法は多岐にわたる。DVD、Blu-ray、そして各種動画配信サービスが主な選択肢だ。それぞれにメリットとデメリットが存在するため、自分のライフスタイルや求めるクオリティに合わせて選ぶことが重要となる。
 
-| 項目         | DVD                               | Blu-ray                             | 動画配信サービス              |
+| 項目 | DVD | Blu-ray | 動画配信サービス |
 | :----------- | :-------------------------------- | :---------------------------------- | :---------------------------- |
-| <strong>画質</strong>     | 標準画質（SD）                    | <strong>高画質（HD）</strong>                    | HD～4K（サービス・回線依存）  |
-| <strong>音質</strong>     | ステレオまたはドルビーデジタル    | <strong>高音質（リニアPCM等）</strong>           | サービス・回線依存              |
-| <strong>所有形態</strong> | 物理ディスク（保管スペース必要）  | <strong>物理ディスク（保管スペース必要）</strong> | データ（所有権なし、レンタル多し） |
-| <strong>価格</strong>     | 比較的安価                        | <strong>高価</strong>                            | 月額料金制（見放題・都度課金） |
-| <strong>利便性</strong>   | ディスク挿入の手間あり            | ディスク挿入の手間あり              | インターネット環境があればどこでも |
-| <strong>特典</strong>     | 限定的な場合が多い                | <strong>ブックレット等、充実した特典</strong>    | ほぼなし                      |
+| <strong>画質</strong> | 標準画質（SD） | <strong>高画質（HD）</strong> | HD～4K（サービス・回線依存） |
+| <strong>音質</strong> | ステレオまたはドルビーデジタル | <strong>高音質（リニアPCM等）</strong> | サービス・回線依存 |
+| <strong>所有形態</strong> | 物理ディスク（保管スペース必要） | <strong>物理ディスク（保管スペース必要）</strong> | データ（所有権なし、レンタル多し） |
+| <strong>価格</strong> | 比較的安価 | <strong>高価</strong> | 月額料金制（見放題・都度課金） |
+| <strong>利便性</strong> | ディスク挿入の手間あり | ディスク挿入の手間あり | インターネット環境があればどこでも |
+| <strong>特典</strong> | 限定的な場合が多い | <strong>ブックレット等、充実した特典</strong> | ほぼなし |
 
 この比較表からもわかる通り、<strong>「画質」「音質」「特典」</strong>の三点において、Blu-rayコレクションは頭一つ抜けている。特に東映ビデオのスラムダンクBlu-rayはHDリマスターが施されており、<strong>約30年前のアニメとは思えないほどのクリアな映像</strong>で作品を楽しめる。
 
@@ -132,14 +131,14 @@ Blu-rayディスクを視聴するためには、<strong>Blu-ray対応のプレ�
 
 このBlu-rayコレクションは、ただ本編を収録しているだけでなく、ファンにとって嬉しい特典も満載だ。全5巻にわたる壮大な物語の全貌を、手元でじっくりと堪能できる。
 
-| 項目         | 詳細                                    |
+| 項目 | 詳細 |
 | :----------- | :-------------------------------------- |
-| <strong>収録話数</strong> | TVアニメ 全101話                        |
-| <strong>ディスク枚数</strong> | Blu-rayディスク 5枚組（各巻1枚）         |
-| <strong>映像特典</strong> | ノンクレジットOP/ED（予定）             |
+| <strong>収録話数</strong> | TVアニメ 全101話 |
+| <strong>ディスク枚数</strong> | Blu-rayディスク 5枚組（各巻1枚） |
+| <strong>映像特典</strong> | ノンクレジットOP/ED（予定） |
 | <strong>封入特典</strong> | 各巻ブックレット（内容未公開、各巻1冊） |
-| <strong>パッケージ</strong> | 三方背BOX仕様（全巻収納可能）           |
-| <strong>音声仕様</strong> | リニアPCM（予定）                       |
+| <strong>パッケージ</strong> | 三方背BOX仕様（全巻収納可能） |
+| <strong>音声仕様</strong> | リニアPCM（予定） |
 
 全101話がHDリマスターで収録されている点は、何よりも評価すべきポイントだ。特にテレビ放映当時は、現在の放送基準とは異なる表現があった部分も、<strong>可能な限り当時の雰囲気を残しつつ</strong>、高画質化されているという。
 
@@ -151,18 +150,18 @@ Blu-rayディスクを視聴するためには、<strong>Blu-ray対応のプレ�
 
 「東映ビデオ スラムダンク Blu-ray Collection 全5巻セット」は、単なるアニメの再販ではない。これは、多くの人が経験した青春の熱狂、バスケットボールに全てをかけた少年たちの物語を、<strong>最高の形で未来へと繋ぐためのタイムカプセル</strong>だ。
 
-このBlu-rayを手にし、初めてディスクを再生した時、当時の自分と再会したかのような感覚を覚えることがある。
+このBlu-rayを手にしてディスクを再生した時、当時の熱量と鮮やかな記憶が蘇るかのような感覚を覚えるファンも多い。
 
-| 項目       | 詳細                                             |
+| 項目 | 詳細 |
 | :--------- | :----------------------------------------------- |
-| 価格       | 82,500円                                         |
-| メーカー   | 東映ビデオ                                       |
-| 型番/仕様  | Blu-rayディスク5枚組、HDリマスター版、全101話収録 |
-| 主な特徴   | TVアニメ全101話を完全収録、HDリマスターによる高画質化、各巻ブックレット・三方背BOX付属 |
+| 価格 | 最新価格は各ショップで確認 |
+| メーカー | 東映ビデオ |
+| 型番/仕様 | Blu-rayディスク5枚組、HDリマスター版、全101話収録 |
+| 主な特徴 | TVアニメ全101話を完全収録、HDリマスターによる高画質化、各巻ブックレット・三方背BOX付属 |
 
 このコレクションは、当時リアルタイムで作品を追いかけていた世代はもちろん、新たにスラムダンクの魅力に触れたいという若い世代にも強く勧めたい。彼らが過去の名作に触れる上で、<strong>最高の視聴環境を提供してくれる</strong>はずだ。
 
-<p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>あわせて読みたい関連解説</strong>：<a href="/blog/sennen-joyu-4k-blu-ray-review/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">今敏監督『千年女優』4Kリマスター版Blu-rayを初見で鑑賞！その魅力と注意点</a> ／ <a href="/blog/anohana-anime-blu-ray-box/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">あの花Blu-ray BOXは買いか？画質・音響クオリティの再現度を徹底検証</a></p>
+<p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>あわせて読みたい関連解説</strong>：<a href="/blog/sennen-joyu-4k-blu-ray-review/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">今敏監督『千年女優』Blu-ray（BCXA-0815）レビュー：時空を超える映像美と構成の妙</a> ／ <a href="/blog/anohana-anime-blu-ray-box/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">あの花Blu-ray BOXは買いか？画質・音響クオリティの再現度を徹底検証</a></p>
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
 <div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>SLAM DUNK Blu-ray Collection VOL 1</strong></div>

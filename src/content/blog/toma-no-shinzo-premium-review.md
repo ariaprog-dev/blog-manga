@@ -18,7 +18,6 @@ sidebarProducts:
   - title: 'トーマの心臓 プレミアムエディション'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbkt34434836%2F&af_id=DMMaria-999&ch=api'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3799/9784091793799_1_5.jpg?_ex=600x600'
-    price: 3850
     microCopy: '詳細を見る'
 heroImages:
   - 'https://ebook-assets.dmm.com/digital/e-book/b600psgk01490/b600psgk01490pl.jpg'
@@ -43,10 +42,10 @@ heroImages:
 
 <div class="live-price-box" data-product-key="トーマの心臓-プレミアムエディション" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
-<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">参考価格: ¥3,850</span>
+<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">販売価格・在庫</span>
+<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">最新価格は各ショップで確認</span>
 </div>
-<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
+<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※最新の価格・在庫・ポイント還元率は各ストアの商品ページでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
 <a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2588%25E3%2583%25BC%25E3%2583%259E%25E3%2581%25AE%25E5%25BF%2583%25E8%2587%2593%2520%25E3%2583%2597%25E3%2583%25AC%25E3%2583%259F%25E3%2582%25A2%25E3%2583%25A0%25E3%2582%25A8%25E3%2583%2587%25E3%2582%25A3%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（Kindle・紙版）</a>
@@ -81,9 +80,9 @@ heroImages:
 この作品が半世紀近く経った今もなお、多くの読者の心を捉え続けるのは、普遍的なテーマをこれほどまでに繊細かつ力強く描き切ったからに他ならない。
 
 ## コレクターズアイテムとしての「重さ」と割り切り
-『トーマの心臓 プレミアムエディション』は全3巻で完結する。各巻は厚さ約3センチ、総ページ数は1,000ページを超えるボリュームだ。その圧倒的な質量は、作品の持つ精神的な「重さ」を物理的に再現していると言える。しかし、この豪華さが故の割り切りも必要だ。
+『トーマの心臓 プレミアムエディション』（2023年2月刊・小学館）は全1巻（大判・658ページ）に本編などを収録した豪華単行本仕様だ。一冊で作品世界をまるごと手元に収める圧倒的な質量は、作品の持つ精神的な「重さ」を物理的に再現していると言える。しかし、この豪華さゆえの割り切りも必要だ。
 
-まず、そのサイズと重さゆえに、持ち歩いて気軽に読むのには向かない。じっくりと腰を据えて、自宅で作品と向き合うための本だ。また、定価3,850円という価格は、一般的なコミックス数冊分に相当する。これは、作品への深い敬意と、美しい装丁を求めるコレクター魂が試されるポイントだ。
+まず、その判型と重さゆえに、持ち歩いて気軽に読むのには向かない。じっくりと腰を据えて、自宅で作品と向き合うための本だ。一般的な新書判コミックスに比べると価格帯も高めの愛蔵版フォーマットとなるため、美しい装丁や保存性をどこまで重視するかが選ぶポイントになる。
 
 さらに、繊細な紙質や装丁を長く保つためには、丁寧な扱いや適切な保管場所が必要となる。日焼けや湿気から守り、汚れが付かないよう気を配る。こうした手間も、この本が単なる消費財ではなく、愛着を持って接するべき芸術品であることの証だろう。
 
@@ -101,7 +100,7 @@ heroImages:
 | :--- | :--- | :--- |
 | 対象作品・掲載商品 | トーマの心臓 プレミアムエディション | 記事内の主要紹介アイテム |
 | 媒体区分・想定仕様 | コミック・電子書籍・書籍版 | 視聴・閲覧環境（端末・プレイヤー・収納棚）との適合を確認 |
-| 価格・流通目安 | 3,850円（参考価格） | 在庫状況・送料・クーポン適用有無を含めて比較 |
+| 価格・流通目安 | 最新価格は各ショップで確認 | 在庫状況・送料・クーポン適用有無を含めて比較 |
 | 複数ストア比較の視点 | Amazon／楽天市場／Yahoo!／DMM等 | ポイント還元率・限定特典の有無・中古流通状態を照合 |
 
 <p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>あわせて読みたい関連解説</strong>：<a href="/blog/classic-sherlock-holmes-manga/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">夜更かし必読！『マンガで世界名作 名探偵シャーロック・ホームズ』で、名推理の夜を</a> ／ <a href="/blog/hellhound-minagawa-ryoji-review/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">『ヘルハウンド』皆川亮二が描く心理戦：精密な構図とサスペンスの深層</a></p>

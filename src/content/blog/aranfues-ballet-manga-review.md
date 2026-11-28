@@ -18,22 +18,19 @@ sidebarProducts:
 - title: 愛のアランフェス 5
   url: https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbk245_2444741%2F&af_id=DMMaria-999&ch=api
   imageUrl: https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4441/2000002144441.jpg?_ex=600x600
-  price: 513
   microCopy: 詳細を見る
 - title: 愛のアランフェス 4
   url: https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbk243_2422343%2F&af_id=DMMaria-999&ch=api
   imageUrl: https://ebook-assets.dmm.com/digital/e-book/b950lshes03420/b950lshes03420pl.jpg
-  price: 513
   microCopy: 詳細を見る
-- title: 愛のアランフェス 3
-  url: https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fbook%2F-%2Fdetail%2F%3D%2Fcid%3Dbk242_2412007%2F&af_id=DMMaria-999&ch=api
-  imageUrl: https://thumbnail.image.rakuten.co.jp/@0_mall/bookoffonline/cabinet/1904/0011389930l.jpg?_ex=600x600
-  price: 513
+- title: 愛のアランフェス 6
+  url: https://hb.afl.rakuten.co.jp/hgc/g00reb41.ve2q58c2.g00reb41.ve2q61ce/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutenkobo-ebooks%2F5986cc188c983b269f648ef5ee265098%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutenkobo-ebooks%2Fi%2F13437165%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b
+  imageUrl: https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4072/2000002144072.jpg?_ex=600x600
   microCopy: 詳細を見る
 heroImages:
 - https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4441/2000002144441.jpg?_ex=600x600
 - https://ebook-assets.dmm.com/digital/e-book/b950lshes03420/b950lshes03420pl.jpg
-- https://thumbnail.image.rakuten.co.jp/@0_mall/bookoffonline/cabinet/1904/0011389930l.jpg?_ex=600x600
+- https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4072/2000002144072.jpg?_ex=600x600
 ---
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
@@ -52,10 +49,10 @@ heroImages:
 
 <div class="live-price-box" data-product-key="愛のアランフェス-5" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
-<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">参考価格: ¥513</span>
+<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">販売価格・在庫</span>
+<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">最新価格は各ショップで確認</span>
 </div>
-<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
+<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※最新の価格・在庫・ポイント還元率は各ストアの商品ページでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
 <a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%2584%259B%25E3%2581%25AE%25E3%2582%25A2%25E3%2583%25A9%25E3%2583%25B3%25E3%2583%2595%25E3%2582%25A7%25E3%2582%25B9%25205" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（Kindle・紙版）</a>
@@ -79,7 +76,7 @@ heroImages:
 
 特にこの5巻、国際コンクールの舞台での真生のアラベスクは、見開きの広い空間を使い、その優雅さと力強さを余すところなく伝えてくる。約180ページのうち、コンクールシーンが占める約2割のページで、連続した動きを表現する多段コマ割りや大ゴマが多用されているのは、まさに作者の表現へのこだわりを感じる部分だ。
 
-初めて読んだ際、バレエの知識が浅い読者は、真生が技術的・精神的にどれほど追い詰められているのか理解しにくいかもしれない。しかし、読み返し、コンクールの演目やバレエ用語の意味を調べることで、その表現が極限の戦いを描いていることに気づかされるだろう。
+読了し始めた段階でバレエの知識が浅いと、真生が技術的・精神的にどれほど追い詰められているのかすぐには掴みきれないこともあるかもしれない。しかし、読み返し、コンクールの演目やバレエ用語の意味を調べることで、その表現が極限の戦いを描いていることに気づかされるだろう。
 
 読者にここまで深く踏み込ませる描写力は、単なる絵の上手さだけでは到達できない、作者の深いバレエ愛と表現への探究心の賜物だ。
 
@@ -97,9 +94,9 @@ heroImages:
 
 ## 読み進める上での正直なデメリットと覚悟
 
-『愛のアランフェス 5』は素晴らしい作品だが、読み進める上でいくつか留意点もある。まず、単巻の価格は513円（税込）と電子書籍としては標準的だ。
+『愛のアランフェス 5』は読み応えのある作品だが、読み進める上でいくつか留意点もある。まず、単巻としては電子書籍として手に取りやすい範囲に収まっている。
 
-しかし、作品全体として巻数がそれなりにあるため、全巻通して読むにはまとまった費用が必要になる。
+しかし、作品全体として巻数がそれなりにあるため、全巻通して読むには計画的な予算配分が求められる。
 
 また、真生が直面する試練は非常にシビアで、感情移入しやすい読者にとっては、時に苦しい場面も多いかもしれない。挫折や葛藤の描写がリアルなだけに、読み進めるのが辛くなる瞬間もあるはずだ。
 
@@ -127,9 +124,9 @@ DMM.comから電子書籍として提供される『愛のアランフェス 5�
 
 | 確認項目・ラインナップ | 仕様・価格目安 | 選定時の確認ポイント |
 | :--- | :--- | :--- |
-| 愛のアランフェス 5 | 513円（参考価格） | 代表・注目掲載商品 |
-| 愛のアランフェス 4 | 513円（参考価格） | 関連・別巻／周辺ラインナップ 2 |
-| 愛のアランフェス 3 | 513円（参考価格） | 関連・別巻／周辺ラインナップ 3 |
+| 愛のアランフェス 5 | 最新価格は各ショップで確認 | 代表・注目掲載商品 |
+| 愛のアランフェス 4 | 最新価格は各ショップで確認 | 関連・別巻／周辺ラインナップ 2 |
+| 愛のアランフェス 6 | 最新価格は各ショップで確認 | 関連・別巻／周辺ラインナップ 3 |
 
 <p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>あわせて読みたい関連解説</strong>：<a href="/blog/ai-nakutemo-kutteru-essay-manga/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">よしながふみ「愛がなくても喰ってゆけます」独り飯から見つける人生の豊かさ</a> ／ <a href="/blog/aria-the-masterpiece-manga/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">ARIA完全版、なぜ心が浄化される？日常に疲れたあなたへ贈る決定版</a></p>
 

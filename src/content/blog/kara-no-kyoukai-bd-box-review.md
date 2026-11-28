@@ -18,7 +18,6 @@ sidebarProducts:
 - title: 劇場版 空の境界 Blu-ray Disc Box Standard Edition
   url: https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_666ansx3921%2F&af_id=DMMaria-999&ch=api
   imageUrl: https://ebook-assets.dmm.com/digital/e-book/b474atkms05583/b474atkms05583pl.jpg
-  price: 32725
   microCopy: 詳細を見る
 ---
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
@@ -42,10 +41,10 @@ sidebarProducts:
 
 <div class="live-price-box" data-product-key="空の境界-blu-ray" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
-<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">価格・在庫を確認</span>
+<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">販売価格・在庫</span>
+<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">最新価格は各ショップで確認</span>
 </div>
-<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
+<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※最新の価格・在庫・ポイント還元率は各ストアの商品ページでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
 <a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E7%25A9%25BA%25E3%2581%25AE%25E5%25A2%2583%25E7%2595%258C%2520Blu-ray" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（Kindle・紙版）</a>
@@ -87,7 +86,7 @@ ufotableの制作陣は、奈須氏の文章が持つ独特の雰囲気や言葉
 
 ## 手間とコスト：物理メディア所有のリアリティ
 
-この劇場版 空の境界 Blu-ray Disc Box Standard Editionの掲載ショップ参考価格は32,725円前後（流通在庫や時期により変動）となっており、気軽に手が出せる金額ではない。これはデジタル配信サービスの月額料金と比べると、初期費用としてまとまった出費になる。
+この劇場版 空の境界 Blu-ray Disc Box Standard Editionはコレクター向けの大型BOX仕様であるため、気軽に購入を決められる価格帯ではない。これはデジタル配信サービスの月額料金と比べると、初期費用としてまとまった出費になる。
 
 しかし、この価格は全七章、終章、エピローグ、さらに特典CDも含む約10時間に及ぶ映像コンテンツと、高品質なパッケージデザインへの投資と考えるべきだ。
 
@@ -115,7 +114,7 @@ ufotableの制作陣は、奈須氏の文章が持つ独特の雰囲気や言葉
 | :--- | :--- | :--- |
 | 対象タイトル | 劇場版 空の境界 Blu-ray Disc Box Standard Edition | 全七章・終章・エピローグを1つのBOXで揃えたい場合に適合 |
 | 収録・形態 | Blu-ray Disc 物理BOXパッケージ（ufotable描き下ろし三方背BOX・デジパック） | 限定版の書籍特典より映像本編の再生・保管を優先する構成 |
-| 参考価格帯 | 掲載ショップ参考価格 32,725円前後（最新価格は各ECリンク参照） | 配信レンタルと長期保有コストを比較して判断 |
+| 参考価格帯 | 最新価格は各ショップで確認 | 配信レンタルと長期保有コストを比較して判断 |
 | 保管スペース | 棚への収納を想定した標準トール／BOXサイズ（約幅14×高19×奥行3cm目安） | 直射日光と高湿度を避けた暗所保管が前提 |
 
 <p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>あわせて読みたい関連解説</strong>：<a href="/blog/kidan-dvd-review-morohoshi/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">諸星大二郎の深淵に挑む「奇談」DVD：映像化された神隠しの記憶を紐解く</a> ／ <a href="/blog/your-lie-in-april-blu-ray-box/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">四月は君の嘘 BD BOXは買い？音響と映像美で名作の感動は蘇るか検証</a></p>

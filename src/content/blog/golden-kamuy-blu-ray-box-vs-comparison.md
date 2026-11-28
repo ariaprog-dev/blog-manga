@@ -15,13 +15,12 @@ faq:
     answer: 'アニメ第4期（第49話「消えた黄金」）のラストは、原作コミック第25巻の第247話「決戦の合図」付近に相当します。物語の真のクライマックスである五稜郭の最終決戦や金塊の謎解きを今すぐ最後まで知りたい方は、第25巻の第247話以降、あるいは第25巻の冒頭から読み進めることで、一切の空白なく完結巻（第31巻）まで一気読みできます。'
   - question: 'アニメ版でカットされた原作エピソードにはどんなものがありますか？'
     answer: '地上波放送の倫理規定や尺の都合により、原作の名エピソードがいくつかカットされています。代表的なものとして「姉畑支遁（動物への異常な偏愛を描く刺青の囚人編）」「稲妻強盗と蝮のお銀」「偽アイヌ村（エディー・ダンとコチャポ編）」「親分と姫（若山輝民編）」などがあります。これらの一部は単行本同梱のOAD（オリジナルアニメDVD）で映像化されていますが、本編アニメのみを視聴している場合は原作コミックを読むことで数々の怪作エピソードを完全回収できます。'
-  - question: '原作コミック全31巻を最もお得に全巻まとめ買いする方法は？'
-    answer: '紙の単行本全31巻を定価で揃えると約21,296円（税込）になります。収納スペースを取らずにお得に揃えたい場合は、DMMブックスなどの電子書籍ストアが最も経済的です。DMMブックスでは新規登録時の大幅割引クーポン（最大70%OFF等）や、定期的に開催される大規模ポイント還元セール（スーパーセール等で30〜50%還元）を併用することで、全巻セットを実質1万円前後の圧倒的な高コスパで購入可能です。'
+  - question: '原作コミック全31巻をまとめ買いする際の選び方は？'
+    answer: '紙の単行本全31巻を揃える場合は本棚の収納スペースが必要になる一方、手元に物理本を置ける所有感があります。省スペースで全巻を一気読みしたい場合はDMMブックスなどの電子書籍ストアが便利で、各ストアで開催されるポイント還元やキャンペーンの時期を確認しながら比較して購入するのが有効です。'
 sidebarProducts:
   - title: 'ゴールデンカムイ'
     url: 'https://al.dmm.com/?lurl=https%3A%2F%2Fbook.dmm.com%2Fproduct%2F172425%2Fb950wshes00046%2F&af_id=DMMaria-999&ch=api'
     imageUrl: 'https://ebook-assets.dmm.com/digital/e-book/b950wshes00046/b950wshes00046pl.jpg'
-    price: 836
     microCopy: '詳細を見る'
 ---
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
@@ -48,10 +47,10 @@ sidebarProducts:
 
 <div class="live-price-box" data-product-key="ゴールデンカムイ" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
-<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">参考価格: ¥836</span>
+<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">販売価格・在庫</span>
+<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">最新価格は各ショップで確認</span>
 </div>
-<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
+<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※最新の価格・在庫・ポイント還元率は各ストアの商品ページでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
 <a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B4%25E3%2583%25BC%25E3%2583%25AB%25E3%2583%2587%25E3%2583%25B3%25E3%2582%25AB%25E3%2583%25A0%25E3%2582%25A4" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（Kindle・紙版）</a>
@@ -119,7 +118,7 @@ sidebarProducts:
 | <strong>描写・表現の過激さ</strong> | 規制なし（残酷描写・狂気・下ネタ全開） | 地上波規制あり（光・影・暗転・一部カット） |
 | <strong>文化的・歴史的深度</strong> | アイヌ語表記・脚注・資料考証が極めて詳細 | 音声・発音・民具の動線が直感的に理解可能 |
 | <strong>所要時間の目安</strong> | じっくり読むと約25〜35時間 | 第1〜4期（全49話）で約18時間 |
-| <strong>全巻・全話のコスト</strong> | 定価: 約21,296円（電子セール時: 実質1万前後） | DMM TV月額550円（30日間無料体験あり） |
+| <strong>全巻・全話のコスト</strong> | 最新価格は各ショップで確認 | 配信プランの最新料金・対象範囲は各ストアで確認 |
 | <strong>こんな人におすすめ</strong> | 伏線や狂気のエピソードを隅々まで味わいたい人 | 迫真の声優演技とテンポ良い展開で楽しみたい人 |
 
 ---
@@ -171,8 +170,8 @@ A1: アニメ第4期ラストは原作第25巻の第247話「決戦の合図」�
 <strong>Q2: アニメ版でカットされた原作エピソードにはどんなものがありますか？</strong>  
 A2: 放送規定や尺の都合により、「姉畑支遁（動物への異常な偏愛を描く刺青囚人編）」「親分と姫（若山輝民編）」「偽アイヌ村（エディー・ダン編）」「稲妻強盗と蝮のお銀」などがTV本編からカットされています。一部は単行本同梱OADで映像化されていますが、原作コミックを読むことで数々の怪作エピソードを完全に回収できます。
 
-<strong>Q3: 原作コミック全31巻を最もお得に全巻まとめ買いする方法は？</strong>  
-A3: 紙の単行本全31巻を定価で揃えると約21,296円（税込）です。DMMブックスなどの電子書籍ストアを活用すると、新規購入割引クーポンやスーパーセール（30〜50%ポイント還元）を併用することで、全巻セットを実質1万円前後の圧倒的な高コスパで購入可能です。
+<strong>Q3: 原作コミック全31巻をまとめ買いする際の選び方は？</strong>  
+A3: 紙の単行本全31巻を揃える場合は収納スペースが必要になりますが、実物を本棚に並べる所有感が得られます。省スペースで一気読みしたい場合はDMMブックスなどの電子書籍ストアが便利で、各ストアのセールやポイント還元キャンペーンを確認しながら比較して購入するのが効果的です。
 
 ---
 

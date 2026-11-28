@@ -1,15 +1,18 @@
 ---
 title: 小学館学習まんが世界名作館7。なぜあの結末が胸に刻まれ続けるのか？読後に残る普遍の問い
-description: 小学館学習まんが世界名作館7『ロビンソン・クルーソー』はDMMブックスで配信中。楽天では688円。無人島でのサバイバルを通し、孤独と人間の本質を問う名作。子供だけでなく、大人が今読むべき理由を解説。
+description: 小学館学習まんが世界名作館7『ロビンソン・クルーソー』の見どころと普遍的テーマを徹底解説。無人島でのサバイバルを通し、孤独と人間の本質を問う不朽の名作について、現行で入手しやすい書籍・電子書籍情報とあわせて紹介します。
 pubDate: '2026-07-05'
-heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/vaboo/cabinet/items/bk0673/im250903622131.jpg?_ex=600x600'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0037/2000005440037.jpg?_ex=600x600'
 genre: 不朽の名作・ヒューマン
 sidebarProducts:
-  - title: '【中古】小学館学習まんが世界名作館 7/小学館（単行本）'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00rakq1.ve2q563f.g00rakq1.ve2q6aa9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fvaboo%2Fva3074270409u30%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fvaboo%2Fi%2F17592682%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/vaboo/cabinet/items/bk0673/im250903622131.jpg?_ex=600x600'
-    price: 652
-    microCopy: '詳細を見る'
+  - title: 'カラー名作 少年少女世界の文学 ロビンソン・クルーソー（電子版）'
+    url: 'https://hb.afl.rakuten.co.jp/hgc/g00reb41.ve2q58c2.g00reb41.ve2q61ce/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutenkobo-ebooks%2Fad1007d92e633a0a817f59c00c0d8e27%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutenkobo-ebooks%2Fi%2F16678402%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0037/2000005440037.jpg?_ex=600x600'
+    microCopy: '電子版を見る'
+  - title: 'ロビンソン・クルーソー（岩波少年文庫）'
+    url: 'https://hb.afl.rakuten.co.jp/hgc/g00q0721.ve2q5176.g00q0721.ve2q6e77/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F1653049%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F11245221%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5663/9784001145663_1_7.jpg?_ex=600x600'
+    microCopy: '書籍を見る'
 
 mediaType: comic
 ---
@@ -22,23 +25,23 @@ mediaType: comic
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/vaboo/cabinet/items/bk0673/im250903622131.jpg?_ex=600x600" alt="小学館学習まんが世界名作館 7 小学館" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0037/2000005440037.jpg?_ex=600x600" alt="カラー名作 少年少女世界の文学 ロビンソン・クルーソー（関連入手版）" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
-<div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">📚 編集部厳選</span><span style="color: #64748b; font-size: 0.75rem;">コレクター推奨モデル</span></div>
-<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">小学館学習まんが世界名作館 7 小学館</h4>
+<div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">📚 現行入手可能な関連書籍</span><span style="color: #64748b; font-size: 0.75rem;">世界名作『ロビンソン・クルーソー』</span></div>
+<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">ロビンソン・クルーソー（カラー名作電子版 / 岩波少年文庫）</h4>
 
 <div class="live-price-box" data-product-key="小学館学習まんが世界名作館-7-小学館" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
-<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">参考価格: ¥652</span>
+<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">販売価格・在庫</span>
+<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">最新価格は各ショップで確認</span>
 </div>
-<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
+<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※最新の価格・在庫・ポイント還元率は各ストアの商品ページでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
 <a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%25B0%258F%25E5%25AD%25A6%25E9%25A4%25A8%25E5%25AD%25A6%25E7%25BF%2592%25E3%2581%25BE%25E3%2582%2593%25E3%2581%258C%25E4%25B8%2596%25E7%2595%258C%25E5%2590%258D%25E4%25BD%259C%25E9%25A4%25A8%25207%2520%25E5%25B0%258F%25E5%25AD%25A6%25E9%25A4%25A8" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（プライム対応）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
-<a href="https://hb.afl.rakuten.co.jp/hgc/g00rakq1.ve2q563f.g00rakq1.ve2q6aa9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fvaboo%2Fva3074270409u30%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fvaboo%2Fi%2F17592682%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00reb41.ve2q58c2.g00reb41.ve2q61ce/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutenkobo-ebooks%2Fad1007d92e633a0a817f59c00c0d8e27%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutenkobo-ebooks%2Fi%2F16678402%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天Kobo（電子版を見る）</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E5%25B0%258F%25E5%25AD%25A6%25E9%25A4%25A8%25E5%25AD%25A6%25E7%25BF%2592%25E3%2581%25BE%25E3%2582%2593%25E3%2581%258C%25E4%25B8%2596%25E7%2595%258C%25E5%2590%258D%25E4%25BD%259C%25E9%25A4%25A8%25207%2520%25E5%25B0%258F%25E5%25AD%25A6%25E9%25A4%25A8" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
 </div>
@@ -92,9 +95,9 @@ mediaType: comic
 
 ## 世代を超えて愛される冒険譚、その向き不向き
 
-『ロビンソン・クルーソー』は、時代を超えて読まれる古典である。読書コミュニティでは、この作品に関する多様な感想が聞かれる。「サバイバル生活のリアリティ」や「主人公の知恵と工夫」に感銘を受けるという声が多く聞かれる。特に、無人島で生活基盤を確立していく過程に魅力を感じる読者が多い。「ポツンと一軒家的なアウトドア生活の工夫も興味深い」という感想もあり、現代のアウトドアブームにも通じる魅力を持つ可能性がある。
+『ロビンソン・クルーソー』は、時代を超えて読まれる古典である。無人島という極限環境で主人公が知恵と工夫を凝らし、生活基盤を一歩ずつ築き上げていくサバイバルの過程には、現代のキャンプやアウトドア文化に通じる知的な面白さがある。
 
-一方で、「子供の頃から変わらないワクワク感を与えてくれる」という声があるように、冒険物語としての純粋な面白さも健在だ。難破、無人島漂着、原住民との出会い、脱出の試み…といったストーリー展開は、手に汗握るスリルと興奮を与えてくれる。また、現代の児童向け学習まんがとして刊行されていることからもわかるように、子供の読書体験の入り口としても非常に優れている。卓越した画力と分かりやすいストーリー展開は、物語の世界に没入させてくれるはずだ。
+また、難破や漂着を経て原住民フライデーと出会い、やがて島からの脱出へ向かう王道の冒険構造は、子どもの読書体験の入り口としても親しみやすい。卓越した画力と分かりやすいストーリー展開は、物語の世界に没入させてくれるはずだ。
 
 しかし、正直なところ、万人受けするとは言えない点もいくつかある。原作は18世紀に書かれた作品であり、現代的な視点で見ると、一部に時代を感じさせる描写があるのは否めない。特に、人食い人種や奴隷に関する描写は、現代の価値観とは異なる部分があるかもしれない。ロビンソンが黒人奴隷の密輸入を目的として航海に出ていたことや、キリスト教に改心する過程が描かれている点は、現代の読者にとっては議論の余地があるはずだ。この点に関して、学習まんが版では、そうした描写が緩和されている可能性はあるが、原作に忠実な翻訳版を読む際は、当時の社会背景を理解した上で読み進める必要も少なくない。
 
@@ -106,13 +109,13 @@ mediaType: comic
 
 ## 通勤電車で無人島に旅立つ、電子書籍
 
-漫画コレクターにとって、紙の書籍は価値ある存在である。しかし、年間数百冊もの漫画を貪り読むとなると、物理的な保管場所の問題は深刻だ。そんな時、大いに助けになっているのが電子書籍なんだ。特に、こうした世界名作は、全巻揃えるとかなりのボリュームになるからね。
+漫画コレクターにとって紙の書籍は価値ある存在である一方、数多くの作品を継続的に読んでいく上では保管スペースの制約も生じやすい。そんな時、電子書籍は非常に相性の良い選択肢となる。特に名作文学のコミカライズや児童文庫は、複数作品をまとめて管理しやすいためだ。
 
-小学館学習まんが世界名作館7のような名作学習まんがは、電子書籍で読むメリットが非常に大きい。まず何より、保管場所に困らないこと。タブレットやスマートフォン一つあれば、何十冊もの名作を手のひらに収めることができる。これは、通勤電車の隙間時間や、旅行先でのちょっとした空き時間に、気軽に名作の世界に没頭できるという、最高の利便性をもたらしてくれる。紙の書籍では持ち運びが難しい厚手の本も、電子書籍なら軽々と持ち歩き、どこでも好きな時に読み進められる。
+小学館学習まんが世界名作館7のような児童向け・学習向けの名作は、現在、時代によって新刊流通が終了している紙版もある一方、現行の絵本・名作全集シリーズや電子書籍として広く読み継がれている名作ラインを活用するメリットが非常に大きい。まず何より、電子書籍であれば保管場所に困らず、タブレットやスマートフォン一つで手軽に世界名作を携帯できる。
 
-さらに、電子書籍には特有の機能がある。拡大表示で細かな描き込みを詳細に確認したり、気になる言葉を即座に検索したりすることで、読書体験を深めることができる。作家の描線に強い関心を持つ読者にとって、電子書籍の拡大機能は、漫画家の繊細なタッチやコマ割りの意図をより鮮明に把握する上で有効な機能である。
+さらに、電子書籍には拡大表示で細かな描線を確認したり、気になった語句を調べながら読み進めたりできる機能的な強みもある。
 
-この小学館学習まんが世界名作館7も、DMMブックスなどの電子書籍ストアで手軽に購入できる。電子書籍なら、購入後すぐに読み始めることができるのも大きな魅力だ。紙の書籍のように書店に足を運ぶ手間も、届くのを待つ時間も必要ない。思い立ったが吉日、すぐにロビンソンの無人島生活に飛び込むことができるんだ。
+なお、小学館学習まんが版の本巻は現在新刊での常時流通を終えているため、すぐに『ロビンソン・クルーソー』の世界に触れたい場合は、楽天Koboの『カラー名作 少年少女世界の文学』版や岩波少年文庫の紙版など、現在入手しやすいエディションから読み始めるのが現実的な方法だ。
 
 ## 夜の静寂に響く、普遍の問いかけ
 
@@ -126,7 +129,7 @@ mediaType: comic
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
 <div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>小学館学習まんが世界名作館 7 小学館</strong></div>
-<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%25B0%258F%25E5%25AD%25A6%25E9%25A4%25A8%25E5%25AD%25A6%25E7%25BF%2592%25E3%2581%25BE%25E3%2582%2593%25E3%2581%258C%25E4%25B8%2596%25E7%2595%258C%25E5%2590%258D%25E4%25BD%259C%25E9%25A4%25A8%25207%2520%25E5%25B0%258F%25E5%25AD%25A6%25E9%25A4%25A8" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/g00rakq1.ve2q563f.g00rakq1.ve2q6aa9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fvaboo%2Fva3074270409u30%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fvaboo%2Fi%2F17592682%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E5%25B0%258F%25E5%25AD%25A6%25E9%25A4%25A8%25E5%25AD%25A6%25E7%25BF%2592%25E3%2581%25BE%25E3%2582%2593%25E3%2581%258C%25E4%25B8%2596%25E7%2595%258C%25E5%2590%258D%25E4%25BD%259C%25E9%25A4%25A8%25207%2520%25E5%25B0%258F%25E5%25AD%25A6%25E9%25A4%25A8" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%25B0%258F%25E5%25AD%25A6%25E9%25A4%25A8%25E5%25AD%25A6%25E7%25BF%2592%25E3%2581%25BE%25E3%2582%2593%25E3%2581%258C%25E4%25B8%2596%25E7%2595%258C%25E5%2590%258D%25E4%25BD%259C%25E9%25A4%25A8%25207%2520%25E5%25B0%258F%25E5%25AD%25A6%25E9%25A4%25A8" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/g00q0721.ve2q5176.g00q0721.ve2q6e77/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F1653049%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F11245221%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天ブックスで見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E5%25B0%258F%25E5%25AD%25A6%25E9%25A4%25A8%25E5%25AD%25A6%25E7%25BF%2592%25E3%2581%25BE%25E3%2582%2593%25E3%2581%258C%25E4%25B8%2596%25E7%2595%258C%25E5%2590%258D%25E4%25BD%259C%25E9%25A4%25A8%25207%2520%25E5%25B0%258F%25E5%25AD%25A6%25E9%25A4%25A8" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
 </div>
 
 ## 『小学館学習まんが世界名作館 7』の購入前チェックポイント
@@ -134,7 +137,7 @@ mediaType: comic
 ### よくある質問（FAQ）：『小学館学習まんが世界名作館 7』
 
 <strong>Q1. 「荒波を越え、孤島に刻まれた人生の物語」の視点から見て、初見の読者でも楽しめますか？</strong>
-A1. はい。『小学館学習まんが世界名作館 7』（参考価格：652円前後）は導入から世界観と人物描写が丁寧に描かれており、予備知識がなくても物語の核心に自然と引き込まれる構成になっています。
+A1. はい。『小学館学習まんが世界名作館 7』は導入から世界観と人物描写が丁寧に描かれており、予備知識がなくても物語の核心に自然と引き込まれる構成になっています。
 
-<strong>Q2. 『小学館学習まんが世界名作館7 ロビンソン・クルーソー』の単行本・中古流通版と電子書籍版を検討する際の留意点は？</strong>
-A2. 紙の単行本（中古流通含め参考価格652円前後）は家庭の学習棚や家族間での回し読みに適しており、中古版を選ぶ際はカバー・帯や書き込みの有無・配送日数の記載を確認しておくと安心です。一方、電子書籍版は持ち歩きや即時の読書開始を重視する場合に便利です。
+<strong>Q2. 『ロビンソン・クルーソー』は小学館学習まんが版のほかに現行の書籍・電子版でも読めますか？</strong>
+A2. はい。小学館学習まんが世界名作館7は刊行から年数が経ち新刊常時流通を終えていますが、現在でも岩波少年文庫などの現行単行本や、楽天Kobo等で配信されている『カラー名作 少年少女世界の文学 ロビンソン・クルーソー』といった電子版が手に入りやすい選択肢として流通しています（最新価格は各ショップでご確認ください）。

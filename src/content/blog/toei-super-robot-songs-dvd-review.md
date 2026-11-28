@@ -16,26 +16,23 @@ faq:
     単に人気曲を並べるだけでなく、時代背景や作品の系譜を考慮した選曲がなされています。
 - question: 特典映像は収録されていますか？
   answer: 各主題歌には、当時の貴重なオープニング・エンディング映像が収録されています。過去の制作資料や解説映像といった追加の特典映像については、具体的な情報は公開されていませんが、楽曲とセットになった当時の映像を鑑賞できるだけでも、非常に高い資料価値と懐かしさがあります。
-    [燃えろ 東映スーパーロボット主題歌大全集](https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn659cobc6517%2F&afid=DMMaria-999&ch=api)
+
 sidebarProducts:
 - title: 燃えろ！東映スーパーロボット主題歌大全集
   url: https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fdvd%2F-%2Fdetail%2F%3D%2Fcid%3Dn_659cobc6517%2F&af_id=DMMaria-999&ch=api
   imageUrl: https://pics.dmm.com/mono/movie/animation/n_659cobc6517/n_659cobc6517pl.jpg
-  price: 4910
   microCopy: 詳細を見る
 - title: TVサイズ！東映アニメーション主題歌集（2）
   url: https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fcd%2F-%2Fdetail%2F%3D%2Fcid%3Dcd_123cocx33832s%2F&af_id=DMMaria-999&ch=api
-  imageUrl: https://thumbnail.image.rakuten.co.jp/@0_mall/bookoffonline/cabinet/431/0017063771l.jpg?_ex=600x600
-  price: 3300
+  imageUrl: https://pics.dmm.com/mono/cd/anime_game/cd_123cocx33832s/cd_123cocx33832spl.jpg
   microCopy: 詳細を見る
 - title: TVサイズ！東映アニメーション主題歌集（1）
   url: https://al.dmm.com/?lurl=https%3A%2F%2Fwww.dmm.com%2Fmono%2Fcd%2F-%2Fdetail%2F%3D%2Fcid%3Dcd_123cocx33831s%2F&af_id=DMMaria-999&ch=api
   imageUrl: https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4565/4988001754565.jpg?_ex=600x600
-  price: 3300
   microCopy: 詳細を見る
 heroImages:
 - https://pics.dmm.com/mono/movie/animation/n_659cobc6517/n_659cobc6517pl.jpg
-- https://thumbnail.image.rakuten.co.jp/@0_mall/bookoffonline/cabinet/431/0017063771l.jpg?_ex=600x600
+- https://pics.dmm.com/mono/cd/anime_game/cd_123cocx33832s/cd_123cocx33832spl.jpg
 - https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4565/4988001754565.jpg?_ex=600x600
 ---
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
@@ -55,10 +52,10 @@ heroImages:
 
 <div class="live-price-box" data-product-key="燃えろ-東映スーパーロボット主題歌大全集" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
-<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">参考価格: ¥4,910</span>
+<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">販売価格・在庫</span>
+<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">最新価格は各ショップで確認</span>
 </div>
-<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
+<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※最新の価格・在庫・ポイント還元率は各ストアの商品ページでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
 <a href="https://af.moshimo.com/af/c/click?a_id=5787716&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E7%2587%2583%25E3%2581%2588%25E3%2582%258D%2520%25E6%259D%25B1%25E6%2598%25A0%25E3%2582%25B9%25E3%2583%25BC%25E3%2583%2591%25E3%2583%25BC%25E3%2583%25AD%25E3%2583%259C%25E3%2583%2583%25E3%2583%2588%25E4%25B8%25BB%25E9%25A1%258C%25E6%25AD%258C%25E5%25A4%25A7%25E5%2585%25A8%25E9%259B%2586" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（Kindle・紙版）</a>
@@ -96,7 +93,7 @@ heroImages:
 
 ## サブスク時代に物理メディアを選ぶ理由と割り切り
 
-この大全集は4,910円という価格設定で、昨今の音楽サブスクリプションサービスと比較すれば、一見すると高価に感じるかもしれない。また、半世紀近く前の音源も含まれるため、最新のデジタルサウンドに慣れた耳には、音の分離感やダイナミックレンジに物足りなさを感じる可能性はゼロではない。
+この大全集は2枚組仕様で手応えのある価格帯のため、昨今の音楽サブスクリプションサービスと比較すれば、一見すると高価に感じるかもしれない（最新価格は各ショップで確認）。また、半世紀近く前の音源も含まれるため、最新のデジタルサウンドに慣れた耳には、音の分離感やダイナミックレンジに物足りなさを感じる可能性はゼロではない。
 
 購入直後、古い楽曲特有の音圧の低さや高音域のクリアさに物足りなさを感じる場合がある。その際は、オーディオアンプのイコライザーを調整し、低音を強調したり高音をわずかにブーストしたりすることで、当時の迫力を再現する工夫が有効である。
 
@@ -120,11 +117,11 @@ DVDは映像を伴うため、単に音楽を聴くだけでなく、映像機�
 
 | 確認項目・ラインナップ | 仕様・価格目安 | 選定時の確認ポイント |
 | :--- | :--- | :--- |
-| 燃えろ！東映スーパーロボット主題歌大全集 | 4,910円（参考価格） | 代表・注目掲載商品 |
-| TVサイズ！東映アニメーション主題歌集（2） | 3,300円（参考価格） | 関連・別巻／周辺ラインナップ 2 |
-| TVサイズ！東映アニメーション主題歌集（1） | 3,300円（参考価格） | 関連・別巻／周辺ラインナップ 3 |
+| 燃えろ！東映スーパーロボット主題歌大全集 | 最新価格は各ショップで確認 | 代表・注目掲載商品 |
+| TVサイズ！東映アニメーション主題歌集（2） | 最新価格は各ショップで確認 | 関連・別巻／周辺ラインナップ 2 |
+| TVサイズ！東映アニメーション主題歌集（1） | 最新価格は各ショップで確認 | 関連・別巻／周辺ラインナップ 3 |
 
-<p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>あわせて読みたい関連解説</strong>：<a href="/blog/kingdom-anime-dvdbox-kokuyoukyou/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">TVアニメ「キングダム」黒羊丘の戦い DVDBOX！乱世を駆け抜ける戦士たちの叙事詩</a> ／ <a href="/blog/kingdom-anime-dvdbox-seikyou-jouyou-aigoku/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">TVアニメ「キングダム」DVDBOXは買うべき？成キョウたちの運命に涙した理由</a></p>
+<p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>あわせて読みたい関連解説</strong>：<a href="/blog/kingdom-anime-dvdbox-kokuyoukyou/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">TVアニメ「キングダム」黒羊丘の戦い DVDBOX！乱世を駆け抜ける戦士たちの叙事詩</a> ／ <a href="/blog/kingdom-anime-dvdbox-seikyou-jouyou-aigoku/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">TVアニメ「キングダム」DVDBOXは買うべき？成蟜たちの運命に涙した理由</a></p>
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #2563eb; border-radius: 8px; background: #eff6ff; font-family: sans-serif;">
 <div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>燃えろ 東映スーパーロボット主題歌大全集</strong></div>
